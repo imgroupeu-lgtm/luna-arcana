@@ -1,0 +1,762 @@
+{
+ "ui": {
+  "langName": "Polski",
+  "aiLanguage": "Polish",
+  "eyebrow": "Prototyp · Tarot",
+  "lede": "Zadaj pytanie, wybierz układ i wylosuj karty. Cały układ pojawi się razem, a każda karta zostanie wyjaśniona zgodnie ze swoją pozycją.",
+  "questionPlaceholder": "Twoje pytanie, np. „Co powinienem/powinnam teraz wiedzieć o swojej pracy?”",
+  "questionLabel": "Twoje pytanie",
+  "reversedToggle": "Karty odwrócone",
+  "drawBtn": "Losuj karty",
+  "flipAll": "Odwróć wszystkie",
+  "chooseSpread": "Wybierz układ",
+  "meaningsTitle": "Znaczenia",
+  "flipHint": "Kliknij karty, aby je odwrócić, albo wybierz „Odwróć wszystkie”.",
+  "questionPrefix": "Pytanie",
+  "reversedWord": "odwrócona",
+  "reversedTag": "Odwrócona",
+  "flipCard": "Odwróć kartę {n}",
+  "suitHint": "Kolor {suit} – {theme}.",
+  "majorHint": "Wielka Arkana: ważny temat życiowy.",
+  "yes": "Odpowiedź: tak.",
+  "leanYes": "Odpowiedź: raczej tak.",
+  "no": "Odpowiedź: nie.",
+  "leanNo": "Odpowiedź: raczej nie.",
+  "aiNote": "Poniższe funkcje AI działają tylko wtedy, gdy strona jest otwarta w Claude.",
+  "premiumChip": "Premium · prototyp",
+  "aiTitle": "Interpretacja całego układu",
+  "aiDesc": "AI odczytuje karty razem, w oparciu o Twoje pytanie: główny temat, karta po karcie, jak się ze sobą łączą oraz rada.",
+  "aiBtn": "Zinterpretuj układ",
+  "stop": "Zatrzymaj",
+  "interpreting": "Interpretuję karty …",
+  "aiHeads": [
+   "Główny temat",
+   "Karta po karcie",
+   "Jak karty się ze sobą łączą",
+   "Rada"
+  ],
+  "photoTitle": "Sfotografuj własny układ",
+  "photoDesc": "Prześlij zdjęcie swoich kart, zrobione prosto z góry. Rozpoznamy karty, Ty sprawdzisz listę, a potem otrzymasz interpretację. Najlepiej rozpoznawana jest talia Rider-Waite.",
+  "dropLabel": "Wybierz lub upuść zdjęcie",
+  "spreadOnPhoto": "Jaki układ jest na zdjęciu",
+  "freeSpread": "Układ dowolny (nie wiem)",
+  "previewAlt": "Przesłane przez Ciebie zdjęcie",
+  "recBtn": "Rozpoznaj karty",
+  "photoInterp": "Zinterpretuj ten układ",
+  "photoReady": "Zdjęcie jest gotowe.",
+  "looking": "Analizuję zdjęcie …",
+  "found": "Znaleziono kart: {n}. Sprawdź listę przed interpretacją.",
+  "noneFound": "Nie znaleziono żadnych kart na zdjęciu. Spróbuj ostrzejszego zdjęcia zrobionego prosto z góry.",
+  "otherDeck": "Talia nie wygląda na Rider-Waite, więc sprawdź listę szczególnie dokładnie.",
+  "chooseCard": "– wybierz kartę –",
+  "cardN": "Karta {n}",
+  "confHigh": "pewna",
+  "confMedium": "dość pewna",
+  "confLow": "niepewna",
+  "notRecognized": "nie rozpoznano",
+  "footer": "Tarot na tej stronie to kultura, refleksja i rozrywka. Nie stanowi porady medycznej, prawnej ani finansowej, a żadne rezultaty nie są gwarantowane. Karty są losowane losowo; ta sama karta nigdy nie pojawia się dwa razy w jednym układzie. Przykładowy układ powyżej został wylosowany podczas otwarcia strony. Interpretację AI przygotowała sztuczna inteligencja, nie człowiek.",
+  "errors": {
+   "not_granted": "Nie udzielono stronie zgody na korzystanie z Claude.",
+   "sampling_disabled": "AI nie jest dostępne dla tego konta.",
+   "rate_limited": "Zbyt wiele zapytań w tej chwili. Spróbuj ponownie za chwilę.",
+   "session_expired": "Musisz zalogować się ponownie.",
+   "image_rejected": "Nie udało się odczytać zdjęcia. Spróbuj użyć pliku JPEG lub PNG.",
+   "images_unavailable": "Przesyłanie zdjęć nie jest tu dostępne.",
+   "refused": "Na to zapytanie nie można odpowiedzieć. Spróbuj zadać inne pytanie.",
+   "invalid_json": "Nie udało się odczytać odpowiedzi. Spróbuj ponownie.",
+   "empty_completion": "Nie otrzymano odpowiedzi. Spróbuj ponownie.",
+   "generic": "Coś poszło nie tak. Spróbuj ponownie."
+  },
+  "navRead": "Rozłóż karty",
+  "navDaily": "Karta dnia",
+  "navLearn": "Nauka tarota",
+  "navShop": "Sklep",
+  "heroKicker": "Tarot według Księżyca",
+  "heroTitle": "Czytaj karty w świetle Księżyca",
+  "heroLede": "Wyciągnij karty, zobacz cały układ razem i otrzymaj jego wyjaśnienie. Albo sfotografuj własne karty i poproś o ich odczytanie.",
+  "ctaRead": "Rozłóż karty",
+  "ctaPhoto": "Sfotografuj swój układ",
+  "moonTitle": "Księżyc dziś",
+  "moonIllum": "{p} % oświetlenia",
+  "moonAge": "{d}. dzień cyklu księżycowego",
+  "moonNextFull": "Pełnia za ok. {d} dn.",
+  "moonNextNew": "Nów za ok. {d} dn.",
+  "moonPhases": [
+   "Nów",
+   "Rosnący sierp",
+   "Pierwsza kwadra",
+   "Rosnący Księżyc",
+   "Pełnia",
+   "Malejący Księżyc",
+   "Ostatnia kwadra",
+   "Malejący sierp"
+  ],
+  "moonAdvice": [
+   "W tradycji tarota nów to czas nowych intencji. Wyciągnij jedną kartę dla tego, co chcesz zacząć.",
+   "Młody Księżyc sprzyja małym pierwszym krokom. Zapytaj karty, co pomoże ci ruszyć.",
+   "Pierwsza kwadra to czas wyborów i oporu. Układ z trzech kart pokaże, co stoi na przeszkodzie.",
+   "Księżyc rośnie ku pełni. Zapytaj, o co warto dbać i czemu dać więcej czasu.",
+   "Pełnia oświetla to, co ukryte. Czas na duży układ i szczerą refleksję.",
+   "Księżyc maleje. Zapytaj, z czym jesteś skończony i co możesz puścić.",
+   "Ostatnia kwadra to czas porządków. Co warto zakończyć przed nowym cyklem?",
+   "Stary Księżyc to czas odpoczynku i ciszy. Wyciągnij jedną kartę do refleksji."
+  ],
+  "moonCanvasLabel": "Rysunek dzisiejszej fazy Księżyca",
+  "moonDisclaimer": "Obliczone według średniego cyklu księżycowego; może się różnić o kilka godzin.",
+  "dailyNote": "Dziś ta sama karta dla wszystkich. Nowa karta o północy.",
+  "readTitle": "Rozłóż karty",
+  "readLede": "Wybierz układ, zadaj pytanie i ciągnij. Dotknij karty, aby ją odwrócić.",
+  "learnTitle": "Nauka tarota",
+  "learnLede": "Biblioteka wszystkich 78 kart i układów w twoim języku.",
+  "learnItems": [
+   [
+    "Wielkie Arkana",
+    "22 karty o wielkich tematach życia – od Głupca do Świata."
+   ],
+   [
+    "Małe Arkana",
+    "56 kart w czterech kolorach: Buławy, Kielichy, Miecze i Pentakle."
+   ],
+   [
+    "Jak czytać układ",
+    "Pozycje, karty odwrócone i to, jak karty ze sobą rozmawiają."
+   ]
+  ],
+  "comingSoon": "Wkrótce",
+  "shopTitle": "Ze sklepu",
+  "shopLede": "Świece, kadzidła, talie i obrusy ołtarzowe do twojej praktyki.",
+  "shopItems": [
+   "Świece",
+   "Kadzidła i zioła",
+   "Talie",
+   "Obrusy ołtarzowe",
+   "Kryształy",
+   "Karty podarunkowe"
+  ],
+  "deckNote": "Karty na tej stronie zostały narysowane dla Luna Arcana.",
+  "soundOn": "Nastrój",
+  "navNum": "Numerologia",
+  "numTitle": "Liczby w twojej dacie urodzenia",
+  "numLede": "Numerologia odczytuje twoją datę urodzenia jako liczby. Znajdziesz tu swoją liczbę drogi życia, liczbę roku, w którym jesteś, oraz kartę tarota przypisaną do twojej daty.",
+  "numDateLabel": "Data urodzenia",
+  "numBtn": "Oblicz",
+  "numPrivacy": "Data jest obliczana w twojej przeglądarce i nie jest nigdzie zapisywana ani wysyłana.",
+  "numLifePath": "Liczba drogi życia",
+  "numPersonalYear": "Rok osobisty {y}",
+  "numBirthCard": "Karta urodzenia",
+  "numHow": "Jak to się liczy: wszystkie cyfry daty sumuje się do jednej cyfry. Liczby mistrzowskie 11, 22 i 33 zostają zachowane.",
+  "numCardHow": "Kartę urodzenia znajduje się, dodając dzień, miesiąc i rok i redukując do liczby od 1 do 22; 22 oznacza kartę Głupiec.",
+  "numInvalid": "Wpisz prawidłową datę.",
+  "numMeanings": {
+   "1": [
+    "Pionier",
+    "Niezależność, odwaga i wola, by zacząć coś nowego. Wyzwaniem jest słuchanie innych."
+   ],
+   "2": [
+    "Budowniczy mostów",
+    "Współpraca, wrażliwość i umiejętność tworzenia równowagi. Wyzwaniem jest stawanie w obronie własnych potrzeb."
+   ],
+   "3": [
+    "Twórca",
+    "Ekspresja, radość i kreatywność. Wyzwaniem jest utrzymanie skupienia i kończenie tego, co się zaczęło."
+   ],
+   "4": [
+    "Budowniczy",
+    "Porządek, wytrwałość i pewny fundament. Wyzwaniem jest znoszenie zmian."
+   ],
+   "5": [
+    "Wolny duch",
+    "Wolność, ciekawość i zmiana. Wyzwaniem jest odnalezienie spokoju i zaangażowania."
+   ],
+   "6": [
+    "Opiekun",
+    "Odpowiedzialność, miłość i troska o dom i wspólnotę. Wyzwaniem jest niesienie nie wszystkiego samemu."
+   ],
+   "7": [
+    "Poszukiwacz",
+    "Refleksja, wgląd i poszukiwanie sensu. Wyzwaniem jest dopuszczenie innych."
+   ],
+   "8": [
+    "Przywódca",
+    "Skuteczność, ambicja i zarządzanie zasobami. Wyzwaniem jest równowaga między władzą a sercem."
+   ],
+   "9": [
+    "Mędrzec",
+    "Współczucie, zakończenia i widzenie całości. Wyzwaniem jest odpuszczanie."
+   ],
+   "11": [
+    "Liczba mistrzowska 11 · Niosący światło",
+    "Silna intuicja i inspiracja dla innych. Wymaga uziemienia i spokoju."
+   ],
+   "22": [
+    "Liczba mistrzowska 22 · Mistrz budowniczy",
+    "Wielkie wizje przekute w praktykę. Wymaga cierpliwości wobec siebie."
+   ],
+   "33": [
+    "Liczba mistrzowska 33 · Nauczyciel",
+    "Troska i mądrość, którymi się dzielimy. Wymaga granic dla własnej energii."
+   ]
+  },
+  "numYearMeanings": {
+   "1": "Rok nowych początków i pierwszych kroków.",
+   "2": "Rok współpracy, cierpliwości i relacji.",
+   "3": "Rok ekspresji, radości i nowych znajomości.",
+   "4": "Rok pracy, struktury i fundamentów.",
+   "5": "Rok zmian, podróży i nowych doświadczeń.",
+   "6": "Rok domu, rodziny i odpowiedzialności.",
+   "7": "Rok refleksji, nauki i pracy wewnętrznej.",
+   "8": "Rok rezultatów, odpowiedzialności i finansów.",
+   "9": "Rok zakończeń i robienia miejsca na nowe."
+  },
+  "navRitual": "Kalendarz rytuałów",
+  "moonIn": "Księżyc w znaku: {sign}",
+  "signs": [
+   "Baran",
+   "Byk",
+   "Bliźnięta",
+   "Rak",
+   "Lew",
+   "Panna",
+   "Waga",
+   "Skorpion",
+   "Strzelec",
+   "Koziorożec",
+   "Wodnik",
+   "Ryby"
+  ],
+  "planetDays": [
+   "Dzień Słońca",
+   "Dzień Księżyca",
+   "Dzień Marsa",
+   "Dzień Merkurego",
+   "Dzień Jowisza",
+   "Dzień Wenus",
+   "Dzień Saturna"
+  ],
+  "ritTitle": "Gdy Księżyc i gwiazdy układają się właściwie",
+  "ritLede": "W magii ludowej i tradycji astrologicznej termin wybiera się według trzech rzeczy: fazy Księżyca, znaku zodiaku, w którym się znajduje, oraz planety rządzącej dniem tygodnia. Wybierz intencję, a znajdziemy najlepsze dni w ciągu najbliższych 30 dób.",
+  "ritToday": "Dziś",
+  "ritBest": "Najlepsze dni w przyszłości",
+  "ritScore": "{n} z 5",
+  "ritWhy": "Faza: {phase} · {moon} · {day}",
+  "ritMatchPhase": "właściwa faza",
+  "ritMatchSign": "właściwy znak",
+  "ritMatchDay": "właściwy dzień tygodnia",
+  "ritNoMatch": "brak zgodności",
+  "ritRules": "Tradycja mówi",
+  "ritPremium": "Pełny rytuał z krokami, materiałami i słowami jest w Premium.",
+  "ritDisclaimer": "Terminy opierają się na tradycyjnych korespondencjach i mają służyć jako inspiracja i refleksja. Nie gwarantujemy żadnych rezultatów. Znak Księżyca jest obliczony w przybliżeniu i w pobliżu zmiany znaku może się różnić.",
+  "intents": [
+   {
+    "key": "money",
+    "name": "Otwórz przepływ pieniędzy",
+    "text": "Rytuały dla obfitości, pracy i nowych dochodów.",
+    "rule": "Rosnący Księżyc, Księżyc w znaku ziemi (Byk, Panna, Koziorożec) oraz dzień Jowisza lub Słońca."
+   },
+   {
+    "key": "love",
+    "name": "Miłość i miłość do siebie",
+    "text": "Rytuały dla ciepła, przyciągania i życzliwości wobec siebie.",
+    "rule": "Rosnący Księżyc, Księżyc w znaku: Byk, Waga lub Rak, oraz dzień Wenus."
+   },
+   {
+    "key": "protect",
+    "name": "Ochrona domu i siebie",
+    "text": "Rytuały dla poczucia bezpieczeństwa i granic.",
+    "rule": "Pełnia lub malejący Księżyc, Księżyc w znaku: Koziorożec, Skorpion lub Baran, oraz dzień Saturna lub Marsa."
+   },
+   {
+    "key": "cleanse",
+    "name": "Oczyszczenie i puszczanie",
+    "text": "Rytuały porządkowania, zamykania i uwalniania tego, co ciąży.",
+    "rule": "Malejący Księżyc, Księżyc w znaku: Panna, Skorpion lub Ryby, oraz dzień Saturna."
+   },
+   {
+    "key": "begin",
+    "name": "Nowe początki",
+    "text": "Rytuały dla intencji i pierwszych kroków.",
+    "rule": "Nów lub młody rosnący Księżyc, Księżyc w znaku ognia (Baran, Lew, Strzelec) oraz dzień Słońca lub Księżyca."
+   },
+   {
+    "key": "intuition",
+    "name": "Intuicja i sny",
+    "text": "Rytuały dla wglądu, snów i tarota.",
+    "rule": "Nów lub pełnia, Księżyc w znaku wody (Rak, Skorpion, Ryby) oraz dzień Księżyca."
+   }
+  ],
+  "navJournal": "Dziennik",
+  "jTitle": "Twój dziennik tarota",
+  "jLede": "Zapisuj swoje rozkłady i sprawdzaj, które karty powtarzają się w czasie. Dziennik jest przechowywany wyłącznie w tej przeglądarce i nigdzie nie jest wysyłany.",
+  "jSave": "Zapisz w dzienniku",
+  "jSaved": "Zapisano w dzienniku.",
+  "jEmpty": "Dziennik jest pusty. Wylosuj karty, odwróć je i zapisz rozkład.",
+  "jFrequent": "Powracające karty",
+  "jTimes": "{n} razy",
+  "jDelete": "Usuń",
+  "jEntries": "Zapisane rozkłady",
+  "freeLeft": "1 darmowa interpretacja AI dziś.",
+  "freeUsed": "Dzisiejsza darmowa interpretacja AI została wykorzystana. Więcej interpretacji będzie dostępnych w Premium."
+ },
+ "spreads": {
+  "dag": {
+   "label": "Karta dnia",
+   "desc": "Jedna karta jako temat dnia.",
+   "pos": [
+    "Temat dnia"
+   ]
+  },
+  "tre": {
+   "label": "Przeszłość · Teraźniejszość · Przyszłość",
+   "desc": "Trzy karty pokazujące rozwój sprawy.",
+   "pos": [
+    "Przeszłość",
+    "Teraźniejszość",
+    "Przyszłość"
+   ]
+  },
+  "situasjon": {
+   "label": "Sytuacja (5)",
+   "desc": "Przyczyna, sedno, wyzwanie, perspektywa i szansa. Karta szansy jest zawsze losowana w pozycji prostej.",
+   "pos": [
+    "Przyczyna",
+    "Sytuacja",
+    "Wyzwanie",
+    "Perspektywa",
+    "Szansa"
+   ]
+  },
+  "janei": {
+   "label": "Tak / Nie",
+   "desc": "Jedna karta. Pozycja prosta skłania ku „tak”, odwrócona ku „nie”. Wielka Arkana daje wyraźniejszą odpowiedź.",
+   "pos": [
+    "Odpowiedź"
+   ]
+  },
+  "kors": {
+   "label": "Krzyż celtycki (10)",
+   "desc": "Klasyczny układ do dokładnej analizy.",
+   "pos": [
+    "Teraz",
+    "Przeszkoda",
+    "Fundament",
+    "Przeszłość",
+    "Cel",
+    "Najbliższa przyszłość",
+    "Ty sam(a)",
+    "Otoczenie",
+    "Nadzieje i lęki",
+    "Wynik"
+   ]
+  }
+ },
+ "suits": {
+  "staver": {
+   "name": "Buławy",
+   "theme": "działanie i pasja"
+  },
+  "begre": {
+   "name": "Kielichy",
+   "theme": "uczucia i relacje"
+  },
+  "sverd": {
+   "name": "Miecze",
+   "theme": "myśli i konflikt"
+  },
+  "mynter": {
+   "name": "Pentakle",
+   "theme": "pieniądze, praca i ciało"
+  }
+ },
+ "cards": [
+  {
+   "name": "Głupiec",
+   "up": "Nowy początek, spontaniczność, zaufanie do drogi przed sobą.",
+   "rev": "Nieostrożność, naiwność, skok bez przygotowania."
+  },
+  {
+   "name": "Mag",
+   "up": "Wola, umiejętności i zasoby, by coś teraz stworzyć.",
+   "rev": "Manipulacja, niewykorzystany talent, plany bez działania."
+  },
+  {
+   "name": "Najwyższa Kapłanka",
+   "up": "Intuicja, ukryta wiedza, wsłuchanie się w siebie.",
+   "rev": "Sekrety, zignorowane przeczucie, zmącenie."
+  },
+  {
+   "name": "Cesarzowa",
+   "up": "Obfitość, troska, kreatywność i wzrost.",
+   "rev": "Uzależnienie, stagnacja, zapominanie o sobie."
+  },
+  {
+   "name": "Cesarz",
+   "up": "Struktura, odpowiedzialność, stabilność i przywództwo.",
+   "rev": "Potrzeba kontroli, sztywność, nadużywanie władzy."
+  },
+  {
+   "name": "Najwyższy Kapłan",
+   "up": "Tradycja, nauka, wskazówki mentora.",
+   "rev": "Bunt przeciw zasadom, dogmaty, które już nie pasują."
+  },
+  {
+   "name": "Kochankowie",
+   "up": "Miłość, harmonia i ważny wybór wartości.",
+   "rev": "Brak równowagi w relacji, wątpliwości, wybór wbrew własnym wartościom."
+  },
+  {
+   "name": "Rydwan",
+   "up": "Siła woli, pęd naprzód, zwycięstwo dzięki skupieniu.",
+   "rev": "Brak kierunku, utrata kontroli, opór."
+  },
+  {
+   "name": "Siła",
+   "up": "Wewnętrzna siła, cierpliwość, łagodność, która zwycięża.",
+   "rev": "Zwątpienie w siebie, wyczerpanie, emocje biorące górę."
+  },
+  {
+   "name": "Pustelnik",
+   "up": "Namysł, samotność, która daje wgląd.",
+   "rev": "Izolacja, wycofanie, zamykanie się na innych."
+  },
+  {
+   "name": "Koło Fortuny",
+   "up": "Punkt zwrotny, cykle, los się porusza.",
+   "rev": "Przeciwności, opór wobec zmian, stare schematy."
+  },
+  {
+   "name": "Sprawiedliwość",
+   "up": "Prawda, równowaga, konsekwencje wyborów.",
+   "rev": "Niesprawiedliwość, unikanie odpowiedzialności, stronniczość."
+  },
+  {
+   "name": "Wisielec",
+   "up": "Pauza, nowa perspektywa, puszczenie kontroli.",
+   "rev": "Odwlekanie, zastój, bezsensowne poświęcenie."
+  },
+  {
+   "name": "Śmierć",
+   "up": "Zakończenie i przemiana, coś starego się kończy.",
+   "rev": "Opór wobec zmian, trzymanie się tego, co minęło."
+  },
+  {
+   "name": "Umiarkowanie",
+   "up": "Równowaga, cierpliwość, złoty środek.",
+   "rev": "Brak równowagi, przesada, niecierpliwość."
+  },
+  {
+   "name": "Diabeł",
+   "up": "Więzy, pokusy, uzależnienie.",
+   "rev": "Wyzwolenie, przełamanie schematu, nowa jasność."
+  },
+  {
+   "name": "Wieża",
+   "up": "Nagły przewrót, prawda wychodzi na jaw.",
+   "rev": "Lęk przed zmianą, odwlekany kryzys."
+  },
+  {
+   "name": "Gwiazda",
+   "up": "Nadzieja, odnowa, spokój po burzy.",
+   "rev": "Zniechęcenie, utracona wiara, gubienie kierunku."
+  },
+  {
+   "name": "Księżyc",
+   "up": "Iluzje, niepewność, sny i lęki.",
+   "rev": "Zbliża się jasność, lęk rozluźnia uścisk."
+  },
+  {
+   "name": "Słońce",
+   "up": "Radość, sukces, witalność i jasność.",
+   "rev": "Chwilowy spadek formy, przesadny optymizm."
+  },
+  {
+   "name": "Sąd Ostateczny",
+   "up": "Przebudzenie, powołanie, podsumowanie.",
+   "rev": "Samokrytyka, wątpliwości, ignorowanie powołania."
+  },
+  {
+   "name": "Świat",
+   "up": "Spełnienie, całość, cykl się zamknął.",
+   "rev": "Niedokończone sprawy, brakuje ostatniego elementu."
+  },
+  {
+   "name": "As Buław",
+   "up": "Nowa inspiracja, pomysł z mocą.",
+   "rev": "Opóźnienia, brak napędu."
+  },
+  {
+   "name": "Dwójka Buław",
+   "up": "Planowanie, patrzenie w przyszłość.",
+   "rev": "Lęk przed nieznanym, złe planowanie."
+  },
+  {
+   "name": "Trójka Buław",
+   "up": "Rozwój, postęp, pierwsze efekty.",
+   "rev": "Przeszkody, zawiedzione oczekiwania."
+  },
+  {
+   "name": "Czwórka Buław",
+   "up": "Świętowanie, dom, poczucie bezpieczeństwa.",
+   "rev": "Niepokój w domu, brak wspólnoty."
+  },
+  {
+   "name": "Piątka Buław",
+   "up": "Rywalizacja, niezgoda, tarcia.",
+   "rev": "Unikanie konfliktu, wewnętrzna walka."
+  },
+  {
+   "name": "Szóstka Buław",
+   "up": "Uznanie, zwycięstwo, pewność siebie.",
+   "rev": "Duma przed upadkiem, brak uznania."
+  },
+  {
+   "name": "Siódemka Buław",
+   "up": "Wytrwanie przy swoim, obrona pozycji.",
+   "rev": "Przytłoczenie, poddawanie się."
+  },
+  {
+   "name": "Ósemka Buław",
+   "up": "Szybkość, wieści, sprawy toczą się szybko.",
+   "rev": "Opóźnienia, frustracja."
+  },
+  {
+   "name": "Dziewiątka Buław",
+   "up": "Wytrwałość, ostatni wysiłek.",
+   "rev": "Wypalenie, nieufność."
+  },
+  {
+   "name": "Dziesiątka Buław",
+   "up": "Ciężkie brzemię, zbyt wiele obowiązków.",
+   "rev": "Odkładanie ciężarów, delegowanie."
+  },
+  {
+   "name": "Giermek Buław",
+   "up": "Entuzjazm, dobre wieści, ciekawość.",
+   "rev": "Niedojrzały zapał, odłożone plany."
+  },
+  {
+   "name": "Rycerz Buław",
+   "up": "Przygoda, działanie, impulsywność.",
+   "rev": "Pośpiech, gniew, nieprzewidywalność."
+  },
+  {
+   "name": "Królowa Buław",
+   "up": "Pewność siebie, ciepło, niezależność.",
+   "rev": "Zazdrość, egoizm, niepewność."
+  },
+  {
+   "name": "Król Buław",
+   "up": "Wizjonerskie przywództwo, inicjatywa.",
+   "rev": "Arogancja, pochopne decyzje."
+  },
+  {
+   "name": "As Kielichów",
+   "up": "Nowa miłość, otwierające się uczucia.",
+   "rev": "Tłumione uczucia, pustka."
+  },
+  {
+   "name": "Dwójka Kielichów",
+   "up": "Partnerstwo, wzajemne przyciąganie.",
+   "rev": "Brak równowagi, zerwany kontakt."
+  },
+  {
+   "name": "Trójka Kielichów",
+   "up": "Przyjaźń, świętowanie, wspólnota.",
+   "rev": "Plotki, zbyt wiele zabawy, wykluczenie."
+  },
+  {
+   "name": "Czwórka Kielichów",
+   "up": "Apatia, przeoczenie propozycji.",
+   "rev": "Nowe zainteresowanie, ponowne powiedzenie „tak”."
+  },
+  {
+   "name": "Piątka Kielichów",
+   "up": "Smutek, strata, skupienie na tym, co poszło źle.",
+   "rev": "Akceptacja, ruszenie dalej."
+  },
+  {
+   "name": "Szóstka Kielichów",
+   "up": "Wspomnienia, dzieciństwo, niewinność.",
+   "rev": "Utknięcie w przeszłości."
+  },
+  {
+   "name": "Siódemka Kielichów",
+   "up": "Wiele wyborów, myślenie życzeniowe.",
+   "rev": "Jasność, wybór zgodny z rzeczywistością."
+  },
+  {
+   "name": "Ósemka Kielichów",
+   "up": "Porzucenie czegoś, szukanie głębszego sensu.",
+   "rev": "Lęk przed odejściem, dryfowanie bez celu."
+  },
+  {
+   "name": "Dziewiątka Kielichów",
+   "up": "Spełnione życzenia, zadowolenie.",
+   "rev": "Chciwość, powierzchowne szczęście."
+  },
+  {
+   "name": "Dziesiątka Kielichów",
+   "up": "Szczęście rodzinne, harmonia.",
+   "rev": "Niezgoda w rodzinie, rozbite ideały."
+  },
+  {
+   "name": "Giermek Kielichów",
+   "up": "Twórcza wiadomość, wrażliwość.",
+   "rev": "Niedojrzałość, brak równowagi emocjonalnej."
+  },
+  {
+   "name": "Rycerz Kielichów",
+   "up": "Romantyzm, propozycja, urok.",
+   "rev": "Huśtawki nastroju, nierealne obietnice."
+  },
+  {
+   "name": "Królowa Kielichów",
+   "up": "Współczucie, intuicja, troska.",
+   "rev": "Uzależnienie, chaos emocjonalny."
+  },
+  {
+   "name": "Król Kielichów",
+   "up": "Równowaga emocjonalna, dyplomacja.",
+   "rev": "Manipulacja, chłodne uczucia."
+  },
+  {
+   "name": "As Mieczy",
+   "up": "Jasność, przełom, prawda.",
+   "rev": "Zamęt, błędna decyzja."
+  },
+  {
+   "name": "Dwójka Mieczy",
+   "up": "Trudny wybór, zablokowana sytuacja.",
+   "rev": "Informacje wychodzą na jaw, niezdecydowanie."
+  },
+  {
+   "name": "Trójka Mieczy",
+   "up": "Złamane serce, ból, prawda, która rani.",
+   "rev": "Poprawa, przebaczenie."
+  },
+  {
+   "name": "Czwórka Mieczy",
+   "up": "Odpoczynek, regeneracja, namysł.",
+   "rev": "Niepokój, wyczerpanie."
+  },
+  {
+   "name": "Piątka Mieczy",
+   "up": "Konflikt, zwycięstwo z ceną.",
+   "rev": "Pojednanie, złożenie broni."
+  },
+  {
+   "name": "Szóstka Mieczy",
+   "up": "Przejście, opuszczenie tego, co trudne.",
+   "rev": "Nierozwiązane sprawy, opór przed przeprowadzką."
+  },
+  {
+   "name": "Siódemka Mieczy",
+   "up": "Podstęp, strategia, coś się ukrywa.",
+   "rev": "Sumienie, prawda wychodzi na jaw."
+  },
+  {
+   "name": "Ósemka Mieczy",
+   "up": "Uwięzienie we własnych myślach, ograniczenie.",
+   "rev": "Wyzwolenie, nowa perspektywa."
+  },
+  {
+   "name": "Dziewiątka Mieczy",
+   "up": "Zmartwienie, bezsenność, lęk.",
+   "rev": "Nadzieja, lęk słabnie."
+  },
+  {
+   "name": "Dziesiątka Mieczy",
+   "up": "Bolesne zakończenie, dno zostało osiągnięte.",
+   "rev": "Odbudowa, najgorsze za nami."
+  },
+  {
+   "name": "Giermek Mieczy",
+   "up": "Ciekawość, czujność, nowe pomysły.",
+   "rev": "Plotki, nieprzemyślane słowa."
+  },
+  {
+   "name": "Rycerz Mieczy",
+   "up": "Działanie, ambicja, prosto do celu.",
+   "rev": "Pośpiech, agresja."
+  },
+  {
+   "name": "Królowa Mieczy",
+   "up": "Jasność widzenia, niezależność, szczerość.",
+   "rev": "Chłód, gorycz, ostre słowa."
+  },
+  {
+   "name": "Król Mieczy",
+   "up": "Autorytet intelektualny, sprawiedliwość.",
+   "rev": "Nadużycie władzy, manipulacja."
+  },
+  {
+   "name": "As Pentakli",
+   "up": "Nowa szansa, początek finansowy.",
+   "rev": "Stracona szansa, złe planowanie."
+  },
+  {
+   "name": "Dwójka Pentakli",
+   "up": "Równowaga, żonglowanie priorytetami.",
+   "rev": "Przeciążenie, bałagan w finansach."
+  },
+  {
+   "name": "Trójka Pentakli",
+   "up": "Współpraca, rzemiosło, nauka.",
+   "rev": "Słaba współpraca, przeciętność."
+  },
+  {
+   "name": "Czwórka Pentakli",
+   "up": "Oszczędzanie, bezpieczeństwo, kontrola.",
+   "rev": "Skąpstwo, zbyt mocne trzymanie się."
+  },
+  {
+   "name": "Piątka Pentakli",
+   "up": "Niedostatek, trudne czasy.",
+   "rev": "Poprawa, pomoc jest blisko."
+  },
+  {
+   "name": "Szóstka Pentakli",
+   "up": "Dawanie i branie, hojność.",
+   "rev": "Nierówny podział, długi."
+  },
+  {
+   "name": "Siódemka Pentakli",
+   "up": "Cierpliwość, inwestycja długoterminowa.",
+   "rev": "Niecierpliwość, słaby zwrot."
+  },
+  {
+   "name": "Ósemka Pentakli",
+   "up": "Pilność, mistrzostwo, ćwiczenie.",
+   "rev": "Perfekcjonizm, nuda."
+  },
+  {
+   "name": "Dziewiątka Pentakli",
+   "up": "Samodzielność, dobrobyt, przyjemność.",
+   "rev": "Nadmierne wydatki, zależność od innych."
+  },
+  {
+   "name": "Dziesiątka Pentakli",
+   "up": "Spadek, majątek rodzinny, trwałe bezpieczeństwo.",
+   "rev": "Strata finansowa, konflikt rodzinny."
+  },
+  {
+   "name": "Giermek Pentakli",
+   "up": "Nowa nauka, praktyczna ambicja.",
+   "rev": "Brak postępów, lenistwo."
+  },
+  {
+   "name": "Rycerz Pentakli",
+   "up": "Rzetelność, rutyna, ciężka praca.",
+   "rev": "Stagnacja, nuda."
+  },
+  {
+   "name": "Królowa Pentakli",
+   "up": "Praktyczna troska, bezpieczeństwo, uziemienie.",
+   "rev": "Pracoholizm, niepokój finansowy."
+  },
+  {
+   "name": "Król Pentakli",
+   "up": "Dobrobyt, pewność, zmysł do interesów.",
+   "rev": "Chciwość, materializm."
+  }
+ ]
+}

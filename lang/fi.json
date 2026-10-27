@@ -1,0 +1,762 @@
+{
+ "ui": {
+  "langName": "Suomi",
+  "aiLanguage": "Finnish",
+  "eyebrow": "Prototyyppi · Tarot",
+  "lede": "Esitä kysymys, valitse levitys ja nosta kortit. Koko levitys näytetään yhdessä, ja jokainen kortti selitetään paikkansa mukaan.",
+  "questionPlaceholder": "Kysymyksesi, esim. ”Mitä minun pitäisi tietää työstäni nyt?”",
+  "questionLabel": "Kysymyksesi",
+  "reversedToggle": "Käänteiset kortit",
+  "drawBtn": "Nosta kortit",
+  "flipAll": "Käännä kaikki",
+  "chooseSpread": "Valitse levitys",
+  "meaningsTitle": "Merkitykset",
+  "flipHint": "Käännä kortit napauttamalla niitä tai valitse ”Käännä kaikki”.",
+  "questionPrefix": "Kysymys",
+  "reversedWord": "käänteinen",
+  "reversedTag": "Käänteinen",
+  "flipCard": "Käännä kortti {n}",
+  "suitHint": "Maa: {suit}. Aiheena {theme}.",
+  "majorHint": "Suuri arkaana: tärkeä elämänteema.",
+  "yes": "Vastaus: kyllä.",
+  "leanYes": "Vastaus: pikemminkin kyllä.",
+  "no": "Vastaus: ei.",
+  "leanNo": "Vastaus: pikemminkin ei.",
+  "aiNote": "Alla olevat tekoälytoiminnot toimivat vain, kun sivu avataan Claudessa.",
+  "premiumChip": "Premium · prototyyppi",
+  "aiTitle": "Koko levityksen tulkinta",
+  "aiDesc": "Tekoäly lukee kortit yhdessä kysymyksesi pohjalta: pääteema, kortti kerrallaan, miten kortit liittyvät toisiinsa, ja neuvo.",
+  "aiBtn": "Tulkitse levitys",
+  "stop": "Pysäytä",
+  "interpreting": "Tulkitaan kortteja …",
+  "aiHeads": [
+   "Pääteema",
+   "Kortti kerrallaan",
+   "Miten kortit liittyvät toisiinsa",
+   "Neuvo"
+  ],
+  "photoTitle": "Valokuvaa oma levityksesi",
+  "photoDesc": "Lataa kuva korteistasi, otettuna suoraan ylhäältä. Tunnistamme kortit, sinä tarkistat listan, ja sen jälkeen saat tulkinnan. Rider-Waite-pakka tunnistetaan parhaiten.",
+  "dropLabel": "Valitse tai pudota kuva",
+  "spreadOnPhoto": "Mikä levitys kuvassa on",
+  "freeSpread": "Vapaa levitys (en tiedä)",
+  "previewAlt": "Lataamasi kuva",
+  "recBtn": "Tunnista kortit",
+  "photoInterp": "Tulkitse tämä levitys",
+  "photoReady": "Kuva on valmis.",
+  "looking": "Katsotaan kuvaa …",
+  "found": "Löytyi {n} korttia. Tarkista lista ennen tulkintaa.",
+  "noneFound": "Kuvasta ei löytynyt kortteja. Kokeile terävämpää kuvaa, joka on otettu suoraan ylhäältä.",
+  "otherDeck": "Pakka ei näytä Rider-Waite-pakalta, joten tarkista erityisen huolellisesti.",
+  "chooseCard": "– valitse kortti –",
+  "cardN": "Kortti {n}",
+  "confHigh": "varma",
+  "confMedium": "melko varma",
+  "confLow": "epävarma",
+  "notRecognized": "ei tunnistettu",
+  "footer": "Tämän sivun tarot on kulttuuria, pohdintaa ja viihdettä. Se ei ole lääketieteellistä, juridista eikä taloudellista neuvontaa, eikä mitään tulosta voida taata. Kortit nostetaan satunnaisesti; sama kortti ei koskaan tule kahdesti samassa levityksessä. Yllä oleva esimerkkilevitys nostettiin sivun avautuessa. Tekoälytulkinnan on tehnyt tekoäly, ei ihminen.",
+  "errors": {
+   "not_granted": "Et ole antanut sivulle lupaa käyttää Claudea.",
+   "sampling_disabled": "Tekoäly ei ole käytettävissä tälle tilille.",
+   "rate_limited": "Liikaa pyyntöjä juuri nyt. Yritä hetken kuluttua uudelleen.",
+   "session_expired": "Sinun täytyy kirjautua uudelleen.",
+   "image_rejected": "Kuvaa ei voitu lukea. Kokeile JPEG- tai PNG-kuvaa.",
+   "images_unavailable": "Kuvan lataus ei ole käytettävissä täällä.",
+   "refused": "Tähän pyyntöön ei voi vastata. Kokeile toista kysymystä.",
+   "invalid_json": "Vastausta ei voitu lukea. Yritä uudelleen.",
+   "empty_completion": "Vastausta ei saatu. Yritä uudelleen.",
+   "generic": "Jokin meni pieleen. Yritä uudelleen."
+  },
+  "navRead": "Levitä kortit",
+  "navDaily": "Päivän kortti",
+  "navLearn": "Opi tarot",
+  "navShop": "Kauppa",
+  "heroKicker": "Tarot kuun mukaan",
+  "heroTitle": "Lue kortit kuun valossa",
+  "heroLede": "Vedä kortteja, katso koko levitys yhdessä ja saat sen selitettynä. Tai valokuvaa omat korttisi ja anna tulkita ne.",
+  "ctaRead": "Levitä kortit",
+  "ctaPhoto": "Valokuvaa levityksesi",
+  "moonTitle": "Kuu tänään",
+  "moonIllum": "{p} % valaistu",
+  "moonAge": "Kuun kierron päivä {d}",
+  "moonNextFull": "Täysikuu noin {d} vuorokauden kuluttua",
+  "moonNextNew": "Uusikuu noin {d} vuorokauden kuluttua",
+  "moonPhases": [
+   "Uusikuu",
+   "Kasvava sirppi",
+   "Ensimmäinen neljännes",
+   "Kasvava kuu",
+   "Täysikuu",
+   "Vähenevä kuu",
+   "Viimeinen neljännes",
+   "Vähenevä sirppi"
+  ],
+  "moonAdvice": [
+   "Tarot-perinteessä uusikuu on uusien aikomusten aikaa. Vedä yksi kortti sille, mitä haluat aloittaa.",
+   "Nuori kuu sopii pienille ensiaskelille. Kysy korteilta, mikä auttaa alkuun.",
+   "Ensimmäinen neljännes on valintojen ja vastuksen aikaa. Kolmen kortin levitys näyttää, mikä on tiellä.",
+   "Kuu kasvaa kohti täyttä. Kysy, mitä sinun tulee hoivata ja mille antaa lisää aikaa.",
+   "Täysikuu valaisee sen, mikä on piilossa. Suuren levityksen ja rehellisen pohdinnan aika.",
+   "Kuu vähenee. Kysy, minkä kanssa olet valmis ja minkä voit päästää irti.",
+   "Viimeinen neljännes on siivoamisen aikaa. Mikä tulisi päättää ennen uutta kiertoa?",
+   "Vanha kuu on levon ja hiljaisuuden aikaa. Vedä yksi kortti pohdintaa varten."
+  ],
+  "moonCanvasLabel": "Piirros kuun tämänpäiväisestä vaiheesta",
+  "moonDisclaimer": "Laskettu kuun keskimääräisen kierron mukaan; voi poiketa muutaman tunnin.",
+  "dailyNote": "Sama kortti kaikille tänään. Uusi kortti keskiyöllä.",
+  "readTitle": "Levitä kortit",
+  "readLede": "Valitse levitys, esitä kysymys ja vedä. Käännä kortti napauttamalla sitä.",
+  "learnTitle": "Opi tarot",
+  "learnLede": "Kirjasto kaikista 78 kortista ja levityksistä, kirjoitettu omalla kielelläsi.",
+  "learnItems": [
+   [
+    "Suuret arkanat",
+    "22 korttia elämän suurista teemoista, Narrista Maailmaan."
+   ],
+   [
+    "Pienet arkanat",
+    "56 korttia neljässä maassa: Sauvat, Maljat, Miekat ja Pentaklit."
+   ],
+   [
+    "Näin luet levityksen",
+    "Paikat, käänteiset kortit ja miten kortit puhuvat yhdessä."
+   ]
+  ],
+  "comingSoon": "Tulossa",
+  "shopTitle": "Kaupasta",
+  "shopLede": "Kynttilöitä, suitsukkeita, korttipakkoja ja alttariliinoja omaan harjoitukseesi.",
+  "shopItems": [
+   "Kynttilät",
+   "Suitsukkeet ja yrtit",
+   "Korttipakat",
+   "Alttariliinat",
+   "Kristallit",
+   "Lahjakortit"
+  ],
+  "deckNote": "Tämän sivuston kortit on piirretty Luna Arcanalle.",
+  "soundOn": "Tunnelma",
+  "navNum": "Numerologia",
+  "numTitle": "Syntymäpäiväsi luvut",
+  "numLede": "Numerologia lukee syntymäpäiväsi lukuina. Täältä löydät elämänpolun lukusi, kuluvan vuotesi luvun ja päivämäärääsi kuuluvan tarotkortin.",
+  "numDateLabel": "Syntymäaika",
+  "numBtn": "Laske",
+  "numPrivacy": "Päivämäärä lasketaan selaimessasi, eikä sitä tallenneta tai lähetetä minnekään.",
+  "numLifePath": "Elämänpolun luku",
+  "numPersonalYear": "Henkilökohtainen vuosi {y}",
+  "numBirthCard": "Syntymäkortti",
+  "numHow": "Näin se lasketaan: päivämäärän kaikki numerot lasketaan yhteen yhdeksi numeroksi. Mestariluvut 11, 22 ja 33 säilytetään.",
+  "numCardHow": "Syntymäkortti löytyy laskemalla yhteen päivä, kuukausi ja vuosi ja supistamalla luvuksi 1–22; 22 on Narri.",
+  "numInvalid": "Anna kelvollinen päivämäärä.",
+  "numMeanings": {
+   "1": [
+    "Uranuurtaja",
+    "Itsenäisyyttä, rohkeutta ja halua aloittaa jotain uutta. Haaste on kuunnella muita."
+   ],
+   "2": [
+    "Sillanrakentaja",
+    "Yhteistyötä, herkkyyttä ja kykyä luoda tasapainoa. Haaste on pitää kiinni omista tarpeista."
+   ],
+   "3": [
+    "Luoja",
+    "Ilmaisua, iloa ja luovuutta. Haaste on pysyä keskittyneenä ja viedä asiat loppuun."
+   ],
+   "4": [
+    "Rakentaja",
+    "Järjestystä, sinnikkyyttä ja turvallinen perusta. Haaste on sietää muutosta."
+   ],
+   "5": [
+    "Vapaa",
+    "Vapautta, uteliaisuutta ja muutosta. Haaste on löytää rauha ja sitoutuminen."
+   ],
+   "6": [
+    "Huolenpitäjä",
+    "Vastuuta, rakkautta ja huolenpitoa kodista ja yhteisöstä. Haaste on olla kantamatta kaikkea yksin."
+   ],
+   "7": [
+    "Etsijä",
+    "Pohdintaa, oivallusta ja merkityksen etsintää. Haaste on päästää toiset lähelle."
+   ],
+   "8": [
+    "Johtaja",
+    "Toimeenpanokykyä, kunnianhimoa ja resurssien hallintaa. Haaste on tasapaino vallan ja sydämen välillä."
+   ],
+   "9": [
+    "Viisas",
+    "Myötätuntoa, päätöksiä ja kokonaisuuden näkemistä. Haaste on päästää irti."
+   ],
+   "11": [
+    "Mestariluku 11 · Valonkantaja",
+    "Vahva intuitio ja inspiraatiota muille. Vaatii maadoittumista ja rauhaa."
+   ],
+   "22": [
+    "Mestariluku 22 · Mestarirakentaja",
+    "Suuret visiot käytännöksi. Vaatii kärsivällisyyttä itseä kohtaan."
+   ],
+   "33": [
+    "Mestariluku 33 · Opettaja",
+    "Huolenpitoa ja viisautta, jota jaetaan. Vaatii rajoja omalle energialle."
+   ]
+  },
+  "numYearMeanings": {
+   "1": "Uusien alkujen ja ensimmäisten askelten vuosi.",
+   "2": "Yhteistyön, kärsivällisyyden ja ihmissuhteiden vuosi.",
+   "3": "Ilmaisun, ilon ja uusien kontaktien vuosi.",
+   "4": "Työn, rakenteen ja perustan vuosi.",
+   "5": "Muutoksen, matkojen ja uusien kokemusten vuosi.",
+   "6": "Kodin, perheen ja vastuun vuosi.",
+   "7": "Pohdinnan, oppimisen ja sisäisen työn vuosi.",
+   "8": "Tulosten, vastuun ja talouden vuosi.",
+   "9": "Päätösten ja uuden tilan raivaamisen vuosi."
+  },
+  "navRitual": "Rituaalikalenteri",
+  "moonIn": "Kuu merkissä {sign}",
+  "signs": [
+   "Oinas",
+   "Härkä",
+   "Kaksoset",
+   "Rapu",
+   "Leijona",
+   "Neitsyt",
+   "Vaaka",
+   "Skorpioni",
+   "Jousimies",
+   "Kauris",
+   "Vesimies",
+   "Kalat"
+  ],
+  "planetDays": [
+   "Auringon päivä",
+   "Kuun päivä",
+   "Marsin päivä",
+   "Merkuriuksen päivä",
+   "Jupiterin päivä",
+   "Venuksen päivä",
+   "Saturnuksen päivä"
+  ],
+  "ritTitle": "Kun kuu ja tähdet ovat kohdallaan",
+  "ritLede": "Kansanmagian ja astrologisen perinteen mukaan ajankohta valitaan kolmen asian perusteella: kuun vaihe, tähtimerkki jossa kuu on, ja viikonpäivää hallitseva planeetta. Valitse aikomus, niin etsimme parhaat päivät seuraavan 30 vuorokauden ajalta.",
+  "ritToday": "Tänään",
+  "ritBest": "Parhaat päivät tulevina päivinä",
+  "ritScore": "{n}/5",
+  "ritWhy": "Vaihe: {phase} · {moon} · {day}",
+  "ritMatchPhase": "oikea vaihe",
+  "ritMatchSign": "oikea merkki",
+  "ritMatchDay": "oikea viikonpäivä",
+  "ritNoMatch": "ei osumaa",
+  "ritRules": "Perinteen mukaan",
+  "ritPremium": "Koko rituaali vaiheineen, materiaaleineen ja sanoineen kuuluu Premiumiin.",
+  "ritDisclaimer": "Ajankohdat noudattavat perinteisiä vastaavuuksia, ja ne on tarkoitettu inspiraatioksi ja pohdinnaksi. Tuloksia ei taata. Kuun merkki on laskettu likimääräisesti ja voi poiketa merkin vaihtumisen lähellä.",
+  "intents": [
+   {
+    "key": "money",
+    "name": "Avaa rahavirta",
+    "text": "Rituaaleja yltäkylläisyyteen, työhön ja uusiin tuloihin.",
+    "rule": "Kasvava kuu, kuu maamerkissä (Härkä, Neitsyt, Kauris) sekä Jupiterin tai Auringon päivä."
+   },
+   {
+    "key": "love",
+    "name": "Rakkaus ja itserakkaus",
+    "text": "Rituaaleja lämmölle, vetovoimalle ja itselle ystävälliselle olemiselle.",
+    "rule": "Kasvava kuu, kuu merkissä: Härkä, Vaaka tai Rapu, sekä Venuksen päivä."
+   },
+   {
+    "key": "protect",
+    "name": "Kodin ja itsesi suojelu",
+    "text": "Rituaaleja turvallisuudelle ja rajoille.",
+    "rule": "Täysikuu tai vähenevä kuu, kuu merkissä: Kauris, Skorpioni tai Oinas, sekä Saturnuksen tai Marsin päivä."
+   },
+   {
+    "key": "cleanse",
+    "name": "Puhdistus ja irtipäästäminen",
+    "text": "Rituaaleja siivoamiseen, päättämiseen ja painavasta luopumiseen.",
+    "rule": "Vähenevä kuu, kuu merkissä: Neitsyt, Skorpioni tai Kalat, sekä Saturnuksen päivä."
+   },
+   {
+    "key": "begin",
+    "name": "Uudet alut",
+    "text": "Rituaaleja aikomuksille ja ensimmäisille askelille.",
+    "rule": "Uusikuu tai nuori kasvava kuu, kuu tulimerkissä (Oinas, Leijona, Jousimies) sekä Auringon tai Kuun päivä."
+   },
+   {
+    "key": "intuition",
+    "name": "Intuitio ja unet",
+    "text": "Rituaaleja oivalluksille, unille ja tarotille.",
+    "rule": "Uusikuu tai täysikuu, kuu vesimerkissä (Rapu, Skorpioni, Kalat) sekä Kuun päivä."
+   }
+  ],
+  "navJournal": "Päiväkirja",
+  "jTitle": "Tarot-päiväkirjasi",
+  "jLede": "Tallenna lukemasi ja katso, mitkä kortit toistuvat ajan myötä. Päiväkirja tallennetaan vain tähän selaimeen eikä sitä lähetetä minnekään.",
+  "jSave": "Tallenna päiväkirjaan",
+  "jSaved": "Tallennettu päiväkirjaan.",
+  "jEmpty": "Päiväkirja on tyhjä. Nosta kortit, käännä ne ja tallenna lukema.",
+  "jFrequent": "Toistuvat kortit",
+  "jTimes": "{n} kertaa",
+  "jDelete": "Poista",
+  "jEntries": "Tallennetut lukemat",
+  "freeLeft": "1 ilmainen AI-tulkinta tänään.",
+  "freeUsed": "Tämän päivän ilmainen AI-tulkinta on käytetty. Lisää tulkintoja tulee Premiumissa."
+ },
+ "spreads": {
+  "dag": {
+   "label": "Päivän kortti",
+   "desc": "Yksi kortti päivän teemaksi.",
+   "pos": [
+    "Päivän teema"
+   ]
+  },
+  "tre": {
+   "label": "Menneisyys · Nykyhetki · Tulevaisuus",
+   "desc": "Kolme korttia, jotka näyttävät asian kehityksen.",
+   "pos": [
+    "Menneisyys",
+    "Nykyhetki",
+    "Tulevaisuus"
+   ]
+  },
+  "situasjon": {
+   "label": "Tilanne (5)",
+   "desc": "Syy, ydin, haaste, näkymät ja mahdollisuus. Mahdollisuuskortti nostetaan aina oikein päin.",
+   "pos": [
+    "Syy",
+    "Tilanne",
+    "Haaste",
+    "Näkymät",
+    "Mahdollisuus"
+   ]
+  },
+  "janei": {
+   "label": "Kyllä / Ei",
+   "desc": "Yksi kortti. Oikein päin kallistuu kyllä-vastaukseen, käänteinen ei-vastaukseen. Suuret arkaanat antavat selkeämmän vastauksen.",
+   "pos": [
+    "Vastaus"
+   ]
+  },
+  "kors": {
+   "label": "Kelttiläinen risti (10)",
+   "desc": "Klassinen levitys perusteelliseen tarkasteluun.",
+   "pos": [
+    "Nykyhetki",
+    "Ristiin",
+    "Perusta",
+    "Menneisyys",
+    "Tavoite",
+    "Lähitulevaisuus",
+    "Sinä itse",
+    "Ympäristö",
+    "Toivot ja pelot",
+    "Lopputulos"
+   ]
+  }
+ },
+ "suits": {
+  "staver": {
+   "name": "Sauvat",
+   "theme": "toiminta ja intohimo"
+  },
+  "begre": {
+   "name": "Maljat",
+   "theme": "tunteet ja ihmissuhteet"
+  },
+  "sverd": {
+   "name": "Miekat",
+   "theme": "ajatukset ja ristiriidat"
+  },
+  "mynter": {
+   "name": "Pentaklit",
+   "theme": "raha, työ ja keho"
+  }
+ },
+ "cards": [
+  {
+   "name": "Narri",
+   "up": "Uusi alku, spontaanius, luottamus tulevaan tiehen.",
+   "rev": "Varomattomuus, naiviuus, harppaus ilman valmistelua."
+  },
+  {
+   "name": "Taikuri",
+   "up": "Tahto, taidot ja voimavarat luoda jotakin nyt.",
+   "rev": "Manipulointi, käyttämätön lahjakkuus, suunnitelmat ilman toimintaa."
+  },
+  {
+   "name": "Ylipapitar",
+   "up": "Intuitio, kätketty tieto, kuuntele sisimpääsi.",
+   "rev": "Salaisuudet, sivuutettu vaisto, hämmennys."
+  },
+  {
+   "name": "Keisarinna",
+   "up": "Yltäkylläisyys, huolenpito, luovuus ja kasvu.",
+   "rev": "Riippuvuus, pysähtyneisyys, itsensä unohtaminen."
+  },
+  {
+   "name": "Keisari",
+   "up": "Rakenne, vastuu, vakaus ja johtajuus.",
+   "rev": "Kontrollin tarve, jäykkyys, vallan väärinkäyttö."
+  },
+  {
+   "name": "Ylipappi",
+   "up": "Perinne, oppiminen, mentorin ohjaus.",
+   "rev": "Kapina sääntöjä vastaan, dogmit jotka eivät enää sovi."
+  },
+  {
+   "name": "Rakastavaiset",
+   "up": "Rakkaus, sopusointu ja tärkeä arvovalinta.",
+   "rev": "Epätasapaino suhteessa, epäilys, valinta omia arvoja vastaan."
+  },
+  {
+   "name": "Vaunut",
+   "up": "Tahdonvoima, eteneminen, voitto keskittymisen kautta.",
+   "rev": "Suunnan puute, hallinnan menetys, vastarinta."
+  },
+  {
+   "name": "Voima",
+   "up": "Sisäinen voima, kärsivällisyys, voittava lempeys.",
+   "rev": "Epäily itseään kohtaan, uupumus, tunteiden vallatessa alaa."
+  },
+  {
+   "name": "Erakko",
+   "up": "Mietiskely, yksinäisyys joka tuo oivalluksia.",
+   "rev": "Eristäytyminen, vetäytyminen, muiden ulossulkeminen."
+  },
+  {
+   "name": "Onnenpyörä",
+   "up": "Käänne, kierrot, kohtalo liikkuu.",
+   "rev": "Vastoinkäymiset, muutoksen vastustus, vanhat kaavat."
+  },
+  {
+   "name": "Oikeus",
+   "up": "Totuus, tasapaino, valintojen seuraukset.",
+   "rev": "Epäoikeudenmukaisuus, vastuun välttely, vinoutuma."
+  },
+  {
+   "name": "Hirtetty mies",
+   "up": "Tauko, uusi näkökulma, päästäminen irti.",
+   "rev": "Viivyttely, pysähdys, turha uhraus."
+  },
+  {
+   "name": "Kuolema",
+   "up": "Päättyminen ja muutos, jokin vanha loppuu.",
+   "rev": "Muutoksen vastustus, kiinni pitäminen siitä mikä on ohi."
+  },
+  {
+   "name": "Kohtuus",
+   "up": "Tasapaino, kärsivällisyys, kultainen keskitie.",
+   "rev": "Epätasapaino, liiallisuus, kärsimättömyys."
+  },
+  {
+   "name": "Paholainen",
+   "up": "Sidonnaisuudet, kiusaukset, riippuvuus.",
+   "rev": "Vapautuminen, kaavan rikkominen, uusi selkeys."
+  },
+  {
+   "name": "Torni",
+   "up": "Äkillinen mullistus, totuus tulee esiin.",
+   "rev": "Muutoksen pelko, lykkääntyvä kriisi."
+  },
+  {
+   "name": "Tähti",
+   "up": "Toivo, uudistuminen, rauha myrskyn jälkeen.",
+   "rev": "Lannistuneisuus, kadonnut usko, suunnan menettäminen."
+  },
+  {
+   "name": "Kuu",
+   "up": "Harhat, epävarmuus, unet ja pelko.",
+   "rev": "Selkeys tulee, pelko hellittää."
+  },
+  {
+   "name": "Aurinko",
+   "up": "Ilo, menestys, elinvoima ja selkeys.",
+   "rev": "Tilapäinen notkahdus, liiallinen optimismi."
+  },
+  {
+   "name": "Tuomio",
+   "up": "Herääminen, kutsumus, tilannekatsauksen tekeminen.",
+   "rev": "Itsekritiikki, epäilys, kutsumuksen sivuuttaminen."
+  },
+  {
+   "name": "Maailma",
+   "up": "Täyttymys, kokonaisuus, kierto on päättynyt.",
+   "rev": "Keskeneräiset asiat, viimeinen pala puuttuu."
+  },
+  {
+   "name": "Sauvojen ässä",
+   "up": "Uusi inspiraatio, voimakas idea.",
+   "rev": "Viivästykset, draivin puute."
+  },
+  {
+   "name": "Sauvojen kakkonen",
+   "up": "Suunnittelu, eteenpäin katsominen.",
+   "rev": "Tuntemattoman pelko, huono suunnittelu."
+  },
+  {
+   "name": "Sauvojen kolmonen",
+   "up": "Laajentuminen, edistys, ensimmäiset tulokset.",
+   "rev": "Esteet, pettyneet odotukset."
+  },
+  {
+   "name": "Sauvojen nelonen",
+   "up": "Juhla, koti, turvallisuus.",
+   "rev": "Levottomuus kotona, yhteisyyden puute."
+  },
+  {
+   "name": "Sauvojen vitonen",
+   "up": "Kilpailu, erimielisyys, kitka.",
+   "rev": "Konflikti vältetään, sisäinen taistelu."
+  },
+  {
+   "name": "Sauvojen kutonen",
+   "up": "Tunnustus, voitto, itseluottamus.",
+   "rev": "Ylpeys käy lankeemuksen edellä, tunnustuksen puute."
+  },
+  {
+   "name": "Sauvojen seiska",
+   "up": "Pidä pintasi, puolusta asemaasi.",
+   "rev": "Ylikuormitus, luovuttaminen."
+  },
+  {
+   "name": "Sauvojen kasi",
+   "up": "Vauhti, uutiset, asiat tapahtuvat nopeasti.",
+   "rev": "Viivästykset, turhautuminen."
+  },
+  {
+   "name": "Sauvojen ysi",
+   "up": "Sinnikkyys, viimeinen ponnistus.",
+   "rev": "Loppuunpalaminen, epäluottamus."
+  },
+  {
+   "name": "Sauvojen kymppi",
+   "up": "Raskas taakka, liikaa vastuuta.",
+   "rev": "Taakoista luopuminen, delegointi."
+  },
+  {
+   "name": "Sauvojen sivu",
+   "up": "Innostus, hyvät uutiset, uteliaisuus.",
+   "rev": "Kypsymätön hurmos, lykkääntyneet suunnitelmat."
+  },
+  {
+   "name": "Sauvojen ritari",
+   "up": "Seikkailu, toiminta, impulsiivisuus.",
+   "rev": "Kiire, viha, arvaamattomuus."
+  },
+  {
+   "name": "Sauvojen kuningatar",
+   "up": "Itsevarmuus, lämpö, riippumattomuus.",
+   "rev": "Mustasukkaisuus, itsekkyys, epävarmuus."
+  },
+  {
+   "name": "Sauvojen kuningas",
+   "up": "Visionäärinen johtajuus, aloitteellisuus.",
+   "rev": "Ylimielisyys, hätiköidyt päätökset."
+  },
+  {
+   "name": "Maljojen ässä",
+   "up": "Uusi rakkaus, tunteiden avautuminen.",
+   "rev": "Tukahdutetut tunteet, tyhjyys."
+  },
+  {
+   "name": "Maljojen kakkonen",
+   "up": "Kumppanuus, molemminpuolinen vetovoima.",
+   "rev": "Epätasapaino, yhteyden katkeaminen."
+  },
+  {
+   "name": "Maljojen kolmonen",
+   "up": "Ystävyys, juhla, yhteisö.",
+   "rev": "Juoruilu, liikaa juhlimista, ulkopuolisuus."
+  },
+  {
+   "name": "Maljojen nelonen",
+   "up": "Apatia, tarjouksen ohittaminen.",
+   "rev": "Uusi kiinnostus, uudelleen kyllä sanominen."
+  },
+  {
+   "name": "Maljojen vitonen",
+   "up": "Suru, menetys, keskittyminen siihen mikä meni pieleen.",
+   "rev": "Hyväksyntä, eteenpäin siirtyminen."
+  },
+  {
+   "name": "Maljojen kutonen",
+   "up": "Muistot, lapsuus, viattomuus.",
+   "rev": "Menneisyyteen jäämisen."
+  },
+  {
+   "name": "Maljojen seiska",
+   "up": "Monta vaihtoehtoa, toiveajattelu.",
+   "rev": "Selkeys, realistinen valinta."
+  },
+  {
+   "name": "Maljojen kasi",
+   "up": "Jonkin jättäminen, syvemmän merkityksen etsintä.",
+   "rev": "Lähtemisen pelko, päämäärätön ajelehtiminen."
+  },
+  {
+   "name": "Maljojen ysi",
+   "up": "Toiveet täyttyvät, tyytyväisyys.",
+   "rev": "Ahneus, pinnallinen onni."
+  },
+  {
+   "name": "Maljojen kymppi",
+   "up": "Perheonni, sopusointu.",
+   "rev": "Perheen sisäinen erimielisyys, särkyneet ihanteet."
+  },
+  {
+   "name": "Maljojen sivu",
+   "up": "Luova viesti, herkkyys.",
+   "rev": "Kypsymättömyys, tunteiden epätasapaino."
+  },
+  {
+   "name": "Maljojen ritari",
+   "up": "Romantiikka, tarjous, charmi.",
+   "rev": "Mielialanvaihtelut, epärealistiset lupaukset."
+  },
+  {
+   "name": "Maljojen kuningatar",
+   "up": "Myötätunto, intuitio, huolenpito.",
+   "rev": "Riippuvuus, tunnekaaos."
+  },
+  {
+   "name": "Maljojen kuningas",
+   "up": "Tunteiden tasapaino, diplomatia.",
+   "rev": "Manipulointi, kylmät tunteet."
+  },
+  {
+   "name": "Miekkojen ässä",
+   "up": "Selkeys, läpimurto, totuus.",
+   "rev": "Hämmennys, väärä päätös."
+  },
+  {
+   "name": "Miekkojen kakkonen",
+   "up": "Vaikea valinta, lukkiutunut tilanne.",
+   "rev": "Tietoa tulee esiin, päättämättömyys."
+  },
+  {
+   "name": "Miekkojen kolmonen",
+   "up": "Sydänsurut, kipu, totuus joka sattuu.",
+   "rev": "Toipuminen, anteeksianto."
+  },
+  {
+   "name": "Miekkojen nelonen",
+   "up": "Lepo, palautuminen, mietiskely.",
+   "rev": "Levottomuus, uupumus."
+  },
+  {
+   "name": "Miekkojen vitonen",
+   "up": "Konflikti, voitto hinnalla.",
+   "rev": "Sovinto, aseiden laskeminen."
+  },
+  {
+   "name": "Miekkojen kutonen",
+   "up": "Siirtymä, vaikeasta pois lähteminen.",
+   "rev": "Ratkaisemattomat asiat, vastustus muuttaa pois."
+  },
+  {
+   "name": "Miekkojen seiska",
+   "up": "Kavaluus, strategia, jotakin salataan.",
+   "rev": "Omatunto, totuus tulee ilmi."
+  },
+  {
+   "name": "Miekkojen kasi",
+   "up": "Omien ajatusten vangiksi jääminen, rajoittuneisuus.",
+   "rev": "Vapautuminen, uusi näkökulma."
+  },
+  {
+   "name": "Miekkojen ysi",
+   "up": "Huoli, unettomuus, ahdistus.",
+   "rev": "Toivo, pelko hellittää."
+  },
+  {
+   "name": "Miekkojen kymppi",
+   "up": "Tuskallinen loppu, pohja on saavutettu.",
+   "rev": "Jälleenrakennus, pahin on ohi."
+  },
+  {
+   "name": "Miekkojen sivu",
+   "up": "Uteliaisuus, valppaus, uudet ideat.",
+   "rev": "Juoruilu, ajattelemattomat sanat."
+  },
+  {
+   "name": "Miekkojen ritari",
+   "up": "Toiminta, kunnianhimo, suoraan asiaan.",
+   "rev": "Kiire, aggressiivisuus."
+  },
+  {
+   "name": "Miekkojen kuningatar",
+   "up": "Kirkasnäköisyys, riippumattomuus, rehellisyys.",
+   "rev": "Kylmyys, katkeruus, kovat sanat."
+  },
+  {
+   "name": "Miekkojen kuningas",
+   "up": "Älyllinen auktoriteetti, oikeudenmukaisuus.",
+   "rev": "Vallan väärinkäyttö, manipulointi."
+  },
+  {
+   "name": "Pentaklien ässä",
+   "up": "Uusi mahdollisuus, taloudellinen alku.",
+   "rev": "Menetetty tilaisuus, huono suunnittelu."
+  },
+  {
+   "name": "Pentaklien kakkonen",
+   "up": "Tasapaino, prioriteettien jongleeraus.",
+   "rev": "Ylikuormitus, sekasorto taloudessa."
+  },
+  {
+   "name": "Pentaklien kolmonen",
+   "up": "Yhteistyö, käsityötaito, oppiminen.",
+   "rev": "Huono yhteistyö, keskinkertaisuus."
+  },
+  {
+   "name": "Pentaklien nelonen",
+   "up": "Säästäminen, turvallisuus, kontrolli.",
+   "rev": "Saitaus, liian tiukka pitäminen kiinni."
+  },
+  {
+   "name": "Pentaklien vitonen",
+   "up": "Puute, vaikeat ajat.",
+   "rev": "Toipuminen, apu on lähellä."
+  },
+  {
+   "name": "Pentaklien kutonen",
+   "up": "Antaminen ja saaminen, anteliaisuus.",
+   "rev": "Epätasainen jako, velka."
+  },
+  {
+   "name": "Pentaklien seiska",
+   "up": "Kärsivällisyys, pitkän aikavälin sijoitus.",
+   "rev": "Kärsimättömyys, heikko tuotto."
+  },
+  {
+   "name": "Pentaklien kasi",
+   "up": "Ahkeruus, mestaruus, harjoittelu.",
+   "rev": "Perfektionismi, ikävystyminen."
+  },
+  {
+   "name": "Pentaklien ysi",
+   "up": "Itsenäisyys, vauraus, nautinto.",
+   "rev": "Liikakulutus, riippuvuus muista."
+  },
+  {
+   "name": "Pentaklien kymppi",
+   "up": "Perintö, perheen omaisuus, pysyvä turvallisuus.",
+   "rev": "Taloudellinen tappio, perheriita."
+  },
+  {
+   "name": "Pentaklien sivu",
+   "up": "Uudet opinnot, käytännöllinen kunnianhimo.",
+   "rev": "Etenemisen puute, laiskuus."
+  },
+  {
+   "name": "Pentaklien ritari",
+   "up": "Luotettavuus, rutiini, kova työ.",
+   "rev": "Pysähtyneisyys, ikävystyminen."
+  },
+  {
+   "name": "Pentaklien kuningatar",
+   "up": "Käytännöllinen huolenpito, turvallisuus, maanläheisyys.",
+   "rev": "Työnarkomania, taloudellinen levottomuus."
+  },
+  {
+   "name": "Pentaklien kuningas",
+   "up": "Vauraus, varmuus, liikemieltä.",
+   "rev": "Ahneus, materialismi."
+  }
+ ]
+}

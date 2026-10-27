@@ -1,0 +1,1655 @@
+{
+  "labels": {
+    "kwUp": "Schlüsselwörter",
+    "kwRev": "Umgekehrt",
+    "about": "Über die Karte",
+    "love": "Liebe",
+    "work": "Arbeit",
+    "advice": "Rat",
+    "element": "Element",
+    "astro": "Astrologie",
+    "number": "Zahl",
+    "open": "Mehr über die Karte lesen",
+    "close": "Schließen"
+  },
+  "cards": [
+    {
+      "kw_up": [
+        "Neubeginn",
+        "Spontaneität",
+        "Vertrauen",
+        "Offenheit"
+      ],
+      "kw_rev": [
+        "Unvorsichtigkeit",
+        "Naivität",
+        "Herumtasten",
+        "Hast"
+      ],
+      "about": "Ein junger Wanderer steht am Rand eines Abgrunds, ein kleines Bündel über der Schulter, ein Hund an den Fersen und die Sonne im Rücken. Die Karte handelt vom ersten Schritt und davon, dem Leben mit offenen Augen und leichtem Herzen zu begegnen.",
+      "love": "In der Liebe kann der Narr auf einen neuen, unvorhersehbaren Anfang hindeuten oder auf die Lust, jemanden ohne Erwartungen zu treffen. Er kann auch daran erinnern, ein wenig auf den Weg zu achten.",
+      "work": "Im Beruf kann es darum gehen, etwas Neues zu wagen oder einen ungewohnten Weg auszuprobieren. Es kann klug sein, die Begeisterung mit einem einfachen Plan zu verbinden.",
+      "advice": "Lass dich von deiner Neugier leiten, aber nimm mit, was du schon weißt.",
+      "element": "Luft",
+      "astro": "Luft (Golden Dawn)",
+      "number": "Null: Potenzial, die Leere, bevor alles beginnt"
+    },
+    {
+      "kw_up": [
+        "Wille",
+        "Handeln",
+        "Fähigkeiten",
+        "Fokus"
+      ],
+      "kw_rev": [
+        "Manipulation",
+        "zerstreute Energie",
+        "ungenutztes Talent",
+        "Pläne ohne Tat"
+      ],
+      "about": "Eine Gestalt steht an einem Altar, einen Stab zum Himmel erhoben und eine Hand zur Erde weisend, vor sich alle vier Symbole. Über dem Kopf schwebt das Unendlichkeitszeichen, ein Bild dafür, dass Gedanke und Tat zusammengehören.",
+      "love": "In Beziehungen kann die Karte davon sprechen, sich klar zu zeigen und die Initiative zu einem ehrlichen Gespräch zu ergreifen. Sie erinnert auch daran, aufrichtig zu sein, ohne Versteckspiel.",
+      "work": "Im Beruf deutet sie darauf hin, dass du die nötigen Werkzeuge hast und die Zeit gekommen sein kann, sie einzusetzen. Fokus ist der Schlüssel.",
+      "advice": "Sammle deine Kräfte an einem Punkt und fang an.",
+      "element": "Luft",
+      "astro": "Merkur",
+      "number": "Eins: Wille, Anfang und bewusste Schöpferkraft"
+    },
+    {
+      "kw_up": [
+        "Intuition",
+        "Stille",
+        "verborgenes Wissen",
+        "inneres Lauschen"
+      ],
+      "kw_rev": [
+        "Geheimnisse",
+        "ignoriertes Bauchgefühl",
+        "Verwirrung",
+        "Rückzug"
+      ],
+      "about": "Eine Frau sitzt zwischen einer hellen und einer dunklen Säule, hinter sich einen Schleier und zu ihren Füßen einen Mond. Sie hält eine Schriftrolle, deren Inhalt nur halb zu sehen ist, und die Karte handelt von dem, was unter der Oberfläche liegt.",
+      "love": "In der Liebe kann die Karte dazu einladen, auf das zu hören, was unausgesprochen bleibt, bei dir selbst und beim anderen. Geduld kann mehr Klarheit schaffen als schnelle Antworten.",
+      "work": "Im Beruf kann es Zeit sein, erst zu beobachten, bevor du dich entscheidest. Nicht alles muss sofort erklärt werden.",
+      "advice": "Sei eine Weile still und spüre, was du eigentlich weißt.",
+      "element": "Wasser",
+      "astro": "Mond",
+      "number": "Zwei: Dualität, Gleichgewicht zwischen Sichtbarem und Verborgenem"
+    },
+    {
+      "kw_up": [
+        "Fürsorge",
+        "Fülle",
+        "Schaffensfreude",
+        "Sinnlichkeit"
+      ],
+      "kw_rev": [
+        "Abhängigkeit",
+        "erstickende Fürsorge",
+        "Stillstand",
+        "sich selbst vergessen"
+      ],
+      "about": "Eine gekrönte Frau ruht in einer grünen Landschaft mit Kornähren und einem fließenden Bach, umgeben von blühender Natur. Die Karte steht für Fruchtbarkeit, Genuss und das, was wächst, wenn es genährt wird.",
+      "love": "In der Liebe geht es um Wärme, Zärtlichkeit und darum, Fürsorge zu geben und zu empfangen. Sie kann auch daran erinnern, gut für dich selbst zu sorgen.",
+      "work": "Im Beruf kann sie auf kreative Projekte hindeuten, die in ihrem eigenen Tempo wachsen dürfen. Qualität und Pflege tragen oft bessere Früchte als Eile.",
+      "advice": "Nähre, was wachsen soll, auch dich selbst.",
+      "element": "Wasser",
+      "astro": "Venus",
+      "number": "Drei: Wachstum, Schöpferkraft und Ausdruck"
+    },
+    {
+      "kw_up": [
+        "Struktur",
+        "Stabilität",
+        "Autorität",
+        "Verantwortung"
+      ],
+      "kw_rev": [
+        "Starrheit",
+        "Kontrollbedürfnis",
+        "Unbeweglichkeit",
+        "Machtmissbrauch"
+      ],
+      "about": "Ein gekrönter Mann sitzt auf einem Steinthron mit Widderköpfen und hält Zepter und Reichsapfel, über der Rüstung einen roten Mantel. Er steht für Ordnung, Grenzen und die Fähigkeit, etwas Beständiges aufzubauen.",
+      "love": "In der Liebe kann die Karte von Sicherheit, Treue und klaren Rahmen sprechen. Sie kann dich auch fragen, ob Kontrollbedürfnis den Platz von Nähe einnimmt.",
+      "work": "Im Beruf geht es um Führung, Planung und Verantwortung. Gute Rahmenbedingungen können Energie freisetzen, solange sie nicht zum Käfig werden.",
+      "advice": "Schaffe Struktur, die dich stützt und nicht einsperrt.",
+      "element": "Feuer",
+      "astro": "Widder",
+      "number": "Vier: Fundament, Ordnung und Stabilität"
+    },
+    {
+      "kw_up": [
+        "Tradition",
+        "Anleitung",
+        "Gemeinschaft",
+        "Lernen"
+      ],
+      "kw_rev": [
+        "Bruch mit Normen",
+        "Dogmen",
+        "anderen blind folgen",
+        "Unabhängigkeit"
+      ],
+      "about": "Eine religiöse Gestalt sitzt zwischen zwei Säulen und erhebt die Hand zum Segen, vor sich zwei kniende Schüler und zu ihren Füßen Schlüssel. Die Karte handelt von überliefertem Wissen und den gemeinsamen Werten, nach denen wir leben.",
+      "love": "In der Liebe kann es um Verbindlichkeit, gemeinsame Werte und vielleicht Rituale gehen, die zwei Menschen verbinden. Sie kann auch fragen, woran du selbst glaubst.",
+      "work": "Im Beruf kann die Karte auf Mentoren, Ausbildung und feste Routinen hindeuten. Es kann nützlich sein, von denen zu lernen, die den Weg schon gegangen sind.",
+      "advice": "Suche Rat bei jemandem, dem du vertraust, aber prüfe ihn an deinem eigenen Verständnis.",
+      "element": "Erde",
+      "astro": "Stier",
+      "number": "Fünf: Sinnsuche, Lernen und Tradition"
+    },
+    {
+      "kw_up": [
+        "Entscheidung",
+        "Vereinigung",
+        "Werte",
+        "Harmonie"
+      ],
+      "kw_rev": [
+        "Unentschlossenheit",
+        "Ungleichgewicht",
+        "Uneinigkeit",
+        "unklare Werte"
+      ],
+      "about": "Zwei nackte Gestalten stehen unter einem Engel, hinter jeder ein Baum, der eine mit Früchten, der andere mit Flammen. Die Karte handelt von einer Wahl, die aus dem Herzen kommt, und davon, was geschieht, wenn zwei Seiten sich begegnen.",
+      "love": "In der Liebe geht es um tiefe Verbundenheit und darum, sich bewusst füreinander zu entscheiden. Es kann auch eine Wahl betreffen, die Ehrlichkeit verlangt.",
+      "work": "Im Beruf deutet sie auf einen Scheideweg, an dem deine Werte schwer wiegen sollten. Zusammenarbeit kann zur Stärke werden.",
+      "advice": "Wähle, was zu dem passt, der du wirklich bist.",
+      "element": "Luft",
+      "astro": "Zwillinge",
+      "number": "Sechs: Harmonie, Wahl und Gegenseitigkeit"
+    },
+    {
+      "kw_up": [
+        "Antrieb",
+        "Sieg",
+        "Selbstbeherrschung",
+        "Richtung"
+      ],
+      "kw_rev": [
+        "fehlende Richtung",
+        "Aggression",
+        "verlorene Kontrolle",
+        "Hindernisse"
+      ],
+      "about": "Ein junger Krieger steht in einem Wagen, der von zwei Sphingen gezogen wird, einer hellen und einer dunklen, unter einem sternenbesetzten Baldachin. Zügel sind nicht zu sehen, denn der Wille lenkt die Fahrt.",
+      "love": "In der Liebe kann die Karte auf zielstrebigen Einsatz hinweisen und auf die Fähigkeit, in einer fordernden Zeit den Kurs zu halten. Sie erinnert auch daran, zuzuhören und nicht nur voranzupreschen.",
+      "work": "Im Beruf geht es um Fortschritt, Konzentration und darum, gegensätzliche Kräfte auf ein gemeinsames Ziel auszurichten.",
+      "advice": "Halte beide Kräfte in der Hand und wähle eine Richtung.",
+      "element": "Wasser",
+      "astro": "Krebs",
+      "number": "Sieben: Willenskraft, Vorwärtsdrang und Meisterschaft"
+    },
+    {
+      "kw_up": [
+        "Mut",
+        "Geduld",
+        "sanfte Kraft",
+        "Selbstvertrauen"
+      ],
+      "kw_rev": [
+        "Selbstzweifel",
+        "rohe Gewalt",
+        "Ungeduld",
+        "Verletzlichkeit"
+      ],
+      "about": "Eine Frau schließt behutsam das Maul eines Löwen, während das Unendlichkeitszeichen über ihrem Kopf schwebt. Die Karte zeigt, dass wahre Stärke oft weich, ruhig und beharrlich ist.",
+      "love": "In der Liebe geht es um Zärtlichkeit und Geduld und darum, den eigenen verletzlichen Seiten und denen der anderen mit Wärme zu begegnen.",
+      "work": "Im Beruf kann sie davon sprechen, Druck mit Ruhe und gleichmäßiger Kraft zu bewältigen. Ausdauer schlägt oft Aufregung.",
+      "advice": "Begegne dem, was dir Angst macht, mit Sanftheit und ruhiger Hand.",
+      "element": "Feuer",
+      "astro": "Löwe",
+      "number": "Acht: innere Stärke, Ausdauer und Gleichgewicht"
+    },
+    {
+      "kw_up": [
+        "Einsicht",
+        "Einsamkeit",
+        "Suche",
+        "Führung"
+      ],
+      "kw_rev": [
+        "Isolation",
+        "Rückzug",
+        "Einsamkeit",
+        "anderen aus dem Weg gehen"
+      ],
+      "about": "Ein alter Mann steht auf einem schneebedeckten Berggipfel, eine Laterne erhellt einen kleinen Stern, in der anderen Hand hält er einen Stab. Die Karte zeigt die stille Suche nach der eigenen Wahrheit.",
+      "love": "In der Liebe kann die Karte bedeuten, dass du Zeit allein brauchst, um zu verstehen, was du willst. Sie erinnert auch daran, dass Nähe voraussetzt, sich selbst zu kennen.",
+      "work": "Im Beruf kann es um Vertiefung, Studium oder eine Pause vom Lärm gehen, um klar zu denken.",
+      "advice": "Nimm dir Zeit für Stille und lass die Laterne für dich selbst leuchten.",
+      "element": "Erde",
+      "astro": "Jungfrau",
+      "number": "Neun: Vollendung, Reflexion und innere Führung"
+    },
+    {
+      "kw_up": [
+        "Zyklus",
+        "Wandel",
+        "Wendungen des Schicksals",
+        "Fortschritt"
+      ],
+      "kw_rev": [
+        "Rückschläge",
+        "Widerstand gegen Veränderung",
+        "Pech",
+        "Wiederholungen"
+      ],
+      "about": "Ein großes Rad mit Symbolen und Buchstaben schwebt am Himmel, umgeben von Flügeln, einer Sphinx, einer Schlange und in jeder Ecke einem Wesen. Die Karte erinnert uns daran, dass alles in Zyklen verläuft und nichts in gleicher Form bleibt.",
+      "love": "In der Liebe kann die Karte eine Wende markieren, eine neue Phase oder das Durchbrechen eines alten Musters. Sie ermutigt, mit der Bewegung zu gehen.",
+      "work": "Im Beruf deutet sie auf Veränderung und sich öffnende Möglichkeiten hin und darauf, sich neuen Umständen anzupassen.",
+      "advice": "Bleib beweglich, denn das Rad dreht sich weiter.",
+      "element": "Feuer",
+      "astro": "Jupiter",
+      "number": "Zehn: ein vollständiger Zyklus, eine neue Ebene beginnt"
+    },
+    {
+      "kw_up": [
+        "Gleichgewicht",
+        "Wahrheit",
+        "Verantwortung",
+        "Ursache und Wirkung"
+      ],
+      "kw_rev": [
+        "Ungerechtigkeit",
+        "Ungleichgewicht",
+        "Ausweichen",
+        "Verantwortung abschieben"
+      ],
+      "about": "Eine Gestalt sitzt auf einem Thron, in der einen Hand ein Schwert, in der anderen eine Waage, zwischen zwei Säulen und mit einem Schleier im Rücken. Die Karte handelt von Ehrlichkeit und den Folgen unserer Entscheidungen.",
+      "love": "In der Liebe geht es um Fairness, offene Kommunikation und gegenseitigen Respekt. Halte dein Wort und sei klar.",
+      "work": "Im Beruf kann sie auf Vereinbarungen, Bewertungen und Entscheidungen hindeuten, die Sachlichkeit und klare Fakten brauchen.",
+      "advice": "Sei ehrlich, auch zu dir selbst, und wäge ab.",
+      "element": "Luft",
+      "astro": "Waage",
+      "number": "Elf: Gleichgewicht, Abwägen und Verantwortung"
+    },
+    {
+      "kw_up": [
+        "Pause",
+        "neue Perspektive",
+        "Hingabe",
+        "Geduld"
+      ],
+      "kw_rev": [
+        "Aufschub",
+        "Stillstand",
+        "Widerstand",
+        "unnötiges Opfer"
+      ],
+      "about": "Ein Mann hängt kopfüber an einem Baum, ein Bein festgebunden, doch sein Gesicht ist ruhig und von einem Lichtschein umgeben. Die Karte handelt vom Loslassen, Warten und davon, die Welt aus einem anderen Blickwinkel zu sehen.",
+      "love": "In der Liebe kann die Karte davon sprechen, Dinge reifen zu lassen oder die Situation aus der Sicht des anderen zu betrachten. Druck bringt selten voran.",
+      "work": "Im Beruf kann sie eine Pause, einen Umweg oder nötige Geduld vor dem nächsten Schritt bedeuten.",
+      "advice": "Lass für einen Moment los und sieh, was sich verändert.",
+      "element": "Wasser",
+      "astro": "Wasser",
+      "number": "Zwölf: Hingabe und veränderte Sicht"
+    },
+    {
+      "kw_up": [
+        "Abschluss",
+        "Wandlung",
+        "Loslassen",
+        "neues Kapitel"
+      ],
+      "kw_rev": [
+        "Widerstand gegen Veränderung",
+        "Festgefahrenheit",
+        "Unabgeschlossenes",
+        "Angst vor dem Ende"
+      ],
+      "about": "Ein Skelettreiter auf einem weißen Pferd trägt ein schwarzes Banner mit einer weißen Rose, während Menschen aus verschiedenen Lebensphasen vor ihm stehen. Die Karte handelt selten vom buchstäblichen Tod, sondern von Abschlüssen, die Platz für Neues schaffen.",
+      "love": "In der Liebe kann die Karte anzeigen, dass eine Phase vorbei ist und es Zeit ist loszulassen. Das kann auch den Weg zu tieferer Ehrlichkeit öffnen.",
+      "work": "Im Beruf kann es um ein Projekt oder eine Rolle gehen, die endet. Das schafft Raum für etwas anderes.",
+      "advice": "Lass das Beendete beendet sein.",
+      "element": "Wasser",
+      "astro": "Skorpion",
+      "number": "Dreizehn: Abschluss und Wandlung"
+    },
+    {
+      "kw_up": [
+        "Ausgleich",
+        "Mäßigung",
+        "Geduld",
+        "Harmonie"
+      ],
+      "kw_rev": [
+        "Ungleichgewicht",
+        "Extreme",
+        "Hast",
+        "fehlender Zusammenhang"
+      ],
+      "about": "Ein Engel steht mit einem Fuß im Wasser und dem anderen auf dem Land und gießt Flüssigkeit zwischen zwei Bechern hin und her. Die Karte handelt vom Mischen, vom Rhythmus und davon, den goldenen Mittelweg zu finden.",
+      "love": "In der Liebe geht es darum, einen gleichmäßigen Rhythmus zu finden und verschiedene Bedürfnisse behutsam zu mischen.",
+      "work": "Im Beruf kann sie auf ein ausgewogenes Tempo und eine Zusammenarbeit hindeuten, in der sich verschiedene Stärken ergänzen.",
+      "advice": "Finde deine Mitte und lass die Dinge in ruhigem Tempo ineinanderfließen.",
+      "element": "Feuer",
+      "astro": "Schütze",
+      "number": "Vierzehn: Anpassung, Mischung und Ausgleich"
+    },
+    {
+      "kw_up": [
+        "Bindungen",
+        "Versuchung",
+        "Schatten",
+        "Materialismus"
+      ],
+      "kw_rev": [
+        "Befreiung",
+        "Gewohnheiten durchbrechen",
+        "zurückgewonnene Kraft",
+        "Einsicht"
+      ],
+      "about": "Eine gehörnte Gestalt sitzt auf einem Sockel, und zwei nackte Gestalten sind mit lockeren Ketten an ihn gefesselt. Die Karte zeigt die Gewohnheiten und Bindungen, die wir selbst geschaffen haben, oft ohne sie zu sehen.",
+      "love": "In der Liebe kann die Karte auf Anziehung, Abhängigkeit oder Muster hinweisen, die uns festhalten. Sie lädt dazu ein, sie klar zu sehen.",
+      "work": "Im Beruf kann es um Gewohnheiten oder Ambitionen gehen, die mehr nehmen als geben, und um die Frage, was dich eigentlich steuert.",
+      "advice": "Sieh, was dich bindet, denn die Ketten sitzen oft lockerer, als sie aussehen.",
+      "element": "Erde",
+      "astro": "Steinbock",
+      "number": "Fünfzehn: Schatten, Begehren und Bindung"
+    },
+    {
+      "kw_up": [
+        "Umbruch",
+        "Enthüllung",
+        "Schock",
+        "Erwachen"
+      ],
+      "kw_rev": [
+        "Katastrophe abwenden",
+        "Angst vor Veränderung",
+        "verzögerter Zusammenbruch",
+        "allmählicher Wandel"
+      ],
+      "about": "Ein Turm auf einem Felsen wird von einem Blitz getroffen, Flammen schlagen empor, die Krone stürzt, und zwei Gestalten springen heraus. Die Karte zeigt, dass falsche Strukturen einstürzen können, damit etwas Wahreres gebaut werden kann.",
+      "love": "In der Liebe kann die Karte eine plötzliche Einsicht oder eine Veränderung markieren, die das Sichere erschüttert. Sie kann Raum für ehrlichere Beziehungen lassen.",
+      "work": "Im Beruf kann sie auf plötzliche Veränderungen hindeuten oder darauf, dass etwas Unhaltbares deutlich wird, und auf die Notwendigkeit, neu zu bauen.",
+      "advice": "Sieh das, was fällt, als Öffnung, und baue auf festem Grund.",
+      "element": "Feuer",
+      "astro": "Mars",
+      "number": "Sechzehn: Umsturz und Durchbruch"
+    },
+    {
+      "kw_up": [
+        "Hoffnung",
+        "Erneuerung",
+        "Inspiration",
+        "Ruhe"
+      ],
+      "kw_rev": [
+        "Mutlosigkeit",
+        "fehlender Glaube",
+        "Erschöpfung",
+        "Abkopplung"
+      ],
+      "about": "Eine nackte Frau gießt Wasser aus zwei Krügen, den einen in einen Teich, den anderen auf die Erde, unter einem großen Stern, umgeben von kleineren. Die Karte steht für stille Hoffnung, heilsame Ruhe und das Vertrauen, dass das Licht zurückkehrt.",
+      "love": "In der Liebe geht es um Offenheit, Vertrauen und darum, zu teilen, was du trägst. Sie ist eine Karte versöhnlicher Ruhe.",
+      "work": "Im Beruf deutet sie auf einen Weg nach vorn nach einer schweren Zeit und auf Ideen, die von selbst kommen, wenn du ruhig atmest.",
+      "advice": "Halte an der Hoffnung fest und lass es eine Weile still sein.",
+      "element": "Luft",
+      "astro": "Wassermann",
+      "number": "Siebzehn: Hoffnung, Inspiration und Klarheit"
+    },
+    {
+      "kw_up": [
+        "Träume",
+        "Intuition",
+        "Illusion",
+        "das Unbewusste"
+      ],
+      "kw_rev": [
+        "sich lichtende Verwirrung",
+        "Angst",
+        "Klarheit",
+        "Wahrheit kommt ans Licht"
+      ],
+      "about": "Der Mond scheint über einem Pfad zwischen zwei Türmen, während ein Hund und ein Wolf heulen und ein Krebs aus einem Teich kriecht. Die Karte handelt von Halbdunkel, Träumen und den Gefühlen, die wir nicht ganz verstehen.",
+      "love": "In der Liebe kann die Karte auf Unsicherheit und starke Gefühle hinweisen, die sich nicht sofort erklären lassen. Gib ihnen Zeit und stelle ehrliche Fragen.",
+      "work": "Im Beruf kann manches unklar sein, und es kann klug sein, mit großen Entscheidungen zu warten, bis das Bild klarer ist.",
+      "advice": "Geh langsam voran und vertraue auf das, was du spürst, aber prüfe es im Tageslicht.",
+      "element": "Wasser",
+      "astro": "Fische",
+      "number": "Achtzehn: das Unbewusste, Träume und Illusion"
+    },
+    {
+      "kw_up": [
+        "Freude",
+        "Vitalität",
+        "Klarheit",
+        "Erfolg"
+      ],
+      "kw_rev": [
+        "vorübergehender Schatten",
+        "übertriebener Optimismus",
+        "verzögerte Freude",
+        "Burnout"
+      ],
+      "about": "Ein nacktes Kind reitet auf einem weißen Pferd unter einer großen Sonne, hinter einer Mauer Sonnenblumen, in der Hand ein rotes Banner. Die Karte steht für Wärme, Klarheit und die einfache Freude am Dasein.",
+      "love": "In der Liebe geht es um Offenheit, Verspieltheit und darum, sich aneinander zu freuen. Ehrlichkeit bringt Licht.",
+      "work": "Im Beruf kann sie von Fortschritt und Energie sprechen und davon, auf natürliche Weise sichtbar zu sein.",
+      "advice": "Lade dich mit dem auf, was dir Freude macht, und lass es sichtbar werden.",
+      "element": "Feuer",
+      "astro": "Sonne",
+      "number": "Neunzehn: Vitalität, Freude und Klarheit"
+    },
+    {
+      "kw_up": [
+        "Erwachen",
+        "Berufung",
+        "Erneuerung",
+        "Reflexion"
+      ],
+      "kw_rev": [
+        "Selbstkritik",
+        "den Ruf ignorieren",
+        "Zweifel",
+        "ungeklärte Fragen"
+      ],
+      "about": "Ein Engel bläst über einem Meer in eine Posaune, und Menschen erheben sich mit ausgestreckten Armen aus ihren Gräbern. Die Karte handelt vom Erwachen, vom Bilanzziehen und davon, einem inneren Ruf zu folgen.",
+      "love": "In der Liebe kann die Karte ein neues Verständnis und Vergebung markieren, mit sich selbst und mit anderen.",
+      "work": "Im Beruf deutet sie auf eine Bilanz des bisherigen Weges und einen möglichen Wechsel, der sich richtig anfühlt.",
+      "advice": "Höre auf den Ruf und ziehe mit Milde Bilanz.",
+      "element": "Feuer",
+      "astro": "Feuer",
+      "number": "Zwanzig: Erwachen und Erneuerung"
+    },
+    {
+      "kw_up": [
+        "Vollendung",
+        "Ganzheit",
+        "Erreichtes",
+        "Integration"
+      ],
+      "kw_rev": [
+        "unfertig",
+        "der letzte Schritt fehlt",
+        "Aufschub",
+        "Stillstand"
+      ],
+      "about": "Eine Tänzerin schwebt in einem Blätterkranz, umgeben von den Gestalten der vier Ecken: einem Engel, einem Adler, einem Stier und einem Löwen. Die Karte markiert einen Kreis, der sich schließt, und einen neuen, der sich öffnen kann.",
+      "love": "In der Liebe geht es um Ganzheit und Zufriedenheit und darum, dass zwei Lebenswege ihren gemeinsamen Takt finden.",
+      "work": "Im Beruf markiert die Karte den Abschluss eines Weges und die Anerkennung des Erreichten, bevor das nächste Kapitel beginnt.",
+      "advice": "Nimm dir Zeit, zu feiern, was du vollendet hast.",
+      "element": "Erde",
+      "astro": "Saturn",
+      "number": "Einundzwanzig: Vollendung und Ganzheit"
+    },
+    {
+      "kw_up": [
+        "neue Inspiration",
+        "Funke",
+        "Antrieb",
+        "Gelegenheit"
+      ],
+      "kw_rev": [
+        "Verzögerung",
+        "fehlender Antrieb",
+        "verlorener Funke",
+        "verschobener Start"
+      ],
+      "about": "Eine Hand reicht aus einer Wolke über einer Landschaft mit Bergen und Fluss einen sprießenden Stab hervor. Die Karte ist ein Funke reiner Energie, der Samen einer Idee, die darauf wartet, entzündet zu werden.",
+      "love": "In der Liebe kann es eine neue Leidenschaft sein, ein Funke oder Lust, die Initiative zu ergreifen.",
+      "work": "Im Beruf kann es eine neue Idee oder ein Projekt mit Kraft bedeuten.",
+      "advice": "Ergreife den Funken, solange er warm ist.",
+      "element": "Feuer",
+      "astro": "Wurzel des Feuers: die reine Kraft des Elements",
+      "number": "Eins: Samen und Anfang"
+    },
+    {
+      "kw_up": [
+        "Planung",
+        "Entscheidung",
+        "Überblick",
+        "Mut"
+      ],
+      "kw_rev": [
+        "Angst vor dem Unbekannten",
+        "schlechte Planung",
+        "Zögern",
+        "im Vertrauten bleiben"
+      ],
+      "about": "Ein Mann steht auf einer Burgmauer, in der Hand eine Glaskugel und neben sich einen Stab, und blickt über das Meer. Die Karte handelt davon, das nächste Ziel zu wählen und weiter zu zielen als auf den heutigen Tag.",
+      "love": "In der Liebe kann die Karte fragen, was du dir für die Zukunft wünschst, und dazu einladen, deine Pläne zu teilen.",
+      "work": "Im Beruf geht es darum, zu planen, Alternativen abzuwägen und sich zu trauen, weiter zu zielen.",
+      "advice": "Blicke nach vorn und wähle eine Richtung.",
+      "element": "Feuer",
+      "astro": "Mars im Widder",
+      "number": "Zwei: Wahl und Dualität"
+    },
+    {
+      "kw_up": [
+        "Ausdehnung",
+        "Fortschritt",
+        "Aussicht",
+        "erste Ergebnisse"
+      ],
+      "kw_rev": [
+        "Hindernisse",
+        "Verzögerungen",
+        "enttäuschte Erwartungen",
+        "Geduld erforderlich"
+      ],
+      "about": "Ein Mann steht mit dem Rücken zum Betrachter auf einer Klippe und blickt über ein Meer, auf dem Schiffe davonsegeln, auf einen Stab gestützt, neben ihm zwei weitere Stäbe im Boden. Die Karte zeigt, dass frühere Anstrengungen erste Früchte zu tragen beginnen.",
+      "love": "In der Liebe kann sie bedeuten, gemeinsam auf etwas Größeres zu blicken oder darauf zu warten, dass eine Verbindung wächst.",
+      "work": "Im Beruf deutet sie auf Wachstum, Zusammenarbeit über Grenzen hinweg oder darauf, dass frühere Anstrengungen Früchte tragen.",
+      "advice": "Halte Ausschau und vertraue auf das, was du gesät hast.",
+      "element": "Feuer",
+      "astro": "Sonne im Widder",
+      "number": "Drei: Wachstum und Ausdruck"
+    },
+    {
+      "kw_up": [
+        "Feier",
+        "Zuhause",
+        "Geborgenheit",
+        "Gemeinschaft"
+      ],
+      "kw_rev": [
+        "Unruhe zu Hause",
+        "fehlende Gemeinschaft",
+        "Auflösung",
+        "Ungewissheit"
+      ],
+      "about": "Vier Stäbe bilden einen blühenden Bogen mit einem Kranz darüber, und im Vordergrund feiern Menschen vor einem Schloss. Die Karte handelt von einem sicheren Hafen und der Freude, einen ersten Ankerpunkt erreicht zu haben.",
+      "love": "In der Liebe geht es um Geborgenheit, Feiern und Zugehörigkeit.",
+      "work": "Im Beruf kann sie auf einen Meilenstein oder ein gutes Arbeitsklima hindeuten.",
+      "advice": "Halte inne und feiere, was aufgebaut wurde.",
+      "element": "Feuer",
+      "astro": "Venus im Widder",
+      "number": "Vier: Stabilität und Fundament"
+    },
+    {
+      "kw_up": [
+        "Wettbewerb",
+        "Uneinigkeit",
+        "Unordnung",
+        "Bewährung"
+      ],
+      "kw_rev": [
+        "Konfliktvermeidung",
+        "Einigkeit",
+        "beendeter Streit",
+        "innere Spannung"
+      ],
+      "about": "Fünf junge Männer schwingen Stäbe gegeneinander in einem chaotischen, energiegeladenen Spiel. Die Karte handelt von Reibung, Wettstreit und aufeinanderprallenden Meinungen.",
+      "love": "In der Liebe kann sie auf Meinungsverschiedenheiten oder unterschiedliche Bedürfnisse hinweisen. Ein konstruktives Gespräch kann den Unterschied machen.",
+      "work": "Im Beruf kann es um Konkurrenz oder unterschiedliche Ideen gehen, die Handhabung brauchen.",
+      "advice": "Lass dich von den Unterschieden herausfordern, nicht spalten.",
+      "element": "Feuer",
+      "astro": "Saturn im Löwen",
+      "number": "Fünf: Herausforderung und Instabilität"
+    },
+    {
+      "kw_up": [
+        "Sieg",
+        "Anerkennung",
+        "Selbstvertrauen",
+        "Fortschritt"
+      ],
+      "kw_rev": [
+        "Selbstzweifel",
+        "fehlende Anerkennung",
+        "Fall",
+        "Demütigung"
+      ],
+      "about": "Ein Reiter auf einem weißen Pferd trägt einen Lorbeerkranz an seinem Stab, während die Menschen um ihn jubeln. Die Karte zeigt den Stolz nach einem Erfolg und die Freude, gesehen zu werden.",
+      "love": "In der Liebe kann es um Selbstvertrauen und Anerkennung gehen und darum, die Freude über Erreichtes zu teilen.",
+      "work": "Im Beruf kann sie auf einen Erfolg oder ein gutes Ergebnis hindeuten, das bemerkt wird.",
+      "advice": "Nimm die Anerkennung an, aber bleib mit beiden Füßen auf dem Boden.",
+      "element": "Feuer",
+      "astro": "Jupiter im Löwen",
+      "number": "Sechs: Harmonie und Anerkennung"
+    },
+    {
+      "kw_up": [
+        "Verteidigung",
+        "Durchhaltevermögen",
+        "Standpunkt",
+        "Mut"
+      ],
+      "kw_rev": [
+        "Überwältigung",
+        "aufgeben",
+        "Rückzug",
+        "Erschöpfung"
+      ],
+      "about": "Ein Mann steht auf einer Anhöhe und verteidigt sich mit einem Stab gegen sechs andere, die von unten heraufkommen. Die Karte handelt davon, für das einzustehen, woran man glaubt.",
+      "love": "In der Liebe geht es darum, für die eigenen Grenzen und Werte einzustehen.",
+      "work": "Im Beruf kann sie auf Druck von außen und die Notwendigkeit hinweisen, an der eigenen Position festzuhalten.",
+      "advice": "Steh zu deiner Überzeugung, ohne all deine Kraft in den Kampf zu stecken.",
+      "element": "Feuer",
+      "astro": "Mars im Löwen",
+      "number": "Sieben: Bewährungsprobe und Standhaftigkeit"
+    },
+    {
+      "kw_up": [
+        "Tempo",
+        "Schwung",
+        "schnelles Handeln",
+        "Neuigkeiten"
+      ],
+      "kw_rev": [
+        "Verzögerungen",
+        "Hast",
+        "Frustration",
+        "Stopp"
+      ],
+      "about": "Acht Stäbe fliegen durch die Luft über einer menschenleeren Landschaft. Die Karte handelt von Tempo, Bewegung und Dingen, die schnell geschehen.",
+      "love": "In der Liebe kann sie schnellen Kontakt oder eine Entwicklung bedeuten, die Fahrt aufnimmt, und die Notwendigkeit, zu prüfen, ob die Gefühle mithalten.",
+      "work": "Im Beruf kann sie von Neuigkeiten, Reisen oder Projekten sprechen, die plötzlich in Fahrt kommen.",
+      "advice": "Nutze das Tempo, aber behalte den Überblick.",
+      "element": "Feuer",
+      "astro": "Merkur im Schützen",
+      "number": "Acht: Bewegung und Vorwärtsdrang"
+    },
+    {
+      "kw_up": [
+        "Ausdauer",
+        "Widerstandskraft",
+        "Wachsamkeit",
+        "letzter Einsatz"
+      ],
+      "kw_rev": [
+        "Erschöpfung",
+        "Paranoia",
+        "aufgeben",
+        "Verletzlichkeit"
+      ],
+      "about": "Ein bandagierter Mann lehnt sich auf einen Stab, vor acht anderen, die wie eine Mauer hinter ihm stehen. Die Karte handelt davon, nach langem Kampf standzuhalten und die letzten Kräfte zu sammeln.",
+      "love": "In der Liebe kann sie auf Vorsicht nach früheren Verletzungen und geduldiges Vertrauen hinweisen.",
+      "work": "Im Beruf geht es um Ausdauer und darum, auch müde zu Ende zu bringen.",
+      "advice": "Halte noch ein wenig durch und denk daran, dich auszuruhen.",
+      "element": "Feuer",
+      "astro": "Mond im Schützen",
+      "number": "Neun: fast vollendet, Durchhaltevermögen"
+    },
+    {
+      "kw_up": [
+        "Last",
+        "Verantwortung",
+        "Plackerei",
+        "Vollendung"
+      ],
+      "kw_rev": [
+        "die Last ablegen",
+        "Delegieren",
+        "Zusammenbruch",
+        "Überlastung"
+      ],
+      "about": "Ein Mann trägt zehn Stäbe in den Armen auf eine ferne Stadt zu, gebeugt unter dem Gewicht. Die Karte handelt von Verantwortung, die schwer geworden ist, und von dem, was wir auf uns nehmen.",
+      "love": "In der Liebe kann sie zeigen, dass du zu viel allein trägst und Teilen die Last erleichtern würde.",
+      "work": "Im Beruf geht es um Arbeitspensum und die Notwendigkeit, zu priorisieren oder um Hilfe zu bitten.",
+      "advice": "Sieh, was du ablegen oder teilen kannst.",
+      "element": "Feuer",
+      "astro": "Saturn im Schützen",
+      "number": "Zehn: Überlastung und Vollendung"
+    },
+    {
+      "kw_up": [
+        "Neugier",
+        "Begeisterung",
+        "Neuigkeiten",
+        "Entdeckung"
+      ],
+      "kw_rev": [
+        "Ungeduld",
+        "Zerstreutheit",
+        "ausbleibende Neuigkeiten",
+        "Hast"
+      ],
+      "about": "Ein junger Bote steht in einer Wüste mit einem blühenden Stab und betrachtet ihn. Die Karte steht für den jungen Funken, Verspieltheit und Neugier.",
+      "love": "In der Liebe kann es Begeisterung, ein Flirt oder neue Möglichkeiten bedeuten.",
+      "work": "Im Beruf kann es um eine neue Idee oder Lernen gehen, das Energie gibt.",
+      "advice": "Tu etwas Spielerisches und bleib offen für das Neue.",
+      "element": "Feuer",
+      "astro": "Erde im Feuer (Elementtradition)",
+      "number": "Bube: Bote und Anfänger"
+    },
+    {
+      "kw_up": [
+        "Abenteuerlust",
+        "Tatkraft",
+        "Charisma",
+        "Tempo"
+      ],
+      "kw_rev": [
+        "Hitzköpfigkeit",
+        "Rastlosigkeit",
+        "Ungeduld",
+        "Launenhaftigkeit"
+      ],
+      "about": "Ein Ritter auf einem sich aufbäumenden Pferd trägt einen Stab in einer wüstenartigen Szene. Die Karte steht für kühne Energie, Reiselust und Eifer, neue Ziele zu erobern.",
+      "love": "In der Liebe kann es Leidenschaft und Spannung bedeuten, aber auch die Notwendigkeit, den Kurs zu halten.",
+      "work": "Im Beruf geht es um Unternehmungsgeist und Tempo, oft mit dem Bedarf an Ausdauer.",
+      "advice": "Lenke deinen Eifer in eine Richtung.",
+      "element": "Feuer",
+      "astro": "Feuer im Feuer (Elementtradition)",
+      "number": "Ritter: Bewegung und Handlung"
+    },
+    {
+      "kw_up": [
+        "Selbstvertrauen",
+        "Wärme",
+        "Charisma",
+        "Unabhängigkeit"
+      ],
+      "kw_rev": [
+        "Eifersucht",
+        "Anspruchsdenken",
+        "Unberechenbarkeit",
+        "Unsicherheit"
+      ],
+      "about": "Eine gekrönte Frau sitzt auf einem Thron, zu ihren Füßen eine Sonnenblume und eine schwarze Katze, in der Hand einen Stab. Die Karte steht für warme Selbstsicherheit und schöpferische Kraft.",
+      "love": "In der Liebe kann es um großzügige Wärme gehen und den Wunsch, so gesehen zu werden, wie du bist.",
+      "work": "Im Beruf geht es um Charisma, Führung und darum, andere zu inspirieren.",
+      "advice": "Sei du selbst, mit Wärme, und lass andere es sehen.",
+      "element": "Feuer",
+      "astro": "Wasser im Feuer (Elementtradition)",
+      "number": "Königin: Reife und innere Kraft"
+    },
+    {
+      "kw_up": [
+        "Vision",
+        "Führungsstärke",
+        "Mut",
+        "Inspiration"
+      ],
+      "kw_rev": [
+        "Dominanz",
+        "Hitzköpfigkeit",
+        "Unrealistisches",
+        "Egozentrik"
+      ],
+      "about": "Ein gekrönter Mann sitzt auf einem mit Löwen und Salamandern geschmückten Thron, in der Hand einen blühenden Stab. Die Karte steht für einen Anführer mit Feuergeist und langfristigen Visionen.",
+      "love": "In der Liebe kann es einen sicheren, warmen Partner bedeuten oder dass du selbst die Führung übernimmst.",
+      "work": "Im Beruf geht es darum, die großen Linien zu sehen und andere zu inspirieren.",
+      "advice": "Führe mit Vision und lass andere wachsen.",
+      "element": "Feuer",
+      "astro": "Luft im Feuer (Elementtradition)",
+      "number": "König: Meisterschaft und Verantwortung"
+    },
+    {
+      "kw_up": [
+        "neue Liebe",
+        "Gefühle",
+        "Mitgefühl",
+        "Offenheit"
+      ],
+      "kw_rev": [
+        "emotionale Blockade",
+        "unterdrückte Gefühle",
+        "Leere",
+        "Verschlossenheit"
+      ],
+      "about": "Eine Hand reicht aus einer Wolke einen überfließenden Kelch, während eine Taube eine Oblate herabfallen lässt und Wasser in einen Teich mit Lilien strömt. Die Karte handelt von einem Strom der Gefühle und davon, ihnen Raum zu geben.",
+      "love": "In der Liebe kann es ein Neuanfang sein, tiefere Herzensverbindung oder ein neues Verständnis.",
+      "work": "Im Beruf kann es um Arbeit gehen, die sinnvoll ist und emotional erfüllt.",
+      "advice": "Öffne dein Herz und lass es strömen.",
+      "element": "Wasser",
+      "astro": "Wurzel des Wassers: die reine Kraft des Elements",
+      "number": "Eins: Samen und Anfang"
+    },
+    {
+      "kw_up": [
+        "Vereinigung",
+        "Gegenseitigkeit",
+        "Anziehung",
+        "Partnerschaft"
+      ],
+      "kw_rev": [
+        "Trennung",
+        "Ungleichgewicht",
+        "Uneinigkeit",
+        "Missverständnisse"
+      ],
+      "about": "Ein Paar tauscht Kelche, darüber ein geflügelter Löwe und dahinter eine Schlange um einen Stab. Die Karte handelt von gegenseitigem Respekt und Liebe zwischen zweien.",
+      "love": "In der Liebe ist sie eine der Karten der Gegenseitigkeit und der Begegnung auf Augenhöhe.",
+      "work": "Im Beruf kann sie auf gute Zusammenarbeit oder eine Vereinbarung unter Gleichberechtigten hinweisen.",
+      "advice": "Begegne dem anderen mit Offenheit und Respekt.",
+      "element": "Wasser",
+      "astro": "Venus im Krebs",
+      "number": "Zwei: Vereinigung und Partnerschaft"
+    },
+    {
+      "kw_up": [
+        "Freundschaft",
+        "Feier",
+        "Freude",
+        "Gemeinschaft"
+      ],
+      "kw_rev": [
+        "Übertreibung",
+        "Klatsch",
+        "Isolation",
+        "Ausgeschlossensein"
+      ],
+      "about": "Drei Frauen heben tanzend ihre Kelche, zu ihren Füßen liegen Früchte. Die Karte handelt von Freude und gemeinsamem Feiern.",
+      "love": "In der Liebe geht es um Freundschaft, Spiel und Gemeinschaft.",
+      "work": "Im Beruf kann sie auf gute Teamarbeit und Stimmung hinweisen.",
+      "advice": "Teile die Freude mit denen, die du liebst.",
+      "element": "Wasser",
+      "astro": "Merkur im Krebs",
+      "number": "Drei: Wachstum und Ausdruck"
+    },
+    {
+      "kw_up": [
+        "Apathie",
+        "Nachdenklichkeit",
+        "Unzufriedenheit",
+        "Pause"
+      ],
+      "kw_rev": [
+        "neue Möglichkeiten",
+        "Motivation",
+        "Erwachen",
+        "das Angebot sehen"
+      ],
+      "about": "Ein Mann sitzt mit verschränkten Armen unter einem Baum und betrachtet drei Kelche, während eine Hand aus einer Wolke einen vierten anbietet. Die Karte handelt davon, das Angebotene zu übersehen, weil man grübelt.",
+      "love": "In der Liebe kann sie auf Langeweile oder unerwiderte Sehnsucht hinweisen und darauf, zu prüfen, was du wirklich willst.",
+      "work": "Im Beruf kann es um fehlenden Antrieb und Zeit zum Abwägen gehen.",
+      "advice": "Hebe den Blick und sieh, was dir tatsächlich angeboten wird.",
+      "element": "Wasser",
+      "astro": "Mond im Krebs",
+      "number": "Vier: Stillstand und Abwägen"
+    },
+    {
+      "kw_up": [
+        "Trauer",
+        "Verlust",
+        "Reue",
+        "emotionale Aufarbeitung"
+      ],
+      "kw_rev": [
+        "Vergebung",
+        "weitergehen",
+        "Akzeptanz",
+        "Heilung"
+      ],
+      "about": "Eine Gestalt im Umhang blickt auf drei umgestürzte Kelche, während zwei aufrecht dahinter stehen. Die Karte handelt von Trauer und davon, nicht zu vergessen, was noch steht.",
+      "love": "In der Liebe kann sie auf Trauer oder Enttäuschung hinweisen und darauf, zu sehen, was noch da ist.",
+      "work": "Im Beruf geht es darum, Rückschläge zu bewältigen und einen neuen Weg zu finden.",
+      "advice": "Gib der Trauer Raum und sieh auch, was geblieben ist.",
+      "element": "Wasser",
+      "astro": "Mars im Skorpion",
+      "number": "Fünf: Verlust und Herausforderung"
+    },
+    {
+      "kw_up": [
+        "Nostalgie",
+        "Kindheit",
+        "Freundlichkeit",
+        "Wiedersehen"
+      ],
+      "kw_rev": [
+        "in der Vergangenheit festhängen",
+        "unrealistische Erinnerungen",
+        "Reifen",
+        "weitergehen"
+      ],
+      "about": "Zwei Kinder teilen Blumen in einem alten Hof voller Kelche. Die Karte handelt von Erinnerungen und unschuldiger Freundlichkeit.",
+      "love": "In der Liebe kann es ein Wiedersehen sein, Zärtlichkeit oder alte Bande, die wieder erwachen.",
+      "work": "Im Beruf kann es um Zusammenarbeit mit Bekannten gehen oder um die Rückkehr zu etwas Vertrautem.",
+      "advice": "Schöpfe Wärme aus den Erinnerungen, aber lebe in der Gegenwart.",
+      "element": "Wasser",
+      "astro": "Sonne im Skorpion",
+      "number": "Sechs: Harmonie und gegenseitiges Geschenk"
+    },
+    {
+      "kw_up": [
+        "Fantasie",
+        "Wahlmöglichkeiten",
+        "Träume",
+        "Illusionen"
+      ],
+      "kw_rev": [
+        "Klarheit",
+        "Entscheidung",
+        "Realismus",
+        "wählen"
+      ],
+      "about": "Eine Gestalt betrachtet sieben Kelche, gefüllt mit verschiedenen Symbolen, die in Wolken schweben. Die Karte handelt von Fantasie und vielen Möglichkeiten, die sortiert werden müssen.",
+      "love": "In der Liebe kann es um Tagträume oder viele Alternativen gehen und darum, klar zu werden, was du willst.",
+      "work": "Im Beruf geht es darum, unter mehreren Möglichkeiten zu wählen und Traum von Plan zu trennen.",
+      "advice": "Trenne Traum von Plan und wähle eines.",
+      "element": "Wasser",
+      "astro": "Venus im Skorpion",
+      "number": "Sieben: Wahlmöglichkeiten und Fantasie"
+    },
+    {
+      "kw_up": [
+        "Abschied",
+        "weitergehen",
+        "Suche",
+        "tiefere Bedeutung"
+      ],
+      "kw_rev": [
+        "bleiben",
+        "Angst zu gehen",
+        "im Vertrauten weitermachen",
+        "Abhängigkeit"
+      ],
+      "about": "Eine Gestalt geht von acht aufgereihten Kelchen fort, den Bergen unter dem Mond entgegen. Die Karte handelt davon, etwas Gutes, aber nicht Genügendes zurückzulassen und tiefer zu suchen.",
+      "love": "In der Liebe kann es die Erkenntnis sein, dass etwas nicht mehr nährt.",
+      "work": "Im Beruf geht es darum, die Richtung zu wechseln, um mehr Sinn zu finden.",
+      "advice": "Wage es, dem entgegenzugehen, was mehr Sinn gibt.",
+      "element": "Wasser",
+      "astro": "Saturn in den Fischen",
+      "number": "Acht: Veränderung und Suche"
+    },
+    {
+      "kw_up": [
+        "Zufriedenheit",
+        "Genuss",
+        "Dankbarkeit",
+        "Erfüllung"
+      ],
+      "kw_rev": [
+        "Gier",
+        "Selbstgefälligkeit",
+        "Oberflächlichkeit",
+        "unerfüllt"
+      ],
+      "about": "Ein Mann sitzt zufrieden mit verschränkten Armen vor neun Kelchen auf einem Regal. Die Karte ist als Wunschkarte bekannt und handelt davon, sich an dem zu freuen, was man hat.",
+      "love": "In der Liebe geht es um Zufriedenheit und Freude an dem, was ist.",
+      "work": "Im Beruf kann sie auf gute Ergebnisse und Zufriedenheit mit dem Einsatz hinweisen.",
+      "advice": "Genieße, was du hast, und sei dankbar.",
+      "element": "Wasser",
+      "astro": "Jupiter in den Fischen",
+      "number": "Neun: Erfüllung und Genuss"
+    },
+    {
+      "kw_up": [
+        "Familienglück",
+        "Harmonie",
+        "Zugehörigkeit",
+        "Erfüllung"
+      ],
+      "kw_rev": [
+        "Unruhe in der Familie",
+        "zerbrochene Beziehungen",
+        "Uneinigkeit",
+        "unrealistische Ideale"
+      ],
+      "about": "Ein Paar steht mit erhobenen Armen vor einem Regenbogen aus zehn Kelchen, während Kinder vor einem Zuhause spielen. Die Karte handelt vom Glück in Gemeinschaft und von Zugehörigkeit.",
+      "love": "In der Liebe geht es um Harmonie, Geborgenheit und gemeinsame Werte.",
+      "work": "Im Beruf kann sie auf ein gutes Arbeitsumfeld und gemeinsame Ziele hinweisen.",
+      "advice": "Schätze die Gemeinschaft, zu der du gehörst.",
+      "element": "Wasser",
+      "astro": "Mars in den Fischen",
+      "number": "Zehn: Erfüllung und Harmonie"
+    },
+    {
+      "kw_up": [
+        "Sensibilität",
+        "Kreativität",
+        "Offenheit",
+        "Träume"
+      ],
+      "kw_rev": [
+        "Unreife",
+        "emotionale Instabilität",
+        "Realitätsflucht",
+        "Verletzlichkeit"
+      ],
+      "about": "Eine junge Person steht am Meer und betrachtet einen Fisch, der den Kopf aus einem Kelch streckt. Die Karte steht für ein zartes Gemüt und kreative Impulse.",
+      "love": "In der Liebe kann es ein neues Gefühl sein, eine romantische Nachricht oder behutsame Offenheit.",
+      "work": "Im Beruf kann es um kreative Ideen oder intuitive Einfälle gehen.",
+      "advice": "Nimm ein neues Gefühl mit Neugier an.",
+      "element": "Wasser",
+      "astro": "Erde im Wasser (Elementtradition)",
+      "number": "Bube: Bote und Anfänger"
+    },
+    {
+      "kw_up": [
+        "Romantik",
+        "Charme",
+        "Angebote",
+        "Ideale"
+      ],
+      "kw_rev": [
+        "Stimmungsschwankungen",
+        "unrealistische Erwartungen",
+        "Enttäuschung",
+        "Oberflächlichkeit"
+      ],
+      "about": "Ein Ritter auf einem ruhigen weißen Pferd trägt einen Kelch durch eine friedliche Landschaft. Die Karte steht für eine romantische Seele, die dem Herzen folgt.",
+      "love": "In der Liebe geht es darum, offen zu sein und Vorschläge zu machen und Worten Taten folgen zu lassen.",
+      "work": "Im Beruf kann es um ein Angebot, eine Einladung oder ein idealistisches Projekt gehen.",
+      "advice": "Folge deinem Herzen, aber sorge dafür, dass es irgendwo ankommt.",
+      "element": "Wasser",
+      "astro": "Feuer im Wasser (Elementtradition)",
+      "number": "Ritter: Bewegung und Handlung"
+    },
+    {
+      "kw_up": [
+        "Empathie",
+        "Intuition",
+        "Fürsorge",
+        "Tiefe"
+      ],
+      "kw_rev": [
+        "emotionale Überwältigung",
+        "Abhängigkeit",
+        "Rückzug",
+        "Unsicherheit"
+      ],
+      "about": "Eine gekrönte Frau sitzt am Meer und betrachtet einen kunstvollen Kelch. Die Karte steht für emotionale Tiefe und Verständnis.",
+      "love": "In der Liebe geht es um Fürsorge, Intuition und darum, auf Gefühle zu hören.",
+      "work": "Im Beruf kann es um Einfühlungsvermögen gegenüber Kollegen, Mentoring oder helfende Berufe gehen.",
+      "advice": "Höre auf deine Gefühle, ohne in ihnen zu ertrinken.",
+      "element": "Wasser",
+      "astro": "Wasser im Wasser (Elementtradition)",
+      "number": "Königin: Reife und innere Kraft"
+    },
+    {
+      "kw_up": [
+        "emotionales Gleichgewicht",
+        "Mitgefühl",
+        "Weisheit",
+        "Diplomatie"
+      ],
+      "kw_rev": [
+        "Stimmungsschwankungen",
+        "Kälte",
+        "Manipulation",
+        "Unterdrückung"
+      ],
+      "about": "Ein gekrönter Mann sitzt auf einem Thron mitten in einem unruhigen Meer und hält einen Kelch. Die Karte steht für einen Anführer, der seine Gefühle ruhig hält.",
+      "love": "In der Liebe geht es um Reife, Unterstützung und emotionale Sicherheit.",
+      "work": "Im Beruf kann es um Beratung, einfühlsame Führung und Diplomatie gehen.",
+      "advice": "Bewahre die Ruhe mitten in den Wellen.",
+      "element": "Wasser",
+      "astro": "Luft im Wasser (Elementtradition)",
+      "number": "König: Meisterschaft und Verantwortung"
+    },
+    {
+      "kw_up": [
+        "Klarheit",
+        "Wahrheit",
+        "Durchbruch",
+        "neue Einsicht"
+      ],
+      "kw_rev": [
+        "Verwirrung",
+        "Unklarheit",
+        "Härte",
+        "mentale Blockade"
+      ],
+      "about": "Eine Hand reicht aus einer Wolke ein mit einem Kranz gekröntes Schwert über steilen Bergen. Die Karte handelt von der Kraft des Denkens und von Klarheit, die den Nebel durchschneidet.",
+      "love": "In der Liebe kann sie ein ehrliches Gespräch und eine neue Einsicht in eine Beziehung bedeuten.",
+      "work": "Im Beruf kann es eine bahnbrechende Idee oder ein klarer Standpunkt sein.",
+      "advice": "Lass die Wahrheit auf freundliche Weise ans Licht kommen.",
+      "element": "Luft",
+      "astro": "Wurzel der Luft: die reine Kraft des Elements",
+      "number": "Eins: Samen und Anfang"
+    },
+    {
+      "kw_up": [
+        "Dilemma",
+        "Pause",
+        "Gleichgewicht",
+        "Entscheidungsscheu"
+      ],
+      "kw_rev": [
+        "Verwirrung",
+        "aufgedeckte Informationen",
+        "Unentschlossenheit",
+        "Spannung"
+      ],
+      "about": "Eine Frau mit verbundenen Augen sitzt mit zwei gekreuzten Schwertern vor einem ruhigen Meer. Die Karte handelt von einer schwierigen Entscheidung und der Scheu, hinzusehen.",
+      "love": "In der Liebe kann sie auf eine Pattsituation hinweisen, in der Gefühle und Gedanken im Konflikt stehen.",
+      "work": "Im Beruf geht es um eine Wahl, die mehr Information oder Mut erfordert.",
+      "advice": "Nimm die Augenbinde ab, wenn du bereit bist.",
+      "element": "Luft",
+      "astro": "Mond in der Waage",
+      "number": "Zwei: Wahl und Dualität"
+    },
+    {
+      "kw_up": [
+        "Trauer",
+        "Herzschmerz",
+        "Schmerz",
+        "Wahrheit"
+      ],
+      "kw_rev": [
+        "Heilung",
+        "Vergebung",
+        "den Schmerz loslassen",
+        "allmähliche Besserung"
+      ],
+      "about": "Drei Schwerter durchbohren ein rotes Herz unter Regen und Wolken. Die Karte handelt von schmerzhafter Wahrheit und dem Verlust, der mit ihr kommt.",
+      "love": "In der Liebe kann sie auf Trauer und Trennung hinweisen und darauf, dass es erlaubt ist, nachzuspüren.",
+      "work": "Im Beruf geht es um Enttäuschungen und harte Rückmeldungen, aus denen du etwas lernen kannst.",
+      "advice": "Erlaube dir, zu spüren, was wehtut.",
+      "element": "Luft",
+      "astro": "Saturn in der Waage",
+      "number": "Drei: Wachstum und Ausdruck, hier durch Schmerz"
+    },
+    {
+      "kw_up": [
+        "Ruhe",
+        "Frieden",
+        "Erholung",
+        "Besinnung"
+      ],
+      "kw_rev": [
+        "Unruhe",
+        "Erschöpfung",
+        "Rückkehr zur Aktivität",
+        "Rastlosigkeit"
+      ],
+      "about": "Ein Ritter ruht auf einem Grab, drei Schwerter an der Wand und eines unter ihm. Die Karte handelt von Pause und Auftanken nach einer fordernden Zeit.",
+      "love": "In der Liebe kann sie auf das Bedürfnis nach Stille und Abstand hinweisen, um sich zu sammeln.",
+      "work": "Im Beruf geht es darum, sich auszuruhen, um klar denken zu können.",
+      "advice": "Gönne dir Ruhe.",
+      "element": "Luft",
+      "astro": "Jupiter in der Waage",
+      "number": "Vier: Stabilität und Ruhe"
+    },
+    {
+      "kw_up": [
+        "Konflikt",
+        "Niederlage",
+        "Sieg mit Preis",
+        "Egoismus"
+      ],
+      "kw_rev": [
+        "Versöhnung",
+        "Reue",
+        "alter Konflikt",
+        "loslassen"
+      ],
+      "about": "Ein Mann sammelt Schwerter ein, während zwei andere beschämt davongehen. Die Karte handelt von einem Konflikt, bei dem der Sieg mehr kosten kann, als er wert ist.",
+      "love": "In der Liebe kann sie auf einen Konflikt hinweisen, bei dem beide Seiten verlieren können, und auf die Frage, was den Kampf wirklich wert ist.",
+      "work": "Im Beruf kann es um Meinungsverschiedenheiten gehen und darum, wer zu welchem Preis gewinnt.",
+      "advice": "Wähle deine Kämpfe mit Bedacht.",
+      "element": "Luft",
+      "astro": "Venus im Wassermann",
+      "number": "Fünf: Herausforderung und Unruhe"
+    },
+    {
+      "kw_up": [
+        "Übergang",
+        "weiterziehen",
+        "Ruhe nach dem Sturm",
+        "Reise"
+      ],
+      "kw_rev": [
+        "Stillstand",
+        "Widerstand gegen das Gehen",
+        "ungelöste Dinge",
+        "Rückkehr"
+      ],
+      "about": "Eine Frau und ein Kind überqueren in einem Boot mit sechs Schwertern das Wasser, ruhigem Wasser entgegen. Die Karte handelt davon, schwierige Gewässer zu verlassen.",
+      "love": "In der Liebe kann es ein Übergang zu etwas Ruhigerem sein, mit etwas, das man mitnimmt.",
+      "work": "Im Beruf geht es um Wechsel, Umzug oder darum, eine fordernde Phase hinter sich zu lassen.",
+      "advice": "Bewege dich in deinem eigenen Tempo auf ruhigeres Wasser zu.",
+      "element": "Luft",
+      "astro": "Merkur im Wassermann",
+      "number": "Sechs: Harmonie und Übergang"
+    },
+    {
+      "kw_up": [
+        "List",
+        "Strategie",
+        "Geheimnis",
+        "Vermeidung"
+      ],
+      "kw_rev": [
+        "entdeckt werden",
+        "Ehrlichkeit",
+        "Gewissen",
+        "gestehen"
+      ],
+      "about": "Ein Mann schleicht mit fünf Schwertern aus einem Lager, während zwei zurückbleiben. Die Karte handelt davon, vorsichtig vorzugehen, und von dem, was wir zu sagen vermeiden.",
+      "love": "In der Liebe kann die Karte an Ehrlichkeit erinnern und daran, zu prüfen, ob es Geheimnisse gibt.",
+      "work": "Im Beruf kann es um Taktik oder den eigenen Weg gehen und um die Frage, was richtig ist.",
+      "advice": "Sei offen über das, was du tust.",
+      "element": "Luft",
+      "astro": "Mond im Wassermann",
+      "number": "Sieben: Abwägen und List"
+    },
+    {
+      "kw_up": [
+        "Einschränkung",
+        "Festgefahrenheit",
+        "Angst",
+        "selbst auferlegte Grenzen"
+      ],
+      "kw_rev": [
+        "Befreiung",
+        "neue Perspektiven",
+        "den Ausweg sehen",
+        "Mut"
+      ],
+      "about": "Eine gefesselte Frau mit verbundenen Augen steht umgeben von acht Schwertern im Wasser. Die Karte handelt davon, sich gefangen zu fühlen, obwohl der Ausweg oft offener ist, als es aussieht.",
+      "love": "In der Liebe kann sie auf einschränkende Gedanken über dich selbst oder die Beziehung hinweisen.",
+      "work": "Im Beruf geht es darum, Möglichkeiten zu sehen, auch wenn du dich festgefahren fühlst.",
+      "advice": "Prüfe, ob die Grenzen so fest sind, wie sie scheinen.",
+      "element": "Luft",
+      "astro": "Jupiter in den Zwillingen",
+      "number": "Acht: Einschränkung und Bewegung"
+    },
+    {
+      "kw_up": [
+        "Sorge",
+        "Angst",
+        "Schlaflosigkeit",
+        "Grübeln"
+      ],
+      "kw_rev": [
+        "Erleichterung",
+        "die Last teilen",
+        "Hoffnung",
+        "Hilfe suchen"
+      ],
+      "about": "Eine Person sitzt im Bett, die Hände vor dem Gesicht, an der Wand dahinter neun Schwerter. Die Karte handelt von schweren Gedanken mitten in der Nacht.",
+      "love": "In der Liebe können es Sorgen sein, die in der Stille wachsen, und das Bedürfnis, darüber zu sprechen.",
+      "work": "Im Beruf geht es um Stress, kreisende Gedanken und darum, um Unterstützung zu bitten.",
+      "advice": "Teile deine Sorgen mit jemandem, dem du vertraust.",
+      "element": "Luft",
+      "astro": "Mars in den Zwillingen",
+      "number": "Neun: Sorge und Intensität"
+    },
+    {
+      "kw_up": [
+        "Tiefpunkt",
+        "Abschluss",
+        "Ende",
+        "neues Licht"
+      ],
+      "kw_rev": [
+        "sich erheben",
+        "Erholung",
+        "Widerstand gegen das Ende",
+        "Dramatik"
+      ],
+      "about": "Eine Gestalt liegt mit zehn Schwertern im Rücken, während der Sonnenaufgang das Meer erhellt. Die Karte handelt von einem schmerzhaften Ende und dem Morgen, der dennoch kommt.",
+      "love": "In der Liebe kann es ein Ende sein, das Raum für Neues schafft.",
+      "work": "Im Beruf kann sie auf das Ende einer schweren Zeit hinweisen.",
+      "advice": "Das Schlimmste liegt hinter dir, und das Licht kehrt zurück.",
+      "element": "Luft",
+      "astro": "Sonne in den Zwillingen",
+      "number": "Zehn: Vollendung und Tiefpunkt"
+    },
+    {
+      "kw_up": [
+        "Neugier",
+        "Beobachtung",
+        "Ideen",
+        "Lernen"
+      ],
+      "kw_rev": [
+        "Klatsch",
+        "scharfe Zunge",
+        "Oberflächlichkeit",
+        "Impulsivität"
+      ],
+      "about": "Eine junge Person steht mit erhobenem Schwert im Wind unter Wolken. Die Karte steht für scharfe Fragen und Lerneifer.",
+      "love": "In der Liebe kann es um Gespräche und Neugier aufeinander gehen.",
+      "work": "Im Beruf kann es um Lernen, Information und neue Perspektiven gehen.",
+      "advice": "Stelle Fragen und höre zu.",
+      "element": "Luft",
+      "astro": "Erde in der Luft (Elementtradition)",
+      "number": "Bube: Bote und Anfänger"
+    },
+    {
+      "kw_up": [
+        "Tempo",
+        "Mut",
+        "Tatkraft",
+        "Ehrgeiz"
+      ],
+      "kw_rev": [
+        "Hast",
+        "Kritik",
+        "Ungeduld",
+        "Unvorsichtigkeit"
+      ],
+      "about": "Ein Ritter galoppiert mit erhobenem Schwert gegen den Wind. Die Karte steht für schnelles Denken und Tatkraft.",
+      "love": "In der Liebe kann es direkte Kommunikation sein und das Bedürfnis, beide Seiten zu verstehen.",
+      "work": "Im Beruf geht es um Ehrgeiz und Effizienz.",
+      "advice": "Denk nach, bevor du zuschlägst.",
+      "element": "Luft",
+      "astro": "Feuer in der Luft (Elementtradition)",
+      "number": "Ritter: Bewegung und Handlung"
+    },
+    {
+      "kw_up": [
+        "Klarheit",
+        "Unabhängigkeit",
+        "Ehrlichkeit",
+        "Erfahrung"
+      ],
+      "kw_rev": [
+        "kalte Kritik",
+        "Bitterkeit",
+        "Isolation",
+        "Härte"
+      ],
+      "about": "Eine gekrönte Frau sitzt allein auf einem Thron mit einem Schwert und ausgestreckter Hand. Die Karte steht für klares Sehen und klare Kommunikation.",
+      "love": "In der Liebe geht es um Ehrlichkeit und klare Grenzen.",
+      "work": "Im Beruf kann es um analytisches Urteilsvermögen und deutliche Worte gehen.",
+      "advice": "Sei klar und ehrlich, aber mit Wärme.",
+      "element": "Luft",
+      "astro": "Wasser in der Luft (Elementtradition)",
+      "number": "Königin: Reife und innere Kraft"
+    },
+    {
+      "kw_up": [
+        "Intellekt",
+        "Gerechtigkeit",
+        "Autorität",
+        "klares Denken"
+      ],
+      "kw_rev": [
+        "kalte Macht",
+        "Manipulation",
+        "Härte",
+        "Ungerechtigkeit"
+      ],
+      "about": "Ein gekrönter Mann sitzt auf einem Thron mit erhobenem Schwert unter einem Himmel mit Wolken und Winden. Die Karte steht für Denken, Gesetz und Gerechtigkeit.",
+      "love": "In der Liebe geht es um klare Kommunikation und faire Behandlung.",
+      "work": "Im Beruf kann es um fachliches Gewicht und Beurteilungen gehen.",
+      "advice": "Nutze dein Denken, um Gerechtigkeit zu schaffen.",
+      "element": "Luft",
+      "astro": "Luft in der Luft (Elementtradition)",
+      "number": "König: Meisterschaft und Verantwortung"
+    },
+    {
+      "kw_up": [
+        "neue Möglichkeit",
+        "Sicherheit",
+        "Samen",
+        "materieller Anfang"
+      ],
+      "kw_rev": [
+        "verpasste Chance",
+        "schlechte Planung",
+        "Unsicherheit",
+        "aufgeschoben"
+      ],
+      "about": "Eine Hand reicht aus einer Wolke eine goldene Münze über einem Garten mit einem Blumenbogen. Die Karte handelt von einem konkreten Samen von etwas, das wachsen kann.",
+      "love": "In der Liebe kann es ein neuer, bodenständiger Anfang sein, der sich sicher anfühlt.",
+      "work": "Im Beruf kann es eine neue Stelle, Idee oder konkrete Möglichkeit sein, die Wurzeln schlagen kann.",
+      "advice": "Pflanze den Samen und kümmere dich um ihn.",
+      "element": "Erde",
+      "astro": "Wurzel der Erde: die reine Kraft des Elements",
+      "number": "Eins: Samen und Anfang"
+    },
+    {
+      "kw_up": [
+        "Ausgleich",
+        "Anpassung",
+        "Flexibilität",
+        "Prioritäten setzen"
+      ],
+      "kw_rev": [
+        "Ungleichgewicht",
+        "Überlastung",
+        "Unordnung",
+        "Überblick verlieren"
+      ],
+      "about": "Ein Mann jongliert mit zwei Münzen, die durch ein Unendlichkeitszeichen verbunden sind, während hinten Schiffe auf den Wellen schaukeln. Die Karte handelt davon, mehrere Dinge in Bewegung zu halten.",
+      "love": "In der Liebe geht es darum, Zeit und Energie auszubalancieren.",
+      "work": "Im Beruf geht es um Flexibilität und Prioritäten.",
+      "advice": "Finde deinen Rhythmus und setze Prioritäten.",
+      "element": "Erde",
+      "astro": "Jupiter im Steinbock",
+      "number": "Zwei: Gleichgewicht und Dualität"
+    },
+    {
+      "kw_up": [
+        "Zusammenarbeit",
+        "Handwerk",
+        "Lernen",
+        "Teamarbeit"
+      ],
+      "kw_rev": [
+        "Uneinigkeit",
+        "schlechte Zusammenarbeit",
+        "unfertig",
+        "Schlamperei"
+      ],
+      "about": "Ein Handwerker arbeitet in einer Kirche, während zwei andere die Zeichnung betrachten. Die Karte handelt von Zusammenarbeit und Qualität.",
+      "love": "In der Liebe kann sie darauf hinweisen, gemeinsam Schritt für Schritt etwas aufzubauen.",
+      "work": "Im Beruf geht es um Können, Zusammenarbeit und Rückmeldung.",
+      "advice": "Baut gemeinsam auf und höre auf die, die mehr wissen.",
+      "element": "Erde",
+      "astro": "Mars im Steinbock",
+      "number": "Drei: Wachstum und Ausdruck"
+    },
+    {
+      "kw_up": [
+        "Sicherheit",
+        "Sparsamkeit",
+        "Kontrolle",
+        "Stabilität"
+      ],
+      "kw_rev": [
+        "Gier",
+        "Horten",
+        "loslassen",
+        "Befreiung"
+      ],
+      "about": "Ein Mann sitzt mit Münzen unter den Füßen und einer Münze auf dem Kopf und hält eine Münze an die Brust. Die Karte handelt von Sicherheit und Kontrolle.",
+      "love": "In der Liebe kann sie auf das Bedürfnis nach Kontrolle und Sicherheit hinweisen und darauf, sich zu öffnen.",
+      "work": "Im Beruf geht es um Stabilität und Sparsamkeit.",
+      "advice": "Halte fest, was dir Sicherheit gibt, ohne dich einzuschließen.",
+      "element": "Erde",
+      "astro": "Sonne im Steinbock",
+      "number": "Vier: Fundament und Stabilität"
+    },
+    {
+      "kw_up": [
+        "Not",
+        "Ausgeschlossensein",
+        "Sorge",
+        "Bedürftigkeit"
+      ],
+      "kw_rev": [
+        "Besserung",
+        "Hilfe",
+        "ein Ausweg",
+        "Unterstützung"
+      ],
+      "about": "Zwei Gestalten gehen durch den Schnee an einem erleuchteten Kirchenfenster vorbei. Die Karte handelt von einer kalten Zeit, in der Hilfe näher sein kann, als man denkt.",
+      "love": "In der Liebe kann sie auf Einsamkeit oder das Gefühl des Ausgeschlossenseins hinweisen, und darauf, dass es erlaubt ist, um Unterstützung zu bitten.",
+      "work": "Im Beruf geht es um eine schwierige Zeit und das Bedürfnis nach Unterstützung.",
+      "advice": "Bitte um Hilfe, sie kann nah sein.",
+      "element": "Erde",
+      "astro": "Merkur im Stier",
+      "number": "Fünf: Herausforderung und Mangel"
+    },
+    {
+      "kw_up": [
+        "Großzügigkeit",
+        "Teilen",
+        "Gerechtigkeit",
+        "Unterstützung"
+      ],
+      "kw_rev": [
+        "Schulden",
+        "Ungleichheit",
+        "Egoismus",
+        "Ungleichgewicht"
+      ],
+      "about": "Ein Kaufmann verteilt Münzen und hält eine Waage, während zwei um Hilfe bitten. Die Karte handelt von Geben und Nehmen im Gleichgewicht.",
+      "love": "In der Liebe geht es um Gegenseitigkeit in dem, was gegeben und genommen wird.",
+      "work": "Im Beruf geht es um Lohn, gerechte Verteilung und Unterstützung.",
+      "advice": "Gib und nimm mit gleich offenen Händen.",
+      "element": "Erde",
+      "astro": "Mond im Stier",
+      "number": "Sechs: Harmonie und Austausch"
+    },
+    {
+      "kw_up": [
+        "Geduld",
+        "Bewertung",
+        "Langfristigkeit",
+        "Ernte"
+      ],
+      "kw_rev": [
+        "Ungeduld",
+        "schlechte Investition",
+        "fehlende Belohnung",
+        "Frustration"
+      ],
+      "about": "Ein Mann lehnt auf einer Hacke und betrachtet einen Strauch mit sieben Münzen. Die Karte handelt vom Warten und davon, die Früchte der Arbeit zu beurteilen.",
+      "love": "In der Liebe geht es darum, etwas wachsen zu lassen und nicht zu drängen.",
+      "work": "Im Beruf geht es um langfristigen Einsatz und darum, Ergebnisse zu beurteilen.",
+      "advice": "Gib ihm Zeit und sieh, was du gesät hast.",
+      "element": "Erde",
+      "astro": "Saturn im Stier",
+      "number": "Sieben: Abwägen und Geduld"
+    },
+    {
+      "kw_up": [
+        "Handwerk",
+        "Übung",
+        "Fokus",
+        "Geschick"
+      ],
+      "kw_rev": [
+        "Perfektionismus",
+        "Ungeschicklichkeit",
+        "Wiederholung",
+        "fehlender Fokus"
+      ],
+      "about": "Ein Handwerker schlägt eine Münze an einen Stab und hat sieben fertige Münzen neben sich. Die Karte handelt von Fleiß und Übung.",
+      "love": "In der Liebe geht es um Einsatz und Fürsorge im Kleinen.",
+      "work": "Im Beruf geht es darum, Fähigkeiten zu entwickeln und sich zu vertiefen.",
+      "advice": "Übe, und lass die Qualität wachsen.",
+      "element": "Erde",
+      "astro": "Sonne in der Jungfrau",
+      "number": "Acht: Meisterschaft und Entwicklung"
+    },
+    {
+      "kw_up": [
+        "Selbstständigkeit",
+        "Fülle",
+        "Raffinesse",
+        "Sicherheit"
+      ],
+      "kw_rev": [
+        "Abhängigkeit",
+        "übermäßige Kontrolle",
+        "Einsamkeit",
+        "Verlust von Sicherheit"
+      ],
+      "about": "Eine Frau steht in einem Weinberg mit einem Falken auf der Hand und Münzen um sich. Die Karte handelt von Selbstständigkeit und der Frucht der eigenen Mühe.",
+      "love": "In der Liebe geht es um Selbstständigkeit und Sicherheit in sich selbst.",
+      "work": "Im Beruf kann sie auf eine sichere Position und anerkannten Einsatz hinweisen.",
+      "advice": "Genieße die Früchte deiner eigenen Arbeit.",
+      "element": "Erde",
+      "astro": "Venus in der Jungfrau",
+      "number": "Neun: fast vollendet und Selbstständigkeit"
+    },
+    {
+      "kw_up": [
+        "Erbe",
+        "Familie",
+        "langfristige Sicherheit",
+        "Gemeinschaft"
+      ],
+      "kw_rev": [
+        "Familienkonflikt",
+        "Instabilität",
+        "Verlust der Wurzeln",
+        "Erbstreit"
+      ],
+      "about": "Ein alter Mann sitzt mit einem Hund, ein Paar und ein Kind stehen unter einem Tor mit zehn Münzen. Die Karte handelt von Herkunft, Zuhause und dem, was weitergegeben wird.",
+      "love": "In der Liebe geht es um dauerhafte Sicherheit und ein gemeinsames Leben.",
+      "work": "Im Beruf geht es um Stabilität, Tradition und langfristigen Aufbau.",
+      "advice": "Baue für die, die nach dir kommen.",
+      "element": "Erde",
+      "astro": "Merkur in der Jungfrau",
+      "number": "Zehn: Vollendung und Erbe"
+    },
+    {
+      "kw_up": [
+        "Studium",
+        "Bodenständigkeit",
+        "Neugier",
+        "Potenzial"
+      ],
+      "kw_rev": [
+        "Unaufmerksamkeit",
+        "Aufschieben",
+        "unklare Ziele",
+        "Ehrgeizlosigkeit"
+      ],
+      "about": "Eine junge Person steht auf einer grünen Wiese und betrachtet eine Münze in ihren Händen. Die Karte steht für Lernfreude und einen bodenständigen Samen.",
+      "love": "In der Liebe kann es ein ruhiger, aufrichtiger Anfang sein.",
+      "work": "Im Beruf geht es um Lernen und praktische Schritte.",
+      "advice": "Mache einen praktischen Schritt nach dem anderen.",
+      "element": "Erde",
+      "astro": "Erde in der Erde (Elementtradition)",
+      "number": "Bube: Bote und Anfänger"
+    },
+    {
+      "kw_up": [
+        "Zuverlässigkeit",
+        "Fleiß",
+        "Geduld",
+        "Routine"
+      ],
+      "kw_rev": [
+        "Langeweile",
+        "Sturheit",
+        "Trägheit",
+        "Perfektionismus"
+      ],
+      "about": "Ein Ritter hält eine Münze, während er auf einem ruhigen schwarzen Pferd auf einem gepflügten Acker sitzt. Die Karte steht für stetigen und gründlichen Einsatz.",
+      "love": "In der Liebe geht es um Treue und regelmäßige Fürsorge.",
+      "work": "Im Beruf geht es um Gründlichkeit und Zuverlässigkeit.",
+      "advice": "Halte ein gleichmäßiges Tempo und mach es gründlich.",
+      "element": "Erde",
+      "astro": "Feuer in der Erde (Elementtradition)",
+      "number": "Ritter: Bewegung und Handlung"
+    },
+    {
+      "kw_up": [
+        "Fürsorge",
+        "Praxisnähe",
+        "Großzügigkeit",
+        "Sicherheit"
+      ],
+      "kw_rev": [
+        "Sorge",
+        "Materialismus",
+        "Überarbeitung",
+        "Selbstvernachlässigung"
+      ],
+      "about": "Eine gekrönte Frau sitzt in einem blühenden Garten mit einer Münze im Schoß und einem Hasen in der Nähe. Die Karte steht für praktische Fürsorge und Wärme.",
+      "love": "In der Liebe geht es um Fürsorge und darum, ein behagliches Zuhause zu schaffen.",
+      "work": "Im Beruf geht es darum, auf Ressourcen und Menschen achtzugeben.",
+      "advice": "Sorge für dich selbst und die Menschen um dich.",
+      "element": "Erde",
+      "astro": "Wasser in der Erde (Elementtradition)",
+      "number": "Königin: Reife und innere Kraft"
+    },
+    {
+      "kw_up": [
+        "Stabilität",
+        "Ressourcen",
+        "Erfahrung",
+        "verlässliche Führung"
+      ],
+      "kw_rev": [
+        "Sturheit",
+        "Geiz",
+        "Materialismus",
+        "Starrheit"
+      ],
+      "about": "Ein gekrönter Mann sitzt auf einem mit Stieren geschmückten Thron, mit Münze und Zepter, in einem Garten voller Trauben. Die Karte steht für gereifte Sicherheit und solide Führung.",
+      "love": "In der Liebe geht es um Sicherheit, Verlässlichkeit und praktische Unterstützung.",
+      "work": "Im Beruf geht es um Stabilität, Erfahrung und die Fähigkeit, aufzubauen.",
+      "advice": "Baue solide und teile den Überschuss.",
+      "element": "Erde",
+      "astro": "Luft in der Erde (Elementtradition)",
+      "number": "König: Meisterschaft und Verantwortung"
+    }
+  ]
+}

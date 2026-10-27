@@ -1,0 +1,784 @@
+{
+ "rituals": [
+  {
+   "id": "menulis-avine",
+   "group": "sign",
+   "sign": 0,
+   "intent": "begin",
+   "title": "Mėnulis Avine: drąsus pirmas žingsnis",
+   "teaser": "Raudona žvakė ir vienas smulkus veiksmas, kurį padarysite tą pačią dieną – ritualas tiems, kurie per ilgai delsė.",
+   "intro": [
+    "Mėnulis kiekviename zodiako ženkle išbūna maždaug nuo dviejų iki dviejų su puse paros, todėl šiam ritualui turite gana ilgą langą. Kalendoriuje ar Mėnulio programėlėje pažiūrėkite, kada Mėnulis įžengia į Aviną, ir pasirinkite vieną iš tų dienų.",
+    "Avinas – ugnies, kardinalus ženklas, o jo valdovas – Marsas. Tradiciškai jis siejamas su pradžia, drąsa ir tiesmuku veiksmu. Šiuolaikinėje ezoterinėje praktikoje Mėnulio buvimas šiame ženkle laikomas geru metu nutraukti dvejones.",
+    "Ritualas nežada rezultato. Jis padeda aiškiai įvardyti, ką norite pradėti, ir padaryti pirmą mažą žingsnį dar nespėjus persigalvoti."
+   ],
+   "symbolism": [
+    "Ugnis – Avino elementas; tradiciškai siejama su iniciatyva ir energija",
+    "Kardinalus ženklas – ženklas, kuris „atidaro“ sezoną, todėl jis siejamas su pradžiomis",
+    "Marsas – klasikinėje astrologijoje veiksmo ir ryžto planeta",
+    "Raudona spalva – šiuolaikinėje ritualinėje praktikoje siejama su energija ir drąsa"
+   ],
+   "timing": {
+    "phase": "bet kuri fazė, geriausia augantis Mėnulis",
+    "sign": "Mėnulis Avino ženkle",
+    "day": "Antradienis (Marso diena) arba bet kuri diena, kai Mėnulis Avine",
+    "hour": "Ryte arba dieną, kai turite jėgų veikti"
+   },
+   "duration": "apie 20 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Raudona arba balta žvakė laikiklyje",
+    "Lapelis ir rašiklis",
+    "Laikrodis ar telefonas laikmačiui",
+    "Degtukai arba žiebtuvėlis"
+   ],
+   "prep": [
+    "Išsirinkite vieną dalyką, kurį atidėliojate, ir nustatykite, koks yra mažiausias jo pirmas žingsnis (pavyzdžiui, parašyti pirmą sakinį ar paskambinti).",
+    "Pasirūpinkite, kad pirmą žingsnį galėtumėte padaryti tą pačią dieną."
+   ],
+   "steps": [
+    {
+     "title": "Paruoškite vietą",
+     "text": "Pastatykite žvakę laikiklyje ant karščiui atsparaus paviršiaus, atokiau nuo popieriaus. Atsistokite ar atsisėskite taip, kad nugara būtų tiesi."
+    },
+    {
+     "title": "Uždekite žvakę",
+     "text": "Uždegdami ištarkite: „Šiandien pradedu.“ Penkis kartus giliai įkvėpkite, kiekvieną iškvėpimą trumpai ir tvirtai."
+    },
+    {
+     "title": "Užrašykite pradžią",
+     "text": "Ant lapelio vienu sakiniu parašykite, ką pradedate, ir kokį mažą žingsnį atliksite šiandien."
+    },
+    {
+     "title": "Nustatykite dešimt minučių",
+     "text": "Nustatykite laikmatį dešimčiai minučių ir tuoj pat imkitės to žingsnio, kol žvakė dega, o jūs esate šalia."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite sau už pradžią. Užgesinkite žvakę gesintuvu ar sudrėkintais pirštais ir įsitikinkite, kad nebesidaro dūmelio."
+    }
+   ],
+   "words": "Aš nelaukiu tobulos akimirkos.\nŠiandien padarau pirmą žingsnį.\nTegul drąsa būna paprasta ir aiški.",
+   "after": [
+    "Lapelį padėkite ten, kur jį matysite kelias dienas.",
+    "Po savaitės pažiūrėkite, ar pirmas žingsnis tapo antru."
+   ],
+   "safety": "Žvakė turi degti tik tada, kai esate šalia, ant karščiui atsparaus stabilaus paviršiaus, atokiau nuo popieriaus, audinių, vaikų ir augintinių; išeidami visada ją užgesinkite. Ritualas yra simbolinė refleksijos priemonė, o ne sėkmės ar rezultato garantija."
+  },
+  {
+   "id": "menulis-jauti",
+   "group": "sign",
+   "sign": 1,
+   "intent": "money",
+   "title": "Mėnulis Jautyje: monetos ir ramybė",
+   "teaser": "Vakaras prie žvakės, skirtas pajamoms, namams ir daiktams, kurie jums tikrai vertingi – be skubos.",
+   "intro": [
+    "Mėnulis kiekviename ženkle išbūna maždaug nuo dviejų iki dviejų su puse paros, tad turite kelias dienas pasirinkti ramią valandą.",
+    "Jautis – žemės, pastovus ženklas, valdomas Veneros. Tradicinėje astrologijoje jis siejamas su pastovumu, jusliniu malonumu ir santykiu su materialiais dalykais. Šiuolaikinėje ritualinėje praktikoje šis metas dažnai skiriamas pinigų ir turto klausimams apmąstyti.",
+    "Ritualas nepakeičia biudžeto ir nėra finansinė rekomendacija. Tai būdas ramiai pasakyti sau, ką laikote pakankamu."
+   ],
+   "symbolism": [
+    "Žemė – Jaučio elementas; tradiciškai siejama su praktiškumu ir pastovumu",
+    "Pastovus ženklas – ženklas, siejamas su ištverme ir nenoru skubėti",
+    "Venera – klasikinėje astrologijoje vertės, malonumo ir grožio planeta",
+    "Žalia spalva – šiuolaikinėje vakarų praktikoje siejama su augimu ir gausa"
+   ],
+   "timing": {
+    "phase": "bet kuri fazė, geriausia augantis Mėnulis",
+    "sign": "Mėnulis Jaučio ženkle",
+    "day": "Penktadienis (Veneros diena) arba ketvirtadienis (Jupiterio diena)",
+    "hour": "Vakare, kai namuose tylu"
+   },
+   "duration": "apie 25 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Žalia arba balta žvakė laikiklyje",
+    "Trys monetos",
+    "Lapelis ir rašiklis",
+    "Vienas jums malonus ar gražus daiktas (pavyzdžiui, akmenukas ar audinio skiautelė)"
+   ],
+   "prep": [
+    "Surašykite tris dalykus, už kuriuos šiuo metu dėkojate savo materialiame gyvenime.",
+    "Apsispręskite, kurią sumą ar kurį pajamų šaltinį šiandien norėtumėte paminėti – tik tiek, kiek žinote tikrai."
+   ],
+   "steps": [
+    {
+     "title": "Pasirūpinkite vieta",
+     "text": "Žvakę pastatykite ant karščiui atsparaus paviršiaus, monetas ir gražų daiktą – šalia. Sėskite patogiai ir pajuskite, kaip remiasi kojos."
+    },
+    {
+     "title": "Uždekite žvakę",
+     "text": "Uždegę lėtai įkvėpkite ir iškvėpkite tris kartus, tada palaikykite monetą delne, kol ji sušils."
+    },
+    {
+     "title": "Pasakykite, kas jums pakankama",
+     "text": "Garsiai pasakykite du sakinius: pirmajame – ką šiuo metu laikote pakankamu, antrajame – ko norėtumėte šiek tiek daugiau."
+    },
+    {
+     "title": "Padėkite monetas",
+     "text": "Tris monetas padėkite šalia žvakės ant lapelio su trimis dėkingumo dalykais."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite sau už laiką. Užgesinkite žvakę gesintuvu ar sudrėkintais pirštais ir įsitikinkite, kad nebesidaro dūmelio."
+    }
+   ],
+   "words": "Turiu pakankamai, kad galėčiau žengti toliau.\nTvarkau savo išteklius ramiai ir atidžiai.\nTegul vertė mano gyvenime auga lėtai ir tvirtai.",
+   "after": [
+    "Monetas laikykite piniginėje ar darbo vietoje kaip priminimą.",
+    "Po savaitės pažiūrėkite, kokį mažą praktinį sprendimą dėl pinigų priėmėte."
+   ],
+   "safety": "Žvakė turi degti tik tada, kai esate šalia, ant karščiui atsparaus stabilaus paviršiaus, atokiau nuo popieriaus, audinių, vaikų ir augintinių; išeidami visada ją užgesinkite. Ritualas nepateikia finansinių patarimų ir nežada pajamų. Jis yra simbolinė refleksijos priemonė, o ne sėkmės ar rezultato garantija."
+  },
+  {
+   "id": "menulis-dvyniai",
+   "group": "sign",
+   "sign": 2,
+   "intent": "intuition",
+   "title": "Mėnulis Dvyniuose: žodžiai ir dvi pusės",
+   "teaser": "Dviejų stulpelių lapas ir kortų pora – ritualas tiems, kurie svarsto du kelius ar du požiūrius.",
+   "intro": [
+    "Mėnulis kiekviename ženkle išbūna maždaug nuo dviejų iki dviejų su puse paros.",
+    "Dvyniai – oro, kintamas ženklas, valdomas Merkurijaus. Tradiciškai jis siejamas su žodžiu, smalsumu, mokymusi ir pokalbiu. Šiuolaikinėje ezoterinėje praktikoje tai metas rašyti, klausinėti ir svarstyti kelias galimybes.",
+    "Ritualas padeda sudėlioti mintis; sprendimo jis nepriima už jus."
+   ],
+   "symbolism": [
+    "Oras – Dvynių elementas; tradiciškai siejamas su mintimi ir bendravimu",
+    "Kintamas ženklas – ženklas, siejamas su lankstumu ir perėjimais",
+    "Merkurijus – klasikinėje astrologijoje kalbos ir mąstymo planeta",
+    "Pora – dvynystė primena, kad dažnai turime du požiūrius į tą patį klausimą"
+   ],
+   "timing": {
+    "phase": "bet kuri fazė, geriausia augantis Mėnulis",
+    "sign": "Mėnulis Dvynių ženkle",
+    "day": "Trečiadienis (Merkurijaus diena)",
+    "hour": "Dieną ar vakare, kai galite rašyti be trukdžių"
+   },
+   "duration": "apie 25 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Lapelis ir rašiklis",
+    "Geltona arba balta žvakė laikiklyje",
+    "Dvi kortos iš jūsų taro kaladės (pavyzdžiui, Kardų dvejetas ir Magas)",
+    "Degtukai arba žiebtuvėlis"
+   ],
+   "prep": [
+    "Suformuluokite klausimą, kurį svarstote, taip, kad jis turėtų du aiškius atsakymus.",
+    "Išjunkite pranešimus – šiam ritualui reikia tylos."
+   ],
+   "steps": [
+    {
+     "title": "Padalykite lapą",
+     "text": "Lapelį perlenkite per pusę. Viename stulpelyje parašykite pirmą požiūrį, kitame – antrą."
+    },
+    {
+     "title": "Uždekite žvakę",
+     "text": "Pastatykite žvakę ant karščiui atsparaus paviršiaus. Uždegę parašykite po tris argumentus kiekvienoje pusėje."
+    },
+    {
+     "title": "Perskaitykite garsiai",
+     "text": "Perskaitykite abu stulpelius lyg dviejų skirtingų žmonių balsais. Pastebėkite, kuri pusė skamba labiau jūsų."
+    },
+    {
+     "title": "Atverskite dvi kortas",
+     "text": "Atverskite dvi kortas, po vieną kiekvienam stulpeliui, ir paklauskite: ką šis vaizdas man primena apie šį pasirinkimą? Tai tik simbolis, ne atsakymas."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Užsirašykite vieną sakinį, kurį galėsite sau pasakyti, kai vėl svarstysite. Užgesinkite žvakę gesintuvu ar sudrėkintais pirštais."
+    }
+   ],
+   "words": "Matau abi puses ir leidžiu sau mąstyti.\nŽodis padeda man suprasti.\nKai viskas aišku, žengiu toliau.",
+   "after": [
+    "Lapelį palaikykite kelias dienas ir grįžkite perskaityti.",
+    "Jei norite, pasikalbėkite su patikimu žmogumi, kuris padeda jums mąstyti, bet nesprendžia už jus."
+   ],
+   "safety": "Žvakė turi degti tik tada, kai esate šalia, ant karščiui atsparaus stabilaus paviršiaus, atokiau nuo popieriaus, audinių, vaikų ir augintinių; išeidami visada ją užgesinkite. Ritualas nepakeičia specialisto patarimo teisės, sveikatos ar finansų klausimais. Ritualas yra simbolinė refleksijos priemonė, o ne sėkmės ar rezultato garantija."
+  },
+  {
+   "id": "menulis-vezys",
+   "group": "sign",
+   "sign": 3,
+   "intent": "protect",
+   "title": "Mėnulis Vėžyje: namų šiluma",
+   "teaser": "Dubenėlis vandens, žvakė ir namų slenkstis – švelnus ritualas tiems, kam reikia saugios vietos savyje.",
+   "intro": [
+    "Vėžys – vienintelis ženklas, kurį valdo pats Mėnulis, todėl tradicinėje astrologijoje Mėnulio buvimas Vėžyje laikomas ypač „namų“ laiku. Mėnulis čia išbūna maždaug nuo dviejų iki dviejų su puse paros.",
+    "Vėžys – vandens, kardinalus ženklas, siejamas su namais, šeima, jausmu ir globa.",
+    "Ritualas skirtas jaukumui ir saugumo pojūčiui kurti. Jis nepakeičia realių saugumo priemonių."
+   ],
+   "symbolism": [
+    "Vanduo – Vėžio elementas; tradiciškai siejamas su jausmu ir intuicija",
+    "Kardinalus ženklas – ženklas, kuris pradeda vandens sezoną",
+    "Mėnulis – ženklo valdovas, siejamas su ciklais ir globa",
+    "Slenkstis – ribos tarp lauko ir namų ženklas daugelyje kultūrų"
+   ],
+   "timing": {
+    "phase": "bet kuri fazė, geriausia pilnatis arba augantis Mėnulis",
+    "sign": "Mėnulis Vėžio ženkle",
+    "day": "Pirmadienis (Mėnulio diena)",
+    "hour": "Vakare, kai namuose tylu"
+   },
+   "duration": "apie 25 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Balta arba sidabrinė žvakė laikiklyje",
+    "Dubenėlis su vandeniu (ne gėrimui)",
+    "Balta staltiesėlė",
+    "Degtukai arba žiebtuvėlis"
+   ],
+   "prep": [
+    "Aptvarkykite kambarį ir paruoškite vietą prie durų ar lango.",
+    "Pagalvokite, kokio jausmo namuose šiuo metu labiausiai trūksta."
+   ],
+   "steps": [
+    {
+     "title": "Paruoškite vietą",
+     "text": "Ant staltiesėlės pastatykite dubenėlį su vandeniu, o žvakę – ant karščiui atsparaus padėklo, atokiau nuo audinio."
+    },
+    {
+     "title": "Uždekite žvakę",
+     "text": "Uždegę trumpai patylėkite ir įsivaizduokite namus kaip šiltą, jus apglėbiantį kiautą."
+    },
+    {
+     "title": "Pamirkykite pirštus",
+     "text": "Pamirkykite pirštus vandenyje ir lėtai perbraukite per kaktą ar riešus. Vanduo čia – tik švelnaus nurimimo simbolis."
+    },
+    {
+     "title": "Užgesinkite ir apeikite namus",
+     "text": "Užgesinkite žvakę gesintuvu ar sudrėkintais pirštais ir įsitikinkite, kad nebesidaro dūmelio. Tik tada lėtai apeikite namus ar kambarį ir kiekviename slenkstyje tyliai pasakykite: „Čia ramu.“"
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Grįžkite prie stalo ir padėkokite sau. Vandenį išpilkite į kriauklę."
+    }
+   ],
+   "words": "Mano namai yra ramus prieglobstis.\nČia galiu pailsėti.\nTegul šiluma lieka su manimi.",
+   "after": [
+    "Šiandien vakare padarykite vieną jaukų dalyką: arbatą, šiltą šviesą ar minkštą pledą.",
+    "Jei dėl realių priežasčių nesijaučiate saugiai, kreipkitės į artimuosius ar pagalbos tarnybas."
+   ],
+   "safety": "Žvakė turi degti tik tada, kai esate šalia, ant karščiui atsparaus stabilaus paviršiaus, atokiau nuo popieriaus, audinių, vaikų ir augintinių; išeidami visada ją užgesinkite. Vandens negerkite. Ritualas yra simbolinė refleksijos priemonė, o ne sėkmės ar rezultato garantija."
+  },
+  {
+   "id": "menulis-liutas",
+   "group": "sign",
+   "sign": 4,
+   "intent": "love",
+   "title": "Mėnulis Liūte: širdies šviesa",
+   "teaser": "Auksinė žvakė, veidrodis ir sakinys apie tai, ką jūs mylite savyje – ritualas drąsiai savigarbai.",
+   "intro": [
+    "Mėnulis kiekviename ženkle išbūna maždaug nuo dviejų iki dviejų su puse paros.",
+    "Liūtas – ugnies, pastovus ženklas, valdomas Saulės. Tradiciškai jis siejamas su širdimi, kūryba, dosnumu ir potraukiu į dėmesį.",
+    "Ritualas skirtas ne kito žmogaus patraukimui, o savo paties šilumos pripažinimui."
+   ],
+   "symbolism": [
+    "Ugnis – Liūto elementas; siejama su šiluma ir gyvybingumu",
+    "Pastovus ženklas – siejamas su ištikimybe ir ištverme",
+    "Saulė – klasikinėje astrologijoje šviesos ir tapatybės šaltinis",
+    "Auksinė spalva – šiuolaikinėje praktikoje siejama su pasididžiavimu ir džiaugsmu"
+   ],
+   "timing": {
+    "phase": "bet kuri fazė, geriausia augantis Mėnulis",
+    "sign": "Mėnulis Liūto ženkle",
+    "day": "Sekmadienis (Saulės diena)",
+    "hour": "Dieną arba vakarėjant, kai šviesa dar šilta"
+   },
+   "duration": "apie 20 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Geltona, auksinė ar balta žvakė laikiklyje",
+    "Nedidelis veidrodis",
+    "Lapelis ir rašiklis",
+    "Degtukai arba žiebtuvėlis"
+   ],
+   "prep": [
+    "Prisiminkite tris savo savybes ar poelgius, kuriais didžiuojatės.",
+    "Raskite vietą, kur galėsite ramiai žiūrėti į veidrodį."
+   ],
+   "steps": [
+    {
+     "title": "Pastatykite žvakę",
+     "text": "Žvakę laikiklyje pastatykite ant stabilaus, karščiui atsparaus paviršiaus, veidrodį – atremkite šalia, kad matytumėte savo veidą."
+    },
+    {
+     "title": "Uždekite žvakę",
+     "text": "Uždegę kelis kartus lėtai įkvėpkite. Švelniai pažvelkite į save, nesiekdami nieko taisyti."
+    },
+    {
+     "title": "Pasakykite tris dalykus",
+     "text": "Garsiai tris kartus pasakykite: „Aš myliu savyje…“ ir pratęskite kiekvieną skirtingu dalyku."
+    },
+    {
+     "title": "Užrašykite",
+     "text": "Ant lapelio parašykite vieną sakinį apie tai, kuo šią savaitę pradžiuginsite save."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite sau, užgesinkite žvakę gesintuvu ar sudrėkintais pirštais ir įsitikinkite, kad nebesidaro dūmelio."
+    }
+   ],
+   "words": "Šiluma priklauso ir man – bet kurią dieną.\nMano širdis dosni ir ryški.\nLeidžiu savo šviesai matytis.",
+   "after": [
+    "Lapelį padėkite ten, kur pamatysite kasdien.",
+    "Savaitę padarykite po vieną mažą džiaugsmingą dalyką sau."
+   ],
+   "safety": "Žvakė turi degti tik tada, kai esate šalia, ant karščiui atsparaus stabilaus paviršiaus, atokiau nuo popieriaus, audinių, vaikų ir augintinių; išeidami visada ją užgesinkite. Ritualas yra simbolinė refleksijos priemonė, o ne sėkmės ar rezultato garantija."
+  },
+  {
+   "id": "menulis-mergele",
+   "group": "sign",
+   "sign": 5,
+   "intent": "cleanse",
+   "title": "Mėnulis Mergelėje: tvarka ir lengvumas",
+   "teaser": "Vienas stalčius, vienas sąrašas ir kelios minutės tylos – praktiškas ritualas, kai norisi aiškumo.",
+   "intro": [
+    "Mėnulis kiekviename ženkle išbūna maždaug nuo dviejų iki dviejų su puse paros.",
+    "Mergelė – žemės, kintamas ženklas, valdomas Merkurijaus. Tradiciškai siejamas su tvarka, smulkmenomis, kasdienėmis rutinomis ir paslauga.",
+    "Šiuolaikinėje ritualinėje praktikoje šis metas tinka išvalyti vieną mažą erdvę ir kartu atlaisvinti mintis. Ritualas nėra higienos ar sveikatos priemonė."
+   ],
+   "symbolism": [
+    "Žemė – Mergelės elementas; siejama su praktiškumu",
+    "Kintamas ženklas – siejamas su prisitaikymu ir perėjimais",
+    "Merkurijus – klasikinėje astrologijoje analizės planeta",
+    "Balta spalva – šiuolaikinėje praktikoje siejama su aiškumu"
+   ],
+   "timing": {
+    "phase": "bet kuri fazė, geriausia mažėjantis Mėnulis",
+    "sign": "Mėnulis Mergelės ženkle",
+    "day": "Trečiadienis (Merkurijaus diena)",
+    "hour": "Dieną, kai turite pusvalandį be skubos"
+   },
+   "duration": "apie 30 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Vienas stalčius, lentyna ar krepšys, kurį tvarkysite",
+    "Balta žvakė laikiklyje",
+    "Lapelis ir rašiklis",
+    "Du maišai daiktams, kurių atsisakysite"
+   ],
+   "prep": [
+    "Pasirinkite tik vieną nedidelę erdvę.",
+    "Paruoškite maišus: vienas – išmesti, kitas – padovanoti."
+   ],
+   "steps": [
+    {
+     "title": "Uždekite žvakę",
+     "text": "Pastatykite žvakę ant karščiui atsparaus paviršiaus atokiau nuo tvarkomų daiktų ir uždekite. Kelias akimirkas pažiūrėkite į pasirinktą erdvę."
+    },
+    {
+     "title": "Išimkite viską",
+     "text": "Viską išimkite ir padėkite. Apie kiekvieną daiktą trumpai paklauskite savęs: ar tai man dar tarnauja?"
+    },
+    {
+     "title": "Grąžinkite tik reikalingus",
+     "text": "Grąžinkite tik tuos daiktus, kurie jums padeda ar džiugina. Likusius sudėkite į maišus."
+    },
+    {
+     "title": "Užrašykite",
+     "text": "Ant lapelio parašykite, ar dabar jaučiate lengvumą, ir ką dar norėtumėte sutvarkyti vėliau."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite erdvei. Užgesinkite žvakę gesintuvu ar sudrėkintais pirštais."
+    }
+   ],
+   "words": "Palieku tik tai, kas man tarnauja.\nTvarka man suteikia erdvės.\nViena maža vieta – vienas žingsnis.",
+   "after": [
+    "Maišus išneškite tą pačią dieną.",
+    "Po savaitės pažiūrėkite, ar pasirinkta vieta išliko tvarkinga."
+   ],
+   "safety": "Žvakė turi degti tik tada, kai esate šalia, ant karščiui atsparaus stabilaus paviršiaus, atokiau nuo popieriaus, audinių, vaikų ir augintinių; išeidami visada ją užgesinkite. Ritualas yra simbolinė refleksijos priemonė, o ne sėkmės ar rezultato garantija."
+  },
+  {
+   "id": "menulis-svarstykles",
+   "group": "sign",
+   "sign": 6,
+   "intent": "love",
+   "title": "Mėnulis Svarstyklėse: pusiausvyros vakaras",
+   "teaser": "Dvi žvakės, dvi lėkštutės ir kelios eilutės apie santykių pusiausvyrą – ritualas sau, ne kitam žmogui.",
+   "intro": [
+    "Mėnulis kiekviename ženkle išbūna maždaug nuo dviejų iki dviejų su puse paros.",
+    "Svarstyklės – oro, kardinalus ženklas, valdomas Veneros. Tradiciškai siejamas su santykiais, grožiu, teisingumu ir pusiausvyra.",
+    "Ritualas skirtas jūsų pačių santykių su kitais apmąstymui. Jis neskirtas kito asmens pritraukimui ar paveikimui."
+   ],
+   "symbolism": [
+    "Oras – Svarstyklių elementas; siejamas su santykiu ir mintimi",
+    "Kardinalus ženklas – siejamas su pradžiomis",
+    "Venera – klasikinėje astrologijoje harmonijos ir malonumo planeta",
+    "Svarstyklės – pusiausvyros simbolis; tarote jį primena Teisingumas"
+   ],
+   "timing": {
+    "phase": "bet kuri fazė, geriausia augantis Mėnulis",
+    "sign": "Mėnulis Svarstyklių ženkle",
+    "day": "Penktadienis (Veneros diena)",
+    "hour": "Vakare, kai jaučiatės ramiai"
+   },
+   "duration": "apie 25 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Dvi žvakės laikikliuose",
+    "Dvi mažos lėkštutės",
+    "Lapelis ir rašiklis",
+    "Degtukai arba žiebtuvėlis"
+   ],
+   "prep": [
+    "Pagalvokite apie santykį (draugystės, šeimos ar poros), kuriame norėtumėte daugiau pusiausvyros.",
+    "Nuspręskite, kuo esate pasirengę prisidėti savo pusėje."
+   ],
+   "steps": [
+    {
+     "title": "Padėkite lėkštutes",
+     "text": "Dvi lėkštutes padėkite vieną šalia kitos. Žvakes pastatykite ant karščiui atsparaus paviršiaus."
+    },
+    {
+     "title": "Uždekite žvakes",
+     "text": "Uždegę vieną žvakę pasakykite, ką duodate santykiui; uždegę antrą – ko jums norėtųsi sulaukti."
+    },
+    {
+     "title": "Užrašykite",
+     "text": "Ant lapelio dviem stulpeliais parašykite abu sąrašus. Venkite kaltinimų – rašykite tik faktus."
+    },
+    {
+     "title": "Pasirinkite vieną žingsnį",
+     "text": "Pasirinkite vieną mažą žingsnį, kurį atliksite jūs, pavyzdžiui, užduosite sąžiningą klausimą ar pasakysite paprastą „ačiū“."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Užgesinkite žvakes gesintuvu ar sudrėkintais pirštais ir patikrinkite, ar nebesidaro dūmelio."
+    }
+   ],
+   "words": "Ieškau teisingos pusiausvyros.\nDuodu ir priimu su dėkingumu.\nSantykį kuriu atvirai.",
+   "after": [
+    "Įgyvendinkite pasirinktą žingsnį per kelias dienas.",
+    "Nesitikėkite, kad kitas žmogus pasikeis – stebėkite savo paties pasirinkimus."
+   ],
+   "safety": "Žvakė turi degti tik tada, kai esate šalia, ant karščiui atsparaus stabilaus paviršiaus, atokiau nuo popieriaus, audinių, vaikų ir augintinių; išeidami visada ją užgesinkite. Ritualas yra simbolinė refleksijos priemonė, o ne sėkmės ar rezultato garantija."
+  },
+  {
+   "id": "menulis-skorpionas",
+   "group": "sign",
+   "sign": 7,
+   "intent": "intuition",
+   "title": "Mėnulis Skorpione: gilus klausymas",
+   "teaser": "Tamsus kambarys, žvakė ir klausimas sau – ritualas tiems, kurie nori pažvelgti giliau.",
+   "intro": [
+    "Mėnulis kiekviename ženkle išbūna maždaug nuo dviejų iki dviejų su puse paros.",
+    "Skorpionas – vandens, pastovus ženklas, tradiciškai valdomas Marso, o šiuolaikinėje astrologijoje dar siejamas su Plutonu. Jis siejamas su gilumu, intensyvumu ir transformacija.",
+    "Ritualas skirtas ramiam savistabos pokalbiui, o ne būrimui apie kitus."
+   ],
+   "symbolism": [
+    "Vanduo – Skorpiono elementas",
+    "Pastovus ženklas – ištvermės ir sutelktumo ženklas",
+    "Marsas (tradiciškai) ir Plutonas (šiuolaikinėje astrologijoje) – gilių pokyčių temos",
+    "Tamsa – vieta, kur galima nusiraminti ir įsiklausyti"
+   ],
+   "timing": {
+    "phase": "bet kuri fazė, geriausia mažėjantis Mėnulis",
+    "sign": "Mėnulis Skorpiono ženkle",
+    "day": "Antradienis (Marso diena) arba pirmadienis (Mėnulio diena)",
+    "hour": "Vėlai vakare"
+   },
+   "duration": "apie 30 min.",
+   "level": "Vidutinis",
+   "materials": [
+    "Tamsi ar balta žvakė laikiklyje",
+    "Lapelis ir rašiklis",
+    "Viena taro korta (pavyzdžiui, Mėnulis)",
+    "Degtukai arba žiebtuvėlis"
+   ],
+   "prep": [
+    "Suformuluokite vieną klausimą apie save, ne apie kitą žmogų.",
+    "Aptemdykite kambarį, bet palikite pakankamai šviesos saugiai elgtis su ugnimi."
+   ],
+   "steps": [
+    {
+     "title": "Uždekite žvakę",
+     "text": "Pastatykite žvakę ant karščiui atsparaus paviršiaus ir uždekite. Penkis kartus lėtai kvėpuokite."
+    },
+    {
+     "title": "Užduokite klausimą",
+     "text": "Garsiai paklauskite savęs: „Ką aš dabar slepiu nuo savęs?“"
+    },
+    {
+     "title": "Rašykite be cenzūros",
+     "text": "Dvi minutes rašykite viską, kas ateina į galvą. Neskaitykite iš karto."
+    },
+    {
+     "title": "Atverskite kortą",
+     "text": "Atverskite vieną kortą ir pažiūrėkite, kokį jausmą jūsų viduje ji pažadina. Tai simbolis apmąstymui."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Lapelį sulenkite ir padėkite į šalį. Užgesinkite žvakę gesintuvu ar sudrėkintais pirštais."
+    }
+   ],
+   "words": "Klausausi savęs be baimės.\nTai, ką slėpiau, gali pasirodyti.\nLeidžiu sau keistis.",
+   "after": [
+    "Lapelį perskaitykite po kelių dienų.",
+    "Jei rašydami pajutote sunkių jausmų, pasikalbėkite su artimu žmogumi ar specialistu."
+   ],
+   "safety": "Žvakė turi degti tik tada, kai esate šalia, ant karščiui atsparaus stabilaus paviršiaus, atokiau nuo popieriaus, audinių, vaikų ir augintinių; išeidami visada ją užgesinkite. Ritualas nėra terapija ir nepakeičia psichologinės pagalbos. Ritualas yra simbolinė refleksijos priemonė, o ne sėkmės ar rezultato garantija."
+  },
+  {
+   "id": "menulis-saulys",
+   "group": "sign",
+   "sign": 8,
+   "intent": "begin",
+   "title": "Mėnulis Šaulyje: tolimas horizontas",
+   "teaser": "Žemėlapis, žvakė ir vienas pasirinkimas, kuris praplėstų jūsų akiratį – ritualas keliams ir mokymuisi.",
+   "intro": [
+    "Mėnulis kiekviename ženkle išbūna maždaug nuo dviejų iki dviejų su puse paros.",
+    "Šaulys – ugnies, kintamas ženklas, valdomas Jupiterio. Tradiciškai siejamas su kelionėmis, mokymusi, optimizmu ir prasmės paieška.",
+    "Ritualas skirtas pasirinkti kryptį ir žengti pirmą žingsnį jos link."
+   ],
+   "symbolism": [
+    "Ugnis – Šaulio elementas",
+    "Kintamas ženklas – lankstumo ir perėjimo ženklas",
+    "Jupiteris – klasikinėje astrologijoje išsiplėtimo planeta",
+    "Strėlė – Šaulio simbolis; kryptis ir tikslas"
+   ],
+   "timing": {
+    "phase": "bet kuri fazė, geriausia augantis Mėnulis",
+    "sign": "Mėnulis Šaulio ženkle",
+    "day": "Ketvirtadienis (Jupiterio diena)",
+    "hour": "Dieną ar vakare"
+   },
+   "duration": "apie 25 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Žemėlapis ar jūsų pasirinktos vietos nuotrauka",
+    "Violetinė arba balta žvakė laikiklyje",
+    "Lapelis ir rašiklis",
+    "Degtukai arba žiebtuvėlis"
+   ],
+   "prep": [
+    "Pagalvokite apie vieną vietą ar temą, kurią norėtumėte pažinti geriau.",
+    "Pasirinkite konkretų pirmą žingsnį, pavyzdžiui, užsiregistruoti į kursą ar patikrinti kelionės kainas."
+   ],
+   "steps": [
+    {
+     "title": "Išdėliokite žemėlapį",
+     "text": "Žemėlapį padėkite prieš save, o žvakę pastatykite ant karščiui atsparaus paviršiaus, toliau nuo žemėlapio ir kitų popierių."
+    },
+    {
+     "title": "Uždekite žvakę",
+     "text": "Uždegę kelias akimirkas pažiūrėkite į žemėlapį ir leiskite sau įsivaizduoti kelią."
+    },
+    {
+     "title": "Užrašykite siekį",
+     "text": "Ant lapelio parašykite: „Noriu pažinti…“ ir pridėkite vieną sakinį apie tai, kodėl."
+    },
+    {
+     "title": "Pasirinkite žingsnį",
+     "text": "Nuspręskite, kada per artimiausias tris dienas atliksite pirmą žingsnį, ir užsirašykite datą."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite sau už smalsumą. Užgesinkite žvakę gesintuvu ar sudrėkintais pirštais."
+    }
+   ],
+   "words": "Mano akiratis platėja.\nSmalsumas veda mane pirmyn.\nŽengiu į kelią su viltimi.",
+   "after": [
+    "Pirmą žingsnį atlikite pažadėtą dieną.",
+    "Žemėlapį pakabinkite matomoje vietoje."
+   ],
+   "safety": "Žvakė turi degti tik tada, kai esate šalia, ant karščiui atsparaus stabilaus paviršiaus, atokiau nuo popieriaus, audinių, vaikų ir augintinių; išeidami visada ją užgesinkite. Planuodami keliones ar mokslus vadovaukitės realiomis aplinkybėmis. Ritualas yra simbolinė refleksijos priemonė, o ne sėkmės ar rezultato garantija."
+  },
+  {
+   "id": "menulis-oziaragis",
+   "group": "sign",
+   "sign": 9,
+   "intent": "money",
+   "title": "Mėnulis Ožiaragyje: kantrus pamatas",
+   "teaser": "Pamažu augantis planas: vienas tikslas, trys žingsniai ir žvakė, kuri primena ištvermę.",
+   "intro": [
+    "Mėnulis kiekviename ženkle išbūna maždaug nuo dviejų iki dviejų su puse paros.",
+    "Ožiaragis – žemės, kardinalus ženklas, valdomas Saturno. Tradiciškai siejamas su darbu, atsakomybe, struktūra ir ilgalaikiais tikslais.",
+    "Ritualas padeda sudėlioti realistišką planą. Tai ne finansinė prognozė ir ne pajamų pažadas."
+   ],
+   "symbolism": [
+    "Žemė – Ožiaragio elementas",
+    "Kardinalus ženklas – siejamas su pradžia ir tikslu",
+    "Saturnas – klasikinėje astrologijoje laiko, ribų ir drausmės planeta",
+    "Kalnas – kantraus kilimo vaizdinys, dažnai siejamas su Ožiaragiu"
+   ],
+   "timing": {
+    "phase": "bet kuri fazė, geriausia augantis Mėnulis",
+    "sign": "Mėnulis Ožiaragio ženkle",
+    "day": "Šeštadienis (Saturno diena)",
+    "hour": "Ryte arba dieną, kai galite susikaupti"
+   },
+   "duration": "apie 30 min.",
+   "level": "Vidutinis",
+   "materials": [
+    "Ruda, juoda ar balta žvakė laikiklyje",
+    "Lapelis ir rašiklis",
+    "Kalendorius",
+    "Degtukai arba žiebtuvėlis"
+   ],
+   "prep": [
+    "Pasirinkite vieną ilgalaikį tikslą, kurį norite pasiekti per metus.",
+    "Paruoškite kalendorių, kad galėtumėte įrašyti datas."
+   ],
+   "steps": [
+    {
+     "title": "Paruoškite vietą",
+     "text": "Pastatykite žvakę ant karščiui atsparaus paviršiaus, atokiau nuo popieriaus, ir uždekite. Prieš save padėkite lapelį ir kalendorių."
+    },
+    {
+     "title": "Užrašykite tikslą",
+     "text": "Viršuje parašykite tikslą vienu aiškiu sakiniu."
+    },
+    {
+     "title": "Išskaidykite į tris žingsnius",
+     "text": "Po tikslu parašykite tris žingsnius – po vieną: šiam mėnesiui, artimiausiam ketvirčiui ir visiems metams."
+    },
+    {
+     "title": "Įrašykite į kalendorių",
+     "text": "Įrašykite pirmo žingsnio datą ir trumpą priminimą sau."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite sau už kantrybę, užgesinkite žvakę gesintuvu ar sudrėkintais pirštais ir patikrinkite, ar nebesidaro dūmelio."
+    }
+   ],
+   "words": "Statau lėtai ir tvirtai.\nKiekvienas žingsnis svarbus.\nKantrybė mane veda.",
+   "after": [
+    "Planą padėkite matomoje vietoje.",
+    "Kas mėnesį peržiūrėkite, ką pavyko padaryti."
+   ],
+   "safety": "Žvakė turi degti tik tada, kai esate šalia, ant karščiui atsparaus stabilaus paviršiaus, atokiau nuo popieriaus, audinių, vaikų ir augintinių; išeidami visada ją užgesinkite. Ritualas nepakeičia finansų ar karjeros specialisto patarimo. Ritualas yra simbolinė refleksijos priemonė, o ne sėkmės ar rezultato garantija."
+  },
+  {
+   "id": "menulis-vandenis",
+   "group": "sign",
+   "sign": 10,
+   "intent": "cleanse",
+   "title": "Mėnulis Vandenyje: nauja perspektyva",
+   "teaser": "Atidarytas langas, atnaujintas požiūris ir viena sena nuostata, kuriai pasakote „ačiū, bet užteks“.",
+   "intro": [
+    "Mėnulis kiekviename ženkle išbūna maždaug nuo dviejų iki dviejų su puse paros.",
+    "Vandenis – oro, pastovus ženklas, tradiciškai valdomas Saturno, o šiuolaikinėje astrologijoje dar siejamas su Uranu. Jis siejamas su nepriklausomumu, bendruomene ir naujomis idėjomis.",
+    "Ritualas skirtas atnaujinti vieną nuostatą, kuri jums nebetinka."
+   ],
+   "symbolism": [
+    "Oras – Vandenio elementas",
+    "Pastovus ženklas – tvirtų įsitikinimų ženklas",
+    "Saturnas (tradiciškai) ir Uranas (šiuolaikinėje astrologijoje) – struktūros ir permainų temos",
+    "Atviras langas – naujo oro simbolis"
+   ],
+   "timing": {
+    "phase": "bet kuri fazė, geriausia mažėjantis Mėnulis",
+    "sign": "Mėnulis Vandenio ženkle",
+    "day": "Šeštadienis (Saturno diena)",
+    "hour": "Dieną, kai kambarys šviesus"
+   },
+   "duration": "apie 20 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Atidaromas langas",
+    "Balta žvakė laikiklyje",
+    "Lapelis ir rašiklis",
+    "Degtukai arba žiebtuvėlis"
+   ],
+   "prep": [
+    "Pagalvokite apie nuostatą, kuri jus riboja, pavyzdžiui, „aš to nemoku“.",
+    "Išvėdinkite kambarį."
+   ],
+   "steps": [
+    {
+     "title": "Atidarykite langą",
+     "text": "Atidarykite langą ir išvėdinkite kambarį, tada palikite jį vos praviru. Žvakę pastatykite ant karščiui atsparaus paviršiaus, atokiau nuo užuolaidų ir skersvėjo, ir uždekite."
+    },
+    {
+     "title": "Užrašykite seną nuostatą",
+     "text": "Ant lapelio parašykite nuostatą, kuri jums nebetinka."
+    },
+    {
+     "title": "Perrašykite",
+     "text": "Žemiau parašykite jos pakeitimą: sakinį, kuris atspindi jūsų naują požiūrį."
+    },
+    {
+     "title": "Perskaitykite garsiai",
+     "text": "Lėtai perskaitykite abu sakinius ir kelis kartus giliai įkvėpkite gaivaus oro."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Užgesinkite žvakę gesintuvu ar sudrėkintais pirštais ir uždarykite langą."
+    }
+   ],
+   "words": "Paleidžiu tai, kas nebetinka.\nLeidžiu naujai minčiai ateiti.\nKvėpuoju laisviau.",
+   "after": [
+    "Naują sakinį perskaitykite kelias dienas iš eilės.",
+    "Pastebėkite, kada sena nuostata bando grįžti."
+   ],
+   "safety": "Žvakė turi degti tik tada, kai esate šalia, ant karščiui atsparaus stabilaus paviršiaus, atokiau nuo popieriaus, audinių, vaikų ir augintinių; išeidami visada ją užgesinkite. Žvakė neturi stovėti skersvėjyje ar šalia užuolaidų. Ritualas yra simbolinė refleksijos priemonė, o ne sėkmės ar rezultato garantija."
+  },
+  {
+   "id": "menulis-zuvys",
+   "group": "sign",
+   "sign": 11,
+   "intent": "intuition",
+   "title": "Mėnulis Žuvyse: sapnų valanda",
+   "teaser": "Mėlyna žvakė, sapnų užrašai ir tyli muzika – ritualas tiems, kam reikia nusiraminti ir paklausyti vaizduotės.",
+   "intro": [
+    "Mėnulis kiekviename ženkle išbūna maždaug nuo dviejų iki dviejų su puse paros.",
+    "Žuvys – vandens, kintamas ženklas, tradiciškai valdomas Jupiterio, o šiuolaikinėje astrologijoje dar siejamas su Neptūnu. Jis siejamas su vaizduote, jautrumu ir sapnais.",
+    "Ritualas skirtas vaizduotei ir poilsiui; ne nuspėjimui ar sprendimų priėmimui."
+   ],
+   "symbolism": [
+    "Vanduo – Žuvų elementas",
+    "Kintamas ženklas – perėjimo ir tėkmės ženklas",
+    "Jupiteris (tradiciškai) ir Neptūnas (šiuolaikinėje astrologijoje) – vaizduotės ir tikėjimo temos",
+    "Mėlyna spalva – šiuolaikinėje praktikoje siejama su ramybe"
+   ],
+   "timing": {
+    "phase": "bet kuri fazė, geriausia pilnatis arba mažėjantis Mėnulis",
+    "sign": "Mėnulis Žuvų ženkle",
+    "day": "Ketvirtadienis (Jupiterio diena) arba pirmadienis (Mėnulio diena)",
+    "hour": "Vakare prieš miegą"
+   },
+   "duration": "apie 25 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Mėlyna arba balta žvakė laikiklyje",
+    "Sąsiuvinis ir rašiklis",
+    "Rami muzika",
+    "Degtukai arba žiebtuvėlis"
+   ],
+   "prep": [
+    "Prisiminkite paskutinį sapną ar vaizdą, kuris liko atmintyje.",
+    "Pritemdykite šviesą ir įjunkite tylią muziką."
+   ],
+   "steps": [
+    {
+     "title": "Paruoškite vietą",
+     "text": "Žvakę pastatykite ant karščiui atsparaus paviršiaus atokiau nuo užuolaidų ir uždekite."
+    },
+    {
+     "title": "Kvėpuokite",
+     "text": "Užmerkite akis ir dešimt kvėpavimų sekite tik kvėpavimo ritmą."
+    },
+    {
+     "title": "Užrašykite vaizdus",
+     "text": "Atmerkite akis ir dešimt minučių rašykite vaizdus, kurie ateina, nesistengdami jų aiškinti."
+    },
+    {
+     "title": "Pasirinkite vieną",
+     "text": "Pabraukite vieną vaizdą, kuris jus labiausiai paliečia, ir tiesiog pasilikite su juo."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Užgesinkite žvakę gesintuvu ar sudrėkintais pirštais ir pasirūpinkite, kad nebesidarytų dūmelio, tada eikite ilsėtis."
+    }
+   ],
+   "words": "Leidžiu vaizduotei tekėti.\nSapnai man kalba savo kalba.\nNusiraminu ir pailsiu.",
+   "after": [
+    "Ryte užrašykite sapną, jei prisiminsite.",
+    "Dienos metu pasivaikščiokite prie vandens ar tiesiog lauke."
+   ],
+   "safety": "Žvakė turi degti tik tada, kai esate šalia, ant karščiui atsparaus stabilaus paviršiaus, atokiau nuo popieriaus, audinių, vaikų ir augintinių; išeidami visada ją užgesinkite. Ritualas nėra sapnų aiškinimas ar prognozė. Ritualas yra simbolinė refleksijos priemonė, o ne sėkmės ar rezultato garantija."
+  }
+ ]
+}

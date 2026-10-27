@@ -1,0 +1,486 @@
+{
+ "intro": [
+  "Numerologija – tai simbolinė skaičių skaitymo praktika: ji remiasi mintimi, kad vardo raidės ir gimimo data gali tapti kalba, apibūdinančia charakterio polinkius, gyvenimo laikotarpius ir pasirinkimus. Tai ne mokslas ir ne išankstinis likimo nuosprendis, o veidrodis apmąstymams – panašiai kaip taro kortos ar astrologinė simbolika.",
+  "Svetainėje naudojama sistema vadinama „pitagoriškąja“ arba vakarietiškąja numerologija. Pavadinimas primena senovės graikų filosofą Pitagorą ir pitagorininkų susidomėjimą skaičiais, tačiau pati raidžių ir skaičių lentelė yra gerokai naujesnė: ji išpopuliarėjo XX amžiuje, daugiausia anglakalbiame pasaulyje. Pitagoras šios sistemos nesukūrė, ir nėra įrodymų, kad ji tokia sena.",
+  "Skaičiuojame paprastai: kiekvieną raidę pakeičiame skaičiumi nuo 1 iki 9, sudedame skaitmenis ir kartojame tol, kol lieka vienas skaitmuo. Išimtis – meistriniai skaičiai 11, 22 ir 33: jei suma tampa vienu iš jų, jo nebesumažiname. Gautus skaičius skaitykite kaip pasiūlymą savistabai, o ne kaip tiesą, kuri apibrėžia jus visam laikui."
+ ],
+ "letters": "Raidės skaičiuojamos pagal klasikinę lentelę: A J S = 1, B K T = 2, C L U = 3, D M V = 4, E N W = 5, F O X = 6, G P Y = 7, H Q Z = 8, I R = 9. Lietuviškos raidės su diakritikais šioje svetainėje skaičiuojamos kaip pagrindinė raidė (Ą→A, Č→C, Ę/Ė→E, Į→I, Š→S, Ų/Ū→U, Ž→Z) – tai mūsų pasirinktas susitarimas, nes lentelė sukurta anglų kalbos abėcėlei.",
+ "numbers": {
+  "1": {
+   "title": "Pradininkas",
+   "keywords": [
+    "savarankiškumas",
+    "drąsa",
+    "iniciatyva",
+    "lyderystė",
+    "naujos pradžios"
+   ],
+   "essence": [
+    "Vienetas numerologijoje simbolizuoja pradžią, pirmąjį žingsnį ir pirminę kibirkštį. Tai skaičius, kuris nelaukia leidimo: mato kryptį ir eina pirmas. Su juo siejamas savarankiškumas, ryžtas ir noras patiems pasirinkti savo kelią.",
+    "Šešėlinė šio skaičiaus pusė – užsispyrimas ir sunkumas prašyti pagalbos. Kai vienetas pamiršta klausytis, drąsa virsta užsisklendimu. Brandžiausia jo išraiška – gebėjimas vesti pirmyn, nepaneigiant kitų."
+   ],
+   "strengths": [
+    "Iniciatyva ir ryžtas",
+    "Savarankiškumas",
+    "Drąsa pradėti iš naujo",
+    "Aiški kryptis"
+   ],
+   "challenges": [
+    "Užsispyrimas",
+    "Nenoras prašyti pagalbos",
+    "Nekantrumas",
+    "Polinkis viską spręsti vienam"
+   ],
+   "love": "Santykiuose vienetas vertina tiesumą ir laisvę, mėgsta imtis iniciatyvos. Naudinga mokytis klausytis ir leisti partneriui dalytis sprendimais.",
+   "work": "Darbe jaučiasi geriausiai, kai gali pradėti projektą, vadovauti ar dirbti savarankiškai. Rutina ir smulkus prižiūrėjimas jį greitai išvargina.",
+   "tarot": "Su vienetu dalijasi Magas (I) – kortos figūra, turinti visus keturis elementus ant stalo ir pasirengusi veikti. Skaičius ir korta kalba apie valios ir veiksmo pradžią."
+  },
+  "2": {
+   "title": "Tiltų statytojas",
+   "keywords": [
+    "bendradarbiavimas",
+    "jautrumas",
+    "pusiausvyra",
+    "diplomatija",
+    "kantrybė"
+   ],
+   "essence": [
+    "Dvejetas – tai pora, dialogas ir ryšys. Jei vienetas yra „aš“, tai dvejetas – „mes“. Šis skaičius siejamas su jautrumu, diplomatiškumu ir gebėjimu justi, ko reikia kitam žmogui, dar prieš jam tai pasakant.",
+    "Dvejeto iššūkis – ginti savo ribas ir poreikius, kad taikos troškimas netaptų savęs nuvertinimu. Kai nuolat svyruojama tarp dviejų pusių, sunku apsispręsti. Brandus dvejetas moka derinti, bet nepamiršta savo balso."
+   ],
+   "strengths": [
+    "Empatija",
+    "Gebėjimas išklausyti",
+    "Diplomatiškumas",
+    "Kantrybė"
+   ],
+   "challenges": [
+    "Neryžtingumas",
+    "Per didelis prisitaikymas",
+    "Jautrumas kritikai",
+    "Konfliktų vengimas"
+   ],
+   "love": "Santykiuose dvejetas ieško artumo, šilumos ir abipusiškumo. Svarbu nepamiršti pasakyti, ko iš tiesų norima, o ne tik atspėti kito norus.",
+   "work": "Darbe puikiai tinka komandoje, derybose, rūpesčio ar tarpininkavimo srityse. Mažiau patinka spaudimas ir griežta konkurencija.",
+   "tarot": "Su dvejetu dalijasi Žynė (II) – tyli sargė tarp dviejų stulpų, simbolizuojanti intuiciją, laukimą ir tai, kas dar neišsakyta. Skaičius ir korta kalba apie dvilypumą ir vidinį klausymąsi."
+  },
+  "3": {
+   "title": "Kūrėjas",
+   "keywords": [
+    "raiška",
+    "džiaugsmas",
+    "kūrybiškumas",
+    "bendravimas",
+    "optimizmas"
+   ],
+   "essence": [
+    "Trejetas siejamas su kūryba, žodžiu ir gyvenimo džiaugsmu. Jei dvejetas – pora, tai trejetas – kas gimsta iš jos: idėja, vaikas, dainelė, pokalbis. Tai bendraujantis, spalvingas, vaizduotės kupinas skaičius.",
+    "Šešėlinė pusė – išsibarstymas: daug pradėtų darbų, mažai užbaigtų, kartais paviršutiniškumas ar slepiamas nerimas po linksma kauke. Brandus trejetas išmoksta suteikti formą savo talentams ir pabaigti pradėtus darbus."
+   ],
+   "strengths": [
+    "Kūrybiškumas",
+    "Žodžio talentas",
+    "Optimizmas",
+    "Gebėjimas pralinksminti kitus"
+   ],
+   "challenges": [
+    "Išsibarstymas",
+    "Sunkumas užbaigti darbus",
+    "Paviršutiniškumas",
+    "Emocijų slėpimas už juoko"
+   ],
+   "love": "Santykiuose trejetas atneša žaismingumą, flirtą ir pokalbius. Gilesniam artumui gali prireikti ir tylos, ne vien linksmybių.",
+   "work": "Darbe klesti ten, kur reikia idėjų, žodžių, vaizdų ar bendravimo: rašyme, mokyme, mene, pardavimuose. Nuobodūs administraciniai darbai jį gali slėgti.",
+   "tarot": "Su trejetu dalijasi Imperatorė (III) – gausos, gamtos ir kūrybinio derlingumo figūra. Skaičius ir korta kalba apie tai, kas auga ir žydi."
+  },
+  "4": {
+   "title": "Statytojas",
+   "keywords": [
+    "tvarka",
+    "atkaklumas",
+    "pamatas",
+    "patikimumas",
+    "praktiškumas"
+   ],
+   "essence": [
+    "Ketvertas yra kvadratas, keturios sienos, keturi metų laikai – stabilumo skaičius. Jis siejamas su sistema, darbštumu ir pastangomis, kurios laikui bėgant tampa tvirtu pamatu. Šio skaičiaus žmonės dažnai vertina žodį, planą ir pareigą.",
+    "Pavojus – virsti per griežtu: užsispirti dėl taisyklių, bijoti permainų, užmiršti poilsį. Kai ketvertas atsipalaiduoja, jis supranta, kad stabilumas gali būti ne narvas, o namai. Brandus ketvertas stato taip, kad ir kiti jaustųsi saugiai."
+   ],
+   "strengths": [
+    "Patikimumas",
+    "Darbštumas",
+    "Organizuotumas",
+    "Ištvermė"
+   ],
+   "challenges": [
+    "Kietumas",
+    "Pasipriešinimas pokyčiams",
+    "Perdėtas kontrolės poreikis",
+    "Sunkumas ilsėtis"
+   ],
+   "love": "Santykiuose ketvertas siūlo ištikimybę, pastovumą ir praktišką rūpestį. Jam naudinga šiek tiek spontaniškumo ir žodžių apie jausmus, ne vien darbų.",
+   "work": "Darbe sekasi ten, kur reikia tvarkos, planavimo, statybos, finansų ar technikos. Patinka aiškūs tikslai ir nuoseklus progresas.",
+   "tarot": "Su ketvertu dalijasi Imperatorius (IV) – sosto, struktūros ir tvarkos figūra. Skaičius ir korta kalba apie pagrindą, ribas ir atsakomybę."
+  },
+  "5": {
+   "title": "Laisvasis",
+   "keywords": [
+    "laisvė",
+    "smalsumas",
+    "pokyčiai",
+    "nuotykis",
+    "prisitaikymas"
+   ],
+   "essence": [
+    "Penketas – judėjimo, patirties ir permainų skaičius. Jis siejamas su smalsumu, kelionėmis, gebėjimu greitai prisitaikyti ir noru išbandyti naujus dalykus. Penketas gyvena pojūčiais ir mokosi daugiausia per patirtį.",
+    "Iššūkis – nenuoseklumas, nuobodulio baimė ir sunkumas įsipareigoti. Laisvė gali virsti bėgimu nuo savęs. Brandus penketas randa vidinę ramybę tarp pokyčių ir laisvę supranta kaip pasirinkimą, o ne kaip vengimą."
+   ],
+   "strengths": [
+    "Prisitaikymas",
+    "Smalsumas",
+    "Energija",
+    "Gebėjimas greitai mokytis"
+   ],
+   "challenges": [
+    "Nenuoseklumas",
+    "Nekantrumas",
+    "Sunkumas įsipareigoti",
+    "Polinkis į kraštutinumus"
+   ],
+   "love": "Santykiuose penketas trokšta gyvumo ir laisvės kvėpuoti. Svarbu atvirai kalbėti apie savo poreikius ir tai, ką reiškia įsipareigojimas.",
+   "work": "Darbe jį traukia įvairovė: kelionės, pardavimai, žiniasklaida, projektai su nuolat besikeičiančiomis užduotimis. Monotonija greitai atima jėgas.",
+   "tarot": "Su penketu dalijasi Šventikas (V) – tradicijos, mokymo ir bendruomenės figūra. Tai įdomus kontrastas: kortos tradicija ir skaičiaus laisvė gali vienas kitą mokyti."
+  },
+  "6": {
+   "title": "Globėjas",
+   "keywords": [
+    "rūpestis",
+    "atsakomybė",
+    "namai",
+    "harmonija",
+    "meilė"
+   ],
+   "essence": [
+    "Šešetas siejamas su namais, šeima, grožiu ir atsakomybe už artimuosius. Tai skaičius, kuris pastebi, kam reikia pagalbos, ir jaučia pareigą kurti jaukumą bei teisingumą aplink save. Jam svarbi harmonija ir graži aplinka.",
+    "Jo šešėlis – perdėtas rūpestis, kišimasis į kitų gyvenimus ir polinkis aukotis taip, kad vėliau lieka kartėlis. Brandus šešetas rūpinasi neprarasdamas savęs ir leidžia kitiems patiems nešti savo naštą."
+   ],
+   "strengths": [
+    "Rūpestingumas",
+    "Ištikimybė",
+    "Estetinis jautrumas",
+    "Atsakomybės jausmas"
+   ],
+   "challenges": [
+    "Perdėtas aukojimasis",
+    "Kontroliavimas iš rūpesčio",
+    "Perfekcionizmas",
+    "Sunkumas priimti pagalbą"
+   ],
+   "love": "Santykiuose šešetas yra šiltas, ištikimas ir linkęs kurti namus bei šeimą. Būtina atsiminti, kad meilė – ne tik davimas, bet ir priėmimas.",
+   "work": "Darbe tinka ten, kur rūpinamasi žmonėmis ar grožiu: švietime, sveikatos priežiūroje, namų ir dizaino srityse, bendruomenės veikloje.",
+   "tarot": "Su šešetu dalijasi Mylimieji (VI) – pasirinkimo, santykių ir sąžinės korta. Skaičius ir korta kalba apie ryšį ir atsakomybę už jį."
+  },
+  "7": {
+   "title": "Ieškotojas",
+   "keywords": [
+    "apmąstymai",
+    "analizė",
+    "intuicija",
+    "tyla",
+    "prasmės paieška"
+   ],
+   "essence": [
+    "Septynetas – vidinio gyvenimo ir tyrinėjimo skaičius. Jis siejamas su giliu mąstymu, dvasiniais ieškojimais ir poreikiu suprasti, kas slypi po paviršiumi. Septyneto žmonės dažnai mėgsta vienatvę, knygas, gamtą ir tylą.",
+    "Iššūkis – užsisklendimas, perdėtas skepticizmas ir sunkumas parodyti jausmus. Kai ieškojimas virsta atsiribojimu, ryšys su kitais silpsta. Brandus septynetas dalijasi savo įžvalgomis ir leidžia sau pasitikėti."
+   ],
+   "strengths": [
+    "Analitinis protas",
+    "Gilumas",
+    "Intuicija",
+    "Gebėjimas susikaupti"
+   ],
+   "challenges": [
+    "Užsisklendimas",
+    "Skepticizmas",
+    "Nepasitikėjimas",
+    "Perfekcionizmas savo mintyse"
+   ],
+   "love": "Santykiuose septynetas ieško intelektualinio ir dvasinio artumo, bet jam reikia ir laiko vienumai. Verta aiškiai pasakyti, kad atsitraukimas nėra atstūmimas.",
+   "work": "Darbe tinka tyrimų, analizės, rašymo, technologijų ir dvasinių sričių veikla. Geriausiai dirbama ramioje aplinkoje, kur yra laiko mąstyti.",
+   "tarot": "Su septynetu dalijasi Vežimas (VII) – valios, krypties ir savikontrolės korta. Čia skaičius ir korta kalba apie vidinį valdymą ir tikslo siekimą."
+  },
+  "8": {
+   "title": "Vadovas",
+   "keywords": [
+    "galia",
+    "ambicija",
+    "ištekliai",
+    "tikslingumas",
+    "pusiausvyra"
+   ],
+   "essence": [
+    "Aštuonetas siejamas su materialiniu pasauliu, ambicijomis, vadovavimu ir sėkmės siekiu. Jis taip pat siejamas su priežasties ir pasekmės idėja: tai, ką investuojame, dažnai sugrįžta. Aštuonetas gerai mato didįjį planą ir moka valdyti išteklius.",
+    "Šešėlis – darbo manija, valdžios troškimas ir sėkmės matavimas vien pinigais ar statusu. Brandus aštuonetas supranta, kad tikroji galia yra gebėjimas tarnauti, o ištekliai turi tarnauti širdžiai."
+   ],
+   "strengths": [
+    "Tikslingumas",
+    "Organizaciniai gebėjimai",
+    "Atkaklumas",
+    "Praktinis protas"
+   ],
+   "challenges": [
+    "Darbo manija",
+    "Valdžios troškimas",
+    "Kietumas",
+    "Sėkmės tapatinimas su turtu"
+   ],
+   "love": "Santykiuose aštuonetas yra patikimas, stiprus ir apsaugantis, bet gali užmiršti švelnumą. Svarbu skirti laiko ne tik darbui.",
+   "work": "Darbe jaučiasi savo vietoje vadovaudamas, verslo, finansų ar didelių projektų srityse. Reikia nepamiršti poilsio ir žmogiškumo.",
+   "tarot": "Su aštuonetu dalijasi Stiprybė (VIII) – švelnios vidinės galios korta. Ji primena, kad tikroji jėga – ne prievarta, o kantrus ir drąsus širdies darbas."
+  },
+  "9": {
+   "title": "Išminčius",
+   "keywords": [
+    "užuojauta",
+    "baigtis",
+    "humanizmas",
+    "išmintis",
+    "paleidimas"
+   ],
+   "essence": [
+    "Devynetas – paskutinis vienaženklis skaičius, apimantis visus ankstesnius. Jis siejamas su užbaigimu, užuojauta, dosnumu ir platesniu žvilgsniu. Devyneto žmonės dažnai jaučia pareigą prisidėti prie bendro gėrio.",
+    "Iššūkis – paleisti: senus ryšius, nuoskaudas, vaidmenis, kurie jau atliko savo. Bandymas gelbėti visus gali išsekinti. Brandus devynetas užbaigia neprarasdamas džiaugsmo ir dalijasi išmintimi nelaukdamas padėkos."
+   ],
+   "strengths": [
+    "Užuojauta",
+    "Plati perspektyva",
+    "Dosnumas",
+    "Idealizmas"
+   ],
+   "challenges": [
+    "Sunkumas paleisti",
+    "Nuoskaudos",
+    "Savęs aukojimas",
+    "Perdėtas idealizmas"
+   ],
+   "love": "Santykiuose devynetas myli giliai ir nesavanaudiškai, bet gali ilgai laikytis to, kas jau išblėso. Pabaigos jam gali būti naujo artumo pradžia.",
+   "work": "Darbe jį traukia veikla, kuri duoda prasmę: labdara, mokymas, menas, ekologija. Svarbu saugoti savo jėgas ir neprisiimti viso pasaulio.",
+   "tarot": "Su devynetu dalijasi Atsiskyrėlis (IX) – žibinto nešėjas, einantis vienas, bet šviečiantis kitiems. Skaičius ir korta kalba apie brandą ir išmintį."
+  },
+  "11": {
+   "title": "Šviesos nešėjas",
+   "keywords": [
+    "intuicija",
+    "įkvėpimas",
+    "jautrumas",
+    "vizija",
+    "dvasinis ieškojimas"
+   ],
+   "essence": [
+    "Vienuolika – pirmasis meistrinis skaičius, laikomas sustiprintu dvejetu: intuicija ir jautrumas čia atsiveria itin ryškiai. Numerologijoje jis siejamas su įkvėpimu, vizijomis ir gebėjimu skatinti kitus savo pavyzdžiu.",
+    "Šis skaičius dažnai nešasi įtampą: dideli lūkesčiai sau, jautrumas aplinkai, nerimas. Kai šią įtampą sunku išlaikyti, jis gali sugrįžti prie paprastesnės reikšmės – dvejeto. Brandus vienuolika įsižemina, ugdo rutiną ir ramybę."
+   ],
+   "strengths": [
+    "Stipri intuicija",
+    "Gebėjimas įkvėpti",
+    "Empatija",
+    "Idealizmas"
+   ],
+   "challenges": [
+    "Vidinė įtampa",
+    "Didelis savikritiškumas",
+    "Nepraktiškumas",
+    "Jautrumas aplinkai"
+   ],
+   "love": "Santykiuose 11 siekia gilios dvasinės jungties ir jautriai reaguoja į atmosferą. Jam padeda atviras kalbėjimas ir realistiški lūkesčiai.",
+   "work": "Darbe tinka įkvepiančios, kūrybinės, mokymo ir konsultavimo veiklos. Reikia ramaus ritmo ir dienos struktūros, kad energija neišsisklaidytų.",
+   "tarot": "Su vienuolika dalijasi Teisingumas (XI) – pusiausvyros, sąžiningumo ir pasekmių korta. Skaičius ir korta kalba apie aiškų matymą ir atsakingus pasirinkimus. Teisingumas yra XI Rider–Waite–Smith kaladėje; senesnėje Marselio tvarkoje jis stovi aštuntoje vietoje."
+  },
+  "22": {
+   "title": "Meistras statytojas",
+   "keywords": [
+    "vizija",
+    "praktiškumas",
+    "didelės užmačios",
+    "organizavimas",
+    "palikimas"
+   ],
+   "essence": [
+    "Dvidešimt du – meistrinis skaičius, siejamas su ketvertu (2 + 2), tačiau su didesniu užmoju. Jis jungia svajonę ir praktiką: kuria tai, kas ilgai gali tarnauti ne tik jam pačiam, bet ir bendruomenei.",
+    "Didžiausias iššūkis – lūkesčių našta. Kartais lengviau slėptis ketverto kasdienybėje, negu imtis didelio plano. Brandus 22 žingsnis po žingsnio stato savo viziją, kantriai sau ir kitiems."
+   ],
+   "strengths": [
+    "Vizijos ir praktikos derinys",
+    "Organizavimo talentas",
+    "Atkaklumas",
+    "Įtaigumas"
+   ],
+   "challenges": [
+    "Spaudimas sau",
+    "Perfekcionizmas",
+    "Baimė imtis didelių darbų",
+    "Perdėtas kontrolės poreikis"
+   ],
+   "love": "Santykiuose 22 siekia stabilios, ilgalaikės partnerystės, kurioje abu kuria bendrą ateitį. Verta nepamiršti švelnumo ir ramaus buvimo kartu.",
+   "work": "Darbe tinka dideli projektai, organizacijos, statyba, verslas, bendruomenės iniciatyvos. Svarbu skaidyti viziją į konkrečius žingsnius.",
+   "tarot": "Su dvidešimt dviem siejamas Kvailys – kelionės pradžios ir pasitikėjimo korta, žymima 0, o kai kuriose sistemose skaičiuojama kaip 22. Tai ciklo pabaiga, po kurios prasideda nauja pradžia."
+  },
+  "33": {
+   "title": "Mokytojas",
+   "keywords": [
+    "rūpestis",
+    "tarnystė",
+    "kūrybinė meilė",
+    "išmintis",
+    "atsidavimas"
+   ],
+   "essence": [
+    "Trisdešimt trys – retai vartojamas meistrinis skaičius, kartais vadinamas „mokytojų mokytoju“. Jis jungia šešeto rūpestį ir trejeto kūrybą, orientuotą į tarnavimą ir žmonių palaikymą.",
+    "Tai reiklus skaičius: su juo siejamas žmogus gali jausti pareigą nešti kitų naštą, todėl svarbu nusistatyti ribas ir gerbti savo poreikius. Brandus 33 dalijasi šiluma ir išmintimi nesiaukodamas iki išsekimo."
+   ],
+   "strengths": [
+    "Gili užuojauta",
+    "Kūrybiškas rūpestis",
+    "Mokymo dovana",
+    "Šiluma"
+   ],
+   "challenges": [
+    "Aukojimasis iki išsekimo",
+    "Atsakomybės našta",
+    "Sunkumas atsisakyti",
+    "Savo poreikių užmiršimas"
+   ],
+   "love": "Santykiuose 33 yra švelnus, dosnus, kartais linkęs rūpintis labiau nei leidžia sau gauti. Naudinga mokytis priimti.",
+   "work": "Darbe jį traukia mokymas, globos darbas, menas ir dvasinė veikla. Reikia aiškių ribų ir poilsio.",
+   "tarot": "Su 33 nėra tiesioginės Didžiojo arkano kortos, nes Didieji arkanai baigiasi 21. Artimiausios temos – Imperatorė (III) ir Mylimieji (VI), nes 33 jungia trejeto kūrybą ir šešeto rūpestį."
+  }
+ },
+ "expression": {
+  "1": "Vardo skaičius 1 kalba apie savarankišką, iniciatyvų žmogų, mėgstantį eiti pirmu. Jo dovana – drąsa pradėti, uždavinys – įsiklausyti į kitus.",
+  "2": "Vardo skaičius 2 rodo jautrų, taikų bendradarbį, gebantį sujungti žmones. Jo dovana – diplomatija, uždavinys – nepamiršti savo balso.",
+  "3": "Vardo skaičius 3 kalba apie raiškų, bendraujantį ir kūrybišką žmogų. Jo dovana – žodis ir džiaugsmas, uždavinys – sutelkti dėmesį.",
+  "4": "Vardo skaičius 4 rodo patikimą, nuoseklų darbuotoją ir statytoją. Jo dovana – tvarka ir ištvermė, uždavinys – priimti pokyčius.",
+  "5": "Vardo skaičius 5 kalba apie judrų, smalsų, permainų ieškantį žmogų. Jo dovana – prisitaikymas, uždavinys – nuoseklumas.",
+  "6": "Vardo skaičius 6 rodo globėjišką, šeimą ir namus vertinantį žmogų. Jo dovana – rūpestis, uždavinys – neprarasti savęs aukojantis.",
+  "7": "Vardo skaičius 7 kalba apie mąstytoją ir ieškotoją, vertinantį gilumą bei tylą. Jo dovana – įžvalga, uždavinys – atsiverti kitiems.",
+  "8": "Vardo skaičius 8 rodo ambicingą, organizuotą žmogų, gebantį valdyti išteklius. Jo dovana – tikslingumas, uždavinys – išlaikyti širdies pusiausvyrą.",
+  "9": "Vardo skaičius 9 kalba apie užjaučiantį, platų žvilgsnį turintį žmogų. Jo dovana – dosnumas, uždavinys – mokėti paleisti.",
+  "11": "Vardo skaičius 11 – meistrinis: jis rodo stiprią intuiciją ir gebėjimą įkvėpti. Jo uždavinys – įsižeminti ir saugoti save nuo per didelės įtampos.",
+  "22": "Vardo skaičius 22 – meistrinis: didžios vizijos, kurias įmanoma paversti realybe. Jo uždavinys – kantriai skaidyti planus ir nepasiduoti spaudimui.",
+  "33": "Vardo skaičius 33 – meistrinis: mokytojo, globėjo ir kūrėjo dovanų derinys. Jo uždavinys – nustatyti ribas ir saugoti savo jėgas."
+ },
+ "soul": {
+  "1": "Sielos troškimas 1 (balsės) rodo gilų norą būti savarankiškam ir pačiam rinktis kelią. Viduje slypi poreikis pradėti ir vadovauti savo gyvenimui.",
+  "2": "Sielos troškimas 2 rodo ilgesį artumo, harmonijos ir ramaus bendrumo. Viduje slypi poreikis jaustis reikalingam ir suprastam.",
+  "3": "Sielos troškimas 3 rodo norą kurti, bendrauti ir džiaugtis. Viduje slypi poreikis būti išgirstam ir išreikšti save.",
+  "4": "Sielos troškimas 4 rodo ilgesį saugumo, tvarkos ir tvirto pagrindo. Viduje slypi noras kurti kažką patvaraus.",
+  "5": "Sielos troškimas 5 rodo troškimą laisvės, patirčių ir judėjimo. Viduje slypi poreikis kvėpuoti plačiai ir nebūti uždarytam.",
+  "6": "Sielos troškimas 6 rodo ilgesį namų, šeimos ir mylinčios bendruomenės. Viduje slypi noras rūpintis ir būti mylimam.",
+  "7": "Sielos troškimas 7 rodo trauką tylai, mokymuisi ir prasmės paieškai. Viduje slypi poreikis suprasti, kas už matomų dalykų.",
+  "8": "Sielos troškimas 8 rodo norą pasiekti, valdyti ir matyti savo darbo vaisius. Viduje slypi poreikis jausti, kad gali daryti įtaką.",
+  "9": "Sielos troškimas 9 rodo norą tarnauti, užjausti ir prisidėti prie didesnio gėrio. Viduje slypi prasmės poreikis, peržengiantis savo paties ribas.",
+  "11": "Sielos troškimas 11 rodo gilų ilgesį dvasinio įkvėpimo ir prasmingos vizijos. Viduje slypi stiprus jautrumas, kuriam reikia ramybės.",
+  "22": "Sielos troškimas 22 rodo norą sukurti kažką didelio ir naudingo daugeliui. Viduje slypi ilgesys paversti viziją tikrove.",
+  "33": "Sielos troškimas 33 rodo ilgesį mylėti, mokyti ir šviesti kitus. Viduje slypi poreikis rūpintis, kuriam reikia ribų."
+ },
+ "personality": {
+  "1": "Asmenybės skaičius 1 (priebalsės) rodo, kad aplinkiniai jus mato kaip ryžtingą, savarankišką žmogų. Pirmas įspūdis – drąsa ir aiški kryptis.",
+  "2": "Asmenybės skaičius 2 rodo, kad kiti jus mato kaip švelnų, ramų ir mandagų. Pirmas įspūdis – draugiškumas ir jautrumas.",
+  "3": "Asmenybės skaičius 3 rodo, kad kiti jus mato kaip šiltą, kalbų ir gyvą. Pirmas įspūdis – žaismingumas ir žavesys.",
+  "4": "Asmenybės skaičius 4 rodo, kad kiti jus mato kaip patikimą, solidų ir susitelkusį. Pirmas įspūdis – tvarka ir nuoseklumas.",
+  "5": "Asmenybės skaičius 5 rodo, kad kiti jus mato kaip judrų, smalsų ir nenuobodų. Pirmas įspūdis – energija ir laisvumas.",
+  "6": "Asmenybės skaičius 6 rodo, kad kiti jus mato kaip šiltą, rūpestingą ir patikimą. Pirmas įspūdis – jaukumas ir atsakomybė.",
+  "7": "Asmenybės skaičius 7 rodo, kad kiti jus mato kaip susimąsčiusį, santūrų ir paslaptingą. Pirmas įspūdis – gilumas ir atstumas.",
+  "8": "Asmenybės skaičius 8 rodo, kad kiti jus mato kaip stiprų, pasitikintį ir autoritetingą. Pirmas įspūdis – galia ir kompetencija.",
+  "9": "Asmenybės skaičius 9 rodo, kad kiti jus mato kaip išmintingą, užjaučiantį ir plačios širdies. Pirmas įspūdis – nuoširdumas ir ramus dosnumas.",
+  "11": "Asmenybės skaičius 11 rodo, kad kiti jus mato kaip jautrų, įkvepiantį ir kiek ne šio pasaulio. Pirmas įspūdis – švytėjimas ir intuityvumas.",
+  "22": "Asmenybės skaičius 22 rodo, kad kiti jus mato kaip rimtą, pajėgų ir didelių planų žmogų. Pirmas įspūdis – autoritetas ir praktiškumas.",
+  "33": "Asmenybės skaičius 33 rodo, kad kiti jus mato kaip šiltą globėją ir mokytoją. Pirmas įspūdis – gerumas ir ramus pasitikėjimas."
+ },
+ "month": {
+  "1": "Asmeninis mėnuo 1 – naujų pradžių metas. Verta išsikelti tikslą ir žengti pirmą žingsnį.",
+  "2": "Asmeninis mėnuo 2 – kantrybės ir bendradarbiavimo metas. Gerai klausytis, derinti ir leisti dalykams subręsti.",
+  "3": "Asmeninis mėnuo 3 – raiškos ir bendravimo metas. Tinka kurti, susitikti su žmonėmis ir leisti sau džiaugtis.",
+  "4": "Asmeninis mėnuo 4 – darbo ir struktūros metas. Gerai tvarkyti reikalus, planuoti ir tvirtinti pamatus.",
+  "5": "Asmeninis mėnuo 5 – pokyčių ir judėjimo metas. Tinka išbandyti naujus dalykus, bet saugotis skubotų sprendimų.",
+  "6": "Asmeninis mėnuo 6 – namų, šeimos ir santykių metas. Verta skirti laiko artimiesiems ir aplinkos jaukumui.",
+  "7": "Asmeninis mėnuo 7 – tylos ir apmąstymų metas. Gerai mokytis, skaityti, būti gamtoje ir klausytis vidinio balso.",
+  "8": "Asmeninis mėnuo 8 – rezultatų ir išteklių metas. Tinka spręsti darbo, finansų ir atsakomybių klausimus.",
+  "9": "Asmeninis mėnuo 9 – užbaigimo ir paleidimo metas. Gerai užversti nebereikalingus skyrius ir ruošti vietą naujam ciklui."
+ },
+ "day": {
+  "1": "Asmeninė diena 1 – gera diena pradėti ką nors naujo.",
+  "2": "Asmeninė diena 2 – diena švelnumui, pokalbiams ir kantrybei.",
+  "3": "Asmeninė diena 3 – diena kūrybai, bendravimui ir džiaugsmui.",
+  "4": "Asmeninė diena 4 – diena tvarkai, planams ir nuosekliam darbui.",
+  "5": "Asmeninė diena 5 – diena pokyčiams, judėjimui ir naujoms patirtims.",
+  "6": "Asmeninė diena 6 – diena namams, artimiesiems ir rūpesčiui.",
+  "7": "Asmeninė diena 7 – diena tylai, apmąstymams ir mokymuisi.",
+  "8": "Asmeninė diena 8 – diena praktiniams reikalams ir tikslingiems sprendimams.",
+  "9": "Asmeninė diena 9 – diena užbaigti ir paleisti tai, kas nebereikalinga."
+ },
+ "pairs": {
+  "1-1": "Du vienetai kartu kupini energijos ir iniciatyvos, bet abu nori vadovauti. Sekasi, kai pasidalijama sritimis ir mokomasi nusileisti. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "1-2": "Vienetas pasiūlo kryptį, dvejetas – jautrumą ir kantrybę. Svarbu, kad dvejetas nebūtų nuolat nustumiamas, o vienetas išmoktų klausytis. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "1-3": "Šis derinys dažnai gyvas ir žaismingas: vienetas pradeda, trejetas įkvepia. Iššūkis – pabaigti pradėtus planus ir išklausyti vienas kito jausmus. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę.",
+  "1-4": "Vienetas atneša idėjas, ketvertas – struktūrą ir ištvermę. Įtampa kyla tarp skubėjimo ir atsargumo, bet kartu jie gali pastatyti daug. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "1-5": "Du judrūs, laisvę mėgstantys skaičiai greitai randa bendrą kalbą ir nuotykių. Reikia aiškiai susitarti dėl įsipareigojimų ir kasdienybės. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "1-6": "Vienetas ieško savarankiškumo, šešetas – artumo ir namų. Jiems padeda abipusė pagarba laisvei ir rūpesčiui. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę.",
+  "1-7": "Vienetas veržiasi į veiksmą, septynetas traukiasi į mintis. Sekasi, kai gerbiamas skirtingas tempas ir kalbama atvirai. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "1-8": "Du ambicingi skaičiai gali tapti stipria komanda arba varžovais. Svarbu aiškiai pasidalyti vaidmenis ir nepamiršti švelnumo. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "1-9": "Vienetas pradeda, devynetas užbaigia ir mato plačiau. Vienas kitą jie gali mokyti: vienas – drąsos, kitas – paleidimo. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę.",
+  "2-2": "Du dvejetai kuria švelnią, harmoningą porą. Rizika – vengti sunkių pokalbių ir neišsakyti poreikių. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "2-3": "Dvejetas atneša ramybę, trejetas – džiaugsmą ir žodžius. Tarpusavyje gali būti šilta, jei trejetas nepersistengia su lengvumu, o dvejetas – su jautrumu. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "2-4": "Šis derinys dažnai stabilus ir patikimas: dvejetas rūpinasi, ketvertas kuria pagrindą. Naudinga neleisti rutinai užgožti artumo. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę.",
+  "2-5": "Dvejetas trokšta saugumo, penketas – laisvės. Reikia kantrybės ir atviro pokalbio apie tai, kiek kiekvienam reikia erdvės. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "2-6": "Du rūpestingi skaičiai kuria jaukius, šiltus namus. Svarbu, kad abu išmoktų ir priimti rūpestį, ne tik jį dalyti kitiems. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "2-7": "Dvejetas ieško artumo, septynetas – tylos. Sekasi, kai septynetas dalijasi mintimis, o dvejetas gerbia jo vienatvės poreikį. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę.",
+  "2-8": "Dvejetas švelniai subalansuoja aštuoneto ryžtą. Svarbu, kad galia ir švelnumas būtų vertinami vienodai. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "2-9": "Abu skaičiai jautrūs ir užjaučiantys. Reikia saugoti save, kad bendras rūpestis kitais neišsekintų jų pačių. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "3-3": "Du trejetai kartu – daug juoko, idėjų ir gyvybės. Išbandymas – kasdienės pareigos ir ištvermė, kai pasibaigia pirmas entuziazmas. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę.",
+  "3-4": "Trejetas atneša spontaniškumą, ketvertas – tvarką. Jie gali vienas kitą papildyti, jei gerbs skirtingus ritmus. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "3-5": "Du gyvi, smalsūs skaičiai randa daug pramogų ir pokalbių. Pravartu pasirūpinti pastovumu, kad pasilinksminimas neužgožtų artumo. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "3-6": "Trejetas džiugina, šešetas kuria jaukumą. Santykiai gali būti šilti ir kūrybiški, jei šešetas nepersistengia rūpindamasis, o trejetas nebėga nuo atsakomybės. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę.",
+  "3-7": "Trejetas mėgsta bendrauti, septynetas – tylėti. Skirtumas gali būti ir įdomus, ir varginantis, todėl svarbu rasti bendrą ritmą. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "3-8": "Trejeto kūrybiškumas ir aštuoneto tikslingumas gali sukurti produktyvią porą. Reikia suderinti lengvumą su pareigomis. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "3-9": "Du jautrūs, kūrybingi skaičiai dažnai randa bendrą idealizmą. Padeda realistiškas požiūris į kasdienybę. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę.",
+  "4-4": "Du ketvertai kuria stabilų, tvarkingą ir patikimą gyvenimą. Verta sąmoningai palikti vietos spontaniškumui ir žaidimui. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "4-5": "Ketvertas ieško pastovumo, penketas – judėjimo. Jiems reikia derybų: šiek tiek struktūros ir šiek tiek laisvės abiem. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "4-6": "Du skaičiai, vertinantys namus ir atsakomybę. Šis derinys dažnai šiltas ir patikimas, jei nepamirštamas poilsis. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę.",
+  "4-7": "Ketvertas praktiškas, septynetas mąsto. Abu vertina nuoseklumą ir gilumą, bet gali pritrūkti kalbų apie jausmus. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "4-8": "Du ryžtingi, darbštūs skaičiai kartu gali pasiekti daug. Svarbu neleisti darbui nustumti artumo. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "4-9": "Ketvertas stato, devynetas mato platų vaizdą. Jiems naudinga derinti rūpestį artimaisiais su bendru gėriu. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę.",
+  "5-5": "Du penketai – daug nuotykių, pokyčių ir gyvumo. Reikia sąmoningai kurti stabilumą ir susitarti dėl įsipareigojimų. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "5-6": "Penketas trokšta laisvės, šešetas – namų. Santykiai sekasi, jei laisvė ir artumas vertinami kaip vienas kitą papildantys dalykai. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "5-7": "Penketas veržiasi į išorę, septynetas – į vidų. Jie gali daug išmokti vienas iš kito, jei gerbs skirtumus. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę.",
+  "5-8": "Penketo lankstumas ir aštuoneto ryžtas gali sukurti dinamišką porą. Reikia derinti rizikuojantį ir planuojantį požiūrį. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "5-9": "Du platų žvilgsnį turintys skaičiai, mėgstantys keliauti ir mokytis. Sekasi, jei neišsisklaido ir randa bendrą kryptį. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "6-6": "Du šešetai kuria šiltus, jaukius namus ir gilų rūpestį. Rizika – kišimasis į vienas kito gyvenimą. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę.",
+  "6-7": "Šešetas ieško artumo, septynetas – ramybės. Reikia kantrybės ir aiškaus kalbėjimo apie poreikius. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "6-8": "Šešetas rūpinasi, aštuonetas aprūpina ir veda. Gali būti stipri šeimos ar verslo pora, jei yra vietos jausmams. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "6-9": "Du dosnūs, užjaučiantys skaičiai, kuriems svarbi meilė ir prasmė. Reikia saugoti save, kad dalijimasis neišsekintų. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę.",
+  "7-7": "Du septynetai gerbia vienas kito tylą ir gilumą. Rizika – per daug užsidaryti, todėl verta sąmoningai kalbėtis. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "7-8": "Septynetas mąsto, aštuonetas veikia. Gali sektis, jei vienas gerbia įžvalgas, o kitas – praktinius tikslus. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "7-9": "Du ieškotojai, kuriuos jungia gilesnė prasmė. Padeda atviras jausmų kalbėjimas ir kasdienis įsižeminimas. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę.",
+  "8-8": "Du aštuonetai – galinga komanda, tačiau galimi galios žaidimai. Svarbu dalytis vadovavimu ir skirti laiko švelnumui. Skaičiai čia – tik atspindys apmąstymams, ne nuosprendis.",
+  "8-9": "Aštuonetas siekia rezultatų, devynetas – prasmės. Jie gali papildyti vienas kitą, jei sėkmė matuojama ne vien pasiekimais. Tai tik simbolinė užuomina, o santykius kuria jūs patys.",
+  "9-9": "Du devynetai dalijasi idealizmu ir užuojauta. Padeda realistiški sprendimai ir gebėjimas paleisti. Skaitykite tai kaip kvietimą pasvarstyti, o ne kaip taisyklę."
+ },
+ "repeatingIntro": "Tai, kad pasikartojantys skaičiai (pavyzdžiui, laikrodyje ar kvitų numeriuose) turi ypatingą žinią, yra šiuolaikinė, nuo XX amžiaus pabaigos ir XXI amžiuje išpopuliarėjusi „naujojo amžiaus“ interpretacija, dažnai vadinama „angelų skaičiais“. Nėra įrodymų, kad tai angelų žinia ar ženklas iš aukščiau, todėl šias reikšmes verta laikyti pasiūlymu apmąstymams ir savistabai.",
+ "repeating": {
+  "000": "Trys nuliai dažnai siejami su tuštuma prieš pradžią, pilnatimi ir nauju ciklu. Galite paklausti savęs, ką norėtumėte pradėti iš švaraus lapo.",
+  "111": "Trys vienetai dažnai siejami su dėmesiu savo mintims ir naujomis pradžiomis. Tai kvietimas pastebėti, kur šiuo metu telkiate dėmesį ir ką norėtumėte pradėti.",
+  "222": "Trys dvejetai kalba apie pusiausvyrą, santykius ir kantrybę. Tai galimas priminimas pasitikėti procesu ir pasitarti su žmonėmis, kuriais pasitikite.",
+  "333": "Trys trejetai siejami su kūryba, raiška ir džiaugsmu. Gal metas leisti sau kurti, bendrauti ir sakyti tai, kas laukia išsakymo.",
+  "444": "Trys ketvertai kalba apie pamatus, tvarką ir saugumą. Galima tai laikyti priminimu, kad nuoseklūs maži darbai stato tvirtą pagrindą.",
+  "555": "Trys penketai siejami su permainomis ir laisve. Tai gali būti kvietimas pasidomėti, kokių pokyčių jau seniai laukiate ar bijote.",
+  "666": "Šiuolaikinėje interpretacijoje tai nėra baugus ženklas. Numerologiniu požiūriu šešetas kalba apie namus, rūpestį ir pusiausvyrą, todėl 666 gali priminti pasirūpinti savimi ir artimaisiais bei atrasti ramybę.",
+  "777": "Trys septynetai siejami su vidine tyla, mokymusi ir dvasiniais ieškojimais. Galite pagalvoti, kam šiuo metu verta skirti ramybės ir apmąstymų.",
+  "888": "Trys aštuonetai kalba apie išteklius, pastangas ir jų vaisius. Tai priminimas pažvelgti į savo darbą, ribas ir tai, kaip dalijatės jėgomis.",
+  "999": "Trys devynetai siejami su užbaigimu ir paleidimu. Galimas klausimas sau: kas jau atliko savo vaidmenį ir ko dabar laikas atsisveikinti.",
+  "1010": "1010 sujungia vienetą ir nulį: pradžios kibirkštį ir erdvę, kurioje ji gali augti. Tai gali būti paraginimas drąsiai pradėti, bet nepaskubinti savęs.",
+  "1111": "1111 yra vienas populiariausių „angelų skaičių“, kartais siejamas su susitelkimu ir norų formulavimu. Praktiškai tai gali būti geras momentas sustoti ir paklausti, ko šiuo metu iš tiesų norite.",
+  "1212": "1212 siejamas su pusiausvyra tarp pradžios ir bendradarbiavimo. Tai gali priminti derinti savo norus su kitų poreikiais ir pasitikėti savo žingsniais.",
+  "1234": "Seka 1234 simbolizuoja nuoseklų judėjimą žingsnis po žingsnio. Ją galima suprasti kaip paraginimą kantriai tęsti kelią, kad ir kokio dydžio būtų žingsniai."
+ }
+}

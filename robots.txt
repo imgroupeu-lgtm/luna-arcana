@@ -1,0 +1,3 @@
+# Laikinas talpinimas: paieškos sistemoms uždaryta, kol svetainė persikels į savo domeną.
+User-agent: *
+Disallow: /

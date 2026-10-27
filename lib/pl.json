@@ -1,0 +1,1655 @@
+{
+  "labels": {
+    "kwUp": "Słowa kluczowe",
+    "kwRev": "Odwrócona",
+    "about": "O karcie",
+    "love": "Miłość",
+    "work": "Praca",
+    "advice": "Rada",
+    "element": "Żywioł",
+    "astro": "Astrologia",
+    "number": "Liczba",
+    "open": "Przeczytaj więcej o karcie",
+    "close": "Zamknij"
+  },
+  "cards": [
+    {
+      "kw_up": [
+        "nowy początek",
+        "spontaniczność",
+        "zaufanie",
+        "otwartość"
+      ],
+      "kw_rev": [
+        "nieostrożność",
+        "naiwność",
+        "błądzenie po omacku",
+        "pośpiech"
+      ],
+      "about": "Młody wędrowiec stoi na skraju urwiska z małym zawiniątkiem na ramieniu, a pies podąża tuż za nim i świeci słońce. Karta mówi o pierwszym kroku i o spotkaniu z życiem z otwartymi oczami i lekkim sercem.",
+      "love": "W miłości Głupiec może wskazywać na nowy i nieprzewidywalny początek albo na chęć poznania kogoś bez oczekiwań. Może też przypominać, by trochę uważać pod nogi.",
+      "work": "W pracy może chodzić o odwagę zrobienia czegoś nowego lub spróbowania nietypowej drogi. Warto zrównoważyć zapał prostym planem.",
+      "advice": "Pozwól, by ciekawość cię prowadziła, ale zabierz ze sobą to, co już wiesz.",
+      "element": "Powietrze",
+      "astro": "Powietrze (Golden Dawn)",
+      "number": "Zero: potencjał, pustka przed początkiem wszystkiego"
+    },
+    {
+      "kw_up": [
+        "wola",
+        "działanie",
+        "umiejętności",
+        "skupienie"
+      ],
+      "kw_rev": [
+        "manipulacja",
+        "rozproszona energia",
+        "niewykorzystany talent",
+        "plany bez działania"
+      ],
+      "about": "Postać stoi przy ołtarzu z różdżką wzniesioną ku niebu i ręką wskazującą ziemię, a przed sobą ma wszystkie cztery symbole. Nad głową unosi się znak nieskończoności jako obraz tego, że myśl i czyn są ze sobą związane.",
+      "love": "W relacjach karta może mówić o wyraźnym pokazaniu siebie i podjęciu inicjatywy szczerej rozmowy. Przypomina też, by być szczerym, bez gry pozorów.",
+      "work": "W pracy wskazuje, że masz potrzebne narzędzia i że może nadszedł czas, by ich użyć. Skupienie jest kluczem.",
+      "advice": "Zbierz siły w jednym miejscu i zacznij.",
+      "element": "Powietrze",
+      "astro": "Merkury",
+      "number": "Jeden: wola, początek i świadoma moc tworzenia"
+    },
+    {
+      "kw_up": [
+        "intuicja",
+        "cisza",
+        "ukryta wiedza",
+        "wewnętrzne słuchanie"
+      ],
+      "kw_rev": [
+        "tajemnice",
+        "zignorowane przeczucie",
+        "zamęt",
+        "wycofanie"
+      ],
+      "about": "Kobieta siedzi między jasną i ciemną kolumną z zasłoną za sobą i księżycem u stóp. Trzyma zwój, którego treść jest widoczna tylko do połowy, a karta mówi o tym, co kryje się pod powierzchnią.",
+      "love": "W miłości karta może zachęcać do wsłuchania się w to, czego się nie mówi, u siebie i u drugiej osoby. Cierpliwość może dać więcej jasności niż szybkie odpowiedzi.",
+      "work": "W pracy może to być czas na obserwację przed decyzją. Nie wszystko trzeba od razu wyjaśniać.",
+      "advice": "Pobądź chwilę w ciszy i poczuj, co naprawdę wiesz.",
+      "element": "Woda",
+      "astro": "Księżyc",
+      "number": "Dwa: dwoistość, równowaga między tym, co widoczne, a tym, co ukryte"
+    },
+    {
+      "kw_up": [
+        "troska",
+        "obfitość",
+        "radość tworzenia",
+        "zmysłowość"
+      ],
+      "kw_rev": [
+        "uzależnienie",
+        "duszące opiekuństwo",
+        "stagnacja",
+        "zapominanie o sobie"
+      ],
+      "about": "Ukoronowana kobieta odpoczywa w zielonym krajobrazie pełnym kłosów zboża i płynącego strumienia, otoczona przyrodą w pełni rozkwitu. Karta oznacza płodność, przyjemność i to, co rośnie, gdy jest karmione.",
+      "love": "W miłości chodzi o ciepło, czułość oraz dawanie i przyjmowanie troski. Może też przypominać, by zadbać o siebie.",
+      "work": "W pracy może wskazywać na twórcze projekty, które rosną we własnym tempie. Jakość i pielęgnacja często dają lepsze owoce niż pośpiech.",
+      "advice": "Karm to, co chcesz, by rosło, także siebie.",
+      "element": "Woda",
+      "astro": "Wenus",
+      "number": "Trzy: wzrost, moc tworzenia i wyraz"
+    },
+    {
+      "kw_up": [
+        "struktura",
+        "stabilność",
+        "autorytet",
+        "odpowiedzialność"
+      ],
+      "kw_rev": [
+        "sztywność",
+        "potrzeba kontroli",
+        "nieugiętość",
+        "nadużycie władzy"
+      ],
+      "about": "Ukoronowany mężczyzna siedzi na kamiennym tronie ozdobionym głowami baranów, z berłem i kulą w dłoniach i czerwonym płaszczem na zbroi. Oznacza porządek, granice i umiejętność budowania czegoś trwałego.",
+      "love": "W miłości karta może mówić o bezpieczeństwie, lojalności i jasnych ramach. Może też prosić, by sprawdzić, czy potrzeba kontroli nie zajmuje miejsca bliskości.",
+      "work": "W pracy chodzi o przywództwo, planowanie i branie odpowiedzialności. Dobre ramy mogą uwalniać energię, o ile nie stają się klatką.",
+      "advice": "Stwórz strukturę, która cię wspiera, a nie zamyka.",
+      "element": "Ogień",
+      "astro": "Baran",
+      "number": "Cztery: fundament, porządek i stabilność"
+    },
+    {
+      "kw_up": [
+        "tradycja",
+        "przewodnictwo",
+        "wspólnota",
+        "nauka"
+      ],
+      "kw_rev": [
+        "łamanie norm",
+        "dogmaty",
+        "ślepe podążanie za innymi",
+        "niezależność"
+      ],
+      "about": "Postać duchowna siedzi między dwiema kolumnami i unosi dłoń w błogosławieństwie, przed nią klęczy dwóch uczniów, a u jej stóp leżą klucze. Karta mówi o przekazanej mądrości i wspólnych wartościach, według których żyjemy.",
+      "love": "W miłości może dotyczyć zobowiązania, wspólnych wartości i może rytuałów, które łączą dwoje ludzi. Może też zapytać, w co ty sam wierzysz.",
+      "work": "W pracy karta może wskazywać na mentorów, kształcenie i stałe rutyny. Warto uczyć się od tych, którzy przeszli drogę przed tobą.",
+      "advice": "Poszukaj rady u kogoś, komu ufasz, ale zestaw ją z własnym rozumieniem.",
+      "element": "Ziemia",
+      "astro": "Byk",
+      "number": "Pięć: poszukiwanie sensu, nauka i tradycja"
+    },
+    {
+      "kw_up": [
+        "wybór",
+        "zjednoczenie",
+        "wartości",
+        "harmonia"
+      ],
+      "kw_rev": [
+        "niezdecydowanie",
+        "brak równowagi",
+        "niezgoda",
+        "niejasne wartości"
+      ],
+      "about": "Dwie nagie postacie stoją pod aniołem, za każdą z nich rośnie drzewo, jedno z owocami, a drugie z płomieniami. Karta mówi o wyborze płynącym z serca i o tym, co się dzieje, gdy spotykają się dwie strony.",
+      "love": "W miłości chodzi o głęboką więź i świadome wybieranie siebie nawzajem. Może też dotyczyć wyboru, który wymaga szczerości.",
+      "work": "W pracy wskazuje na rozdroże, na którym twoje wartości powinny ważyć najwięcej. Współpraca może stać się siłą.",
+      "advice": "Wybierz to, co zgadza się z tym, kim naprawdę jesteś.",
+      "element": "Powietrze",
+      "astro": "Bliźnięta",
+      "number": "Sześć: harmonia, wybór i wzajemność"
+    },
+    {
+      "kw_up": [
+        "napęd",
+        "zwycięstwo",
+        "samokontrola",
+        "kierunek"
+      ],
+      "kw_rev": [
+        "brak kierunku",
+        "agresja",
+        "utrata kontroli",
+        "przeszkody"
+      ],
+      "about": "Młody wojownik stoi w rydwanie ciągniętym przez dwa sfinksy, jednego jasnego i jednego ciemnego, pod baldachimem usianym gwiazdami. Nie widać wodzy, bo wola steruje podróżą.",
+      "love": "W miłości karta może wskazywać na zdecydowany wysiłek i umiejętność utrzymania kursu w trudnym okresie. Może też przypominać, by słuchać, a nie tylko pędzić naprzód.",
+      "work": "W pracy chodzi o postęp, koncentrację i zebranie sprzecznych sił wokół wspólnego celu.",
+      "advice": "Trzymaj w ręku obie siły i wybierz kierunek.",
+      "element": "Woda",
+      "astro": "Rak",
+      "number": "Siedem: siła woli, postęp i opanowanie"
+    },
+    {
+      "kw_up": [
+        "odwaga",
+        "cierpliwość",
+        "łagodna siła",
+        "pewność siebie"
+      ],
+      "kw_rev": [
+        "zwątpienie w siebie",
+        "surowa siła",
+        "niecierpliwość",
+        "bezbronność"
+      ],
+      "about": "Kobieta delikatnie zamyka paszczę lwa, a znak nieskończoności unosi się nad jej głową. Karta pokazuje, że prawdziwa siła jest często miękka, spokojna i wytrwała.",
+      "love": "W miłości chodzi o czułość i cierpliwość oraz o spotykanie własnych i cudzych wrażliwych stron z ciepłem.",
+      "work": "W pracy może mówić o radzeniu sobie z presją ze spokojem i równą siłą. Wytrwałość często wygrywa z zamieszaniem.",
+      "advice": "Spotkaj to, co cię przeraża, z łagodnością i pewną ręką.",
+      "element": "Ogień",
+      "astro": "Lew",
+      "number": "Osiem: siła wewnętrzna, wytrwałość i równowaga"
+    },
+    {
+      "kw_up": [
+        "wgląd",
+        "samotność",
+        "poszukiwanie",
+        "przewodnictwo"
+      ],
+      "kw_rev": [
+        "izolacja",
+        "wycofanie",
+        "osamotnienie",
+        "unikanie innych"
+      ],
+      "about": "Stary mężczyzna stoi na ośnieżonym szczycie z latarnią oświetlającą małą gwiazdę i laską w drugiej ręce. Karta ukazuje ciche poszukiwanie własnej prawdy.",
+      "love": "W miłości karta może oznaczać, że potrzebujesz czasu w samotności, by zrozumieć, czego chcesz. Może też przypominać, że bliskość wymaga znajomości siebie.",
+      "work": "W pracy może chodzić o pogłębienie wiedzy, naukę lub przerwę od hałasu, by jasno myśleć.",
+      "advice": "Daj sobie czas na ciszę i pozwól, by latarnia świeciła dla ciebie.",
+      "element": "Ziemia",
+      "astro": "Panna",
+      "number": "Dziewięć: dopełnienie, refleksja i wewnętrzne prowadzenie"
+    },
+    {
+      "kw_up": [
+        "cykl",
+        "zmiana",
+        "zwroty losu",
+        "postęp"
+      ],
+      "kw_rev": [
+        "przeciwności",
+        "opór przed zmianą",
+        "pech",
+        "powtarzające się wzorce"
+      ],
+      "about": "Wielkie koło z symbolami i literami unosi się na niebie, otoczone skrzydłami, sfinksem, wężem i zwierzęciem w każdym rogu. Karta przypomina, że wszystko biegnie cyklami i nic nie trwa w tej samej postaci.",
+      "love": "W miłości karta może wyznaczać zwrot, nową fazę albo przełamanie starego wzorca. Zachęca, by iść z ruchem.",
+      "work": "W pracy wskazuje na zmianę i otwierające się możliwości oraz dostosowanie się do nowych okoliczności.",
+      "advice": "Pozostań w ruchu, bo koło wciąż się obraca.",
+      "element": "Ogień",
+      "astro": "Jowisz",
+      "number": "Dziesięć: pełny cykl, początek nowego poziomu"
+    },
+    {
+      "kw_up": [
+        "równowaga",
+        "prawda",
+        "odpowiedzialność",
+        "przyczyna i skutek"
+      ],
+      "kw_rev": [
+        "niesprawiedliwość",
+        "brak równowagi",
+        "unikanie",
+        "zrzucanie odpowiedzialności"
+      ],
+      "about": "Postać siedzi na tronie z mieczem w jednej ręce i wagą w drugiej, między dwiema kolumnami, z zasłoną za sobą. Karta mówi o uczciwości i konsekwencjach wyborów.",
+      "love": "W miłości chodzi o sprawiedliwość, otwartą komunikację i wzajemny szacunek. Dotrzymuj słowa i bądź jasny.",
+      "work": "W pracy może wskazywać na umowy, oceny i decyzje, które wymagają rzeczowości i jasnych faktów.",
+      "advice": "Bądź uczciwy, także wobec siebie, i zważ to.",
+      "element": "Powietrze",
+      "astro": "Waga",
+      "number": "Jedenaście: równowaga, ważenie i odpowiedzialność"
+    },
+    {
+      "kw_up": [
+        "pauza",
+        "nowa perspektywa",
+        "poddanie się",
+        "cierpliwość"
+      ],
+      "kw_rev": [
+        "odkładanie",
+        "stagnacja",
+        "opór",
+        "niepotrzebna ofiara"
+      ],
+      "about": "Mężczyzna wisi do góry nogami na drzewie z jedną nogą przywiązaną, ale jego twarz jest spokojna i otoczona poświatą. Karta mówi o odpuszczaniu, czekaniu i patrzeniu na świat z innej strony.",
+      "love": "W miłości karta może mówić o pozwoleniu rzeczom dojrzeć albo o spojrzeniu na sytuację oczami drugiej osoby. Presja rzadko prowadzi naprzód.",
+      "work": "W pracy może oznaczać przerwę, objazd lub potrzebną cierpliwość przed następnym krokiem.",
+      "advice": "Puść na chwilę i zobacz, co się zmienia.",
+      "element": "Woda",
+      "astro": "Woda",
+      "number": "Dwanaście: poddanie się i zmiana spojrzenia"
+    },
+    {
+      "kw_up": [
+        "zakończenie",
+        "przemiana",
+        "puszczenie",
+        "nowy rozdział"
+      ],
+      "kw_rev": [
+        "opór przed zmianą",
+        "utknięcie",
+        "niedokończone sprawy",
+        "strach przed końcem"
+      ],
+      "about": "Jeździec-szkielet na białym koniu niesie czarny sztandar z białą różą, a przed nim stoją ludzie w różnych fazach życia. Karta rzadko mówi o dosłownej śmierci, raczej o zakończeniach, które robią miejsce czemuś nowemu.",
+      "love": "W miłości karta może wskazywać, że pewna faza dobiegła końca i trzeba odpuścić. Może też otworzyć drogę do głębszej szczerości.",
+      "work": "W pracy może chodzić o projekt lub rolę, które się kończą. To uwalnia miejsce na coś innego.",
+      "advice": "Pozwól temu, co skończone, być skończonym.",
+      "element": "Woda",
+      "astro": "Skorpion",
+      "number": "Trzynaście: zakończenie i przemiana"
+    },
+    {
+      "kw_up": [
+        "równowaga",
+        "umiar",
+        "cierpliwość",
+        "harmonia"
+      ],
+      "kw_rev": [
+        "brak równowagi",
+        "skrajności",
+        "pośpiech",
+        "brak spójności"
+      ],
+      "about": "Anioł stoi jedną stopą w wodzie, a drugą na lądzie i przelewa płyn tam i z powrotem między dwoma kielichami. Karta mówi o mieszaniu, rytmie i znalezieniu złotego środka.",
+      "love": "W miłości chodzi o znalezienie równego rytmu i ostrożne łączenie różnych potrzeb.",
+      "work": "W pracy może wskazywać na wyważone tempo i współpracę, w której różne mocne strony się uzupełniają.",
+      "advice": "Znajdź swój środek i pozwól rzeczom mieszać się w spokojnym tempie.",
+      "element": "Ogień",
+      "astro": "Strzelec",
+      "number": "Czternaście: dostosowanie, mieszanie i równowaga"
+    },
+    {
+      "kw_up": [
+        "więzy",
+        "pokusa",
+        "cień",
+        "materializm"
+      ],
+      "kw_rev": [
+        "uwolnienie",
+        "zrywanie z nawykami",
+        "odzyskana siła",
+        "wgląd"
+      ],
+      "about": "Rogata postać siedzi na cokole, a dwie nagie postacie stoją do niego przykute luźnymi łańcuchami. Karta pokazuje nawyki i więzy, które sami stworzyliśmy, często ich nie dostrzegając.",
+      "love": "W miłości karta może wskazywać na przyciąganie, uzależnienie lub wzorce, które nas trzymają. Zaprasza, by zobaczyć je wyraźnie.",
+      "work": "W pracy może chodzić o nawyki lub ambicje, które biorą więcej, niż dają, i o pytanie, co naprawdę tobą kieruje.",
+      "advice": "Zobacz, co cię wiąże, bo łańcuchy często są luźniejsze, niż się wydają.",
+      "element": "Ziemia",
+      "astro": "Koziorożec",
+      "number": "Piętnaście: cień, pożądanie i więzy"
+    },
+    {
+      "kw_up": [
+        "przewrót",
+        "odsłonięcie",
+        "szok",
+        "przebudzenie"
+      ],
+      "kw_rev": [
+        "uniknięcie katastrofy",
+        "strach przed zmianą",
+        "opóźnione załamanie",
+        "stopniowa zmiana"
+      ],
+      "about": "Wieża na skale zostaje uderzona piorunem, płomienie i korona spadają, a dwie postacie rzucają się w dół. Karta pokazuje, że fałszywe struktury mogą się zawalić, by zbudować coś prawdziwszego.",
+      "love": "W miłości karta może oznaczać nagłe olśnienie lub zmianę, która porusza to, co bezpieczne. Może to zostawić miejsce na szczersze relacje.",
+      "work": "W pracy może wskazywać na nagłe zmiany lub na to, że coś nie do utrzymania staje się widoczne, i potrzebę budowania od nowa.",
+      "advice": "Potraktuj to, co upada, jak otwarcie i buduj na solidnym gruncie.",
+      "element": "Ogień",
+      "astro": "Mars",
+      "number": "Szesnaście: przewrót i przełom"
+    },
+    {
+      "kw_up": [
+        "nadzieja",
+        "odnowa",
+        "inspiracja",
+        "spokój"
+      ],
+      "kw_rev": [
+        "zniechęcenie",
+        "brak wiary",
+        "wyczerpanie",
+        "odłączenie"
+      ],
+      "about": "Naga kobieta wylewa wodę z dwóch dzbanów, jeden do stawu, a drugi na ziemię, pod wielką gwiazdą otoczoną mniejszymi. Karta oznacza cichą nadzieję, uzdrawiający odpoczynek i zaufanie, że światło wróci.",
+      "love": "W miłości chodzi o otwartość, zaufanie i dzielenie się tym, co nosisz w sobie. To karta pojednawczego spokoju.",
+      "work": "W pracy wskazuje na drogę naprzód po ciężkim okresie i na pomysły, które przychodzą same, gdy oddychasz spokojnie.",
+      "advice": "Trzymaj się nadziei i pozwól jej trochę pobyć w ciszy.",
+      "element": "Powietrze",
+      "astro": "Wodnik",
+      "number": "Siedemnaście: nadzieja, inspiracja i jasność"
+    },
+    {
+      "kw_up": [
+        "sny",
+        "intuicja",
+        "iluzja",
+        "nieświadomość"
+      ],
+      "kw_rev": [
+        "rozwiewający się zamęt",
+        "lęk",
+        "jasność",
+        "prawda wychodzi na jaw"
+      ],
+      "about": "Księżyc oświetla ścieżkę między dwiema wieżami, pies i wilk wyją, a rak wyczołguje się ze stawu. Karta mówi o półmroku, snach i uczuciach, których do końca nie rozumiemy.",
+      "love": "W miłości karta może wskazywać na niepewność i silne uczucia, których nie da się od razu wyjaśnić. Daj temu czas i zadawaj szczere pytania.",
+      "work": "W pracy sprawy mogą być niejasne i warto odłożyć duże decyzje, aż obraz stanie się wyraźniejszy.",
+      "advice": "Idź powoli i ufaj temu, co czujesz, ale sprawdź to w świetle dnia.",
+      "element": "Woda",
+      "astro": "Ryby",
+      "number": "Osiemnaście: nieświadomość, sny i iluzja"
+    },
+    {
+      "kw_up": [
+        "radość",
+        "witalność",
+        "jasność",
+        "sukces"
+      ],
+      "kw_rev": [
+        "chwilowy cień",
+        "nadmierny optymizm",
+        "opóźniona radość",
+        "wypalenie"
+      ],
+      "about": "Nagie dziecko jedzie na białym koniu pod wielkim słońcem, za murem rosną słoneczniki, a w ręku trzyma czerwony sztandar. Karta oznacza ciepło, jasność i prostą radość istnienia.",
+      "love": "W miłości chodzi o otwartość, zabawę i cieszenie się sobą nawzajem. Szczerość daje światło.",
+      "work": "W pracy może mówić o postępie i energii oraz o naturalnej widoczności.",
+      "advice": "Naładuj się tym, co daje ci radość, i pozwól temu być widocznym.",
+      "element": "Ogień",
+      "astro": "Słońce",
+      "number": "Dziewiętnaście: witalność, radość i wyrazistość"
+    },
+    {
+      "kw_up": [
+        "przebudzenie",
+        "powołanie",
+        "odnowa",
+        "refleksja"
+      ],
+      "kw_rev": [
+        "samokrytyka",
+        "ignorowanie powołania",
+        "wątpliwości",
+        "nierozstrzygnięte pytania"
+      ],
+      "about": "Anioł dmie w trąbę nad morzem, a ludzie powstają z grobów z wyciągniętymi ramionami. Karta mówi o przebudzeniu, rozliczeniu i odpowiedzi na wewnętrzne wezwanie.",
+      "love": "W miłości karta może oznaczać nowe zrozumienie i przebaczenie, sobie i innym.",
+      "work": "W pracy wskazuje na ocenę dotychczasowej drogi i możliwą zmianę, która wydaje się słuszna.",
+      "advice": "Wsłuchaj się w wezwanie i dokonaj rozliczenia łagodnie.",
+      "element": "Ogień",
+      "astro": "Ogień",
+      "number": "Dwadzieścia: przebudzenie i odnowa"
+    },
+    {
+      "kw_up": [
+        "dopełnienie",
+        "całość",
+        "osiągnięcie",
+        "integracja"
+      ],
+      "kw_rev": [
+        "niedokończenie",
+        "brak ostatniego kroku",
+        "odkładanie",
+        "stagnacja"
+      ],
+      "about": "Tancerka unosi się w wieńcu z liści, otoczona postaciami z czterech rogów: aniołem, orłem, wołem i lwem. Karta oznacza zamykające się koło i nowe, które może się otworzyć.",
+      "love": "W miłości chodzi o całość i zadowolenie oraz o to, że dwie drogi życia mogą znaleźć wspólny rytm.",
+      "work": "W pracy karta oznacza ukończenie etapu i uznanie tego, co osiągnięto, przed następnym rozdziałem.",
+      "advice": "Daj sobie czas, by uczcić to, co dokończyłeś.",
+      "element": "Ziemia",
+      "astro": "Saturn",
+      "number": "Dwadzieścia jeden: spełnienie i całość"
+    },
+    {
+      "kw_up": [
+        "nowa inspiracja",
+        "iskra",
+        "napęd",
+        "możliwość"
+      ],
+      "kw_rev": [
+        "opóźnienie",
+        "brak napędu",
+        "zgaszona iskra",
+        "odłożony start"
+      ],
+      "about": "Dłoń wysuwa z chmury pokrywającą się zielenią buławę nad krajobrazem z górami i rzeką. Karta jest iskrą czystej energii, nasieniem pomysłu, który czeka na zapalenie.",
+      "love": "W miłości może to być nowa namiętność, iskra lub chęć wykonania pierwszego kroku.",
+      "work": "W pracy może oznaczać nowy pomysł lub projekt z siłą w sobie.",
+      "advice": "Chwyć iskrę, póki jest ciepła.",
+      "element": "Ogień",
+      "astro": "Korzeń Ognia: czysta moc żywiołu",
+      "number": "As: nasienie i początek"
+    },
+    {
+      "kw_up": [
+        "planowanie",
+        "wybór",
+        "przegląd sytuacji",
+        "odwaga"
+      ],
+      "kw_rev": [
+        "strach przed nieznanym",
+        "złe planowanie",
+        "wahanie",
+        "pozostanie w znanym"
+      ],
+      "about": "Mężczyzna stoi na murze twierdzy ze szklaną kulą w ręku i buławą obok i patrzy na morze. Karta mówi o wyborze następnego celu i celowaniu dalej niż dzisiejszy dzień.",
+      "love": "W miłości karta może pytać, czego pragniesz w przyszłości, i zapraszać do dzielenia się planami.",
+      "work": "W pracy chodzi o planowanie, rozważanie alternatyw i odwagę, by celować dalej.",
+      "advice": "Patrz przed siebie i wybierz kierunek.",
+      "element": "Ogień",
+      "astro": "Mars w Baranie",
+      "number": "Dwa: wybór i dwoistość"
+    },
+    {
+      "kw_up": [
+        "rozwój",
+        "postęp",
+        "widok",
+        "pierwsze rezultaty"
+      ],
+      "kw_rev": [
+        "przeszkody",
+        "opóźnienia",
+        "zawiedzione oczekiwania",
+        "potrzebna cierpliwość"
+      ],
+      "about": "Mężczyzna stoi tyłem na skale i patrzy na morze, po którym odpływają statki, oparty na buławie, a dwie kolejne tkwią w ziemi obok. Karta pokazuje, że dawny wysiłek zaczyna przynosić pierwsze owoce.",
+      "love": "W miłości może to oznaczać wyczekiwanie na coś większego we dwoje albo oczekiwanie, aż więź urośnie.",
+      "work": "W pracy wskazuje na rozwój, współpracę ponad podziałami lub to, że dawny wysiłek zaczyna owocować.",
+      "advice": "Wypatruj horyzontu i ufaj temu, co zasiałeś.",
+      "element": "Ogień",
+      "astro": "Słońce w Baranie",
+      "number": "Trzy: wzrost i wyraz"
+    },
+    {
+      "kw_up": [
+        "świętowanie",
+        "dom",
+        "bezpieczeństwo",
+        "wspólnota"
+      ],
+      "kw_rev": [
+        "niepokój w domu",
+        "brak wspólnoty",
+        "rozpad",
+        "niepewność"
+      ],
+      "about": "Cztery buławy tworzą kwitnący łuk z wieńcem, a przed zamkiem na pierwszym planie ludzie świętują. Karta mówi o bezpiecznej przystani i radości z osiągnięcia pierwszego punktu zakotwiczenia.",
+      "love": "W miłości chodzi o bezpieczeństwo, świętowanie i poczucie domu.",
+      "work": "W pracy może wskazywać na kamień milowy lub dobrą atmosferę współpracy.",
+      "advice": "Zatrzymaj się i uczcij to, co zbudowane.",
+      "element": "Ogień",
+      "astro": "Wenus w Baranie",
+      "number": "Cztery: stabilność i fundament"
+    },
+    {
+      "kw_up": [
+        "rywalizacja",
+        "niezgoda",
+        "nieład",
+        "próba"
+      ],
+      "kw_rev": [
+        "unikanie konfliktu",
+        "zgoda",
+        "zakończony spór",
+        "wewnętrzne napięcie"
+      ],
+      "about": "Pięciu młodych mężczyzn macha buławami przeciwko sobie w chaotycznej i pełnej energii grze. Karta mówi o tarciu, wyścigu i zderzających się opiniach.",
+      "love": "W miłości może wskazywać na niezgodę lub różne potrzeby. Konstruktywny dialog może zmienić wiele.",
+      "work": "W pracy może chodzić o rywalizację lub różne pomysły, które wymagają obsłużenia.",
+      "advice": "Pozwól, by różnice cię rozwijały, a nie dzieliły.",
+      "element": "Ogień",
+      "astro": "Saturn w Lwie",
+      "number": "Pięć: wyzwanie i niestabilność"
+    },
+    {
+      "kw_up": [
+        "zwycięstwo",
+        "uznanie",
+        "pewność siebie",
+        "postęp"
+      ],
+      "kw_rev": [
+        "zwątpienie w siebie",
+        "brak uznania",
+        "upadek",
+        "upokorzenie"
+      ],
+      "about": "Jeździec na białym koniu niesie wieniec laurowy na swojej buławie, a ludzie wiwatują wokół niego. Karta pokazuje dumę z sukcesu i radość z bycia zauważonym.",
+      "love": "W miłości może dotyczyć pewności siebie i uznania oraz dzielenia radości z tego, co osiągnięto.",
+      "work": "W pracy może wskazywać na sukces lub dobry wynik, który zostaje zauważony.",
+      "advice": "Przyjmij uznanie, ale stąpaj twardo po ziemi.",
+      "element": "Ogień",
+      "astro": "Jowisz w Lwie",
+      "number": "Sześć: harmonia i uznanie"
+    },
+    {
+      "kw_up": [
+        "obrona",
+        "wytrwałość",
+        "stanowisko",
+        "odwaga"
+      ],
+      "kw_rev": [
+        "przytłoczenie",
+        "poddanie się",
+        "wycofanie",
+        "wyczerpanie"
+      ],
+      "about": "Mężczyzna stoi na wzgórzu i broni się buławą przed sześcioma innymi, którzy nadchodzą z dołu. Karta mówi o obronie tego, w co się wierzy.",
+      "love": "W miłości chodzi o stanie w obronie własnych granic i wartości.",
+      "work": "W pracy może wskazywać na presję z zewnątrz i potrzebę trzymania się własnej pozycji.",
+      "advice": "Stój przy tym, co myślisz, nie zużywając całej siły na walkę.",
+      "element": "Ogień",
+      "astro": "Mars w Lwie",
+      "number": "Siedem: próba i niezłomność"
+    },
+    {
+      "kw_up": [
+        "szybkość",
+        "postęp",
+        "szybkie działanie",
+        "wieści"
+      ],
+      "kw_rev": [
+        "opóźnienia",
+        "pośpiech",
+        "frustracja",
+        "zatrzymanie"
+      ],
+      "about": "Osiem buław leci w powietrzu nad krajobrazem bez ludzi. Karta mówi o szybkości, ruchu i rzeczach dziejących się szybko.",
+      "love": "W miłości może oznaczać szybki kontakt lub rozwój nabierający tempa oraz potrzebę sprawdzenia, czy uczucia dotrzymują kroku.",
+      "work": "W pracy może mówić o wieściach, podróżach lub projektach, które nagle nabierają tempa.",
+      "advice": "Wykorzystaj tempo, ale zachowaj przegląd sytuacji.",
+      "element": "Ogień",
+      "astro": "Merkury w Strzelcu",
+      "number": "Osiem: ruch i postęp"
+    },
+    {
+      "kw_up": [
+        "wytrwałość",
+        "odporność",
+        "czujność",
+        "ostatni wysiłek"
+      ],
+      "kw_rev": [
+        "wyczerpanie",
+        "paranoja",
+        "poddanie się",
+        "bezbronność"
+      ],
+      "about": "Zabandażowany mężczyzna opiera się o buławę przed ośmioma innymi, którzy stoją jak mur za nim. Karta mówi o wytrzymaniu po długiej walce i zebraniu ostatnich sił.",
+      "love": "W miłości może wskazywać na ostrożność po dawnych ranach i cierpliwe zaufanie.",
+      "work": "W pracy chodzi o wytrwałość i doprowadzenie do końca mimo zmęczenia.",
+      "advice": "Wytrzymaj jeszcze trochę i pamiętaj o odpoczynku.",
+      "element": "Ogień",
+      "astro": "Księżyc w Strzelcu",
+      "number": "Dziewięć: prawie ukończone, wytrwałość"
+    },
+    {
+      "kw_up": [
+        "ciężar",
+        "odpowiedzialność",
+        "harówka",
+        "dopełnienie"
+      ],
+      "kw_rev": [
+        "złożenie ciężaru",
+        "delegowanie",
+        "załamanie",
+        "przeciążenie"
+      ],
+      "about": "Mężczyzna niesie w ramionach dziesięć buław ku odległemu miastu, zgięty pod ciężarem. Karta mówi o odpowiedzialności, która stała się ciężka, i o tym, co bierzemy na siebie.",
+      "love": "W miłości może wskazywać, że niesiesz za dużo sam i że dzielenie się ulżyłoby ci.",
+      "work": "W pracy chodzi o ilość obowiązków i potrzebę ustalenia priorytetów lub poproszenia o pomoc.",
+      "advice": "Zobacz, co możesz odłożyć lub podzielić.",
+      "element": "Ogień",
+      "astro": "Saturn w Strzelcu",
+      "number": "Dziesięć: przeciążenie i dopełnienie"
+    },
+    {
+      "kw_up": [
+        "ciekawość",
+        "entuzjazm",
+        "wieści",
+        "odkrywanie"
+      ],
+      "kw_rev": [
+        "niecierpliwość",
+        "rozproszenie",
+        "brak wieści",
+        "pośpiech"
+      ],
+      "about": "Młody posłaniec stoi na pustyni z kwitnącą buławą i przygląda się jej. Karta oznacza młodą iskrę, żywość i ciekawość.",
+      "love": "W miłości może to być entuzjazm, flirt lub nowe możliwości.",
+      "work": "W pracy może dotyczyć nowego pomysłu lub nauki, która daje energię.",
+      "advice": "Zrób coś z zabawą i bądź otwarty na nowe.",
+      "element": "Ogień",
+      "astro": "Ziemia w Ogniu (tradycja żywiołów)",
+      "number": "Paź: posłaniec i początkujący"
+    },
+    {
+      "kw_up": [
+        "żądza przygód",
+        "sprawczość",
+        "charyzma",
+        "tempo"
+      ],
+      "kw_rev": [
+        "porywczość",
+        "niepokój",
+        "niecierpliwość",
+        "kapryśność"
+      ],
+      "about": "Rycerz na wierzgającym koniu niesie buławę w pustynnej scenerii. Karta oznacza śmiałą energię, chęć podróży i zapał do zdobywania nowych celów.",
+      "love": "W miłości może to być namiętność i emocje, ale też potrzeba utrzymania kursu.",
+      "work": "W pracy chodzi o zapał i tempo, często z potrzebą wytrwałości.",
+      "advice": "Skieruj zapał w jednym kierunku.",
+      "element": "Ogień",
+      "astro": "Ogień w Ogniu (tradycja żywiołów)",
+      "number": "Rycerz: ruch i działanie"
+    },
+    {
+      "kw_up": [
+        "pewność siebie",
+        "ciepło",
+        "charyzma",
+        "niezależność"
+      ],
+      "kw_rev": [
+        "zazdrość",
+        "wymagający charakter",
+        "nieprzewidywalność",
+        "niepewność"
+      ],
+      "about": "Ukoronowana kobieta siedzi na tronie ze słonecznikiem i czarnym kotem u stóp i trzyma buławę. Karta oznacza ciepłą pewność siebie i twórczą siłę.",
+      "love": "W miłości karta może dotyczyć hojnego ciepła i pragnienia bycia widzianym takim, jakim się jest.",
+      "work": "W pracy chodzi o charyzmę, przywództwo i inspirowanie innych.",
+      "advice": "Bądź sobą z ciepłem i pozwól innym to zobaczyć.",
+      "element": "Ogień",
+      "astro": "Woda w Ogniu (tradycja żywiołów)",
+      "number": "Królowa: dojrzałość i wewnętrzna siła"
+    },
+    {
+      "kw_up": [
+        "wizja",
+        "przywództwo",
+        "odwaga",
+        "inspiracja"
+      ],
+      "kw_rev": [
+        "dominacja",
+        "porywczość",
+        "nierealistyczność",
+        "egocentryzm"
+      ],
+      "about": "Ukoronowany mężczyzna siedzi na tronie ozdobionym lwami i salamandrami z kwitnącą buławą w dłoni. Karta oznacza lidera z ogniem w sercu i długofalowymi wizjami.",
+      "love": "W miłości może oznaczać bezpiecznego i ciepłego partnera albo to, że sam przejmujesz rolę przywódcy.",
+      "work": "W pracy chodzi o dostrzeganie wielkich linii i inspirowanie innych.",
+      "advice": "Prowadź z wizją i pozwól innym rosnąć.",
+      "element": "Ogień",
+      "astro": "Powietrze w Ogniu (tradycja żywiołów)",
+      "number": "Król: mistrzostwo i odpowiedzialność"
+    },
+    {
+      "kw_up": [
+        "nowa miłość",
+        "uczucia",
+        "współczucie",
+        "otwartość"
+      ],
+      "kw_rev": [
+        "blokada emocjonalna",
+        "stłumione uczucia",
+        "pustka",
+        "zamknięcie"
+      ],
+      "about": "Dłoń wyciąga z chmury przepełniony kielich, gołąb upuszcza hostię, a woda spływa do stawu z liliami. Karta mówi o strumieniu uczuć i robieniu dla nich miejsca.",
+      "love": "W miłości może to być nowy początek, głębszy kontakt serc lub nowe zrozumienie.",
+      "work": "W pracy może dotyczyć pracy, która ma sens, i zaangażowania emocjonalnego.",
+      "advice": "Otwórz serce i pozwól mu płynąć.",
+      "element": "Woda",
+      "astro": "Korzeń Wody: czysta moc żywiołu",
+      "number": "As: nasienie i początek"
+    },
+    {
+      "kw_up": [
+        "zjednoczenie",
+        "wzajemność",
+        "przyciąganie",
+        "partnerstwo"
+      ],
+      "kw_rev": [
+        "rozstanie",
+        "brak równowagi",
+        "niezgoda",
+        "nieporozumienia"
+      ],
+      "about": "Para wymienia kielichy, nad nimi skrzydlaty lew, a za nimi wąż owinięty wokół laski. Karta mówi o wzajemnym szacunku i miłości między dwojgiem.",
+      "love": "W miłości to jedna z kart wzajemności i spotkania na równych warunkach.",
+      "work": "W pracy może wskazywać na dobrą współpracę lub umowę między równymi sobie.",
+      "advice": "Spotkaj drugą osobę z otwartością i szacunkiem.",
+      "element": "Woda",
+      "astro": "Wenus w Raku",
+      "number": "Dwa: połączenie i partnerstwo"
+    },
+    {
+      "kw_up": [
+        "przyjaźń",
+        "świętowanie",
+        "radość",
+        "wspólnota"
+      ],
+      "kw_rev": [
+        "przesada",
+        "plotki",
+        "izolacja",
+        "poczucie wykluczenia"
+      ],
+      "about": "Trzy kobiety unoszą kielichy w tańcu, u ich stóp leżą owoce. Karta mówi o radości i wspólnym świętowaniu.",
+      "love": "W miłości chodzi o przyjaźń, zabawę i wspólnotę.",
+      "work": "W pracy może wskazywać na dobrą pracę zespołową i atmosferę.",
+      "advice": "Dziel radość z tymi, których kochasz.",
+      "element": "Woda",
+      "astro": "Merkury w Raku",
+      "number": "Trzy: wzrost i wyraz"
+    },
+    {
+      "kw_up": [
+        "apatia",
+        "zadumanie",
+        "niezadowolenie",
+        "przerwa"
+      ],
+      "kw_rev": [
+        "nowe możliwości",
+        "motywacja",
+        "przebudzenie",
+        "dostrzeżenie oferty"
+      ],
+      "about": "Mężczyzna siedzi pod drzewem ze skrzyżowanymi rękami i patrzy na trzy kielichy, a dłoń z chmury podaje czwarty. Karta mówi o przeoczeniu tego, co jest oferowane, bo się dumamy.",
+      "love": "W miłości może wskazywać na nudę lub nieodwzajemnioną tęsknotę i potrzebę przyjrzenia się temu, czego naprawdę chcesz.",
+      "work": "W pracy może dotyczyć braku napędu i czasu na rozważenie.",
+      "advice": "Podnieś wzrok i zobacz, co naprawdę ci oferowano.",
+      "element": "Woda",
+      "astro": "Księżyc w Raku",
+      "number": "Cztery: bezruch i ocena"
+    },
+    {
+      "kw_up": [
+        "smutek",
+        "strata",
+        "żal",
+        "rozliczenie emocjonalne"
+      ],
+      "kw_rev": [
+        "przebaczenie",
+        "ruszenie naprzód",
+        "akceptacja",
+        "uzdrowienie"
+      ],
+      "about": "Postać w płaszczu patrzy na trzy przewrócone kielichy, a dwa stoją prosto za nią. Karta mówi o żałobie i o tym, by nie zapominać o tym, co wciąż stoi.",
+      "love": "W miłości może wskazywać na smutek lub rozczarowanie i na dostrzeżenie tego, co wciąż jest.",
+      "work": "W pracy chodzi o radzenie sobie z niepowodzeniami i znalezienie nowej drogi.",
+      "advice": "Daj smutkowi miejsce i zobacz też to, co zostało.",
+      "element": "Woda",
+      "astro": "Mars w Skorpionie",
+      "number": "Pięć: strata i wyzwanie"
+    },
+    {
+      "kw_up": [
+        "nostalgia",
+        "dzieciństwo",
+        "życzliwość",
+        "ponowne spotkanie"
+      ],
+      "kw_rev": [
+        "tkwienie w przeszłości",
+        "nierealistyczne wspomnienia",
+        "dojrzewanie",
+        "ruszenie dalej"
+      ],
+      "about": "Dwoje dzieci dzieli się kwiatami na starym dziedzińcu pełnym kielichów. Karta mówi o wspomnieniach i niewinnej życzliwości.",
+      "love": "W miłości może to być ponowne spotkanie, czułość lub budzące się dawne więzi.",
+      "work": "W pracy może dotyczyć współpracy ze znajomymi lub powrotu do czegoś dobrze znanego.",
+      "advice": "Czerp ciepło ze wspomnień, ale żyj w teraźniejszości.",
+      "element": "Woda",
+      "astro": "Słońce w Skorpionie",
+      "number": "Sześć: harmonia i wzajemny dar"
+    },
+    {
+      "kw_up": [
+        "wyobraźnia",
+        "wybór",
+        "marzenia",
+        "iluzje"
+      ],
+      "kw_rev": [
+        "jasność",
+        "decyzja",
+        "realizm",
+        "dokonanie wyboru"
+      ],
+      "about": "Postać przygląda się siedmiu kielichom pełnym różnych symboli, unoszącym się w chmurach. Karta mówi o wyobraźni i wielu możliwościach, które trzeba uporządkować.",
+      "love": "W miłości może chodzić o marzenia lub wiele opcji i potrzebę uświadomienia sobie, czego chcesz.",
+      "work": "W pracy chodzi o wybór spośród kilku możliwości i oddzielenie marzenia od planu.",
+      "advice": "Oddziel marzenie od planu i wybierz jedno.",
+      "element": "Woda",
+      "astro": "Wenus w Skorpionie",
+      "number": "Siedem: możliwości wyboru i wyobraźnia"
+    },
+    {
+      "kw_up": [
+        "odejście",
+        "ruszenie dalej",
+        "poszukiwanie",
+        "głębszy sens"
+      ],
+      "kw_rev": [
+        "pozostanie",
+        "strach przed odejściem",
+        "kontynuowanie w znanym",
+        "uzależnienie"
+      ],
+      "about": "Postać odchodzi od ośmiu ustawionych kielichów ku górom pod księżycem. Karta mówi o pozostawieniu czegoś wystarczająco dobrego i poszukiwaniu głębiej.",
+      "love": "W miłości może to być uświadomienie sobie, że coś już nie karmi.",
+      "work": "W pracy chodzi o zmianę kierunku, by znaleźć więcej sensu.",
+      "advice": "Odważ się iść ku temu, co daje więcej sensu.",
+      "element": "Woda",
+      "astro": "Saturn w Rybach",
+      "number": "Osiem: zmiana i poszukiwanie"
+    },
+    {
+      "kw_up": [
+        "zadowolenie",
+        "przyjemność",
+        "wdzięczność",
+        "spełnienie"
+      ],
+      "kw_rev": [
+        "chciwość",
+        "samozadowolenie",
+        "powierzchowność",
+        "niespełnienie"
+      ],
+      "about": "Mężczyzna siedzi zadowolony ze skrzyżowanymi rękami przed dziewięcioma kielichami na półce. Karta znana jest jako karta życzeń i mówi o czerpaniu radości z tego, co się ma.",
+      "love": "W miłości chodzi o zadowolenie i radość z tego, co jest.",
+      "work": "W pracy może wskazywać na dobre wyniki i zadowolenie z włożonego wysiłku.",
+      "advice": "Ciesz się tym, co masz, i bądź wdzięczny.",
+      "element": "Woda",
+      "astro": "Jowisz w Rybach",
+      "number": "Dziewięć: spełnienie i przyjemność"
+    },
+    {
+      "kw_up": [
+        "radość rodzinna",
+        "harmonia",
+        "przynależność",
+        "spełnienie"
+      ],
+      "kw_rev": [
+        "niepokój w rodzinie",
+        "zerwane relacje",
+        "niezgoda",
+        "nierealistyczne ideały"
+      ],
+      "about": "Para stoi z uniesionymi rękami ku tęczy z dziesięciu kielichów, a dzieci bawią się przed domem. Karta mówi o szczęściu we wspólnocie i poczuciu przynależności.",
+      "love": "W miłości chodzi o harmonię, bezpieczeństwo i wspólne wartości.",
+      "work": "W pracy może wskazywać na dobrą atmosferę w pracy i wspólne cele.",
+      "advice": "Doceń wspólnotę, której jesteś częścią.",
+      "element": "Woda",
+      "astro": "Mars w Rybach",
+      "number": "Dziesięć: urzeczywistnienie i harmonia"
+    },
+    {
+      "kw_up": [
+        "wrażliwość",
+        "kreatywność",
+        "otwartość",
+        "marzenia"
+      ],
+      "kw_rev": [
+        "niedojrzałość",
+        "niestabilność emocjonalna",
+        "ucieczka od rzeczywistości",
+        "bezbronność"
+      ],
+      "about": "Młoda osoba stoi nad morzem i patrzy na rybę, która wystaje z kielicha. Karta oznacza czułe usposobienie i twórcze impulsy.",
+      "love": "W miłości może to być nowe uczucie, romantyczna wiadomość lub ostrożna otwartość.",
+      "work": "W pracy może dotyczyć twórczych pomysłów lub intuicyjnych olśnień.",
+      "advice": "Przyjmij nowe uczucie z ciekawością.",
+      "element": "Woda",
+      "astro": "Ziemia w Wodzie (tradycja żywiołów)",
+      "number": "Paź: posłaniec i początkujący"
+    },
+    {
+      "kw_up": [
+        "romantyzm",
+        "urok",
+        "propozycja",
+        "ideały"
+      ],
+      "kw_rev": [
+        "huśtawki nastroju",
+        "nierealistyczne oczekiwania",
+        "zawód",
+        "powierzchowność"
+      ],
+      "about": "Rycerz na spokojnym białym koniu niesie kielich ku cichemu krajobrazowi. Karta oznacza romantyczną duszę, która podąża za sercem.",
+      "love": "W miłości chodzi o otwartość, składanie propozycji i popieranie słów czynami.",
+      "work": "W pracy może dotyczyć oferty, zaproszenia lub idealistycznego projektu.",
+      "advice": "Podążaj za sercem, ale zadbaj, by dotarło do celu.",
+      "element": "Woda",
+      "astro": "Ogień w Wodzie (tradycja żywiołów)",
+      "number": "Rycerz: ruch i działanie"
+    },
+    {
+      "kw_up": [
+        "empatia",
+        "intuicja",
+        "troska",
+        "głębia"
+      ],
+      "kw_rev": [
+        "emocjonalne przytłoczenie",
+        "uzależnienie",
+        "wycofanie",
+        "niepewność"
+      ],
+      "about": "Ukoronowana kobieta siedzi nad morzem i przygląda się ozdobnemu kielichowi. Karta oznacza głębię uczuć i zrozumienie.",
+      "love": "W miłości chodzi o troskę, intuicję i słuchanie uczuć.",
+      "work": "W pracy może dotyczyć wrażliwości na współpracowników, mentoringu lub zawodów opiekuńczych.",
+      "advice": "Słuchaj swoich uczuć, nie tonąc w nich.",
+      "element": "Woda",
+      "astro": "Woda w Wodzie (tradycja żywiołów)",
+      "number": "Królowa: dojrzałość i wewnętrzna siła"
+    },
+    {
+      "kw_up": [
+        "równowaga emocjonalna",
+        "współczucie",
+        "mądrość",
+        "dyplomacja"
+      ],
+      "kw_rev": [
+        "huśtawki nastroju",
+        "chłód",
+        "manipulacja",
+        "tłumienie"
+      ],
+      "about": "Ukoronowany mężczyzna siedzi na tronie pośrodku niespokojnego morza i trzyma kielich. Karta oznacza lidera, który utrzymuje uczucia w spokoju.",
+      "love": "W miłości chodzi o dojrzałość, wsparcie i emocjonalne bezpieczeństwo.",
+      "work": "W pracy może dotyczyć doradztwa, przywództwa z empatią i dyplomacji.",
+      "advice": "Zachowaj spokój pośród fal.",
+      "element": "Woda",
+      "astro": "Powietrze w Wodzie (tradycja żywiołów)",
+      "number": "Król: mistrzostwo i odpowiedzialność"
+    },
+    {
+      "kw_up": [
+        "jasność",
+        "prawda",
+        "przełom",
+        "nowy wgląd"
+      ],
+      "kw_rev": [
+        "zamęt",
+        "niejasność",
+        "surowość",
+        "blokada umysłowa"
+      ],
+      "about": "Dłoń wyciąga z chmury miecz, ukoronowany wieńcem, nad stromymi górami. Karta mówi o sile myśli i jasności, która przecina mgłę.",
+      "love": "W miłości może oznaczać szczerą rozmowę i nowy wgląd w związek.",
+      "work": "W pracy może to być przełomowy pomysł lub wyraźne stanowisko.",
+      "advice": "Pozwól prawdzie wyjść na jaw w życzliwy sposób.",
+      "element": "Powietrze",
+      "astro": "Korzeń Powietrza: czysta moc żywiołu",
+      "number": "As: nasienie i początek"
+    },
+    {
+      "kw_up": [
+        "dylemat",
+        "pauza",
+        "równowaga",
+        "unikanie decyzji"
+      ],
+      "kw_rev": [
+        "zamęt",
+        "ujawnienie informacji",
+        "niezdecydowanie",
+        "napięcie"
+      ],
+      "about": "Kobieta z zawiązanymi oczami siedzi ze skrzyżowanymi dwoma mieczami przed spokojnym morzem. Karta mówi o trudnej decyzji i niechęci do patrzenia.",
+      "love": "W miłości może wskazywać na pat, w którym uczucia i myśli są w konflikcie.",
+      "work": "W pracy chodzi o wybór, który wymaga więcej informacji lub odwagi.",
+      "advice": "Zdejmij przepaskę, gdy będziesz gotowy.",
+      "element": "Powietrze",
+      "astro": "Księżyc w Wadze",
+      "number": "Dwa: wybór i dwoistość"
+    },
+    {
+      "kw_up": [
+        "smutek",
+        "złamane serce",
+        "ból",
+        "prawda"
+      ],
+      "kw_rev": [
+        "gojenie",
+        "przebaczenie",
+        "puszczenie bólu",
+        "stopniowa poprawa"
+      ],
+      "about": "Trzy miecze przebijają czerwone serce pod deszczem i chmurami. Karta mówi o bolesnej prawdzie i stracie, która jej towarzyszy.",
+      "love": "W miłości może wskazywać na smutek i rozstanie oraz na to, że wolno poczuć, co się czuje.",
+      "work": "W pracy chodzi o rozczarowania i surową informację zwrotną, z której można się czegoś nauczyć.",
+      "advice": "Pozwól sobie poczuć to, co boli.",
+      "element": "Powietrze",
+      "astro": "Saturn w Wadze",
+      "number": "Trzy: wzrost i wyraz, tu przez ból"
+    },
+    {
+      "kw_up": [
+        "odpoczynek",
+        "spokój",
+        "regeneracja",
+        "zadumanie"
+      ],
+      "kw_rev": [
+        "niepokój",
+        "wyczerpanie",
+        "powrót do aktywności",
+        "niespokojność"
+      ],
+      "about": "Rycerz leży w spoczynku na grobie, trzy miecze wiszą na ścianie, a jeden leży pod nim. Karta mówi o pauzie i uzupełnianiu sił po wymagającym czasie.",
+      "love": "W miłości może wskazywać na potrzebę ciszy i dystansu, by się pozbierać.",
+      "work": "W pracy chodzi o odpoczynek, by móc jasno myśleć.",
+      "advice": "Pozwól sobie odpocząć.",
+      "element": "Powietrze",
+      "astro": "Jowisz w Wadze",
+      "number": "Cztery: stabilność i odpoczynek"
+    },
+    {
+      "kw_up": [
+        "konflikt",
+        "porażka",
+        "zwycięstwo z ceną",
+        "egoizm"
+      ],
+      "kw_rev": [
+        "pojednanie",
+        "żal",
+        "dawny konflikt",
+        "odpuszczenie"
+      ],
+      "about": "Mężczyzna zbiera miecze, a dwóch innych odchodzi w poczuciu wstydu. Karta mówi o konflikcie, w którym zwycięstwo może kosztować więcej, niż smakuje.",
+      "love": "W miłości może wskazywać na konflikt, w którym obie strony mogą przegrać, a pytanie brzmi, co naprawdę jest warte walki.",
+      "work": "W pracy może chodzić o niezgodę i o to, kto wygrywa i za jaką cenę.",
+      "advice": "Wybieraj swoje walki rozważnie.",
+      "element": "Powietrze",
+      "astro": "Wenus w Wodniku",
+      "number": "Pięć: wyzwanie i niepokój"
+    },
+    {
+      "kw_up": [
+        "przejście",
+        "ruszenie dalej",
+        "spokój po burzy",
+        "podróż"
+      ],
+      "kw_rev": [
+        "stagnacja",
+        "opór przed odejściem",
+        "nierozwiązane sprawy",
+        "powrót"
+      ],
+      "about": "Kobieta i dziecko przeprawiają się przez wodę łodzią z sześcioma mieczami ku spokojnym wodom. Karta mówi o opuszczaniu trudnych wód.",
+      "love": "W miłości może to być przejście ku czemuś spokojniejszemu, z czymś do zabrania ze sobą.",
+      "work": "W pracy chodzi o zmianę, przeprowadzkę lub wyjście z wymagającej fazy.",
+      "advice": "Przemieszczaj się ku spokojniejszym wodom we własnym tempie.",
+      "element": "Powietrze",
+      "astro": "Merkury w Wodniku",
+      "number": "Sześć: harmonia i przejście"
+    },
+    {
+      "kw_up": [
+        "spryt",
+        "strategia",
+        "tajemnica",
+        "unikanie"
+      ],
+      "kw_rev": [
+        "zdemaskowanie",
+        "szczerość",
+        "sumienie",
+        "przyznanie się"
+      ],
+      "about": "Mężczyzna wymyka się z obozu z pięcioma mieczami, a dwa zostają. Karta mówi o ostrożnym postępowaniu i o tym, czego unikamy mówić.",
+      "love": "W miłości karta może przypominać o szczerości i o tym, czy są jakieś tajemnice.",
+      "work": "W pracy może dotyczyć taktyki lub pójścia własną drogą oraz pytania, co jest słuszne.",
+      "advice": "Bądź otwarty w tym, co robisz.",
+      "element": "Powietrze",
+      "astro": "Księżyc w Wodniku",
+      "number": "Siedem: ocena i podstęp"
+    },
+    {
+      "kw_up": [
+        "ograniczenie",
+        "utknięcie",
+        "strach",
+        "samonarzucone granice"
+      ],
+      "kw_rev": [
+        "uwolnienie",
+        "nowe perspektywy",
+        "dostrzeżenie wyjścia",
+        "odwaga"
+      ],
+      "about": "Kobieta stoi związana i z zawiązanymi oczami, otoczona ośmioma mieczami w wodzie. Karta mówi o poczuciu uwięzienia, choć droga wyjścia jest często bardziej otwarta, niż się wydaje.",
+      "love": "W miłości może wskazywać na ograniczające myśli o sobie lub o związku.",
+      "work": "W pracy chodzi o dostrzeganie możliwości nawet wtedy, gdy czujesz się zablokowany.",
+      "advice": "Sprawdź, czy granice są tak stałe, jak się wydają.",
+      "element": "Powietrze",
+      "astro": "Jowisz w Bliźniętach",
+      "number": "Osiem: ograniczenie i ruch"
+    },
+    {
+      "kw_up": [
+        "zmartwienie",
+        "lęk",
+        "bezsenność",
+        "zamartwianie się"
+      ],
+      "kw_rev": [
+        "ulga",
+        "dzielenie się ciężarem",
+        "nadzieja",
+        "szukanie pomocy"
+      ],
+      "about": "Osoba siedzi w łóżku z rękami na twarzy, a dziewięć mieczy wisi na ścianie za nią. Karta mówi o ciężkich myślach w środku nocy.",
+      "love": "W miłości mogą to być zmartwienia rosnące w ciszy i potrzeba rozmowy o nich.",
+      "work": "W pracy chodzi o stres i krążące myśli oraz o poproszenie o wsparcie.",
+      "advice": "Podziel się zmartwieniami z kimś, komu ufasz.",
+      "element": "Powietrze",
+      "astro": "Mars w Bliźniętach",
+      "number": "Dziewięć: troska i intensywność"
+    },
+    {
+      "kw_up": [
+        "dno",
+        "zakończenie",
+        "koniec",
+        "nowe światło"
+      ],
+      "kw_rev": [
+        "podniesienie się",
+        "odbudowa",
+        "opór przed zakończeniem",
+        "dramatyzm"
+      ],
+      "about": "Postać leży z dziesięcioma mieczami w plecach, a wschód słońca oświetla morze. Karta mówi o bolesnym zakończeniu i poranku, który mimo to nadchodzi.",
+      "love": "W miłości może to być zakończenie, które robi miejsce na coś nowego.",
+      "work": "W pracy może wskazywać na koniec ciężkiego okresu.",
+      "advice": "Najgorsze jest za tobą, a światło wraca.",
+      "element": "Powietrze",
+      "astro": "Słońce w Bliźniętach",
+      "number": "Dziesięć: dopełnienie i dno"
+    },
+    {
+      "kw_up": [
+        "ciekawość",
+        "obserwacja",
+        "pomysły",
+        "nauka"
+      ],
+      "kw_rev": [
+        "plotki",
+        "cięty język",
+        "powierzchowność",
+        "impulsywność"
+      ],
+      "about": "Młoda osoba stoi z uniesionym mieczem na wietrze i pod chmurami. Karta oznacza ostre pytania i zapał do nauki.",
+      "love": "W miłości mogą to być rozmowy i ciekawość siebie nawzajem.",
+      "work": "W pracy może dotyczyć nauki, informacji i nowych perspektyw.",
+      "advice": "Zadawaj pytania i słuchaj.",
+      "element": "Powietrze",
+      "astro": "Ziemia w Powietrzu (tradycja żywiołów)",
+      "number": "Paź: posłaniec i początkujący"
+    },
+    {
+      "kw_up": [
+        "tempo",
+        "odwaga",
+        "sprawczość",
+        "ambicja"
+      ],
+      "kw_rev": [
+        "pośpiech",
+        "krytyka",
+        "niecierpliwość",
+        "nieostrożność"
+      ],
+      "about": "Rycerz galopuje pod wiatr z uniesionym mieczem. Karta oznacza szybką myśl i sprawczość.",
+      "love": "W miłości może to być bezpośrednia komunikacja i potrzeba zrozumienia obu stron.",
+      "work": "W pracy chodzi o ambicję i skuteczność.",
+      "advice": "Zastanów się, zanim uderzysz.",
+      "element": "Powietrze",
+      "astro": "Ogień w Powietrzu (tradycja żywiołów)",
+      "number": "Rycerz: ruch i działanie"
+    },
+    {
+      "kw_up": [
+        "jasność",
+        "niezależność",
+        "szczerość",
+        "doświadczenie"
+      ],
+      "kw_rev": [
+        "zimna krytyka",
+        "gorycz",
+        "izolacja",
+        "surowość"
+      ],
+      "about": "Ukoronowana kobieta siedzi sama na tronie z mieczem i wyciągniętą ręką. Karta oznacza jasne widzenie i wyraźną komunikację.",
+      "love": "W miłości chodzi o szczerość i jasne granice.",
+      "work": "W pracy może dotyczyć analitycznego osądu i wyraźnej mowy.",
+      "advice": "Bądź jasny i szczery, ale z ciepłem.",
+      "element": "Powietrze",
+      "astro": "Woda w Powietrzu (tradycja żywiołów)",
+      "number": "Królowa: dojrzałość i wewnętrzna siła"
+    },
+    {
+      "kw_up": [
+        "intelekt",
+        "sprawiedliwość",
+        "autorytet",
+        "jasne myślenie"
+      ],
+      "kw_rev": [
+        "zimna władza",
+        "manipulacja",
+        "surowość",
+        "niesprawiedliwość"
+      ],
+      "about": "Ukoronowany mężczyzna siedzi na tronie z uniesionym mieczem pod niebem pełnym chmur i wiatrów. Karta oznacza myśl, prawo i sprawiedliwość.",
+      "love": "W miłości chodzi o jasną komunikację i sprawiedliwe traktowanie.",
+      "work": "W pracy może dotyczyć wagi merytorycznej i ocen.",
+      "advice": "Użyj myśli, by tworzyć sprawiedliwość.",
+      "element": "Powietrze",
+      "astro": "Powietrze w Powietrzu (tradycja żywiołów)",
+      "number": "Król: mistrzostwo i odpowiedzialność"
+    },
+    {
+      "kw_up": [
+        "nowa szansa",
+        "bezpieczeństwo",
+        "nasienie",
+        "materialny początek"
+      ],
+      "kw_rev": [
+        "stracona szansa",
+        "złe planowanie",
+        "niepewność",
+        "odłożone"
+      ],
+      "about": "Dłoń wyciąga z chmury złotą monetę nad ogrodem z łukiem z kwiatów. Karta mówi o konkretnym nasieniu czegoś, co może wzrosnąć.",
+      "love": "W miłości może to być nowy, przyziemny początek, coś, co daje poczucie bezpieczeństwa.",
+      "work": "W pracy może to być nowa praca, pomysł lub konkretna szansa, która może zapuścić korzenie.",
+      "advice": "Zasadź nasienie i dbaj o nie.",
+      "element": "Ziemia",
+      "astro": "Korzeń Ziemi: czysta moc żywiołu",
+      "number": "As: nasienie i początek"
+    },
+    {
+      "kw_up": [
+        "równowaga",
+        "dostosowanie",
+        "elastyczność",
+        "ustalanie priorytetów"
+      ],
+      "kw_rev": [
+        "brak równowagi",
+        "przeciążenie",
+        "nieuporządkowanie",
+        "utrata przeglądu"
+      ],
+      "about": "Mężczyzna żongluje dwiema monetami połączonymi znakiem nieskończoności, a statki kołyszą się na falach w tle. Karta mówi o utrzymywaniu wielu rzeczy w ruchu.",
+      "love": "W miłości chodzi o równoważenie czasu i energii.",
+      "work": "W pracy chodzi o elastyczność i ustalanie priorytetów.",
+      "advice": "Znajdź rytm i ustal priorytety.",
+      "element": "Ziemia",
+      "astro": "Jowisz w Koziorożcu",
+      "number": "Dwa: równowaga i dwoistość"
+    },
+    {
+      "kw_up": [
+        "współpraca",
+        "rzemiosło",
+        "nauka",
+        "praca zespołowa"
+      ],
+      "kw_rev": [
+        "niezgoda",
+        "słaba współpraca",
+        "niedokończenie",
+        "fuszerka"
+      ],
+      "about": "Rzemieślnik pracuje w kościele, a dwie inne osoby przyglądają się rysunkowi. Karta mówi o współpracy i jakości.",
+      "love": "W miłości może wskazywać na budowanie czegoś razem krok po kroku.",
+      "work": "W pracy chodzi o umiejętności, współpracę i informację zwrotną.",
+      "advice": "Buduj razem i słuchaj tych, którzy wiedzą więcej.",
+      "element": "Ziemia",
+      "astro": "Mars w Koziorożcu",
+      "number": "Trzy: wzrost i wyraz"
+    },
+    {
+      "kw_up": [
+        "bezpieczeństwo",
+        "oszczędność",
+        "kontrola",
+        "stabilność"
+      ],
+      "kw_rev": [
+        "chciwość",
+        "gromadzenie",
+        "puszczenie kontroli",
+        "uwolnienie"
+      ],
+      "about": "Mężczyzna siedzi z monetami pod stopami i jedną monetą na głowie, trzymając jedną monetę przy piersi. Karta mówi o bezpieczeństwie i kontroli.",
+      "love": "W miłości może wskazywać na potrzebę kontroli i bezpieczeństwa oraz na otwarcie się.",
+      "work": "W pracy chodzi o stabilność i oszczędność.",
+      "advice": "Trzymaj się tego, co daje bezpieczeństwo, nie zamykając się.",
+      "element": "Ziemia",
+      "astro": "Słońce w Koziorożcu",
+      "number": "Cztery: fundament i stabilność"
+    },
+    {
+      "kw_up": [
+        "przeciwności",
+        "wykluczenie",
+        "zmartwienie",
+        "potrzeba"
+      ],
+      "kw_rev": [
+        "poprawa",
+        "pomoc",
+        "droga wyjścia",
+        "wsparcie"
+      ],
+      "about": "Dwie postacie idą w śniegu obok oświetlonego okna kościoła. Karta mówi o zimnym okresie, w którym pomoc może być bliżej, niż się wydaje.",
+      "love": "W miłości może wskazywać na samotność lub poczucie wykluczenia i na to, że wolno prosić o wsparcie.",
+      "work": "W pracy chodzi o trudny okres i potrzebę wsparcia.",
+      "advice": "Poproś o pomoc, może być blisko.",
+      "element": "Ziemia",
+      "astro": "Merkury w Byku",
+      "number": "Pięć: wyzwanie i niedostatek"
+    },
+    {
+      "kw_up": [
+        "hojność",
+        "dzielenie się",
+        "sprawiedliwość",
+        "wsparcie"
+      ],
+      "kw_rev": [
+        "dług",
+        "nierówność",
+        "egoizm",
+        "brak równowagi"
+      ],
+      "about": "Kupiec rozdaje monety, trzymając wagę, a dwie osoby proszą o pomoc. Karta mówi o dawaniu i przyjmowaniu w równowadze.",
+      "love": "W miłości chodzi o wzajemność w tym, co się daje i bierze.",
+      "work": "W pracy chodzi o wynagrodzenie, sprawiedliwy podział i wsparcie.",
+      "advice": "Dawaj i przyjmuj równie otwartymi rękami.",
+      "element": "Ziemia",
+      "astro": "Księżyc w Byku",
+      "number": "Sześć: harmonia i wymiana"
+    },
+    {
+      "kw_up": [
+        "cierpliwość",
+        "ocena",
+        "długoterminowość",
+        "zbiory"
+      ],
+      "kw_rev": [
+        "niecierpliwość",
+        "zła inwestycja",
+        "brak nagrody",
+        "frustracja"
+      ],
+      "about": "Mężczyzna opiera się na motyce i patrzy na krzew z siedmioma monetami. Karta mówi o czekaniu i ocenie owoców pracy.",
+      "love": "W miłości chodzi o pozwolenie, by coś rosło, bez naciskania.",
+      "work": "W pracy chodzi o długofalowy wysiłek i ocenę wyników.",
+      "advice": "Daj temu czas i spójrz, co zasiałeś.",
+      "element": "Ziemia",
+      "astro": "Saturn w Byku",
+      "number": "Siedem: ocena i cierpliwość"
+    },
+    {
+      "kw_up": [
+        "rzemiosło",
+        "ćwiczenie",
+        "skupienie",
+        "biegłość"
+      ],
+      "kw_rev": [
+        "perfekcjonizm",
+        "niezdarność",
+        "powtarzalność",
+        "brak skupienia"
+      ],
+      "about": "Rzemieślnik wbija monetę w laskę, a obok ma siedem gotowych monet. Karta mówi o pilności i ćwiczeniu.",
+      "love": "W miłości chodzi o wysiłek i troskę w drobiazgach.",
+      "work": "W pracy chodzi o rozwijanie umiejętności i zagłębianie się.",
+      "advice": "Ćwicz i pozwól, by jakość rosła.",
+      "element": "Ziemia",
+      "astro": "Słońce w Pannie",
+      "number": "Osiem: mistrzostwo i rozwój"
+    },
+    {
+      "kw_up": [
+        "samodzielność",
+        "obfitość",
+        "wyrafinowanie",
+        "bezpieczeństwo"
+      ],
+      "kw_rev": [
+        "uzależnienie",
+        "nadmierna kontrola",
+        "samotność",
+        "utrata bezpieczeństwa"
+      ],
+      "about": "Kobieta stoi w winnicy z sokołem na ręce i monetami wokół siebie. Karta mówi o samodzielności i owocach własnego wysiłku.",
+      "love": "W miłości chodzi o samodzielność i poczucie bezpieczeństwa w sobie.",
+      "work": "W pracy może wskazywać na pewną pozycję i uznany wkład.",
+      "advice": "Ciesz się owocami własnej pracy.",
+      "element": "Ziemia",
+      "astro": "Wenus w Pannie",
+      "number": "Dziewięć: prawie ukończone i samodzielność"
+    },
+    {
+      "kw_up": [
+        "dziedzictwo",
+        "rodzina",
+        "długoterminowe bezpieczeństwo",
+        "wspólnota"
+      ],
+      "kw_rev": [
+        "konflikt rodzinny",
+        "niestabilność",
+        "utrata korzeni",
+        "spór o spadek"
+      ],
+      "about": "Stary mężczyzna siedzi z psem oraz parą z dzieckiem pod bramą z dziesięcioma monetami. Karta mówi o rodzie, domu i tym, co się dziedziczy.",
+      "love": "W miłości chodzi o trwałe bezpieczeństwo i wspólne życie.",
+      "work": "W pracy chodzi o stabilność, tradycję i długofalowe budowanie.",
+      "advice": "Buduj dla tych, którzy przyjdą po tobie.",
+      "element": "Ziemia",
+      "astro": "Merkury w Pannie",
+      "number": "Dziesięć: dopełnienie i dziedzictwo"
+    },
+    {
+      "kw_up": [
+        "studiowanie",
+        "przyziemność",
+        "ciekawość",
+        "potencjał"
+      ],
+      "kw_rev": [
+        "nieuwaga",
+        "odkładanie",
+        "niejasne cele",
+        "brak ambicji"
+      ],
+      "about": "Młoda osoba stoi na zielonej łące i przygląda się monecie w dłoniach. Karta oznacza chęć nauki i przyziemne nasienie.",
+      "love": "W miłości może to być spokojny i szczery początek.",
+      "work": "W pracy chodzi o naukę i praktyczne kroki.",
+      "advice": "Rób jeden praktyczny krok naraz.",
+      "element": "Ziemia",
+      "astro": "Ziemia w Ziemi (tradycja żywiołów)",
+      "number": "Paź: posłaniec i początkujący"
+    },
+    {
+      "kw_up": [
+        "rzetelność",
+        "pilność",
+        "cierpliwość",
+        "rutyna"
+      ],
+      "kw_rev": [
+        "nuda",
+        "upór",
+        "powolność",
+        "perfekcjonizm"
+      ],
+      "about": "Rycerz trzyma monetę, siedząc na spokojnym czarnym koniu na zaoranym polu. Karta oznacza stały i dokładny wysiłek.",
+      "love": "W miłości chodzi o lojalność i regularną troskę.",
+      "work": "W pracy chodzi o dokładność i rzetelność.",
+      "advice": "Utrzymuj równe tempo i rób to dokładnie.",
+      "element": "Ziemia",
+      "astro": "Ogień w Ziemi (tradycja żywiołów)",
+      "number": "Rycerz: ruch i działanie"
+    },
+    {
+      "kw_up": [
+        "troska",
+        "praktyczność",
+        "hojność",
+        "bezpieczeństwo"
+      ],
+      "kw_rev": [
+        "zmartwienie",
+        "materializm",
+        "przepracowanie",
+        "zaniedbywanie siebie"
+      ],
+      "about": "Ukoronowana kobieta siedzi w kwitnącym ogrodzie z monetą na kolanach i zającem w pobliżu. Karta oznacza praktyczną troskę i ciepło.",
+      "love": "W miłości chodzi o troskę i tworzenie domowego ciepła.",
+      "work": "W pracy chodzi o dbanie o zasoby i ludzi.",
+      "advice": "Dbaj o siebie i o tych wokół ciebie.",
+      "element": "Ziemia",
+      "astro": "Woda w Ziemi (tradycja żywiołów)",
+      "number": "Królowa: dojrzałość i wewnętrzna siła"
+    },
+    {
+      "kw_up": [
+        "stabilność",
+        "zasoby",
+        "doświadczenie",
+        "rzetelne przywództwo"
+      ],
+      "kw_rev": [
+        "upór",
+        "skąpstwo",
+        "materializm",
+        "sztywność"
+      ],
+      "about": "Ukoronowany mężczyzna siedzi na tronie ozdobionym bykami, z monetą i berłem, w ogrodzie pełnym winogron. Karta oznacza w pełni rozwinięte bezpieczeństwo i solidne przywództwo.",
+      "love": "W miłości chodzi o bezpieczeństwo, rzetelność i praktyczne wsparcie.",
+      "work": "W pracy chodzi o stabilność, doświadczenie i umiejętność budowania.",
+      "advice": "Buduj solidnie i dziel się nadwyżką.",
+      "element": "Ziemia",
+      "astro": "Powietrze w Ziemi (tradycja żywiołów)",
+      "number": "Król: mistrzostwo i odpowiedzialność"
+    }
+  ]
+}

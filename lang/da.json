@@ -1,0 +1,762 @@
+{
+ "ui": {
+  "langName": "Dansk",
+  "aiLanguage": "Danish",
+  "eyebrow": "Prototype · Tarot",
+  "lede": "Stil et spørgsmål, vælg en lægning og træk kortene. Hele lægningen vises samlet, og hvert kort forklares ud fra sin plads.",
+  "questionPlaceholder": "Dit spørgsmål, f.eks. »Hvad bør jeg vide om mit job lige nu?«",
+  "questionLabel": "Dit spørgsmål",
+  "reversedToggle": "Omvendte kort",
+  "drawBtn": "Træk kort",
+  "flipAll": "Vend alle",
+  "chooseSpread": "Vælg lægning",
+  "meaningsTitle": "Betydninger",
+  "flipHint": "Tryk på kortene for at vende dem, eller vælg »Vend alle«.",
+  "questionPrefix": "Spørgsmål",
+  "reversedWord": "omvendt",
+  "reversedTag": "Omvendt",
+  "flipCard": "Vend kort {n}",
+  "suitHint": "Kuløren {suit} handler om {theme}.",
+  "majorHint": "Store arkana: et vigtigt livstema.",
+  "yes": "Svar: ja.",
+  "leanYes": "Svar: hælder mod ja.",
+  "no": "Svar: nej.",
+  "leanNo": "Svar: hælder mod nej.",
+  "aiNote": "AI-funktionerne nedenfor virker kun, når siden er åbnet i Claude.",
+  "premiumChip": "Premium · prototype",
+  "aiTitle": "Tolkning af hele lægningen",
+  "aiDesc": "AI læser kortene sammen ud fra dit spørgsmål: hovedtema, kort for kort, hvordan de hænger sammen, og råd.",
+  "aiBtn": "Tolk lægningen",
+  "stop": "Stop",
+  "interpreting": "Tolker kortene …",
+  "aiHeads": [
+   "Hovedtema",
+   "Kort for kort",
+   "Hvordan kortene hænger sammen",
+   "Råd"
+  ],
+  "photoTitle": "Fotografer din egen lægning",
+  "photoDesc": "Upload et billede af dine kort, taget lige ovenfra. Vi genkender kortene, du kontrollerer listen, og så får du tolkningen. Rider-Waite-spillet genkendes bedst.",
+  "dropLabel": "Vælg eller slip et billede",
+  "spreadOnPhoto": "Hvilken lægning der er på billedet",
+  "freeSpread": "Fri lægning (ved ikke)",
+  "previewAlt": "Billedet du uploadede",
+  "recBtn": "Genkend kort",
+  "photoInterp": "Tolk denne lægning",
+  "photoReady": "Billedet er klar.",
+  "looking": "Kigger på billedet …",
+  "found": "Fandt {n} kort. Kontroller listen før tolkning.",
+  "noneFound": "Fandt ingen kort på billedet. Prøv et skarpere billede taget lige ovenfra.",
+  "otherDeck": "Kortspillet ligner ikke Rider-Waite, så kontroller ekstra omhyggeligt.",
+  "chooseCard": "– vælg kort –",
+  "cardN": "Kort {n}",
+  "confHigh": "sikker",
+  "confMedium": "ret sikker",
+  "confLow": "usikker",
+  "notRecognized": "ikke genkendt",
+  "footer": "Tarot på denne side er kultur, refleksion og underholdning. Det er ikke medicinsk, juridisk eller økonomisk rådgivning, og ingen resultater er garanteret. Kortene trækkes tilfældigt; det samme kort kommer aldrig to gange i én lægning. Eksempellægningen ovenfor blev trukket, da siden blev åbnet. AI-tolkningen er lavet af kunstig intelligens, ikke af et menneske.",
+  "errors": {
+   "not_granted": "Du har ikke givet siden tilladelse til at bruge Claude.",
+   "sampling_disabled": "AI er ikke tilgængelig for denne konto.",
+   "rate_limited": "For mange forespørgsler lige nu. Prøv igen om lidt.",
+   "session_expired": "Du skal logge ind igen.",
+   "image_rejected": "Billedet kunne ikke læses. Prøv et JPEG- eller PNG-billede.",
+   "images_unavailable": "Billedupload er ikke tilgængelig her.",
+   "refused": "Denne forespørgsel kan ikke besvares. Prøv et andet spørgsmål.",
+   "invalid_json": "Svaret kunne ikke læses. Prøv igen.",
+   "empty_completion": "Fik intet svar. Prøv igen.",
+   "generic": "Noget gik galt. Prøv igen."
+  },
+  "navRead": "Læg kort",
+  "navDaily": "Dagens kort",
+  "navLearn": "Lær tarot",
+  "navShop": "Butik",
+  "heroKicker": "Tarot efter månen",
+  "heroTitle": "Læs kortene i månens lys",
+  "heroLede": "Træk kort, se hele læggingen samlet og få den forklaret. Eller fotografer dine egne kort og få dem læst.",
+  "ctaRead": "Læg kortene",
+  "ctaPhoto": "Fotografer din lægning",
+  "moonTitle": "Månen i dag",
+  "moonIllum": "{p} % oplyst",
+  "moonAge": "Dag {d} af månecyklussen",
+  "moonNextFull": "Fuldmåne om ca. {d} døgn",
+  "moonNextNew": "Nymåne om ca. {d} døgn",
+  "moonPhases": [
+   "Nymåne",
+   "Tiltagende segl",
+   "Første kvarter",
+   "Tiltagende måne",
+   "Fuldmåne",
+   "Aftagende måne",
+   "Sidste kvarter",
+   "Aftagende segl"
+  ],
+  "moonAdvice": [
+   "I tarottraditionen er nymånen en tid for nye intentioner. Træk ét kort for det, du vil begynde på.",
+   "Den unge måne passer til små første skridt. Spørg kortene, hvad der hjælper dig i gang.",
+   "Første kvarter er en tid for valg og modstand. En lægning med tre kort viser, hvad der står i vejen.",
+   "Månen vokser mod fuld. Spørg, hvad du bør pleje og give mere tid.",
+   "Fuldmånen oplyser det skjulte. Tid til den store lægning og ærlig eftertanke.",
+   "Månen aftager. Spørg, hvad du er færdig med og kan give slip på.",
+   "Sidste kvarter er en tid til at rydde op. Hvad bør afsluttes før en ny cyklus?",
+   "Den gamle måne er en tid for hvile og stilhed. Træk ét kort til refleksion."
+  ],
+  "moonCanvasLabel": "Tegning af dagens månefase",
+  "moonDisclaimer": "Beregnet ud fra den gennemsnitlige månecyklus; kan afvige nogle timer.",
+  "dailyNote": "Samme kort til alle i dag. Nyt kort ved midnat.",
+  "readTitle": "Læg kortene",
+  "readLede": "Vælg lægning, stil et spørgsmål og træk. Tryk på et kort for at vende det.",
+  "learnTitle": "Lær tarot",
+  "learnLede": "Et bibliotek over alle 78 kort og lægningerne, skrevet på dit sprog.",
+  "learnItems": [
+   [
+    "Store arkana",
+    "22 kort om livets store temaer, fra Narren til Verden."
+   ],
+   [
+    "Små arkana",
+    "56 kort i fire farver: Stave, Bægre, Sværd og Mønter."
+   ],
+   [
+    "Sådan læser du en lægning",
+    "Positioner, omvendte kort og hvordan kortene taler sammen."
+   ]
+  ],
+  "comingSoon": "Kommer snart",
+  "shopTitle": "Fra butikken",
+  "shopLede": "Lys, røgelse, kortspil og alterduge til din egen praksis.",
+  "shopItems": [
+   "Lys",
+   "Røgelse og urter",
+   "Kortspil",
+   "Alterduge",
+   "Krystaller",
+   "Gavekort"
+  ],
+  "deckNote": "Kortene på denne side er tegnet til Luna Arcana.",
+  "soundOn": "Stemning",
+  "navNum": "Numerologi",
+  "numTitle": "Tallene i din fødselsdato",
+  "numLede": "Numerologi læser din fødselsdato som tal. Her finder du dit livsvejstal, tallet for det år, du er i, og det tarotkort, der hører til din dato.",
+  "numDateLabel": "Fødselsdato",
+  "numBtn": "Beregn",
+  "numPrivacy": "Datoen beregnes i din browser og bliver hverken gemt eller sendt nogen steder hen.",
+  "numLifePath": "Livsvejstal",
+  "numPersonalYear": "Personligt år {y}",
+  "numBirthCard": "Fødselskort",
+  "numHow": "Sådan beregnes det: alle cifrene i datoen lægges sammen til ét ciffer. Mestertallene 11, 22 og 33 bevares.",
+  "numCardHow": "Fødselskortet findes ved at lægge dag, måned og år sammen og reducere til et tal fra 1 til 22; 22 bliver Narren.",
+  "numInvalid": "Indtast en gyldig dato.",
+  "numMeanings": {
+   "1": [
+    "Pioneren",
+    "Selvstændighed, mod og vilje til at begynde noget nyt. Udfordringen er at lytte til andre."
+   ],
+   "2": [
+    "Brobyggeren",
+    "Samarbejde, følsomhed og evne til at skabe balance. Udfordringen er at stå ved sine egne behov."
+   ],
+   "3": [
+    "Skaberen",
+    "Udtryk, glæde og kreativitet. Udfordringen er at holde fokus og gøre ting færdige."
+   ],
+   "4": [
+    "Bygmesteren",
+    "Orden, udholdenhed og et trygt fundament. Udfordringen er at kunne rumme forandring."
+   ],
+   "5": [
+    "Den frie",
+    "Frihed, nysgerrighed og forandring. Udfordringen er at finde ro og forpligtelse."
+   ],
+   "6": [
+    "Omsorgsgiveren",
+    "Ansvar, kærlighed og omsorg for hjem og fællesskab. Udfordringen er ikke at bære alt alene."
+   ],
+   "7": [
+    "Søgeren",
+    "Eftertanke, indsigt og søgen efter mening. Udfordringen er at lukke andre ind."
+   ],
+   "8": [
+    "Lederen",
+    "Gennemslagskraft, ambition og forvaltning af ressourcer. Udfordringen er balancen mellem magt og hjerte."
+   ],
+   "9": [
+    "Den vise",
+    "Medfølelse, afslutninger og helhedssyn. Udfordringen er at give slip."
+   ],
+   "11": [
+    "Mestertal 11 · Lysbæreren",
+    "Stærk intuition og inspiration til andre. Kræver jordforbindelse og ro."
+   ],
+   "22": [
+    "Mestertal 22 · Mesterbyggeren",
+    "Store visioner gjort praktiske. Kræver tålmodighed med dig selv."
+   ],
+   "33": [
+    "Mestertal 33 · Læreren",
+    "Omsorg og visdom, der deles. Kræver grænser for din egen energi."
+   ]
+  },
+  "numYearMeanings": {
+   "1": "Et år med nye begyndelser og første skridt.",
+   "2": "Et år med samarbejde, tålmodighed og relationer.",
+   "3": "Et år med udtryk, glæde og nye kontakter.",
+   "4": "Et år med arbejde, struktur og fundament.",
+   "5": "Et år med forandring, rejser og nye erfaringer.",
+   "6": "Et år med hjem, familie og ansvar.",
+   "7": "Et år med eftertanke, læring og indre arbejde.",
+   "8": "Et år med resultater, ansvar og økonomi.",
+   "9": "Et år med afslutninger og med at rydde plads til det nye."
+  },
+  "navRitual": "Ritualkalender",
+  "moonIn": "Månen i {sign}",
+  "signs": [
+   "Vædderen",
+   "Tyren",
+   "Tvillingerne",
+   "Krebsen",
+   "Løven",
+   "Jomfruen",
+   "Vægten",
+   "Skorpionen",
+   "Skytten",
+   "Stenbukken",
+   "Vandmanden",
+   "Fiskene"
+  ],
+  "planetDays": [
+   "Solens dag",
+   "Månens dag",
+   "Mars' dag",
+   "Merkurs dag",
+   "Jupiters dag",
+   "Venus' dag",
+   "Saturns dag"
+  ],
+  "ritTitle": "Når månen og stjernerne står rigtigt",
+  "ritLede": "I folkemagi og astrologisk tradition vælges tidspunktet efter tre ting: månefasen, det stjernetegn månen står i, og den planet der styrer ugedagen. Vælg en intention, så finder vi de bedste dage i de næste 30 døgn.",
+  "ritToday": "I dag",
+  "ritBest": "Bedste dage fremover",
+  "ritScore": "{n} af 5",
+  "ritWhy": "Fase: {phase} · {moon} · {day}",
+  "ritMatchPhase": "rigtig fase",
+  "ritMatchSign": "rigtigt tegn",
+  "ritMatchDay": "rigtig ugedag",
+  "ritNoMatch": "ingen match",
+  "ritRules": "Traditionen siger",
+  "ritPremium": "Hele ritualet med trin, materialer og ord følger med Premium.",
+  "ritDisclaimer": "Tidspunkterne følger traditionelle korrespondancer og er tænkt som inspiration og refleksion. Der garanteres ingen resultater. Månens tegn er beregnet omtrentligt og kan afvige tæt på tegnskiftet.",
+  "intents": [
+   {
+    "key": "money",
+    "name": "Åbn pengestrømmen",
+    "text": "Ritualer for overflod, arbejde og nye indtægter.",
+    "rule": "Tiltagende måne, månen i et jordtegn (Tyren, Jomfruen, Stenbukken) og Jupiters eller Solens dag."
+   },
+   {
+    "key": "love",
+    "name": "Kærlighed og selvkærlighed",
+    "text": "Ritualer for varme, tiltrækning og at være god mod sig selv.",
+    "rule": "Tiltagende måne, månen i Tyren, Vægten eller Krebsen, og Venus' dag."
+   },
+   {
+    "key": "protect",
+    "name": "Beskyttelse af hjem og dig selv",
+    "text": "Ritualer for tryghed og grænser.",
+    "rule": "Fuldmåne eller aftagende måne, månen i Stenbukken, Skorpionen eller Vædderen, og Saturns eller Mars' dag."
+   },
+   {
+    "key": "cleanse",
+    "name": "Rensning og at give slip",
+    "text": "Ritualer for at rydde op, afslutte og give slip på det, der tynger.",
+    "rule": "Aftagende måne, månen i Jomfruen, Skorpionen eller Fiskene, og Saturns dag."
+   },
+   {
+    "key": "begin",
+    "name": "Nye begyndelser",
+    "text": "Ritualer for intentioner og første skridt.",
+    "rule": "Nymåne eller tidligt tiltagende måne, månen i et ildtegn (Vædderen, Løven, Skytten) og Solens eller Månens dag."
+   },
+   {
+    "key": "intuition",
+    "name": "Intuition og drømme",
+    "text": "Ritualer for indsigt, drømme og tarot.",
+    "rule": "Nymåne eller fuldmåne, månen i et vandtegn (Krebsen, Skorpionen, Fiskene) og Månens dag."
+   }
+  ],
+  "navJournal": "Dagbog",
+  "jTitle": "Din tarotdagbog",
+  "jLede": "Gem dine udlæggninger og se, hvilke kort der går igen over tid. Dagbogen gemmes kun i denne browser og sendes ingen steder hen.",
+  "jSave": "Gem i dagbogen",
+  "jSaved": "Gemt i dagbogen.",
+  "jEmpty": "Dagbogen er tom. Træk kort, vend dem og gem udlægningen.",
+  "jFrequent": "Kort der går igen",
+  "jTimes": "{n} gange",
+  "jDelete": "Slet",
+  "jEntries": "Gemte udlæggninger",
+  "freeLeft": "1 gratis AI-tolkning i dag.",
+  "freeUsed": "Dagens gratis AI-tolkning er brugt. Flere tolkninger kommer med Premium."
+ },
+ "spreads": {
+  "dag": {
+   "label": "Dagens kort",
+   "desc": "Ét kort som tema for dagen.",
+   "pos": [
+    "Dagens tema"
+   ]
+  },
+  "tre": {
+   "label": "Fortid · Nutid · Fremtid",
+   "desc": "Tre kort, der viser udviklingen i sagen.",
+   "pos": [
+    "Fortid",
+    "Nutid",
+    "Fremtid"
+   ]
+  },
+  "situasjon": {
+   "label": "Situation (5)",
+   "desc": "Årsag, kerne, udfordring, udsigt og mulighed. Mulighedskortet trækkes altid ret vendt.",
+   "pos": [
+    "Årsag",
+    "Situationen",
+    "Udfordring",
+    "Udsigt",
+    "Mulighed"
+   ]
+  },
+  "janei": {
+   "label": "Ja / Nej",
+   "desc": "Ét kort. Ret vendt hælder mod ja, omvendt mod nej. Store arkana giver et tydeligere svar.",
+   "pos": [
+    "Svar"
+   ]
+  },
+  "kors": {
+   "label": "Det keltiske kors (10)",
+   "desc": "Den klassiske lægning til en grundig gennemgang.",
+   "pos": [
+    "Nu",
+    "Krydser",
+    "Grundlag",
+    "Fortid",
+    "Mål",
+    "Nær fremtid",
+    "Dig selv",
+    "Omgivelser",
+    "Håb og frygt",
+    "Udfald"
+   ]
+  }
+ },
+ "suits": {
+  "staver": {
+   "name": "Stave",
+   "theme": "handling og passion"
+  },
+  "begre": {
+   "name": "Bægre",
+   "theme": "følelser og relationer"
+  },
+  "sverd": {
+   "name": "Sværd",
+   "theme": "tanker og konflikt"
+  },
+  "mynter": {
+   "name": "Mønter",
+   "theme": "penge, arbejde og krop"
+  }
+ },
+ "cards": [
+  {
+   "name": "Narren",
+   "up": "Ny begyndelse, spontanitet, tillid til vejen frem.",
+   "rev": "Uforsigtighed, naivitet, et spring uden forberedelse."
+  },
+  {
+   "name": "Magikeren",
+   "up": "Vilje, færdigheder og ressourcer til at skabe noget nu.",
+   "rev": "Manipulation, uudnyttet talent, planer uden handling."
+  },
+  {
+   "name": "Ypperstepræstinden",
+   "up": "Intuition, skjult viden, lyt indad.",
+   "rev": "Hemmeligheder, ignoreret mavefornemmelse, forvirring."
+  },
+  {
+   "name": "Kejserinden",
+   "up": "Overflod, omsorg, kreativitet og vækst.",
+   "rev": "Afhængighed, stagnation, at glemme sig selv."
+  },
+  {
+   "name": "Kejseren",
+   "up": "Struktur, ansvar, stabilitet og lederskab.",
+   "rev": "Kontrolbehov, rigiditet, misbrug af magt."
+  },
+  {
+   "name": "Ypperstepræsten",
+   "up": "Tradition, læring, vejledning fra en mentor.",
+   "rev": "Oprør mod regler, dogmer der ikke længere passer."
+  },
+  {
+   "name": "De elskende",
+   "up": "Kærlighed, harmoni og et vigtigt værdivalg.",
+   "rev": "Ubalance i forhold, tvivl, valg imod egne værdier."
+  },
+  {
+   "name": "Vognen",
+   "up": "Viljestyrke, fremdrift, sejr gennem fokus.",
+   "rev": "Retningsløshed, tab af kontrol, modstand."
+  },
+  {
+   "name": "Styrke",
+   "up": "Indre styrke, tålmodighed, mildhed der vinder.",
+   "rev": "Selvtvivl, udmattelse, følelser der tager overhånd."
+  },
+  {
+   "name": "Eremitten",
+   "up": "Eftertanke, ensomhed der giver indsigt.",
+   "rev": "Isolation, tilbagetrækning, at lukke andre ude."
+  },
+  {
+   "name": "Skæbnehjulet",
+   "up": "Vendepunkt, cyklusser, skæbnen er i bevægelse.",
+   "rev": "Modgang, modstand mod forandring, gamle mønstre."
+  },
+  {
+   "name": "Retfærdighed",
+   "up": "Sandhed, balance, konsekvenser af valg.",
+   "rev": "Uretfærdighed, ansvarsfraskrivelse, skævhed."
+  },
+  {
+   "name": "Den hængte",
+   "up": "Pause, nyt perspektiv, at give slip.",
+   "rev": "Udsættelse, stilstand, ofre uden mening."
+  },
+  {
+   "name": "Døden",
+   "up": "Afslutning og forvandling, noget gammelt slutter.",
+   "rev": "Modstand mod forandring, at holde fast i det, der er forbi."
+  },
+  {
+   "name": "Mådehold",
+   "up": "Balance, tålmodighed, den gyldne middelvej.",
+   "rev": "Ubalance, overdrivelse, utålmodighed."
+  },
+  {
+   "name": "Djævelen",
+   "up": "Bindinger, fristelser, afhængighed.",
+   "rev": "Frigørelse, at bryde et mønster, ny klarhed."
+  },
+  {
+   "name": "Tårnet",
+   "up": "Pludselig omvæltning, sandheden bryder frem.",
+   "rev": "Frygt for forandring, en krise der udskydes."
+  },
+  {
+   "name": "Stjernen",
+   "up": "Håb, fornyelse, ro efter stormen.",
+   "rev": "Modløshed, tabt tro, at miste retningen."
+  },
+  {
+   "name": "Månen",
+   "up": "Illusioner, usikkerhed, drømme og frygt.",
+   "rev": "Klarhed kommer, frygten slipper sit tag."
+  },
+  {
+   "name": "Solen",
+   "up": "Glæde, succes, livskraft og klarhed.",
+   "rev": "Midlertidig nedtur, overdreven optimisme."
+  },
+  {
+   "name": "Dommen",
+   "up": "Opvågnen, kald, at gøre status.",
+   "rev": "Selvkritik, tvivl, at ignorere et kald."
+  },
+  {
+   "name": "Verden",
+   "up": "Fuldendelse, helhed, en cyklus er afsluttet.",
+   "rev": "Uafsluttede sager, en sidste brik mangler."
+  },
+  {
+   "name": "Stavenes es",
+   "up": "Ny inspiration, en idé med kraft.",
+   "rev": "Forsinkelser, mangel på gennemslagskraft."
+  },
+  {
+   "name": "Stavenes to",
+   "up": "Planlægning, at se fremad.",
+   "rev": "Frygt for det ukendte, dårlig planlægning."
+  },
+  {
+   "name": "Stavenes tre",
+   "up": "Udvidelse, fremgang, de første resultater.",
+   "rev": "Forhindringer, skuffede forventninger."
+  },
+  {
+   "name": "Stavenes fire",
+   "up": "Fejring, hjem, tryghed.",
+   "rev": "Uro derhjemme, mangel på fællesskab."
+  },
+  {
+   "name": "Stavenes fem",
+   "up": "Konkurrence, uenighed, gnidninger.",
+   "rev": "Konflikt undgås, indre strid."
+  },
+  {
+   "name": "Stavenes seks",
+   "up": "Anerkendelse, sejr, selvtillid.",
+   "rev": "Hovmod står for fald, manglende anerkendelse."
+  },
+  {
+   "name": "Stavenes syv",
+   "up": "Stå fast, forsvare sin position.",
+   "rev": "Overvældet, giver op."
+  },
+  {
+   "name": "Stavenes otte",
+   "up": "Fart, nyheder, tingene sker hurtigt.",
+   "rev": "Forsinkelser, frustration."
+  },
+  {
+   "name": "Stavenes ni",
+   "up": "Udholdenhed, sidste indsats.",
+   "rev": "Udbrændthed, mistillid."
+  },
+  {
+   "name": "Stavenes ti",
+   "up": "Tung byrde, for meget ansvar.",
+   "rev": "At lægge byrder fra sig, uddelegere."
+  },
+  {
+   "name": "Stavenes knægt",
+   "up": "Entusiasme, gode nyheder, nysgerrighed.",
+   "rev": "Umoden iver, udskudte planer."
+  },
+  {
+   "name": "Stavenes ridder",
+   "up": "Eventyr, handling, impulsivitet.",
+   "rev": "Hastværk, vrede, uforudsigelighed."
+  },
+  {
+   "name": "Stavenes dronning",
+   "up": "Selvsikkerhed, varme, uafhængighed.",
+   "rev": "Jalousi, egoisme, usikkerhed."
+  },
+  {
+   "name": "Stavenes konge",
+   "up": "Visionært lederskab, initiativ.",
+   "rev": "Arrogance, forhastede beslutninger."
+  },
+  {
+   "name": "Bægrenes es",
+   "up": "Ny kærlighed, følelser der åbner sig.",
+   "rev": "Undertrykte følelser, tomhed."
+  },
+  {
+   "name": "Bægrenes to",
+   "up": "Partnerskab, gensidig tiltrækning.",
+   "rev": "Ubalance, brud i kontakten."
+  },
+  {
+   "name": "Bægrenes tre",
+   "up": "Venskab, fejring, fællesskab.",
+   "rev": "Sladder, for meget fest, udenforskab."
+  },
+  {
+   "name": "Bægrenes fire",
+   "up": "Apati, at overse et tilbud.",
+   "rev": "Ny interesse, at sige ja igen."
+  },
+  {
+   "name": "Bægrenes fem",
+   "up": "Sorg, tab, fokus på det, der gik galt.",
+   "rev": "Accept, at komme videre."
+  },
+  {
+   "name": "Bægrenes seks",
+   "up": "Minder, barndom, uskyld.",
+   "rev": "At sidde fast i fortiden."
+  },
+  {
+   "name": "Bægrenes syv",
+   "up": "Mange valg, ønsketænkning.",
+   "rev": "Klarhed, at vælge realistisk."
+  },
+  {
+   "name": "Bægrenes otte",
+   "up": "At forlade noget, søge dybere mening.",
+   "rev": "Frygt for at gå, drive uden mål."
+  },
+  {
+   "name": "Bægrenes ni",
+   "up": "Ønsker opfyldt, tilfredshed.",
+   "rev": "Grådighed, overfladisk lykke."
+  },
+  {
+   "name": "Bægrenes ti",
+   "up": "Familielykke, harmoni.",
+   "rev": "Uenighed i familien, knuste idealer."
+  },
+  {
+   "name": "Bægrenes knægt",
+   "up": "Kreativt budskab, følsomhed.",
+   "rev": "Umodenhed, følelsesmæssig ubalance."
+  },
+  {
+   "name": "Bægrenes ridder",
+   "up": "Romantik, tilbud, charme.",
+   "rev": "Humørsvingninger, urealistiske løfter."
+  },
+  {
+   "name": "Bægrenes dronning",
+   "up": "Medfølelse, intuition, omsorg.",
+   "rev": "Afhængighed, følelsesmæssigt kaos."
+  },
+  {
+   "name": "Bægrenes konge",
+   "up": "Følelsesmæssig balance, diplomati.",
+   "rev": "Manipulation, kolde følelser."
+  },
+  {
+   "name": "Sværdenes es",
+   "up": "Klarhed, gennembrud, sandhed.",
+   "rev": "Forvirring, forkert beslutning."
+  },
+  {
+   "name": "Sværdenes to",
+   "up": "Svært valg, blokeret situation.",
+   "rev": "Information kommer frem, ubeslutsomhed."
+  },
+  {
+   "name": "Sværdenes tre",
+   "up": "Hjertesorg, smerte, sandhed der gør ondt.",
+   "rev": "Bedring, tilgivelse."
+  },
+  {
+   "name": "Sværdenes fire",
+   "up": "Hvile, restitution, eftertanke.",
+   "rev": "Rastløshed, udmattelse."
+  },
+  {
+   "name": "Sværdenes fem",
+   "up": "Konflikt, sejr med en pris.",
+   "rev": "Forsoning, at lægge våbnene ned."
+  },
+  {
+   "name": "Sværdenes seks",
+   "up": "Overgang, at forlade det svære.",
+   "rev": "Uløste sager, modstand mod at flytte sig."
+  },
+  {
+   "name": "Sværdenes syv",
+   "up": "List, strategi, noget skjules.",
+   "rev": "Samvittighed, sandheden kommer frem."
+  },
+  {
+   "name": "Sværdenes otte",
+   "up": "Fanget af egne tanker, begrænsning.",
+   "rev": "Frigørelse, nyt perspektiv."
+  },
+  {
+   "name": "Sværdenes ni",
+   "up": "Bekymring, søvnløshed, angst.",
+   "rev": "Håb, frygten aftager."
+  },
+  {
+   "name": "Sværdenes ti",
+   "up": "Smertefuld afslutning, bunden er nået.",
+   "rev": "Genopbygning, det værste er overstået."
+  },
+  {
+   "name": "Sværdenes knægt",
+   "up": "Nysgerrighed, årvågenhed, nye idéer.",
+   "rev": "Sladder, tankeløse ord."
+  },
+  {
+   "name": "Sværdenes ridder",
+   "up": "Handling, ambition, lige på og hårdt.",
+   "rev": "Hastværk, aggressivitet."
+  },
+  {
+   "name": "Sværdenes dronning",
+   "up": "Klarsyn, uafhængighed, ærlighed.",
+   "rev": "Kulde, bitterhed, hårde ord."
+  },
+  {
+   "name": "Sværdenes konge",
+   "up": "Intellektuel autoritet, retfærdighed.",
+   "rev": "Magtmisbrug, manipulation."
+  },
+  {
+   "name": "Mønternes es",
+   "up": "Ny mulighed, økonomisk start.",
+   "rev": "Forspildt mulighed, dårlig planlægning."
+  },
+  {
+   "name": "Mønternes to",
+   "up": "Balance, at jonglere med prioriteter.",
+   "rev": "Overbelastning, rod i økonomien."
+  },
+  {
+   "name": "Mønternes tre",
+   "up": "Samarbejde, håndværk, læring.",
+   "rev": "Dårligt samarbejde, middelmådighed."
+  },
+  {
+   "name": "Mønternes fire",
+   "up": "Opsparing, tryghed, kontrol.",
+   "rev": "Gerrighed, at holde for hårdt fast."
+  },
+  {
+   "name": "Mønternes fem",
+   "up": "Mangel, svære tider.",
+   "rev": "Bedring, hjælp er nær."
+  },
+  {
+   "name": "Mønternes seks",
+   "up": "At give og tage, generøsitet.",
+   "rev": "Skæv fordeling, gæld."
+  },
+  {
+   "name": "Mønternes syv",
+   "up": "Tålmodighed, langsigtet investering.",
+   "rev": "Utålmodighed, dårligt afkast."
+  },
+  {
+   "name": "Mønternes otte",
+   "up": "Flid, mesterskab, øvelse.",
+   "rev": "Perfektionisme, kedsomhed."
+  },
+  {
+   "name": "Mønternes ni",
+   "up": "Selvstændighed, velstand, nydelse.",
+   "rev": "Overforbrug, afhængighed af andre."
+  },
+  {
+   "name": "Mønternes ti",
+   "up": "Arv, familieformue, varig tryghed.",
+   "rev": "Økonomisk tab, familiekonflikt."
+  },
+  {
+   "name": "Mønternes knægt",
+   "up": "Nye studier, praktisk ambition.",
+   "rev": "Mangel på fremdrift, dovenskab."
+  },
+  {
+   "name": "Mønternes ridder",
+   "up": "Pålidelighed, rutine, hårdt arbejde.",
+   "rev": "Stagnation, kedsomhed."
+  },
+  {
+   "name": "Mønternes dronning",
+   "up": "Praktisk omsorg, tryghed, jordnærhed.",
+   "rev": "Arbejdsnarkomani, økonomisk uro."
+  },
+  {
+   "name": "Mønternes konge",
+   "up": "Velstand, sikkerhed, forretningssans.",
+   "rev": "Grådighed, materialisme."
+  }
+ ]
+}

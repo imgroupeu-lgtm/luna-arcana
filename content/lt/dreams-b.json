@@ -1,0 +1,1051 @@
+{
+ "items": [
+  {
+   "id": "mama",
+   "word": "Mama",
+   "variants": [
+    "motina",
+    "mamytė",
+    "sapnuoti mamą",
+    "sapne matyti mamą"
+   ],
+   "short": "Mama sapne dažnai susijusi su globa, artumu ir tuo, kaip jūs patys save prižiūrite.",
+   "about": "Šiuolaikinėje sapnų simbolikoje mama atspindi rūpestį, saugumą, bet kartais ir vaikystėje išmoktas ribas bei lūkesčius. Jei sapne jaučiatės šiltai, tai gali kalbėti apie ilgesį paguodos. Jei juntate įtampą ar kaltę, sapnas gali nušviesti neišsakytus jausmus ar nebaigtą pokalbį. Mama, kuri guodžia, ir mama, kuri peikia, simbolizuoja skirtingus dalykus – pažvelkite, ką jos elgesys primena jūsų dabartiniame gyvenime.",
+   "ask": "Kokios mamos savybės šiuo metu jums labiausiai trūksta ir kurią norėtumėte pasilikti?"
+  },
+  {
+   "id": "medis",
+   "word": "Medis",
+   "variants": [
+    "medžiai",
+    "sapnuoti medį",
+    "didelis medis sapne",
+    "žydintis medis"
+   ],
+   "short": "Medis sapne tradiciškai simbolizuoja augimą, šaknis ir ryšį su šeima.",
+   "about": "Daugelyje tradicijų medis siejamas su gyvybe, tęstinumu ir stabilumu. Tvirtas, vešlus medis gali kalbėti apie vidinį ramstį ir augimą, o nuvytęs ar išvirtęs – apie nuovargį ar pokytį, kuriam atėjo metas. Svarbu, ar šalia medžio jaučiatės saugiai, ar vienišai. Lipimas į medį dažnai aiškinamas kaip noras pakilti aukščiau ir pamatyti platesnį vaizdą.",
+   "ask": "Kas jūsų gyvenime dabar šaknijasi ir kas laukia naujo ūgio?"
+  },
+  {
+   "id": "menulis",
+   "word": "Mėnulis",
+   "variants": [
+    "pilnatis",
+    "jaunatis",
+    "mėnulis danguje",
+    "sapnuoti mėnulį"
+   ],
+   "short": "Mėnulis sapne siejamas su nuotaikomis, intuicija ir vidiniais ritmais.",
+   "about": "Mėnulis tradiciškai laikomas jausmų, intuicijos ir kintamumo simboliu. Šviesus, ramus mėnulis gali atspindėti vidinę ramybę ir poreikį įsiklausyti į save. Raudonas ar slegiantis mėnulis dažniau pabrėžia nerimą ar neapibrėžtumą. Pilnatis sapne kartais aiškinama kaip kulminacija, kai kas nors tampa aišku, o jaunatis – kaip pradžia, kuriai reikia kantrybės.",
+   "ask": "Kokio jausmo jums dabar reikia daugiau – ramybės, atvirumo ar tylos?"
+  },
+  {
+   "id": "mirusysis",
+   "word": "Mirusysis",
+   "variants": [
+    "mirę artimieji",
+    "mirusio žmogaus sapnas",
+    "velionis",
+    "sapnuoti mirusį",
+    "sapne matyti mirusį artimąjį"
+   ],
+   "short": "Sapnas apie mirusį žmogų dažniausiai yra atminties ir nebaigtų jausmų atspindys.",
+   "about": "Daugelis žmonių sapnuoja artimuosius, kurių nebėra, ir tai dažnai laikoma ilgesio bei atminties išraiška. Sapne išlikęs ryšys gali atnešti paguodą, o neišsakyti žodžiai – parodyti, ką dar norėtumėte pasakyti ar atleisti. Tai savistabos, o ne žinios apie ateitį klausimas. Jei toks sapnas kartojasi ir jus slegia, pasikalbėkite su artimu žmogumi ar specialistu – gedėjimas yra natūralus ir kartais jam reikia palaikymo.",
+   "ask": "Ką norėtumėte pasakyti šiam žmogui, jei turėtumėte dar vieną progą?"
+  },
+  {
+   "id": "mokykla",
+   "word": "Mokykla",
+   "variants": [
+    "pamoka",
+    "egzaminas",
+    "klasė",
+    "mokytojas",
+    "sapnuoti mokyklą"
+   ],
+   "short": "Mokykla sapne primena vertinimą, mokymąsi ir senus nerimus.",
+   "about": "Sapnai apie mokyklą dažnai grįžta ir suaugus, ir paprastai siejami su vertinimu, lūkesčiais ir mokymosi etapu. Jei sapne nepasiruošėte egzaminui, tai gali atspindėti baimę pasirodyti netinkamam ar netobulam. Jei sapne jaučiatės gerai, galbūt ilgitės paprastesnių laikų arba esate pasirengę mokytis ko nors naujo. Svarbu, kas vyksta: skubėjimas, pasimetimas ar draugų šiluma.",
+   "ask": "Ko dabar mokotės gyvenime ir ar leidžiate sau klysti?"
+  },
+  {
+   "id": "nestumas",
+   "word": "Nėštumas",
+   "variants": [
+    "nėščia",
+    "laukiuosi",
+    "gimdymas",
+    "sapnuoti nėštumą",
+    "būti nėščiai sapne"
+   ],
+   "short": "Nėštumas sapne dažniausiai simbolizuoja kažko naujo brendimą jumyse.",
+   "about": "Sapne nėštumas nebūtinai reiškia tikrą nėštumą ir nėra žinia apie jį – dažniau kalbama apie idėją, projektą ar vidinį pokytį, kuris bręsta. Džiaugsmas sapne gali rodyti pasirengimą naujam etapui, o baimė – abejones dėl atsakomybės. Gimdymas dažnai aiškinamas kaip pradžia ar išsilaisvinimas. Jei sapnas kelia nerimą dėl tikrų gyvenimo aplinkybių, pasikalbėkite su artimu žmogumi ar specialistu.",
+   "ask": "Kas jumyse dabar bręsta ir ko tam reikia?"
+  },
+  {
+   "id": "nuogumas",
+   "word": "Nuogumas",
+   "variants": [
+    "nuogas viešumoje",
+    "būti nuogam sapne",
+    "sapnuoti nuogumą",
+    "be drabužių viešumoje"
+   ],
+   "short": "Nuogumas sapne dažnai susijęs su pažeidžiamumu ir baime būti atskleistam.",
+   "about": "Sapnas apie buvimą nuogam tarp žmonių paprastai aiškinamas kaip pažeidžiamumo, gėdos ar atvirumo klausimas. Jei sapne nesijaudinate, ką galvoja kiti, tai gali atspindėti laisvę būti savimi. Jei jaučiate gėdą, galbūt kažkur gyvenime bijote, kad bus pastebėti jūsų trūkumai. Bandymas pridengti save gali rodyti norą apsaugoti tai, kas jums brangu.",
+   "ask": "Kur gyvenime norėtumėte būti labiau savimi ir kas jus stabdo?"
+  },
+  {
+   "id": "nukritimas",
+   "word": "Nukritimas",
+   "variants": [
+    "kritimas",
+    "kristi iš aukščio",
+    "sapnuoti kritimą",
+    "kristi sapne"
+   ],
+   "short": "Kritimas sapne dažnai siejamas su kontrolės praradimo jausmu.",
+   "about": "Tai vienas dažniausių sapnų, paprastai aiškinamas kaip nesaugumo ar kontrolės praradimo išraiška. Gali būti, kad kažkur gyvenime jaučiate, jog žemė slysta iš po kojų. Staigus pabudimas dažnai tiesiog būna natūrali kūno reakcija, todėl neskubėkite ieškoti gilios prasmės. Jei kritimas švelnus ar baigiasi saugiai, jis gali kalbėti apie pasitikėjimą ir paleidimą. Jei sapnas kartojasi ir kelia nerimą, pasikalbėkite su artimu žmogumi ar specialistu.",
+   "ask": "Kur dabar norėtumėte daugiau tvirtumo, o kur pasiruošę paleisti?"
+  },
+  {
+   "id": "obuoliai",
+   "word": "Obuoliai",
+   "variants": [
+    "obuolys",
+    "sapnuoti obuolius",
+    "obuolys sapne",
+    "raudonas obuolys"
+   ],
+   "short": "Obuolys sapne tradiciškai simbolizuoja pasirinkimą, gausą ir malonumą.",
+   "about": "Europos kultūrose obuolys siejamas su pasirinkimu, pagunda ir gausa. Sunokęs, saldus obuolys sapne gali reikšti pasitenkinimą savo darbu ar džiaugsmą dėl jo vaisių. Surūgęs ar supuvęs gali kalbėti apie nusivylimą ar atidėtą sprendimą. Skynimas dažnai aiškinamas kaip noras pasiimti tai, kas jums priklauso.",
+   "ask": "Kokį pasirinkimą dabar nešiojatės ir ko iš tiesų norite?"
+  },
+  {
+   "id": "paukščiai",
+   "word": "Paukščiai",
+   "variants": [
+    "paukštis",
+    "sapnuoti paukštį",
+    "paukščiai sapne",
+    "narve uždarytas paukštis",
+    "gulbė"
+   ],
+   "short": "Paukščiai sapne dažnai simbolizuoja laisvę, mintis ir vidinį balsą.",
+   "about": "Paukščiai tradiciškai siejami su laisve, lengvumu ir į viršų kylančiomis mintimis. Laisvai skrendantys gali atspindėti norą išsilaisvinti ar pažvelgti iš aukštai. Narve laikomas paukštis dažnai aiškinamas kaip suvaržytos galimybės. Paukščio giesmė kartais siejama su džiaugsmu ar poreikiu išsakyti save.",
+   "ask": "Ko jums dabar labiausiai norisi – erdvės, lengvumo ar balso?"
+  },
+  {
+   "id": "persekiojimas",
+   "word": "Persekiojimas",
+   "variants": [
+    "sapnuoti persekiojimą",
+    "kažkas mane vejasi",
+    "bėgti nuo ko nors",
+    "slėptis sapne"
+   ],
+   "short": "Persekiojimas sapne dažnai rodo, nuo ko stengiatės pabėgti savyje ar gyvenime.",
+   "about": "Sapnas, kuriame bėgate ar slepiatės, dažnai aiškinamas kaip vengimas to, ko nenorite pripažinti ar spręsti. Persekiotojas gali atspindėti baimę, įsipareigojimą ar jausmą, kurio dar neišklausėte. Pabandykite prisiminti, ar sapnas keičiasi, kai sustojate ir atsisukate. Jei toks sapnas kartojasi ir kelia nerimą, pasikalbėkite su artimu žmogumi ar specialistu – tai gali padėti lengviau išgyventi slegiančius jausmus.",
+   "ask": "Ko dabar vengiate ir kas nutiktų, jei pažvelgtumėte jam į akis?"
+  },
+  {
+   "id": "pinigai",
+   "word": "Pinigai",
+   "variants": [
+    "moneta",
+    "sapnuoti pinigus",
+    "rasti pinigų sapne",
+    "prarasti pinigus sapne"
+   ],
+   "short": "Pinigai sapne dažniau kalba apie vertę, saugumą ir tai, ką laikote svarbiu.",
+   "about": "Šiuolaikinėje simbolikoje pinigai atspindi ne tik finansus, bet ir savivertę, energiją bei saugumo jausmą. Radimas gali rodyti savo vertės pripažinimą, o praradimas – nerimą dėl to, ką bijote prarasti. Dovanojimas ar dalijimasis kartais siejamas su dosnumu ir ryšiais. Tai ne finansinė prognozė, o kvietimas pažvelgti, kam skiriate savo jėgas.",
+   "ask": "Ką šiuo metu laikote didžiausia savo vertybe, ne tik materialia?"
+  },
+  {
+   "id": "plaukai",
+   "word": "Plaukai",
+   "variants": [
+    "sapnuoti plaukus",
+    "kirpti plaukus sapne",
+    "slenkantys plaukai",
+    "ilgi plaukai"
+   ],
+   "short": "Plaukai sapne susiję su savęs vaizdu, jėga ir pokyčiu.",
+   "about": "Daugelyje kultūrų plaukai simbolizuoja asmenybę, jėgą ir gyvenimo kelią. Kirpimasis sapne dažnai aiškinamas kaip noras pasikeisti ar atsikratyti seno. Slenkantys plaukai gali rodyti nerimą dėl išvaizdos ar kontrolės praradimo; tai nėra sveikatos ženklas. Ilgi, sutvarkyti plaukai kartais atspindi pasitikėjimą savimi.",
+   "ask": "Ką norėtumėte pakeisti savo įvaizdyje arba palikti nepaliestą?"
+  },
+  {
+   "id": "potvynis",
+   "word": "Potvynis",
+   "variants": [
+    "sapnuoti potvynį",
+    "užlietas sapne",
+    "didelė vandens banga"
+   ],
+   "short": "Potvynis sapne dažnai simbolizuoja sunkiai suvaldomus jausmus.",
+   "about": "Vanduo tradiciškai siejamas su jausmais, o potvynis – su jų pertekliumi. Sapnas gali atspindėti situaciją, kai jaučiatės užversti pareigų, emocijų ar informacijos. Jei sapne ramiai stebite vandenį, galbūt mokotės priimti savo jausmus. Jei plaukiate ar randate sausumą, tai gali kalbėti apie jūsų gebėjimą išsilaikyti. Jei toks sapnas kartojasi ir kelia nerimą, pasikalbėkite su artimu žmogumi ar specialistu.",
+   "ask": "Kas jus dabar „užlieja“ ir kokios pertraukos jums reikia?"
+  },
+  {
+   "id": "pyragas",
+   "word": "Pyragas",
+   "variants": [
+    "tortas",
+    "sapnuoti pyragą",
+    "kepti pyragą",
+    "gimtadienio tortas"
+   ],
+   "short": "Pyragas sapne siejamas su švente, malonumu ir bendryste.",
+   "about": "Pyragas ir saldumynai dažnai simbolizuoja šventę, dėkingumą ir norą pasidžiaugti. Dalijimasis pyragu gali rodyti artumą ir dosnumą, o kepimas – rūpestį kitais. Jei sapne pyragas sudegęs ar kam nors nepasiekiamas, tai gali kalbėti apie nepatenkintą norą pasimėgauti. Sapno prasmė labai priklauso nuo to, su kuo jį valgote.",
+   "ask": "Kam norėtumėte atpjauti savo šventės gabalėlį?"
+  },
+  {
+   "id": "raktai",
+   "word": "Raktai",
+   "variants": [
+    "raktas",
+    "sapnuoti raktą",
+    "rasti raktą sapne",
+    "prarastas raktas",
+    "užrakintos durys"
+   ],
+   "short": "Raktas sapne dažnai simbolizuoja galimybę, prieigą ar atsakymą.",
+   "about": "Raktas yra senas atvėrimo ir uždarymo simbolis. Radimas gali kalbėti apie naujas galimybes ar suvokimą, kaip išspręsti ilgai neaiškią problemą. Prarastas raktas dažnai rodo jausmą, kad nebeturite prieigos prie kažko svarbaus. Užrakintos durys kartais atspindi emocines ribas arba baimę eiti pro jas.",
+   "ask": "Kokias duris norėtumėte atrakinti ir ar žinote, kas už jų?"
+  },
+  {
+   "id": "ruduo",
+   "word": "Ruduo",
+   "variants": [
+    "rudens lapai",
+    "krintantys lapai",
+    "derlius",
+    "sapnuoti rudenį"
+   ],
+   "short": "Ruduo sapne dažnai primena pabaigas, derlių ir paleidimą.",
+   "about": "Ruduo tradiciškai siejamas su derliumi, užbaigimu ir pasirengimu poilsiui. Gražūs, spalvoti lapai gali rodyti nostalgiją ir dėkingumą už tai, kas jau subrendo. Krintantys lapai kartais aiškinami kaip paleidimas to, kas nebereikalinga. Rūkas ar drėgmė gali rodyti liūdesį, bet ir nuoširdų poreikį pailsėti.",
+   "ask": "Ką šiemet galite pavadinti savo derliumi?"
+  },
+  {
+   "id": "buves-partneris",
+   "word": "Buvęs partneris",
+   "variants": [
+    "buvęs vaikinas",
+    "buvusi mergina",
+    "buvęs vyras",
+    "buvusi žmona",
+    "sapnuoti buvusį partnerį"
+   ],
+   "short": "Buvęs partneris sapne dažniau reiškia atmintį ar savo ankstesnį „aš“, o ne norą grįžti.",
+   "about": "Tokie sapnai labai dažni ir nebūtinai reiškia, kad ilgitės žmogaus. Dažnai jie primena išmoktas pamokas, nebaigtus jausmus ar savybes, kurias kadaise turėjote. Jei sapne jaučiate ramybę, galbūt santykių istorija jau užbaigta. Jei kyla skausmas, sapnas gali kviesti švelniai pasirūpinti savimi. Jei mintys vis grįžta ir trikdo, verta pasikalbėti su patikimu žmogumi ar specialistu.",
+   "ask": "Ką iš tos patirties norėtumėte pasiimti su savimi, o ką paleisti?"
+  },
+  {
+   "id": "skridimas",
+   "word": "Skridimas",
+   "variants": [
+    "sapnuoti skrydį",
+    "skristi sapne",
+    "sklandyti ore",
+    "pakilti nuo žemės"
+   ],
+   "short": "Skridimas sapne dažniausiai reiškia laisvę, perspektyvą ir lengvumą.",
+   "about": "Skrydis sapne dažnai aiškinamas kaip pakilimas virš kasdienių rūpesčių, laisvės ir pasitikėjimo savimi jausmas. Nesunkus sklandymas gali rodyti, kad jaučiatės einantys savo keliu. Jei skrendate žemai ar bijote nukristi, galbūt kažkas stabdo jūsų polėkį. Kai kuriems skrydis sapne tiesiog malonus, be gilesnės prasmės.",
+   "ask": "Kur norėtumėte pažvelgti į savo gyvenimą iš aukščiau?"
+  },
+  {
+   "id": "sniegas",
+   "word": "Sniegas",
+   "variants": [
+    "sniego pusnys",
+    "sapnuoti sniegą",
+    "žiema",
+    "snaigės",
+    "pūga"
+   ],
+   "short": "Sniegas sapne dažnai simbolizuoja tylą, švarą ir pauzę.",
+   "about": "Sniegas gali kalbėti apie ramybę, švarią pradžią ir poilsį, nes uždengdamas viską priverčia sulėtėti. Švelniai krintantis sniegas dažnai siejamas su paguoda. Gili pusnis ar šaltis kartais atspindi jausmą, kad esate įstrigę ar atsiriboję. Spalva ir šiluma sapne padeda suprasti, ar tai poilsis, ar vienatvė.",
+   "ask": "Kur jums dabar reikia sustoti ir pasiklausyti tylos?"
+  },
+  {
+   "id": "suo",
+   "word": "Šuo",
+   "variants": [
+    "šunys",
+    "sapnuoti šunį",
+    "šuo sapne",
+    "pamestas šuo"
+   ],
+   "short": "Šuo sapne dažniausiai simbolizuoja ištikimybę, draugystę ir apsaugą.",
+   "about": "Daugelyje kultūrų šuo – ištikimybės ir draugystės ženklas. Draugiškas šuo gali atspindėti pasitikėjimą savimi ar bendrystę su artimaisiais. Piktas ar lojantis šuo gali kalbėti apie nerimą dėl konflikto ar ribų. Pamestas šuo kartais primena rūpestį tuo, kas jums brangu, bet užmiršta.",
+   "ask": "Kokios ištikimybės ar apsaugos jums dabar reikia?"
+  },
+  {
+   "id": "sokis",
+   "word": "Šokis",
+   "variants": [
+    "šokti sapne",
+    "sapnuoti šokį",
+    "šokių aikštelė",
+    "vakarėlis"
+   ],
+   "short": "Šokis sapne siejamas su džiaugsmu, ritmu ir noru išsiskleisti.",
+   "about": "Šokis sapne dažnai rodo kūno ir jausmų harmoniją bei norą išreikšti save. Šokant su kitu žmogumi, verta pastebėti, kas veda, o kas seka – tai gali atskleisti jūsų santykių ritmą. Jei sapne gėdijatės šokti, galbūt bijote išsiskirti. Laisvas šokis dažnai reiškia leidimą sau pasidžiaugti.",
+   "ask": "Ką jums būtų lengviau išreikšti judesiu nei žodžiais?"
+  },
+  {
+   "id": "tiltas",
+   "word": "Tiltas",
+   "variants": [
+    "sapnuoti tiltą",
+    "eiti per tiltą",
+    "senas tiltas"
+   ],
+   "short": "Tiltas sapne simbolizuoja perėjimą iš vieno etapo į kitą.",
+   "about": "Tiltas tradiciškai reiškia ryšį ir perėjimą. Tvirtas tiltas dažnai rodo pasitikėjimą, kad pokytį galima įveikti. Pasvirusio, siauro ar sugriuvusio tilto vaizdas gali atspindėti abejones dėl sprendimo. Svarbu, ar pereinate, ar sustojate viduryje – tai kalba apie tai, kaip jaučiatės dėl permainos.",
+   "ask": "Koks pokytis dabar jus kviečia „pereiti tiltu“?"
+  },
+  {
+   "id": "traukinys",
+   "word": "Traukinys",
+   "variants": [
+    "geležinkelio stotis",
+    "sapnuoti traukinį",
+    "važiuoti traukiniu sapne",
+    "pavėluoti į traukinį"
+   ],
+   "short": "Traukinys sapne dažnai simbolizuoja gyvenimo kelią ir pasirinktą kryptį.",
+   "about": "Traukinys važiuoja bėgiais, todėl sapne dažnai atspindi nuoseklų kelią arba tai, kas atrodo jau nulemta. Jei esate keleivis, tai gali rodyti, kad jūsų gyvenimo kryptį renka kažkas kitas, o gal tiesiog pasitikėjimą. Pavėlavus į traukinį, dažnai pasirodo baimė praleisti progą. Stotis kartais reiškia sprendimo ar pokyčio tašką.",
+   "ask": "Ar šiuo metu važiuojate ten, kur norite, ar tiesiog sekate bėgius?"
+  },
+  {
+   "id": "upe",
+   "word": "Upė",
+   "variants": [
+    "srovė",
+    "upės tėkmė",
+    "sapnuoti upę",
+    "eiti per upę"
+   ],
+   "short": "Upė sapne simbolizuoja gyvenimo tėkmę ir laiką.",
+   "about": "Upė tradiciškai primena nuolatinį judėjimą ir kintamumą. Skaidrus, ramus vanduo gali kalbėti apie vidinę darną, o drumstas vanduo ar srauni srovė – apie neramumą ar sunkiai valdomus pokyčius. Perbrisdami upę, galbūt įveikiate tarpinį etapą. Plaukimas pasroviui dažnai siejamas su pasitikėjimu gyvenimu.",
+   "ask": "Ar plaukiate su srove, ar prieš ją, ir ką tai jums sako?"
+  },
+  {
+   "id": "ugnis",
+   "word": "Ugnis",
+   "variants": [
+    "sapnuoti ugnį",
+    "gaisras sapne",
+    "liepsna",
+    "laužas"
+   ],
+   "short": "Ugnis sapne simbolizuoja energiją, aistrą ir transformaciją.",
+   "about": "Ugnis gali būti ir šiluma, ir pavojus, todėl jausmai sapne labai svarbūs. Ramus laužas ar židinys siejamas su šiluma, bendryste ir atsinaujinimu. Plintantis gaisras dažnai rodo stiprų pyktį, išsekimą ar poreikį kažką užbaigti. Ugnis kartais reiškia ir kūrybinę energiją, kuriai trūksta krypties. Jei toks sapnas kartojasi ir kelia nerimą, pasikalbėkite su artimu žmogumi ar specialistu.",
+   "ask": "Kam dabar skiriate savo ugnį ir ar ji jus šildo, ar išsekina?"
+  },
+  {
+   "id": "vanduo",
+   "word": "Vanduo",
+   "variants": [
+    "sapnuoti vandenį",
+    "vandens telkinys",
+    "jūra",
+    "ežeras",
+    "skaidrus vanduo"
+   ],
+   "short": "Vanduo sapne tradiciškai siejamas su jausmais ir pasąmone.",
+   "about": "Vanduo daugelyje simbolikų reiškia emocijas. Skaidrus ir ramus gali rodyti aiškumą, o drumstas ar gilus – neaiškius ar paslėptus jausmus. Jūra ar ežeras dažnai kalba apie platų vidinį pasaulį. Tai, ar vanduo jus neša, ar stumia, ar jūs jį tik stebite, parodo jūsų santykį su savo išgyvenimais.",
+   "ask": "Kokią jausmų būseną dabar atspindi šis vanduo?"
+  },
+  {
+   "id": "vestuves",
+   "word": "Vestuvės",
+   "variants": [
+    "sapnuoti vestuves",
+    "tuoktis sapne",
+    "vestuvinė suknelė",
+    "nuotaka"
+   ],
+   "short": "Vestuvės sapne dažniau reiškia sąjungą, įsipareigojimą ar dviejų savo pusių suderinimą.",
+   "about": "Vestuvės sapne nebūtinai susijusios su tikromis vestuvėmis ir nėra žinia apie jas. Jos dažnai simbolizuoja įsipareigojimą, apsisprendimą ar norą sujungti skirtingas savo puses. Džiaugsmas rodo pasirengimą, nerimas – abejones dėl didelio sprendimo. Vestuvės be jaunikio ar nuotakos kartais atspindi neapibrėžtumą dėl to, ką renkatės.",
+   "ask": "Kokį įsipareigojimą, sau ar kitiems, dabar svarstote?"
+  },
+  {
+   "id": "vilkas",
+   "word": "Vilkas",
+   "variants": [
+    "sapnuoti vilką",
+    "vilkas sapne",
+    "vilkų gauja",
+    "laukinis žvėris"
+   ],
+   "short": "Vilkas sapne simbolizuoja instinktus, laukiniškumą ir ryšį su gauja.",
+   "about": "Vilkas dažnai siejamas su instinktu, laisve ir gaujos ryšiu. Ramus vilkas gali kalbėti apie vidinę jėgą ir intuiciją. Grėsmingas vilkas – apie baimę ar situaciją, kurioje jaučiatės pažeidžiami. Vilkų gauja kartais primena bendruomenės ir priklausymo klausimą.",
+   "ask": "Kur jums reikia pasitikėti savo instinktu?"
+  },
+  {
+   "id": "velavimas",
+   "word": "Vėlavimas",
+   "variants": [
+    "vėluoti sapne",
+    "pavėluoti",
+    "nespėti laiku",
+    "skubėti sapne"
+   ],
+   "short": "Vėlavimas sapne atspindi spaudimą ir baimę nespėti.",
+   "about": "Sapnas, kuriame kažkur vėluojate, dažnai atspindi nerimą dėl terminų, lūkesčių ir baimę ką nors praleisti. Dažniausiai jis kyla, kai gyvenime kaupiasi pareigos. Pavėlavę sapne, galite pajusti griežtumą sau. Jei sapnas kartojasi, verta pagalvoti, ar savo dienotvarkėje paliekate vietos poilsiui.",
+   "ask": "Kokio tempo iš jūsų tikimasi, o koks tempas jums iš tiesų tinka?"
+  },
+  {
+   "id": "ziedas",
+   "word": "Žiedas",
+   "variants": [
+    "sapnuoti žiedą",
+    "vestuvinis žiedas",
+    "auksinis žiedas",
+    "gauti žiedą dovanų"
+   ],
+   "short": "Žiedas sapne simbolizuoja ryšį, įsipareigojimą ir ciklą.",
+   "about": "Žiedas – apskritimo ženklas, taigi tęstinio ryšio simbolis. Gražus žiedas sapne gali rodyti vertę, kurią teikiate santykiui ar pažadui sau. Prarastas žiedas dažnai kalba apie nerimą dėl ryšio ar savo vertybių. Žiedo dovanojimas kartais reiškia norą pasakyti ką nors svarbaus.",
+   "ask": "Kokį pažadą, sau ar kitam, šis žiedas jums primena?"
+  },
+  {
+   "id": "zuvis",
+   "word": "Žuvis",
+   "variants": [
+    "sapnuoti žuvį",
+    "žuvys sapne",
+    "žvejoti sapne",
+    "akvariumas"
+   ],
+   "short": "Žuvis sapne siejama su pasąmone, gausa ir intuicija.",
+   "about": "Žuvis, gyvenanti vandenyje, dažnai simbolizuoja jausmus ir tai, kas slypi po paviršiumi. Gyva, judri žuvis gali reikšti gyvybingumą ir naujas idėjas. Žvejyba kartais aiškinama kaip savęs ieškojimas ar siekis ką nors pagauti. Akvariume laikomos žuvys gali kalbėti apie jausmus, kurie matomi, bet sulaikyti.",
+   "ask": "Kokia mintis ar jausmas bando išplaukti į paviršių?"
+  },
+  {
+   "id": "nepazistamasis",
+   "word": "Nepažįstamasis",
+   "variants": [
+    "sapnuoti nepažįstamą žmogų",
+    "nepažįstamas žmogus sapne",
+    "nepažįstamas vyras",
+    "nepažįstama moteris"
+   ],
+   "short": "Nepažįstamas žmogus sapne dažnai atspindi dar neatpažintą savo dalį.",
+   "about": "Sapnuose nepažįstami žmonės dažnai siejami su savybėmis, kurių savyje dar neatpažįstate. Draugiškas nepažįstamasis gali reikšti naują galimybę ar nuojautą. Grėsmingas – baimę prieš nežinomybę. Pastebėkite, ką jis daro ir ką jums primena, nes tai gali parodyti, kokio savo aspekto dabar prireikia.",
+   "ask": "Kokia savybė ar žinia galėtų būti šio svečio dovana jums?"
+  },
+  {
+   "id": "zvake",
+   "word": "Žvakė",
+   "variants": [
+    "sapnuoti žvakę",
+    "degančios žvakės sapne",
+    "užgesusi žvakė",
+    "žvakės liepsna"
+   ],
+   "short": "Žvakė sapne simbolizuoja viltį, dėmesį ir vidinę šviesą.",
+   "about": "Žvakė paprastai siejama su šviesa tamsoje, ramybe ir susikaupimu. Rami liepsna gali atspindėti vidinį aiškumą ar viltį. Užgesusi žvakė kartais kalba apie nuovargį, o nuo vėjo svyruojanti – apie trapų atsparumą. Daugelyje tradicijų ji laikoma prisiminimo ir dėmesio ženklu.",
+   "ask": "Kam šiuo metu verta skirti savo dėmesio šviesą?"
+  },
+  {
+   "id": "zemes-drebejimas",
+   "word": "Žemės drebėjimas",
+   "variants": [
+    "sapnuoti žemės drebėjimą",
+    "drebanti žemė",
+    "griūtis",
+    "suirusi žemė"
+   ],
+   "short": "Žemės drebėjimas sapne simbolizuoja staigų vidinio pasaulio supurtymą.",
+   "about": "Sapnas apie drebančią žemę dažnai aiškinamas kaip nestabilumo jausmas ar pokytis, kuris purto pamatus. Tai gali būti įsitikinimų, santykių ar plano peržiūra. Jei po drebėjimo sapne jaučiatės saugiai, tai gali rodyti gebėjimą atsitiesti. Tai nėra išankstinis ženklas, o kvietimas pažvelgti, kas jūsų gyvenime dabar prašosi tvirtesnio pagrindo. Jei toks sapnas kartojasi ir kelia nerimą, pasikalbėkite su artimu žmogumi ar specialistu.",
+   "ask": "Kokį pamatą savo gyvenime dabar norėtumėte sustiprinti?"
+  },
+  {
+   "id": "mirtis",
+   "word": "Mirtis",
+   "variants": [
+    "mirti sapne",
+    "sapnuoti mirtį",
+    "sapnuoti savo mirtį"
+   ],
+   "short": "Mirtis sapne dažniausiai simbolizuoja pabaigą ir permainą, o ne tikrą įvykį.",
+   "about": "Sapnuose mirtis daugiausia kalba apie pabaigas ir naujas pradžias: baigiasi etapas, ryšys ar vaidmuo. Taip ją aiškina ir daugelis šiuolaikinių simbolikų. Tai nėra prognozė. Jei sapnas kelia stiprią baimę ar kartojasi, pasikalbėkite su artimu žmogumi arba specialistu – kartu lengviau tai aptarti ramiai.",
+   "ask": "Kas jūsų gyvenime dabar baigiasi, kad atsirastų vietos naujam?"
+  },
+  {
+   "id": "miskas",
+   "word": "Miškas",
+   "variants": [
+    "sapnuoti mišką",
+    "girios",
+    "pasiklysti miške",
+    "tamsus miškas"
+   ],
+   "short": "Miškas sapne simbolizuoja nežinomybę, vidinį pasaulį ir paslaptingą kelią.",
+   "about": "Miškas tradiciškai yra ir paslapties, ir prieglobsčio vieta. Šviesus ir ramus miškas gali rodyti poilsį ir ryšį su savimi. Tamsus ar tankus – nerimą dėl neaiškumo ar sprendimų. Pasimetimas miške dažnai aiškinamas kaip poreikis sustoti ir pasiklausyti, kur iš tiesų norite eiti.",
+   "ask": "Ko ieškote šiame miške ir ar tai raminanti, ar bauginanti vieta?"
+  },
+  {
+   "id": "miestas",
+   "word": "Miestas",
+   "variants": [
+    "didmiestis",
+    "gatvės",
+    "svetimas miestas",
+    "sapnuoti miestą"
+   ],
+   "short": "Miestas sapne atspindi visuomenę, tempą ir savo vietą tarp kitų.",
+   "about": "Miestas sapne dažnai kalba apie socialinį gyvenimą ir tai, kaip jaučiatės tarp žmonių. Judrus miestas gali rodyti energiją arba perdėtą spaudimą. Svetimas miestas kartais atspindi neapibrėžtumą ar naujas galimybes. Tuščias miestas dažnai primena vienatvę ar norą pabūti vienam.",
+   "ask": "Kaip jaučiatės šioje vietoje – lyg namie ar lyg svetimoje žemėje?"
+  },
+  {
+   "id": "maistas",
+   "word": "Maistas",
+   "variants": [
+    "sapnuoti maistą",
+    "valgyti sapne",
+    "vaišės",
+    "alkis sapne"
+   ],
+   "short": "Maistas sapne siejamas su poreikiais, dvasine atrama ir bendryste.",
+   "about": "Maistas sapne kalba apie tai, kuo maitinate savo kūną, mintis ir santykius. Gausus stalas dažnai atspindi pasitenkinimą ar gerą bendrystę. Alkis kartais rodo nepatenkintą poreikį – ne tik fizinį, bet ir emocinį. Dalijimasis valgiu su kitais paprastai reiškia artumą.",
+   "ask": "Kuo šiuo metu jums labiausiai norisi pasisotinti – ne tik maistu?"
+  },
+  {
+   "id": "masina",
+   "word": "Mašina",
+   "variants": [
+    "sapnuoti mašiną",
+    "mašina neklauso",
+    "avarija sapne",
+    "mašina be vairuotojo"
+   ],
+   "short": "Mašina sapne simbolizuoja jūsų kelio valdymą ir savivaldą.",
+   "about": "Mašina dažnai atspindi, kaip valdote savo gyvenimo kryptį. Jei vairuojate ramiai, galbūt jaučiatės valdantys savo kelią. Jei esate keleivis ar mašina neklauso, sapnas gali rodyti, kad jaučiatės be įtakos. Stabdžių nebuvimas kartais kalba apie skubotą tempą ir poreikį sustoti. Jei sapne buvusi avarija jus sukrėtė, pasikalbėkite su artimu žmogumi ar specialistu.",
+   "ask": "Kas šiuo metu vairuoja jūsų gyvenimą ir ar to norite?"
+  },
+  {
+   "id": "moteris",
+   "word": "Moteris",
+   "variants": [
+    "sapnuoti moterį",
+    "moteris sapne",
+    "sapne matyti moterį",
+    "senutė"
+   ],
+   "short": "Moteris sapne gali simbolizuoti rūpestį, intuiciją ar jūsų pačių moterišką pusę.",
+   "about": "Moteriška figūra sapne dažnai siejama su rūpesčiu, intuicija ir vidinėmis savybėmis, nesvarbu, kokia jūsų lytis. Išmintinga ar maloni moteris gali reikšti vidinį vedlį. Griežta ar šalta kartais atspindi vidinį kritiką. Svarbu, kaip su ja jaučiatės ir ką ji jums primena.",
+   "ask": "Kokią savybę, kurią siejate su moteriškumu, norėtumėte stiprinti savyje?"
+  },
+  {
+   "id": "namai",
+   "word": "Namai",
+   "variants": [
+    "sapnuoti namus",
+    "namas sapne",
+    "kambariai",
+    "nauji namai",
+    "vaikystės namai"
+   ],
+   "short": "Namai sapne simbolizuoja jus pačius ir jūsų saugumo jausmą.",
+   "about": "Namai sapne dažnai reiškia vidinį pasaulį, kuriame kiekvienas kambarys kalba apie skirtingą gyvenimo sritį. Šilti, jaukūs namai atspindi saugumą. Griūvantys ar netvarkingi gali rodyti vidinę netvarką. Vaikystės namai dažnai pažadina prisiminimus ir nebaigtus jausmus.",
+   "ask": "Kuris jūsų vidinių namų kambarys šiuo metu prašo dėmesio?"
+  },
+  {
+   "id": "naktis",
+   "word": "Naktis",
+   "variants": [
+    "sapnuoti naktį",
+    "tamsi naktis",
+    "nakties dangus",
+    "vidurnaktis"
+   ],
+   "short": "Naktis sapne primena poilsį, paslaptį ir tai, kas dar nepamatyta.",
+   "about": "Naktis sapne gali reikšti ramybę, pauzę ir poreikį atsikvėpti. Tamsa gali simbolizuoti neaiškumą arba tai, ko dar nesuprantate. Žvaigždėta naktis dažnai siejama su viltimi. Tai, kaip jaučiatės sapne, parodo, ar naktis jums yra prieglobstis, ar nerimo metas.",
+   "ask": "Ką jums tamsa leidžia pamatyti, ko nematytumėte dieną?"
+  },
+  {
+   "id": "pele",
+   "word": "Pelė",
+   "variants": [
+    "pelės",
+    "sapnuoti peles",
+    "žiurkė",
+    "graužikai"
+   ],
+   "short": "Pelė sapne paprastai atspindi smulkius rūpesčius ir atidumą detalėms.",
+   "about": "Pelės dažnai aiškinamos kaip smulkūs, bet nuolatiniai rūpesčiai, graužiantys ramybę. Sapne jos gali atkreipti dėmesį į kasdienius dalykus, kuriuos ignoruojate. Maža, švelni pelė kartais reiškia atsargumą ar kuklumą. Jei jų bijote, galbūt jaučiate pervargimą nuo smulkmenų.",
+   "ask": "Kokią smulkmeną atidėliojote, nors ji kasdien kelia įtampą?"
+  },
+  {
+   "id": "pelede",
+   "word": "Pelėda",
+   "variants": [
+    "pelėdos",
+    "sapnuoti pelėdą",
+    "pelėda sapne",
+    "naktinis paukštis"
+   ],
+   "short": "Pelėda sapne siejama su išmintimi, stebėjimu ir naktimi.",
+   "about": "Pelėda daugelyje kultūrų simbolizuoja išmintį ir budrumą. Sapne ji gali raginti pastebėti tai, ką paprastai praleidžiate. Tyli pelėda kartais reiškia nuojautą, kurią verta išgirsti. Ji nėra ženklas apie ateitį – greičiau kvietimas atidžiau stebėti.",
+   "ask": "Ką pastaruoju metu pastebėjote tik prisižiūrėję atidžiau?"
+  },
+  {
+   "id": "perlai",
+   "word": "Perlai",
+   "variants": [
+    "sapnuoti perlus",
+    "perlų vėrinys",
+    "kriauklė",
+    "jūros perlas"
+   ],
+   "short": "Perlai sapne simbolizuoja vertingą, brandintą patirtį.",
+   "about": "Perlas auga pamažu, todėl sapne dažnai atspindi kantrybę ir brandą. Perlų vėrinys gali reikšti vertę, kurią kaupiate laikui bėgant. Rastas perlas kartais siejamas su pastebėta vidine verte. Jei sapne perlai byra, galbūt nerimaujate dėl to, ką saugote.",
+   "ask": "Kas jūsų gyvenime brendo ilgai ir vertas dėmesio?"
+  },
+  {
+   "id": "pirstai",
+   "word": "Pirštai",
+   "variants": [
+    "sapnuoti pirštus",
+    "pirštas",
+    "rankos pirštai",
+    "nulūžęs nagas"
+   ],
+   "short": "Pirštai sapne susiję su gebėjimais, smulkiu darbu ir ryšiu su kitais.",
+   "about": "Pirštai kalba apie veikimą, prisilietimą ir įgūdžius. Sužeisti ar prarasti pirštai sapne dažnai atspindi nepasitikėjimą savo gebėjimais, o ne sveikatos ženklą. Rodymas pirštu gali reikšti kaltinimą ar nukreiptą dėmesį. Sukibę pirštai kartais primena ryšį ir palaikymą.",
+   "ask": "Kokį savo gebėjimą pastaruoju metu nepakankamai vertinate?"
+  },
+  {
+   "id": "plaukimas",
+   "word": "Plaukimas",
+   "variants": [
+    "sapnuoti plaukimą",
+    "plaukti sapne",
+    "skęsti sapne",
+    "nardyti"
+   ],
+   "short": "Plaukimas sapne atspindi, kaip susitvarkote su jausmais.",
+   "about": "Plaukimas sapne dažnai rodo gebėjimą judėti emocijų vandenyje. Lengvas plaukimas atspindi pasitikėjimą, o sunkus plaukimas ar skendimo pojūtis – jausmą, kad jus užgožia. Nardymas gilyn kartais reiškia pasirengimą pažvelgti į savo vidų. Krantas sapne simbolizuoja saugumą ir atramą. Jei sapnai apie skendimą kartojasi ir kelia nerimą, pasikalbėkite su artimu žmogumi ar specialistu.",
+   "ask": "Kokios atramos jums dabar reikia, kad plauktumėte ramiau?"
+  },
+  {
+   "id": "pilis",
+   "word": "Pilis",
+   "variants": [
+    "sapnuoti pilį",
+    "pilis sapne",
+    "tvirtovė",
+    "rūmai"
+   ],
+   "short": "Pilis sapne simbolizuoja apsaugą, ribas ir didelius lūkesčius.",
+   "about": "Pilis gali reikšti saugumą, bet ir atsiribojimą nuo kitų. Atrasta pilis sapne kartais siejama su didelėmis svajonėmis. Apleista pilis gali kalbėti apie primirštą savo dalį. Svarbu, ar joje jaučiatės kaip namie, ar kaip uždaryti.",
+   "ask": "Kas jus saugo ir kas galbūt jus uždaro?"
+  },
+  {
+   "id": "policija",
+   "word": "Policija",
+   "variants": [
+    "sapnuoti policiją",
+    "policininkas sapne",
+    "suėmimas",
+    "krata"
+   ],
+   "short": "Policija sapne dažnai atspindi vidinį kritiką ir taisykles.",
+   "about": "Policija simbolizuoja autoritetą, taisykles ir kaltės jausmą. Sapne ji gali atspindėti vidinį teisėją ar baimę suklysti. Jei policija jus saugo, tai gali reikšti poreikį turėti ribas ir tvarką. Būkite švelnūs sau – sapnas nebūtinai kalba apie realią kaltę. Jei toks sapnas kartojasi ir kelia nerimą, pasikalbėkite su artimu žmogumi ar specialistu.",
+   "ask": "Kokią sau uždėtą taisyklę verta peržiūrėti?"
+  },
+  {
+   "id": "prarastas-daiktas",
+   "word": "Prarastas daiktas",
+   "variants": [
+    "sapnuoti pamestą daiktą",
+    "ieškoti pamesto daikto",
+    "dingusi piniginė",
+    "pamestas telefonas"
+   ],
+   "short": "Praradimas sapne dažnai rodo nerimą dėl to, kas jums svarbu.",
+   "about": "Sapnuojant pamestą daiktą, dažnai atsiliepia jausmas, kad kažko trūksta ar kažką nustūmėte į šalį. Daiktas gali simbolizuoti tapatybę, ryšį ar saugumą. Radimas atneša palengvėjimą ir kartais reiškia atgautą aiškumą. Pagalvokite, ką jums tas daiktas reiškia.",
+   "ask": "Ko jums šiuo metu trūksta, kad jaustumėtės visavertiškai?"
+  },
+  {
+   "id": "pasimetimas",
+   "word": "Pasimetimas",
+   "variants": [
+    "sapnuoti pasiklydimą",
+    "pasiklysti sapne",
+    "nerasti kelio",
+    "pasiklysti nepažįstamoje vietoje"
+   ],
+   "short": "Pasimetimas sapne atspindi neapibrėžtumą ir kelio ieškojimą.",
+   "about": "Pasimetimas sapne dažnai kalba apie sprendimų sankryžą, kai nežinote, kuria kryptimi eiti. Svetima aplinka gali atspindėti naują gyvenimo etapą. Pagalbos radimas sapne paprastai rodo, kad ieškote ryšio ir palaikymo. Tai nėra ženklas, o kvietimas sustoti ir paklausti savęs, ko norite.",
+   "ask": "Ko ieškote pasimetę – kelio, žmogaus ar atsakymo?"
+  },
+  {
+   "id": "paplūdimys",
+   "word": "Paplūdimys",
+   "variants": [
+    "sapnuoti paplūdimį",
+    "pajūris",
+    "jūros krantas",
+    "vaikščioti pakrante"
+   ],
+   "short": "Paplūdimys sapne simbolizuoja ribą tarp pasąmonės ir kasdienybės.",
+   "about": "Paplūdimys yra vieta, kur žemė susitinka su vandeniu, todėl sapne dažnai reiškia poilsį ir ribą tarp sąmonės ir jausmų. Ramus krantas rodo atsipalaidavimą. Audringa jūra kartais atspindi neramius jausmus. Vaikščiojimas pakrante gali reikšti norą apmąstyti.",
+   "ask": "Kur jums šiuo metu reikia sustoti ir pažvelgti į horizontą?"
+  },
+  {
+   "id": "rozes",
+   "word": "Rožės",
+   "variants": [
+    "sapnuoti rožes",
+    "rožė sapne",
+    "puokštė",
+    "rožės spygliai"
+   ],
+   "short": "Rožės sapne dažnai simbolizuoja meilę, grožį ir jautrumą.",
+   "about": "Rožė tradiciškai siejama su meile ir grožiu, bet jos spygliai primena, kad artumas kartu yra ir pažeidžiamumas. Žydinti rožė gali atspindėti džiaugsmą ar atsiskleidimą. Nuvytusi – pabaigą ar liūdesį. Puokštė kartais reiškia dėmesį ar pripažinimą.",
+   "ask": "Ką šiuo metu auginate su meile ir kantrybe?"
+  },
+  {
+   "id": "rukas",
+   "word": "Rūkas",
+   "variants": [
+    "sapnuoti rūką",
+    "rūkas sapne",
+    "migla",
+    "ūkanos"
+   ],
+   "short": "Rūkas sapne atspindi neaiškumą ir laukimą.",
+   "about": "Rūkas dažnai simbolizuoja nežinomybę, kai nematote toli. Sapne jis gali rodyti sprendimą, kuriam trūksta aiškumo. Rūkui sklaidantis, dažnai pajuntamas palengvėjimas. Verta pastebėti, ar rūke jaučiatės saugiai, ar nerimaujate.",
+   "ask": "Kokio aiškumo jums dabar labiausiai trūksta ir kas galėtų padėti?"
+  },
+  {
+   "id": "rubai",
+   "word": "Rūbai",
+   "variants": [
+    "sapnuoti drabužius",
+    "drabužiai sapne",
+    "nauja suknelė",
+    "batai"
+   ],
+   "short": "Rūbai sapne atspindi vaidmenis ir tai, kaip save pateikiate.",
+   "about": "Drabužiai kalba apie tai, kokį įvaizdį rodote pasauliui. Netinkami ar nepatogūs rūbai gali reikšti, kad vaidmuo jums netinka. Naujos aprangos vaizdas dažnai siejamas su pokyčiu. Spalvos ir būklė sapne taip pat gali daug pasakyti apie jūsų savijautą.",
+   "ask": "Kokį „drabužį“ – vaidmenį – norėtumėte nusivilkti?"
+  },
+  {
+   "id": "sala",
+   "word": "Sala",
+   "variants": [
+    "sapnuoti salą",
+    "sala jūroje",
+    "negyvenama sala",
+    "nuošali vieta"
+   ],
+   "short": "Sala sapne simbolizuoja vienatvę, pabėgimą ir savarankiškumą.",
+   "about": "Sala dažnai reiškia atsiribojimą nuo pasaulio. Rami sala gali būti poilsio ir savisaugos vieta. Jei sapne esate įstrigę, tai gali atspindėti vienatvės jausmą. Atrasta sala kartais siejama su nauju savęs pažinimu.",
+   "ask": "Ar norite pabūti saloje, ar jaučiatės joje palikti?"
+  },
+  {
+   "id": "saule",
+   "word": "Saulė",
+   "variants": [
+    "sapnuoti saulę",
+    "saulė sapne",
+    "saulėlydis",
+    "saulėtekis"
+   ],
+   "short": "Saulė sapne simbolizuoja šilumą, gyvybę ir aiškumą.",
+   "about": "Saulė tradiciškai siejama su gyvybe, džiaugsmu ir sąmoningumu. Šviečianti saulė gali rodyti viltį ir energiją. Saulėlydis dažnai reiškia etapo pabaigą ir ramų užbaigimą. Saulėtekis kartais atspindi naują pradžią. Pernelyg kaitri saulė gali rodyti jausmą, kad esate per daug matomi.",
+   "ask": "Kas jus šiuo metu šildo ir suteikia energijos?"
+  },
+  {
+   "id": "sesuo",
+   "word": "Sesuo",
+   "variants": [
+    "sapnuoti seserį",
+    "sapnuoti brolį",
+    "sesuo sapne",
+    "brolis sapne"
+   ],
+   "short": "Sesuo ar brolis sapne kalba apie bendrą istoriją, lygiavertiškumą ir konkurenciją.",
+   "about": "Seserys ir broliai sapne dažnai primena bendrus prisiminimus, artumą ar senus nesutarimus. Jie gali simbolizuoti jūsų pačių savybes, kurias matote kitame. Draugiškas sapnas atspindi paramą, o ginčas – neišspręstus jausmus. Svarbu, kas jus sieja šiuo metu.",
+   "ask": "Kokia sesers ar brolio savybė jums šiandien reikšminga?"
+  },
+  {
+   "id": "smelis",
+   "word": "Smėlis",
+   "variants": [
+    "sapnuoti smėlį",
+    "smėlio laikrodis",
+    "smėlio pilys",
+    "dykuma"
+   ],
+   "short": "Smėlis sapne simbolizuoja laiką ir trapumą.",
+   "about": "Smėlis byra pro pirštus, todėl dažnai atspindi laiko tėkmę ar sunkumą ką nors išlaikyti. Smėlio laikrodis kviečia stabtelėti ir pagalvoti apie prioritetus. Dykuma kartais reiškia tuštumą ar poreikį ramybės. Smėlio pilys – trapias, bet kuriamas svajones.",
+   "ask": "Ką norėtumėte išsaugoti, nors laikas byra?"
+  },
+  {
+   "id": "sodas",
+   "word": "Sodas",
+   "variants": [
+    "sapnuoti sodą",
+    "sodas sapne",
+    "daržas",
+    "gėlynas",
+    "sodinti augalus"
+   ],
+   "short": "Sodas sapne simbolizuoja rūpestį, augimą ir kantrybę.",
+   "about": "Sodas dažnai reiškia tai, ką puoselėjate savo gyvenime. Žydintis sodas rodo pasitenkinimą, o apleistas – kažką, kas laukia dėmesio. Sėjimas kartais atspindi pradedamą projektą ar santykį. Derlius sapne siejamas su dėkingumu.",
+   "ask": "Ką šiuo metu sodinate ir kaip jam padedate augti?"
+  },
+  {
+   "id": "saltinis",
+   "word": "Šaltinis",
+   "variants": [
+    "sapnuoti šaltinį",
+    "versmė",
+    "šulinys",
+    "tyras vanduo"
+   ],
+   "short": "Šaltinis sapne simbolizuoja pradžią ir atsinaujinimą.",
+   "about": "Šaltinis ar šulinys dažnai reiškia vidinių išteklių telkinį. Tyras vanduo siejamas su aiškumu, o užakęs – su užsikimšusia energija. Sapne šaltinis gali kviesti sustoti ir pasisemti jėgų. Gilus šulinys kartais reiškia gilų savęs pažinimą.",
+   "ask": "Iš ko semiatės jėgų ir kada paskutinį kartą jas papildėte?"
+  },
+  {
+   "id": "sviesa",
+   "word": "Šviesa",
+   "variants": [
+    "sapnuoti šviesą",
+    "šviesa tamsoje",
+    "šviesa tunelio gale",
+    "spindesys"
+   ],
+   "short": "Šviesa sapne simbolizuoja aiškumą, viltį ir supratimą.",
+   "about": "Šviesa daugelyje tradicijų yra supratimo ir vilties ženklas. Šviesa tamsoje gali reikšti išeitį ar nuojautą. Akinanti šviesa kartais atspindi per didelį spaudimą. Švelni šviesa dažnai siejama su paguoda ir ramybe.",
+   "ask": "Kas jus šiuo metu apšviečia ir ką norėtumėte pamatyti aiškiau?"
+  },
+  {
+   "id": "seima",
+   "word": "Šeima",
+   "variants": [
+    "sapnuoti šeimą",
+    "giminės",
+    "šeimos susitikimas",
+    "šventė su šeima"
+   ],
+   "short": "Šeima sapne kalba apie priklausymą, vaidmenis ir senas dinamikas.",
+   "about": "Šeimos sapnai dažnai kalba apie priklausymą ir ankstyvuosius santykių modelius. Šilti susibūrimai atspindi palaikymą, o ginčai – neišspręstus jausmus. Sapne šeimos nariai taip pat gali simbolizuoti jūsų pačių savybes. Svarbu pastebėti, kaip sapne jaučiatės tarp jų.",
+   "ask": "Kokį šeimos vaidmenį vis dar nešiojatės, nors jis galbūt nebetinka?"
+  },
+  {
+   "id": "tamsa",
+   "word": "Tamsa",
+   "variants": [
+    "sapnuoti tamsą",
+    "tamsus kambarys",
+    "tamsoje",
+    "tamsi vieta"
+   ],
+   "short": "Tamsa sapne atspindi nežinomybę ir tai, kas dar nepamatyta.",
+   "about": "Tamsa dažnai simbolizuoja neaiškumą, nerimą ar ramybės trūkumą. Ji taip pat gali būti poilsio ir paslapties erdvė. Šviesos radimas tamsoje paprastai reiškia, kad ieškote atsakymo. Jei tamsa sapne jus slegia, švelniai pasirūpinkite savo poilsiu ir saugumu, o jei tai kartojasi, pasikalbėkite su artimu žmogumi ar specialistu.",
+   "ask": "Ką tamsa jums bando parodyti, jei jos nebijosite?"
+  },
+  {
+   "id": "telefonas",
+   "word": "Telefonas",
+   "variants": [
+    "sapnuoti telefoną",
+    "skambutis sapne",
+    "žinutė",
+    "negaliu paskambinti"
+   ],
+   "short": "Telefonas sapne atspindi bendravimo poreikį ir neišsakytus žodžius.",
+   "about": "Telefonas simbolizuoja ryšį su kitais. Jei sapne nepavyksta surinkti numerio, tai gali rodyti bendravimo trikdžius. Skambutis nuo kokio nors žmogaus gali atspindėti norą su juo susisiekti. Prarastas telefonas kartais reiškia nerimą dėl atsiribojimo.",
+   "ask": "Kam norėtumėte paskambinti ir ką jam pasakyti?"
+  },
+  {
+   "id": "tevas",
+   "word": "Tėvas",
+   "variants": [
+    "sapnuoti tėvą",
+    "tėtis",
+    "tėvo figūra",
+    "senelis"
+   ],
+   "short": "Tėvas sapne dažniausiai simbolizuoja autoritetą, apsaugą ir ryšį su kilme.",
+   "about": "Tėvo figūra sapne gali reikšti apsaugą, taisykles ar lūkesčius. Šiltas sapnas dažnai atspindi paramą, o įtempti santykiai – neišsakytus jausmus. Tėvas gali simbolizuoti ir jūsų pačių autoritetą bei valią. Svarbu pastebėti, kaip jaučiatės šalia jo.",
+   "ask": "Kokią tėvo savybę norėtumėte išsaugoti, o kokią paleisti?"
+  },
+  {
+   "id": "tunelis",
+   "word": "Tunelis",
+   "variants": [
+    "sapnuoti tunelį",
+    "tunelis sapne",
+    "požeminis kelias",
+    "koridorius"
+   ],
+   "short": "Tunelis sapne simbolizuoja perėjimą, sunkų etapą ir šviesą pabaigoje.",
+   "about": "Tunelis dažnai reiškia pereinamąjį etapą, kai kelias atrodo siauras. Pabaigoje matoma šviesa gali rodyti viltį ar išeitį. Jei tunelis ilgas, o pabaigos nesimato, galbūt jaučiatės pavargę nuo laukimo. Ramus praėjimas simbolizuoja pasitikėjimą.",
+   "ask": "Kas vyksta jūsų gyvenimo „tunelyje“ ir kas padeda eiti toliau?"
+  },
+  {
+   "id": "vaikas",
+   "word": "Vaikas",
+   "variants": [
+    "sapnuoti vaiką",
+    "vaikas sapne",
+    "kūdikis",
+    "vaikystė",
+    "žaidžiantis vaikas"
+   ],
+   "short": "Vaikas sapne simbolizuoja nekaltumą, naują pradžią ir vidinį vaiką.",
+   "about": "Vaikas sapne dažnai reiškia jūsų vidinį vaiką, žaismingumą ir pažeidžiamumą. Džiaugsmingas vaikas atspindi lengvumą, o verkiantis – poreikį sulaukti rūpesčio. Kūdikis kartais simbolizuoja naują projektą ar pradžią, o ne tikrą kūdikį ar nėštumą. Pasirūpinimas vaiku sapne gali kviesti pasirūpinti savimi.",
+   "ask": "Ko šiandien reikia jūsų vidiniam vaikui?"
+  },
+  {
+   "id": "vairavimas",
+   "word": "Vairavimas",
+   "variants": [
+    "sapnuoti vairavimą",
+    "sėdėti prie vairo",
+    "sustoti kelyje",
+    "kelias"
+   ],
+   "short": "Vairavimas sapne atspindi, kaip valdote savo kryptį.",
+   "about": "Vairavimas dažnai reiškia gyvenimo krypties valdymą. Ramus vairavimas rodo pasitikėjimą, o jausmas, kad mašina nevaldoma, – nerimą dėl kontrolės. Kelio posūkiai kartais reiškia sprendimus. Sėdėjimas galinėje sėdynėje rodo, kad leidžiate kitiems vesti.",
+   "ask": "Kas dabar nustato jūsų kelio kryptį?"
+  },
+  {
+   "id": "vagis",
+   "word": "Vagis",
+   "variants": [
+    "sapnuoti vagį",
+    "apvogimas",
+    "vagystė",
+    "pavogtas daiktas"
+   ],
+   "short": "Vagis sapne atspindi jausmą, kad kažkas iš jūsų atima energijos ar vertės.",
+   "about": "Vagis sapne dažnai kalba apie pažeistas ribas ar jausmą, kad kažkas jus išsekina. Pavogtas daiktas gali simbolizuoti prarastą laiką ar jėgas. Kartais vagis atspindi jūsų pačių neišreikštą norą. Pagalvokite apie savo ribas. Jei sapnas kelia stiprų nerimą, pasikalbėkite su artimu žmogumi ar specialistu.",
+   "ask": "Kas iš jūsų atima daugiau, nei galite duoti?"
+  },
+  {
+   "id": "vejas",
+   "word": "Vėjas",
+   "variants": [
+    "sapnuoti vėją",
+    "vėjas sapne",
+    "vėtra",
+    "stiprus vėjas"
+   ],
+   "short": "Vėjas sapne simbolizuoja pokytį ir judėjimą.",
+   "about": "Vėjas gali būti ir gaivios permainos, ir sukrėtimo ženklas. Švelnus vėjas siejamas su atgaiva ir idėjomis. Stiprus vėjas ar audra kartais atspindi vidinį sąmyšį. Vėjo kryptis sapne gali parodyti, ar jus neša, ar stumia.",
+   "ask": "Kokių permainų dvelksmą jaučiate?"
+  },
+  {
+   "id": "vonia",
+   "word": "Vonia",
+   "variants": [
+    "sapnuoti voną",
+    "maudytis sapne",
+    "dušas",
+    "nusiprausti"
+   ],
+   "short": "Vonia sapne simbolizuoja apsivalymą ir poilsį.",
+   "about": "Maudynės dažnai siejamos su apsivalymu ir atsinaujinimu, tik simboliškai. Šilta vonia gali reikšti poreikį atsipalaiduoti. Nešvarus vanduo kartais atspindi jausmus, kuriuos reikia išspręsti. Privatumo praradimas sapne gali kalbėti apie pažeidžiamumą.",
+   "ask": "Ką norėtumėte nusiplauti nuo savęs ir paleisti?"
+  },
+  {
+   "id": "voras",
+   "word": "Voras",
+   "variants": [
+    "sapnuoti vorą",
+    "voras sapne",
+    "voratinklis",
+    "vorai"
+   ],
+   "short": "Voras sapne simbolizuoja kūrybą, kantrybę ir susipynusius ryšius.",
+   "about": "Voras ir jo tinklas daugelyje kultūrų reiškia kūrybingumą ir kantrybę. Sapne jis gali atspindėti situaciją, kurioje jaučiatės įsipainioję. Vorų baimė kartais kalba apie nerimą dėl kontrolės. Audžiantis voras gali reikšti nuoseklų darbą.",
+   "ask": "Kokį tinklą pastaruoju metu audžiate – ryšių ar rūpesčių?"
+  },
+  {
+   "id": "vartai",
+   "word": "Vartai",
+   "variants": [
+    "sapnuoti vartus",
+    "atviri vartai",
+    "durys",
+    "slenkstis"
+   ],
+   "short": "Vartai sapne simbolizuoja slenkstį ir sprendimą žengti toliau.",
+   "about": "Vartai ir durys žymi perėjimą. Atviri vartai rodo galimybę, uždari – ribą ar atidėjimą. Stovėjimas prie slenksčio dažnai atspindi dvejones. Pro vartus išeinantis žmogus kartais reiškia etapo pabaigą.",
+   "ask": "Pro kokius vartus dabar dvejojate žengti?"
+  },
+  {
+   "id": "zuikis",
+   "word": "Zuikis",
+   "variants": [
+    "sapnuoti zuikį",
+    "zuikis sapne",
+    "kiškis",
+    "triušis"
+   ],
+   "short": "Zuikis sapne atspindi jautrumą, greitumą ir nerimą.",
+   "about": "Zuikis tradiciškai siejamas su gyvybingumu, bet ir su baikštumu. Sapne jis gali simbolizuoti jautrią savo dalį. Bėgantis zuikis kartais atspindi norą pabėgti. Ramus zuikis rodo švelnumą ir jautrumą.",
+   "ask": "Kur jūsų jautrumas yra stiprybė, o kur sukelia nerimą?"
+  },
+  {
+   "id": "zole",
+   "word": "Žolė",
+   "variants": [
+    "sapnuoti žolę",
+    "žolė sapne",
+    "žalia pieva",
+    "lauko gėlės"
+   ],
+   "short": "Žolė sapne simbolizuoja gyvybę, ramybę ir paprastumą.",
+   "about": "Žalia pieva dažnai siejama su poilsiu ir paprastu džiaugsmu. Vaikščiojimas basomis gali reikšti ryšį su žeme. Išdžiūvusi žolė kartais atspindi nuovargį. Šienaujama žolė gali reikšti tvarkymąsi su gyvenimo reikalais.",
+   "ask": "Kas paprasto šiuo metu galėtų jus nuraminti?"
+  },
+  {
+   "id": "zaibas",
+   "word": "Žaibas",
+   "variants": [
+    "sapnuoti žaibą",
+    "žaibas sapne",
+    "perkūnas",
+    "griaustinis"
+   ],
+   "short": "Žaibas sapne simbolizuoja staigų supratimą ar sukrėtimą.",
+   "about": "Žaibas dažnai reiškia staigų suvokimą ar netikėtą pokytį. Lietuvių tradicijoje Perkūnas siejamas su galinga jėga, bet sapne jis labiau atspindi vidinę energiją. Matydami žaibą iš tolo, galbūt jaučiate artėjantį sprendimą. Griaustinis gali reikšti nerimą arba išsilaisvinimą.",
+   "ask": "Kokia staigi mintis neseniai jus sukrėtė ar nušvietė?"
+  },
+  {
+   "id": "zirgas",
+   "word": "Žirgas",
+   "variants": [
+    "sapnuoti žirgą",
+    "žirgas sapne",
+    "jodinėti",
+    "žirgų banda"
+   ],
+   "short": "Žirgas sapne simbolizuoja jėgą, laisvę ir energiją.",
+   "about": "Žirgas daugelyje tradicijų yra galios ir laisvės ženklas. Ramus žirgas sapne gali reikšti vidinį pasitikėjimą. Pašėlęs ar nevaldomas atspindi neapvaldytą energiją. Jodinėjimas rodo gebėjimą valdyti savo jėgas.",
+   "ask": "Kaip valdote savo energiją ir kur ji jus veda?"
+  },
+  {
+   "id": "zvaigzdes",
+   "word": "Žvaigždės",
+   "variants": [
+    "sapnuoti žvaigždes",
+    "žvaigždėtas dangus",
+    "krintanti žvaigždė"
+   ],
+   "short": "Žvaigždės sapne simbolizuoja viltį, siekius ir kryptį.",
+   "about": "Žvaigždės daugelyje kultūrų siejamos su viltimi ir orientavimusi. Žvaigždėtas dangus gali kviesti pažvelgti plačiau. Krintanti žvaigždė dažnai siejama su norais ir svajonėmis. Neryškios žvaigždės gali reikšti kelio ieškojimą.",
+   "ask": "Kokia žvaigždė jus veda ir ką ji jums primena?"
+  }
+ ]
+}

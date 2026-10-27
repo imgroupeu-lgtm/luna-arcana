@@ -1,0 +1,532 @@
+{
+ "pairs": [
+  {
+   "a": 10,
+   "b": 11,
+   "general": "Likimo ratas rodo, kad aplinkybės juda ir keičiasi, o Teisingumas primena, kad kiekvienas posūkis turi savo priežastį ir pasekmę. Kartu šios kortos sako: tai, kas dabar sukasi, iš dalies priklauso nuo ankstesnių jūsų pasirinkimų. Ratas atneša judesį, Teisingumas – atsakomybę už tai, ką su tuo judesiu darote.",
+   "love": "Santykiuose pokytis gali paskatinti aiškesnį pokalbį apie tai, kas už ką atsakingas ir ko tikimasi. Sąžiningi susitarimai gali padėti ramiau pereiti į naują etapą.",
+   "work": "Darbe gali keistis aplinkybės ir atsirasti poreikis aiškesnių susitarimų ar sąžiningo vertinimo. Apmąstykite, kaip ankstesni sprendimai paveikė dabartinę padėtį.",
+   "advice": "Priimkite pokytį, bet prieš žengdami žingsnį pasverkite jo pasekmes."
+  },
+  {
+   "a": 10,
+   "b": 12,
+   "general": "Ratas nuolat sukasi, o Pakabintasis sustoja ir žvelgia iš kito kampo. Ši pora gali reikšti pauzę ciklo viduryje: kai negalite paspartinti įvykių, galite pakeisti požiūrį. Sustojimas čia nėra sąstingis, o galimybė pamatyti, kur ratas gali pasisukti toliau.",
+   "love": "Meilėje verta neskubinti įvykių ir pažvelgti į situaciją kito žmogaus akimis. Kartais pauzė atskleidžia daugiau nei bandymas viską pasukti savaip.",
+   "work": "Darbe gali pasitaikyti laukimo laikotarpių, kai sprendimai dar neatėjo. Tai gali būti metas permąstyti kryptį, užuot veikus per prievartą.",
+   "advice": "Nesistenkite nei stabdyti, nei greitinti rato – verčiau pasinaudokite pauze naujam požiūriui."
+  },
+  {
+   "a": 10,
+   "b": 13,
+   "general": "Likimo ratas ir Mirtis abi kalba apie kaitą, tik skirtingais tonais: Ratas rodo nuolatinį ciklą, Mirtis – tašką, kuriame vienas jo skyrius užsidaro. Kartu jos primena, kad pabaigos yra natūrali ritmo dalis, o ne vien netektis. Po užsidariusio skyriaus ratas sukasi toliau.",
+   "love": "Santykiuose gali baigtis vienas etapas ir atsirasti nauja santykio forma, o gal ir nauja pradžia su savimi. Leiskite tam, kas baigėsi, užleisti vietą.",
+   "work": "Darbe gali baigtis projektas ar vaidmuo, o kartu atsiverti kitas ciklas. Gebėjimas prisitaikyti čia vertingesnis už kabinimąsi į senus modelius.",
+   "advice": "Pasitikėkite natūraliu kaitos ritmu ir leiskite užbaigtam skyriui užsidaryti."
+  },
+  {
+   "a": 10,
+   "b": 14,
+   "general": "Ratas sukasi greitai ar lėtai, o Nuosaikumas moko išlaikyti vidinę pusiausvyrą bet kuriuo tempu. Kartu šios kortos kalba apie gebėjimą prisitaikyti prie pokyčių neprarandant ramybės. Judesys ir saikas čia veikia išvien: pokytis nevirsta chaosu, kai jį maišote kantriai.",
+   "love": "Meilėje tai gali būti švelnus derinimasis prie besikeičiančių aplinkybių. Dviese galbūt pavyks rasti bendrą ritmą be skubėjimo.",
+   "work": "Darbe pokyčius lengviau įveikti ramiu, tolygiu tempu ir derinant skirtingas stiprybes. Nuoseklumas čia vertingesnis už staigius šuolius.",
+   "advice": "Į pokyčius žvelkite kantriai ir žingsnis po žingsnio ieškokite savo vidurio."
+  },
+  {
+   "a": 10,
+   "b": 15,
+   "general": "Likimo ratas rodo ciklą, o Velnias – saitus, dėl kurių kartais sukamės tuo pačiu ratu. Ši pora gali kviesti pastebėti pasikartojantį modelį: ar tai tikrai likimas, ar įprotis, kuris kartojasi? Kai modelis pamatomas, ratas gali pasisukti kita kryptimi.",
+   "love": "Meilėje galite pastebėti pasikartojančią dinamiką ar trauką, kuri vis grąžina į tą pačią vietą. Aiškus žvilgsnis į ją leidžia rinktis sąmoningiau.",
+   "work": "Darbe gali kartotis tie patys sunkumai arba priklausomybė nuo seno įpročio ar ambicijos. Verta savęs paklausti, ką šis ciklas jums duoda ir ko neleidžia.",
+   "advice": "Pamatykite pasikartojantį modelį ir patys nuspręskite, ar norite jame likti."
+  },
+  {
+   "a": 10,
+   "b": 16,
+   "general": "Ratas atneša posūkius, o Bokštas – staigų atsivėrimą, kai sena struktūra nebeišlaiko. Kartu šios kortos gali žymėti netikėtą pokytį, kuris atrodo greitas, nors iš tikrųjų jau seniai ruošėsi. Tai kvietimas pripažinti, kad kai kurie posūkiai nuo mūsų valios nepriklauso, ir ieškoti, ką iš jų galima pastatyti iš naujo.",
+   "love": "Santykiuose galima netikėta įžvalga ar posūkis, drebinantis įprastą pagrindą. Jis gali padėti pamatyti, kas iš tikrųjų svarbu.",
+   "work": "Darbe galimi staigūs pasikeitimai arba paaiškėjimas, kad senas planas nebetinka. Lankstumas čia svarbesnis už įsikibimą į seną tvarką.",
+   "advice": "Kai pokytis atūžia staiga, pirmiausia sustokite ir pažiūrėkite, kas liko tvirta."
+  },
+  {
+   "a": 10,
+   "b": 17,
+   "general": "Likimo ratas ir Žvaigždė kartu kalba apie viltį po posūkio: ciklas pasikeitė, ir ramybė pamažu grįžta. Ratas rodo, kad aplinkybės juda, Žvaigždė – kad galite jomis pasitikėti ir tikėtis šviesesnio laikotarpio. Tai švelni pora apie atsinaujinimą, bet be jokių garantijų.",
+   "love": "Meilėje galima iš naujo atsiverti, atleisti ar tiesiog sugrįžti prie pasitikėjimo. Viltis čia auga tyliai, be skubos.",
+   "work": "Darbe po neapibrėžtumo gali atsirasti aiškesnė kryptis ir nauji sumanymai. Verta leisti idėjoms subręsti.",
+   "advice": "Leiskite vilčiai augti tyliai ir pasitikėkite pamažu kintančiu ciklu."
+  },
+  {
+   "a": 10,
+   "b": 18,
+   "general": "Ratas sukasi, o Mėnulis neleidžia matyti viso kelio: pokyčiai atvyksta, bet jų prasmė dar neaiški. Kartu šios kortos kalba apie perėjimą per netikrumą, kai remiatės intuicija, bet dar neturite viso vaizdo. Prieblandoje svarbu nebijoti judėti lėtai.",
+   "love": "Meilėje jausmai ir aplinkybės gali keistis greičiau, nei spėjate juos suprasti. Padeda sąžiningi klausimai ir kantrybė sau.",
+   "work": "Darbe pokyčiai gali būti sunkiai permatomi, o kai kurios detalės – dar paslėptos. Prieš didelius sprendimus verta palaukti aiškesnių faktų.",
+   "advice": "Judėkite lėtai, pasitikėkite nuojauta, bet patikrinkite ją dienos šviesoje."
+  },
+  {
+   "a": 10,
+   "b": 19,
+   "general": "Likimo ratas ir Saulė kartu rodo palankų posūkį, kai judesys atneša šviesos ir džiaugsmo. Ratas pasiūlo galimybę, Saulė suteikia energijos ja pasinaudoti. Tai nereiškia, kad viskas bus lengva, tačiau kryptis gali atrodyti atvira ir gyvybinga.",
+   "love": "Meilėje gali prasidėti šiltesnis laikotarpis, kai džiaugsmu lengviau dalytis. Čia padeda atvirumas ir žaismingumas.",
+   "work": "Darbe galimas pažangos ir matomumo laikotarpis, kai pokyčiai pasiteisina. Pasinaudokite energija, bet nepamirškite ir kasdienių smulkmenų.",
+   "advice": "Pasinaudokite atsiveriančia galimybe ir leiskite savo džiaugsmui būti matomam."
+  },
+  {
+   "a": 10,
+   "b": 20,
+   "general": "Ratas rodo ciklą, o Nuosprendis – pašaukimą, kuris į jį įsiterpia. Kartu šios kortos gali reikšti metą, kai posūkis skatina sau atsakyti, ko tikrai norite toliau. Tai kvietimas ne tik plaukti pasroviui, bet ir sąmoningai išgirsti, kur jus kviečia ratas.",
+   "love": "Meilėje gali kilti poreikis iš naujo įvertinti, ką jums reiškia šie santykiai, ir atleisti sau ar kitam. Aiškesnis supratimas gali atnešti ramybę.",
+   "work": "Darbe nueito kelio įvertinimas gali sutapti su galimybe pasukti kita kryptimi. Pasiklausykite, kas atrodo teisinga, o ne tik patogu.",
+   "advice": "Kai ratas pasisuka, paklauskite savęs, kur jaučiate pašaukimą."
+  },
+  {
+   "a": 10,
+   "b": 21,
+   "general": "Likimo ratas ir Pasaulis kartu žymi ciklo užbaigimą: ratas apsisuko, ir didelį kelio etapą galima įvertinti kaip visumą. Pasaulis suteikia užbaigtumo pojūtį, o Ratas primena, kad po jo prasidės kitas judesys. Tai pora apie baigtį ir kartu naują atsivėrimą.",
+   "love": "Santykiuose gali kilti visumos ir pilnatvės pojūtis, tačiau Ratas primena, kad santykiai ir toliau keisis. Pasidžiaukite tuo, kas pasiekta.",
+   "work": "Darbe projektas ar kelio etapas gali sėkmingai užsidaryti, o kartu atsiverti nauji horizontai. Palyginkite, ko išmokote per visą ciklą.",
+   "advice": "Pripažinkite užbaigtą ciklą ir tik tada žvelkite į kitą ratą."
+  },
+  {
+   "a": 11,
+   "b": 12,
+   "general": "Teisingumas ieško aiškumo ir pusiausvyros, o Pakabintasis moko, kad kartais aiškumas ateina tik sustojus. Kartu šios kortos rodo, kad prieš sprendimą verta ne skubėti, o pažvelgti į situaciją iš kelių pusių. Pauzė čia tampa sąžiningumo dalimi.",
+   "love": "Santykiuose tai kviečia įsiklausyti į kito žmogaus požiūrį, užuot skubiai sprendus, kas teisus. Sąžiningas supratimas dažnai reikalauja laiko.",
+   "work": "Darbe sprendimas ar susitarimas gali užsitęsti, ir tai nebūtinai blogai. Papildomas laikas padeda pasverti faktus ir pastebėti tai, ko iš pradžių neįžvelgėte.",
+   "advice": "Kol sprendimas dar nesubrendo, leiskite sau pažvelgti į reikalą iš kito kampo."
+  },
+  {
+   "a": 11,
+   "b": 13,
+   "general": "Teisingumas pasveria, Mirtis užbaigia. Kartu šios kortos gali kalbėti apie sąžiningą atsiskaitymą su tuo, kas baigėsi, ir apie pasekmes, padedančias atsisveikinti su senu skyriumi. Tai ne bausmė, o aiškumas: kas išlieka, o kas jau atliko savo vaidmenį.",
+   "love": "Santykiuose galima pripažinti, ką šie santykiai davė ir ko nebegali duoti. Sąžiningas pokalbis gali padėti pereiti į naują etapą.",
+   "work": "Darbe sąžiningai gali būti užbaigiamas susitarimas ar vaidmuo, aptarus, kas už ką atsako. Aiškios ribos palengvina kitą žingsnį.",
+   "advice": "Užbaikite tai, kas baigėsi, aiškiai ir teisingai, be kaltinimų."
+  },
+  {
+   "a": 11,
+   "b": 14,
+   "general": "Teisingumas ir Nuosaikumas yra giminingos kortos: abi ieško pusiausvyros, tik viena per vertinimą, kita per maišymą. Kartu jos kviečia vengti kraštutinumų ir ieškoti sprendimo, kuris būtų ir teisingas, ir žmogiškas. Šioje poroje svarbu nuoseklumas ir sąžiningas kompromisas.",
+   "love": "Meilėje tai gali būti subalansuotas davimas ir ėmimas, kai abu išgirsta vienas kitą. Teisingumas čia derinamas su švelnumu.",
+   "work": "Darbe geriausiai tinka aiškūs susitarimai, įgyvendinami ramiu tempu. Verta ieškoti sprendimo, tinkančio visoms pusėms.",
+   "advice": "Ieškokite sprendimo, kuris būtų ir sąžiningas, ir pakankamai švelnus."
+  },
+  {
+   "a": 11,
+   "b": 15,
+   "general": "Teisingumas žiūri tiesiai į faktus, o Velnias rodo, kur esame prisirišę prie to, ko nenorime matyti. Kartu šios kortos kviečia sąžiningai pažvelgti į savo priklausomybes, pasirinkimus ir jų pasekmes. Tiesa čia gali būti nepatogi, bet ji yra pirmasis žingsnis link laisvesnio pasirinkimo.",
+   "love": "Meilėje verta atvirai įvardyti, kas jus riša ir ar tai tarnauja abiem. Sąžiningumas čia veikiau išlaisvina, o ne smerkia.",
+   "work": "Darbe gali išryškėti sutartis ar įsipareigojimas, kuris jus riša labiau, nei norėtumėte. Aiškūs faktai padės pasverti, ką verta išlaikyti.",
+   "advice": "Sąžiningai įvardykite, kas jus riša, ir tik tada spręskite, ką darysite."
+  },
+  {
+   "a": 11,
+   "b": 16,
+   "general": "Teisingumas reikalauja tiesos, o Bokštas ją kartais atskleidžia staiga. Kartu šios kortos gali rodyti, kad tai, kas buvo pastatyta ant netvirtų pagrindų, paaiškėja ir ją reikia sąžiningai peržiūrėti. Po sukrėtimo atsiranda vietos tikresniam, geriau išsvertam pagrindui.",
+   "love": "Santykiuose galima netikėta tiesa, kuri sukrečia, bet kartu leidžia kurti sąžiningiau. Svarbu aiškiai kalbėti ir išklausyti.",
+   "work": "Darbe gali paaiškėti, kad ankstesnis susitarimas ar planas nebeatlaiko faktų. Tai proga jį perrašyti tvirčiau.",
+   "advice": "Kai tiesa atsiveria staiga, pasverkite faktus ir statykite iš naujo ant tvirtesnio pagrindo."
+  },
+  {
+   "a": 11,
+   "b": 17,
+   "general": "Teisingumas teikia aiškumą, o Žvaigždė – viltį ir ramybę. Kartu šios kortos rodo, kad sąžiningas žvilgsnis ir pasitikėjimas gali eiti išvien: tiesa čia nėra šalta, ji atneša palengvėjimą. Tai pora apie susitaikymą su faktais ir tikėjimą, kad toliau gali būti šviesiau.",
+   "love": "Meilėje atviras, švelnus pokalbis gali atnaujinti pasitikėjimą. Susitaikymas ateina per sąžiningumą.",
+   "work": "Darbe sąžiningas įvertinimas gali atverti naują kryptį ir padėti ramiau į viską pažvelgti. Aiškūs principai suteikia pasitikėjimo.",
+   "advice": "Būkite sąžiningi su savimi ir leiskite vilčiai augti iš to aiškumo."
+  },
+  {
+   "a": 11,
+   "b": 18,
+   "general": "Teisingumas siekia aiškių faktų, o Mėnulis rodo, kad ne viskas dar matoma. Kartu šios kortos įspėja, kad sprendimus verta atidėti, kol vaizdas paaiškės, ir atskirti, kas yra faktas, o kas – jausmo ar baimės šešėlis. Tai pora apie atsargią, bet ne užsispyrusią tiesos paiešką.",
+   "love": "Meilėje gali pasitaikyti nesusikalbėjimų ir neaiškių jausmų. Atviri klausimai padeda atskirti tai, kas pasakyta, nuo to, kas įsivaizduota.",
+   "work": "Darbe sutartyse ar informacijoje gali trūkti aiškumo. Patikrinkite faktus ir neskubėkite pasirašyti ar spręsti.",
+   "advice": "Atskirkite faktą nuo nuojautos ir palaukite, kol šviesa taps ryškesnė."
+  },
+  {
+   "a": 11,
+   "b": 19,
+   "general": "Teisingumas ir Saulė kartu rodo, kad sąžiningumas gali atnešti aiškumo ir lengvumo. Kai faktai ir ketinimai skaidrūs, nėra ko slėpti, ir tai gali atrodyti kaip šviesa. Ši pora žymi teisingą, atvirą būdą siekti savo tikslų.",
+   "love": "Meilėje atvirumas ir teisingumas gali sustiprinti pasitikėjimą bei džiaugsmą. Šiluma ateina per skaidrumą.",
+   "work": "Darbe sąžiningi sprendimai gali atnešti matomą pripažinimą. Aiškūs susitarimai palaiko pasitikėjimą ir pažangą.",
+   "advice": "Veikite atvirai ir sąžiningai, o savo darbą leiskite matyti kitiems."
+  },
+  {
+   "a": 11,
+   "b": 20,
+   "general": "Teisingumas pasveria faktus, o Nuosprendis kviečia pabusti ir atsiliepti. Kartu šios kortos žymi gilesnį atsiskaitymą su savimi: ką padariau, ką pasirinkau, ko noriu toliau. Tai pora apie sąžiningą savo kelio įvertinimą, kuris gali atvesti prie atleidimo ir aiškios krypties.",
+   "love": "Meilėje galima atvirai peržiūrėti santykių istoriją ir atleisti ten, kur tai nuoširdu. Aiškus supratimas gali tapti nauju pagrindu.",
+   "work": "Darbe gali kilti poreikis įvertinti nueitą kelią ir pasirinkti, ar jis atitinka jūsų vertybes. Sprendimas bus tvirtesnis, kai jį paremsite sąžiningu žvilgsniu.",
+   "advice": "Sąžiningai įvertinkite savo kelią ir atsiliepkite į tai, ką pamatėte."
+  },
+  {
+   "a": 11,
+   "b": 21,
+   "general": "Teisingumas ir Pasaulis kartu rodo, kad rūpestingai pasverti sprendimai gali vesti į tinkamą užbaigimą. Tai pora apie sąžiningai atlikto darbo rezultatą ir pripažinimą. Visuma čia susidaro ne atsitiktinai, o iš nuoseklių, aiškių pasirinkimų.",
+   "love": "Santykiuose sąžiningumas gali sukurti pilnatvės pojūtį. Abu gali jaustis išgirsti ir gerbiami.",
+   "work": "Darbe projektas gali būti užbaigtas teisingai ir pelnytai įvertintas. Verta užsirašyti, ko išmokote.",
+   "advice": "Pripažinkite savo sąžiningą darbą ir leiskite sau pamatyti užbaigtą visumą."
+  },
+  {
+   "a": 12,
+   "b": 13,
+   "general": "Pakabintasis sustoja ir paleidžia, Mirtis užbaigia, kad kas nors pasikeistų. Kartu šios kortos žymi gilų perėjimą: pirmiausia pauzė ir pasidavimas, paskui pabaiga, atverianti vietą naujam. Pasipriešinimas čia dažnai tik prailgina perėjimą, o paleidimas jį palengvina.",
+   "love": "Meilėje galima paleisti seną lūkestį ar santykių formą ir pažvelgti į juos naujai. Tai švelnus, bet gilus perėjimas.",
+   "work": "Darbe gali pasibaigti laukimo laikotarpis ar vaidmuo, o kartu atsirasti naujas požiūris. Verta neskubinti, kol naujas skyrius pats pasirodys.",
+   "advice": "Paleiskite tai, kas baigėsi, ir leiskite naujam požiūriui subręsti."
+  },
+  {
+   "a": 12,
+   "b": 14,
+   "general": "Pakabintasis ir Nuosaikumas abu moko kantrybės, tik skirtingai: pirmasis per sustojimą, antrasis per tolygų maišymą. Kartu šios kortos rodo ramų, neskubantį kelią, kuriame nieko nereikia versti. Pauzė ir saikas čia dera kaip įkvėpimas ir iškvėpimas.",
+   "love": "Meilėje tai kantrus, lėtas derinimasis ir pasidavimas be spaudimo. Santykiai gali augti savo tempu.",
+   "work": "Darbe tinka ramus, nuoseklus judėjimas ir laukimas, kol viskas susidės. Skubėjimas čia labiau trukdytų, nei padėtų.",
+   "advice": "Sulėtinkite tempą ir leiskite dalykams susimaišyti savo ritmu."
+  },
+  {
+   "a": 12,
+   "b": 15,
+   "general": "Pakabintasis laisvai kabo, nors viena koja pririšta, o Velnias rodo grandines, kurios dažnai laisvesnės, nei atrodo. Kartu šios kortos gali kalbėti apie skirtumą tarp sąmoningo pasidavimo ir įstrigimo. Verta savęs paklausti, ar šiuo metu laukiate dėl pasirinkimo, ar dėl baimės pajudėti.",
+   "love": "Meilėje galite pastebėti, ar sustingote dėl įpročio ar priklausomybės, ar dėl sąmoningo pasirinkimo. Naujas požiūris padeda tai atskirti.",
+   "work": "Darbe gali kilti jausmas, kad esate įstrigę, nors daug kas priklauso nuo jūsų požiūrio. Pamatykite, kas jus iš tikrųjų laiko, o kas tik taip atrodo.",
+   "advice": "Pažvelkite, ar laukiate iš išminties, ar iš įpročio, ir rinkitės sąmoningai."
+  },
+  {
+   "a": 12,
+   "b": 16,
+   "general": "Pakabintasis rodo savanorišką sustojimą, Bokštas – nesavanorišką sukrėtimą. Kartu šios kortos kalba apie tai, kaip reaguojame, kai planai griūva: ar priešinamės, ar sustojame ir pažvelgiame iš kito kampo. Staigų atsivėrimą lengviau pereiti, kai randama vidinė ramybė.",
+   "love": "Meilėje po netikėto posūkio gali prireikti pauzės, kad situaciją pamatytumėte aiškiai. Nesiskubinkite reaguoti.",
+   "work": "Darbe nenumatytas pokytis gali priversti sustoti ir permąstyti kryptį. Naujas požiūris gali parodyti išeitį.",
+   "advice": "Kai viskas sukrunta, sustokite ir pažvelkite į situaciją naujomis akimis."
+  },
+  {
+   "a": 12,
+   "b": 17,
+   "general": "Pakabintasis ir Žvaigždė yra ramios kortos: viena moko laukti, kita – tikėti. Kartu jos žymi atgaivinantį poilsį po įtampos ir ramų pasitikėjimą, kad šviesa sugrįš. Pauzė čia nėra tuščia, ji pripildyta vilties.",
+   "love": "Meilėje tai tylus atsipalaidavimas, švelnus atvirumas ir nepuolimas. Galite leisti sau ir gauti, ir dovanoti ramybę.",
+   "work": "Darbe po sunkaus laikotarpio verta ramiai pailsėti ir leisti idėjoms ateiti savaime. Neskubėkite į kitą žingsnį.",
+   "advice": "Leiskite sau ramiai pailsėti ir pasitikėti, kad kryptis išryškės."
+  },
+  {
+   "a": 12,
+   "b": 18,
+   "general": "Pakabintasis sustoja, Mėnulis aptemdo kelią. Kartu šios kortos žymi laiką, kai aiškumo dar nėra, todėl geriausia ne spausti, o stebėti ir įsiklausyti į save. Sapnai, nuojauta ir tylus laukimas čia svarbesni už skubotus sprendimus.",
+   "love": "Meilėje gali būti neapibrėžtumo ar nepasakytų jausmų. Kantrybė ir švelnus savęs stebėjimas padeda juos suprasti.",
+   "work": "Darbe verta atidėti didelius sprendimus, kol vaizdas paaiškės. Laukimas čia gali būti išmintingas, tik stebėkite, ar jis netampa vengimu.",
+   "advice": "Palaukite, stebėkite ir leiskite aiškumui ateiti savo laiku."
+  },
+  {
+   "a": 12,
+   "b": 19,
+   "general": "Pakabintasis apverčia požiūrį aukštyn kojomis, Saulė jį užlieja šviesa. Kartu šios kortos rodo, kad pauzė ar pasidavimas gali atnešti staigų aiškumą ir džiaugsmą. Tai, kas atrodė kaip sustojimas, gali pasirodyti esąs būtinas žingsnis link atvirumo.",
+   "love": "Meilėje naujas požiūris gali pakeisti nuotaiką į šviesesnę ir lengvesnę. Džiaugsmas ateina, kai liaujatės spausti.",
+   "work": "Darbe sustojimas gali atsipirkti aiškesne kryptimi ir nauja energija. Galbūt pamatysite tai, ką anksčiau praleidote.",
+   "advice": "Leiskite sau pažvelgti kitaip, ir šviesa gali ateiti pati."
+  },
+  {
+   "a": 12,
+   "b": 20,
+   "general": "Pakabintasis rodo pauzę ir naują požiūrį, Nuosprendis – pabudimą ir pašaukimą. Kartu šios kortos žymi akimirką, kai ilgas laukimas ar vidinė kova virsta aiškiu atsiliepimu. Tai pora apie atsinaujinimą po tylaus apmąstymo.",
+   "love": "Meilėje po laiko, praleisto apmąstymams, gali ateiti aiškus supratimas ir atleidimas. Galite atsiliepti į tai, ką pajutote.",
+   "work": "Darbe po pauzės gali išryškėti pašaukimas ar kryptis, kuri atrodo teisinga. Dabar gali būti tinkamas metas žengti žingsnį.",
+   "advice": "Po laukimo išgirskite, ką jums sako jūsų vidus, ir atsiliepkite."
+  },
+  {
+   "a": 12,
+   "b": 21,
+   "general": "Pakabintasis moko paleisti, Pasaulis rodo užbaigimą. Kartu šios kortos sako, kad pasidavimas ir laukimas gali būti paskutinis žingsnis prieš visumos pajautimą. Nieko spausti nebereikia: viskas, ko reikia, jau gali būti čia.",
+   "love": "Meilėje galima pasiekti ramią visumą, kai liaujamasi kovoti dėl kontrolės. Tai pilnatvės ir pasitenkinimo pojūtis.",
+   "work": "Darbe projektas gali užsidaryti natūraliai, kai paliekama vietos jo pabaigai. Dar kartą pažvelkite į visumą, kurią sukūrėte.",
+   "advice": "Paleiskite paskutinį spaudimą ir leiskite užbaigimui ateiti."
+  },
+  {
+   "a": 13,
+   "b": 14,
+   "general": "Mirtis užbaigia, Nuosaikumas švelniai sujungia tai, kas lieka. Kartu šios kortos žymi transformaciją be skubos: pabaigos priėmimą ir ramų naujo derinio kūrimą. Po aštraus užsidarymo čia ateina raminantis ritmas, leidžiantis pamažu atsigauti.",
+   "love": "Meilėje galima švelniai užbaigti seną etapą ir kantriai kurti naują pusiausvyrą. Pokytis nebūtinai turi būti skausmingas.",
+   "work": "Darbe senas vaidmuo ar būdas užleidžia vietą nuosekliai keičiamai tvarkai. Prisitaikykite palaipsniui, nešokdami.",
+   "advice": "Priimkite pabaigą ir pamažu maišykite naują, ramiu tempu."
+  },
+  {
+   "a": 13,
+   "b": 15,
+   "general": "Mirtis ir Velnias abu susiję su tuo, ką paleidžiame ir ką laikome. Mirtis atveria pabaigą, Velnias parodo, prie ko esame pririšti. Kartu šios kortos kviečia pamatyti, kuris prisirišimas jau atliko savo vaidmenį ir kurį paleidus galėtumėte pasijusti laisviau.",
+   "love": "Meilėje galima pastebėti įpročius ar priklausomybes, su kuriais metas atsisveikinti. Atvirumas sau čia išlaisvina.",
+   "work": "Darbe gali paaiškėti, kad tai, kas jus laikė vietoje, nebetarnauja. Tai užbaigus, gali atsirasti laisvės.",
+   "advice": "Pažiūrėkite, prie ko esate prisirišę, ir sąžiningai savęs paklauskite, ar laikas paleisti."
+  },
+  {
+   "a": 13,
+   "b": 16,
+   "general": "Mirtis ir Bokštas abi kalba apie pabaigas, tik skirtingu greičiu: Mirtis ramiai užbaigia, Bokštas griauna staiga. Kartu šios kortos rodo gilią transformaciją, kurioje senų struktūrų nebelieka, kad galėtų atsirasti tikresnės. Tai kviečia ne pasiduoti baimei, o pamatyti, ką šis atsivėrimas išlaisvina.",
+   "love": "Santykiuose gali baigtis sena forma ir atsiverti sąžiningesnis pagrindas. Net sukrėtimas gali atnešti aiškumo.",
+   "work": "Darbe gali žlugti nebetinkamas planas ar vaidmuo, o jo vietoje bus galima pastatyti kažką tvaresnio. Naujoms struktūroms reikia laiko.",
+   "advice": "Nenusisukite nuo griūvančio dalyko, o pažiūrėkite, ką jis atveria."
+  },
+  {
+   "a": 13,
+   "b": 17,
+   "general": "Mirtis užbaigia, Žvaigždė atneša viltį. Ši pora kalba apie ramų atsinaujinimą po pabaigos: skyrius užsidarė, ir pamažu ateina tyla, kurioje galima atsigauti. Žvaigždė primena, kad už pabaigos yra vietos naujam, tik nereikia skubėti.",
+   "love": "Meilėje po pabaigos ar atsisveikinimo gali ateiti švelni viltis ir atvirumas. Leiskite sau pamažu atsigauti.",
+   "work": "Darbe po užbaigto etapo gali atsirasti naujų idėjų ir ramesnis požiūris. Leiskite joms pasirodyti savo tempu.",
+   "advice": "Po pabaigos leiskite vilčiai ateiti tyliai, be skubos."
+  },
+  {
+   "a": 13,
+   "b": 18,
+   "general": "Mirtis ir Mėnulis abi susijusios su perėjimu per nežinomybę: viena užbaigia, kita apgaubia migla ir sapnais. Kartu šios kortos žymi gilų vidinį pokytį, kai dar nežinote, kas bus toliau. Galite remtis jausmais, tik nepamirškite pamažu tikrinti, ką jie reiškia.",
+   "love": "Meilėje atsisveikinant ar kintant gali kilti sudėtingų jausmų. Duokite sau laiko juos suprasti.",
+   "work": "Darbe etapas baigiasi, o kita kryptis dar neaiški. Neskubėkite su sprendimais, kol kelias išryškės.",
+   "advice": "Būkite kantrūs su neaiškumu ir leiskite keliui pamažu atsiskleisti."
+  },
+  {
+   "a": 13,
+   "b": 19,
+   "general": "Mirtis ir Saulė parodo kontrastą: pabaiga ir džiaugsmas, tamsa ir šviesa. Kartu šios kortos sako, kad po užbaigto skyriaus gali ateiti aiškumas ir gyvybingumas. Paleidimas čia nėra netektis, o vieta kam nors šviesesniam.",
+   "love": "Meilėje pabaiga gali išlaisvinti ir atverti vietą naujam džiaugsmui. Atvirumas padeda jį sutikti.",
+   "work": "Darbe užsidaręs projektas ar vaidmuo gali užleisti vietą energingesniam etapui. Pasinaudokite šviežios pradžios pojūčiu.",
+   "advice": "Leiskite pabaigai tapti pradžia ir pasitikite šviesesnį etapą."
+  },
+  {
+   "a": 13,
+   "b": 20,
+   "general": "Mirtis užbaigia, Nuosprendis šaukia pabusti. Kartu šios kortos žymi gilų atgimimą: sena forma nutyla, ir galite išgirsti, kuo norite tapti toliau. Tai pora apie transformaciją, vykstančią per pripažinimą ir atleidimą.",
+   "love": "Meilėje galima užbaigti seną dinamiką, atleisti ir iš naujo apsispręsti. Pabudimas gali atnešti naują supratimą.",
+   "work": "Darbe senas vaidmuo užsidaro, o pašaukimas kviečia nauja kryptimi. Tai gali būti tikro persiorientavimo metas.",
+   "advice": "Užbaikite seną su pagarba ir atsiliepkite į naują pašaukimą."
+  },
+  {
+   "a": 13,
+   "b": 21,
+   "general": "Mirtis ir Pasaulis kartu žymi galutinį užbaigimą ir naujo ciklo slenkstį. Viena palieka, kita užbaigia ir vainikuoja, todėl šios kortos sako, kad pabaiga yra kelio dalis, o ne klaida. Kai kas nors užsidaro, tai galima pripažinti kaip užbaigtą visumą.",
+   "love": "Santykiuose viena jų forma gali užsidaryti, ir tai gali jaustis kaip užbaigimas, o ne tuštuma. Čia padeda dėkingumas.",
+   "work": "Darbe etapas gali baigtis įvertintas ir užbaigtas, o prieš akis atsiveria nauja erdvė. Pasirūpinkite, kad užbaigimas būtų sąmoningas.",
+   "advice": "Užbaikite sąmoningai, padėkokite už kelią ir tik tada žingsniuokite toliau."
+  },
+  {
+   "a": 14,
+   "b": 15,
+   "general": "Nuosaikumas moko saiko, Velnias parodo, kur saiko trūksta ir kyla prisirišimas. Kartu šios kortos supriešina ramų derinimą su pagunda ar kraštutinumu. Tai kvietimas pastebėti, kur pusiausvyra pasimetė, ir švelniai grįžti prie vidurio.",
+   "love": "Meilėje gali kilti įtampa tarp tolygaus ritmo ir stiprios traukos. Sąžiningas žvilgsnis į savo poreikius padeda rasti saiką.",
+   "work": "Darbe verta stebėti perteklių ar priklausomybę nuo ambicijos, kuri atima daugiau, nei duoda. Ramus tempas padeda susigrąžinti kontrolės pojūtį.",
+   "advice": "Pamatykite, kur dingo saikas, ir pamažu grįžkite į vidurį."
+  },
+  {
+   "a": 14,
+   "b": 16,
+   "general": "Nuosaikumas yra ramus, Bokštas – staigus. Kartu šios kortos rodo, kad net griūvant planams vidinė pusiausvyra gali išlikti tvirta. Nuosaikumas padeda išgyventi sukrėtimą be panikos, o Bokštas primena, kad kai kurių pokyčių neišvengsime.",
+   "love": "Meilėje po sukrėtimo svarbus ramus, švelnus atsigavimas. Neskubėkite priimti sprendimų karščio metu.",
+   "work": "Darbe po staigaus pokyčio padeda tolygus tempas ir bendradarbiavimas. Statyti iš naujo geriausia palaipsniui.",
+   "advice": "Kai viskas sudreba, sulėtinkite kvėpavimą ir rinkitės žingsnius po vieną."
+  },
+  {
+   "a": 14,
+   "b": 17,
+   "general": "Nuosaikumas ir Žvaigždė – viena švelniausių porų: abi kalba apie raminantį ritmą, atsinaujinimą ir pasitikėjimą. Viena maišo ir derina, kita pila ir gaivina. Kartu šios kortos kalba apie ramų atsigavimą ir tolygų judėjimą šviesos link.",
+   "love": "Meilėje tai atvirumas, kantrybė ir švelnus pasitikėjimas. Santykiai gali augti ramiai ir natūraliai.",
+   "work": "Darbe nuoseklus, taikus tempas leidžia idėjoms subręsti. Pažanga gali būti lėta, bet pastovi.",
+   "advice": "Judėkite ramiai, pilkite po truputį ir pasitikėkite procesu."
+  },
+  {
+   "a": 14,
+   "b": 18,
+   "general": "Nuosaikumas ieško vidurio, o Mėnulis rodo, kad vaizdas kartais dar neaiškus. Kartu šios kortos kviečia ramiai judėti per netikrumą: ne imtis kraštutinumų iš baimės, o lėtai derinti nuojautą su patikrintais faktais. Tai pora apie subtilų balansą tarp jausmų ir proto.",
+   "love": "Meilėje jausmai gali būti nepastovūs. Ramus pokalbis ir kantrybė padeda juos suprasti.",
+   "work": "Darbe neaiškioje situacijoje padeda saikingi, patikrinti žingsniai. Venkite kraštutinumų: nei skubėkite, nei visai sustokite.",
+   "advice": "Eikite lėtai, derinkite nuojautą su faktais ir ieškokite vidurio."
+  },
+  {
+   "a": 14,
+   "b": 19,
+   "general": "Nuosaikumas ir Saulė kartu rodo džiaugsmą, kuris yra tvarus, nes subalansuotas. Saulė suteikia gyvybingumo, Nuosaikumas – ritmo, kad jis neišsektų. Tai pora apie darnią, bet gyvą energiją.",
+   "love": "Meilėje tai šiltas, bet ramus buvimas kartu. Džiaugsmu dalijamasi natūraliai ir be skubos.",
+   "work": "Darbe gera pažanga gali sutapti su subalansuotu tempu. Energija neišsekina, kai išlaikomas ritmas.",
+   "advice": "Džiaukitės, bet išlaikykite tokį tempą, kuris leistų džiaugsmui trukti."
+  },
+  {
+   "a": 14,
+   "b": 20,
+   "general": "Nuosaikumas moko saiko, Nuosprendis kviečia pabusti ir atsiliepti. Kartu šios kortos gali žymėti brandų, ramų atsinaujinimą: apmąstote savo kelią ir sąmoningai derinate tai, kas buvo, su tuo, kas ateina. Tai pora apie pamažu subrendusį pašaukimą.",
+   "love": "Meilėje galimas ramus atleidimas ir naujas supratimas, kuris auga be skubos. Santykiai gali rasti subalansuotą ritmą.",
+   "work": "Darbe pašaukimą ar kryptį verta įgyvendinti nuosekliai. Iš lėto sujunkite patirtį su naujais siekiais.",
+   "advice": "Atsiliepkite į vidinį balsą ramiai ir žingsnis po žingsnio."
+  },
+  {
+   "a": 14,
+   "b": 21,
+   "general": "Nuosaikumas ir Pasaulis kartu rodo, kad užbaigimas ateina per kantrų, nuoseklų darbą. Pasaulis – tai visuma, o Nuosaikumas – būdas, kuriuo ji pasiekiama: derinant ir nepersistengiant. Šioje poroje vertinama subalansuota branda.",
+   "love": "Meilėje galima pasiekti darnų, subrandintą ryšį. Pusiausvyra tarp davimo ir ėmimo čia virsta visuma.",
+   "work": "Darbe nuoseklus, ramus tempas gali atvesti į sėkmingą užbaigimą. Verta įvertinti, kaip suderinote skirtingus darbo aspektus.",
+   "advice": "Pripažinkite, kad subalansuotas kelias atvedė į pilnatvę."
+  },
+  {
+   "a": 15,
+   "b": 16,
+   "general": "Velnias rodo saitus, Bokštas juos staiga nutraukia. Kartu šios kortos gali žymėti akimirką, kai iliuzija ar prisirišimas, laikęs jus vietoje, sugriūva ir atsiveria laisvesnis vaizdas. Tai ne bausmė, o galimybė pamatyti, kas buvo tikra, o kas tik saugumo iliuzija.",
+   "love": "Meilėje gali staiga išryškėti nesveika dinamika ar trauka. Tiesa gali sukrėsti, bet ir atverti kelią sąžiningesniems santykiams.",
+   "work": "Darbe gali sugriūti struktūra, kuri jus laikė vietoje, nors ir netenkino. Vėliau tai gali pasirodyti esant išsilaisvinimu.",
+   "advice": "Kai grandinės nukrenta, pasinaudokite proga pamatyti aiškiau ir statyti laisviau."
+  },
+  {
+   "a": 15,
+   "b": 17,
+   "general": "Velnias ir Žvaigždė yra kontrastas: saitai ir tamsa prieš atvirumą ir viltį. Kartu šios kortos kviečia pamatyti savo prisirišimus nesmerkiant savęs ir pasitikėti, kad išsilaisvinti įmanoma. Žvaigždė čia kaip šviesa, padedanti pastebėti grandines.",
+   "love": "Meilėje galima rasti ramesnį, atviresnį santykį su traukos ar priklausomybės modeliais. Čia svarbus švelnumas sau.",
+   "work": "Darbe verta švelniai peržiūrėti ambicijas ar įpročius, kurie vargina. Viltis padeda rasti sveikesnį kelią.",
+   "advice": "Žvelkite į savo saitus švelniai ir pasitikėkite, kad galite rinktis kitaip."
+  },
+  {
+   "a": 15,
+   "b": 18,
+   "general": "Velnias ir Mėnulis abu kalba apie šešėlį: pirmasis apie įpročius ir pagundas, antrasis apie baimes ir iliuzijas. Kartu šios kortos gali žymėti situaciją, kurioje sunku atskirti tikrus poreikius nuo giliai įsišaknijusių baimių. Jos kviečia atidžiai ir švelniai pažvelgti į tai, kas vyksta po paviršiumi.",
+   "love": "Meilėje jausmai gali būti stiprūs, bet neaiškūs. Atviri klausimai sau ir kitam padeda pamatyti, kas tikra.",
+   "work": "Darbe gali slypėti neaiškių motyvų ar paslėptų prisirišimų. Prieš spręsdami palaukite aiškesnio vaizdo.",
+   "advice": "Atidžiai pažvelkite į savo šešėlį ir spręskite tada, kai jis taps aiškesnis."
+  },
+  {
+   "a": 15,
+   "b": 19,
+   "general": "Velnias ir Saulė yra tamsa ir šviesa: pirmasis rodo, kas mus riša, antroji – kas mus išlaisvina. Kartu šios kortos sako, kad įžvalga apie savo prisirišimus gali atnešti palengvėjimą ir džiaugsmą. Šviesa čia padeda ne bėgti nuo šešėlio, o pamatyti jį aiškiai.",
+   "love": "Meilėje atvirumas gali išblaškyti paslėptus modelius. Džiaugsmingas, nuoširdus buvimas kartu padeda jaustis laisviau.",
+   "work": "Darbe galima atpažinti, kas jus riša, ir pajusti energijos tai keisti. Aiškumas atneša lengvumo.",
+   "advice": "Leiskite šviesai nušviesti tai, kas riša, ir rinkitės laisviau."
+  },
+  {
+   "a": 15,
+   "b": 20,
+   "general": "Velnias rodo saitus, Nuosprendis – pabudimą. Kartu šios kortos gali žymėti akimirką, kai pastebite savo įpročius ir atsiliepiate į vidinį kvietimą keistis. Tai pora apie atsakymą sau ir kelią link laisvesnio pasirinkimo.",
+   "love": "Meilėje galima pripažinti nesveikus modelius, atleisti sau ir pradėti kitaip. Supratimas pirmiausia ateina iš vidaus.",
+   "work": "Darbe gali kilti suvokimas, kad ambicijos ar įsipareigojimai neatitinka jūsų pašaukimo. Dabar gali būti metas rinktis iš naujo.",
+   "advice": "Išgirskite vidinį kvietimą keistis ir švelniai į jį atsiliepkite."
+  },
+  {
+   "a": 15,
+   "b": 21,
+   "general": "Velnias ir Pasaulis stovi priešpriešais: saitai ir visuma, ribotumas ir pilnatvė. Kartu šios kortos gali rodyti, kad užbaigimas ateina, kai savo šešėlį pripažįstame kaip visumos dalį, užuot jį slopinę. Integracija čia reiškia ne atsikratyti, o suprasti.",
+   "love": "Meilėje galima priimti savo modelius ir rasti gilesnį vientisumą. Santykiai gali augti iš savęs pažinimo.",
+   "work": "Darbe etapo užbaigimas kartu gali parodyti, kas jus ribojo. Tai proga kitame cikle rinktis laisviau.",
+   "advice": "Priimkite savo šešėlį kaip visumos dalį ir rinkitės sąmoningai."
+  },
+  {
+   "a": 16,
+   "b": 17,
+   "general": "Bokštas griauna, Žvaigždė guodžia ir atnaujina. Tai simboliškai ryški pora: po sukrėtimo ateina tyla ir viltis. Kartu šios kortos rodo, kad po atsivėrimo galima pamažu atsigauti ir atrasti naują pasitikėjimą.",
+   "love": "Meilėje po sukrėtimo ar sąžiningo paaiškėjimo galima švelniai atsiverti iš naujo. Pasitikėjimas atsistato pamažu.",
+   "work": "Darbe po staigaus pokyčio gali ateiti aiškumas ir naujų idėjų. Verta ramiai statyti iš naujo.",
+   "advice": "Po sukrėtimo leiskite sau pailsėti ir pamažu vėl tikėti."
+  },
+  {
+   "a": 16,
+   "b": 18,
+   "general": "Bokštas ir Mėnulis kartu kalba apie sukrėtimą aplinkoje, kurioje trūksta aiškumo. Bokštas atveria, o Mėnulis dar apgaubia neapibrėžtumu: tiesa išryškėja, bet jos reikšmė gali būti neaiški. Tai kviečia būti atsargiems su skubotais sprendimais.",
+   "love": "Meilėje po netikėtų įvykių gali būti sunku suprasti savo jausmus. Duokite sau laiko ir užduokite sąžiningų klausimų.",
+   "work": "Darbe staigus pokytis gali sukelti nežinomybės jausmą. Palaukite faktų ir nesiimkite skubotų veiksmų.",
+   "advice": "Kai viskas sudreba ir nieko nesimato, judėkite lėtai ir ieškokite patikimų faktų."
+  },
+  {
+   "a": 16,
+   "b": 19,
+   "general": "Bokštas griauna, Saulė apšviečia. Kartu šios kortos gali reikšti, kad po sukrėtimo atsiveria aiškumas ir lengvumas, nes tai, kas netikra, nukrito. Pokytis čia gali būti patiriamas kaip išsivadavimas, atnešantis naujos energijos.",
+   "love": "Meilėje po sąžiningo paaiškėjimo gali ateiti palengvėjimas ir naujas džiaugsmas. Atvirumas atneša šilumos.",
+   "work": "Darbe po sutrikimo galimas ryškus aiškumas ir energingas naujas startas. Pasinaudokite atsivėrusia erdve.",
+   "advice": "Leiskite netikram nukristi ir pasitikite aiškesnę šviesą."
+  },
+  {
+   "a": 16,
+   "b": 20,
+   "general": "Bokštas griauna, Nuosprendis šaukia pabusti. Kartu šios kortos žymi gilų pabudimą per sukrėtimą: tai, kas griūva, padeda išgirsti vidinį balsą. Tai pora apie atsiskaitymą su savimi ir naują kelią po atsivėrimo.",
+   "love": "Meilėje po sukrėtimo galima atleisti, suprasti ir iš naujo apsispręsti. Svarbiausia čia – sąžiningumas.",
+   "work": "Darbe po staigaus pokyčio gali išryškėti tikroji kryptis. Pasiklausykite, ką iš tikrųjų norite statyti.",
+   "advice": "Išgirskite, ką jums sako sukrėtimas, ir atsiliepkite į tai."
+  },
+  {
+   "a": 16,
+   "b": 21,
+   "general": "Bokštas ir Pasaulis kartu rodo, kad užbaigimas kartais ateina per atsivėrimą. Griūva paskutinė netikra struktūra, kad ciklas galėtų užsidaryti ir pereiti į kitą. Tai pora apie baigtį, kuri iš pradžių atrodo staigi, bet vėliau atskleidžia savo prasmę.",
+   "love": "Santykiuose gali užsidaryti etapas, o po jo atsiverti tikresnė visuma. Priimkite pokytį be skubėjimo.",
+   "work": "Darbe ankstesnio skyriaus griūtis gali užleisti vietą tikram užbaigimui. Verta pripažinti, ką pasiekėte.",
+   "advice": "Priimkite, kad užbaigimas kartais ateina netikėtai, ir statykite iš naujo."
+  },
+  {
+   "a": 17,
+   "b": 18,
+   "general": "Žvaigždė ir Mėnulis abi yra vandens, intuicijos kortos, tik viena šviesi ir raminanti, kita – prieblandos ir klausimų. Kartu šios kortos rodo viltį, sugyvenančią su netikrumu. Žvaigždės šviesa čia padeda eiti per Mėnulio tamsą.",
+   "love": "Meilėje galite jausti ir viltį, ir abejonę. Atvirumas padeda ramiai pereiti per neaiškumą.",
+   "work": "Darbe gali kilti idėjų, bet jų kryptis dar neaiški. Pasitikėkite jomis, tačiau kartu tikrinkite faktus.",
+   "advice": "Palaikykite viltį ir ramiai eikite per neaiškumą."
+  },
+  {
+   "a": 17,
+   "b": 19,
+   "general": "Žvaigždė ir Saulė kartu sudaro vieną šviesiausių porų: viltis ir džiaugsmas, atgaiva ir gyvybingumas. Žvaigždė nuramina, Saulė užlieja šviesa. Tai atsinaujinimas, kuris yra ir tylus, ir ryškus.",
+   "love": "Meilėje tai atvirumas, šiluma ir pasitikėjimas. Galima pajusti ramų džiaugsmą.",
+   "work": "Darbe galima pažanga ir naujos, gyvos idėjos. Jomis verta dalytis.",
+   "advice": "Džiaukitės tuo, kas atsiveria, ir dalinkitės tuo su kitais."
+  },
+  {
+   "a": 17,
+   "b": 20,
+   "general": "Žvaigždė ir Nuosprendis kartu kalba apie atsinaujinimą: ramią viltį ir pabudimą pašaukimui. Žvaigždė suteikia pasitikėjimo, Nuosprendis – aiškumo atsiliepti. Tai pora apie sąmoningą, ramų žingsnį link to, kas atrodo teisinga.",
+   "love": "Meilėje galimas švelnus atleidimas ir naujas atvirumas. Pasitikėjimas gali augti iš aiškaus supratimo.",
+   "work": "Darbe gali išryškėti pašaukimas, kuriuo galite pasitikėti. Ramiai pasiklausykite, kur jus traukia.",
+   "advice": "Pasitikėkite tyliu vidiniu balsu ir atsiliepkite į jį."
+  },
+  {
+   "a": 17,
+   "b": 21,
+   "general": "Žvaigždė ir Pasaulis kartu žymi viltį, kuri pildosi, ir ciklo užbaigimą. Žvaigždė puoselėja pasitikėjimą, Pasaulis rodo visumą. Tai pora apie ramų pasitenkinimą kelio pabaigoje ir atvirumą naujam.",
+   "love": "Meilėje galima atrasti pilnatvę ir pasitikėjimą. Santykiai gali atrodyti darnūs.",
+   "work": "Darbe pastangos gali būti įvertintos, o nauji horizontai – atsiverti. Verta pasidžiaugti tuo, ką pasiekėte.",
+   "advice": "Padėkokite už kelią ir su viltimi žvelkite į kitą."
+  },
+  {
+   "a": 18,
+   "b": 19,
+   "general": "Mėnulis ir Saulė – naktis ir diena. Kartu šios kortos rodo, kaip neaiškumas pamažu virsta aiškumu: tai, kas buvo nuojauta ir šešėlis, išeina į šviesą. Tai pora apie baimių išsisklaidymą ir tiesos atsiskleidimą.",
+   "love": "Meilėje neaiškūs jausmai gali tapti aiškesni ir lengvesni. Atvirumas padeda juos išreikšti.",
+   "work": "Darbe situacija, kuri buvo miglota, gali paaiškėti. Verta pasitikėti faktais, kai jie ateina.",
+   "advice": "Kai migla sklaidosi, pasitikėkite tuo, ką dabar matote aiškiai."
+  },
+  {
+   "a": 18,
+   "b": 20,
+   "general": "Mėnulis rodo pasąmonę ir sapnus, Nuosprendis – pabudimą. Kartu šios kortos žymi vidinį pašaukimą, kuris dar tik pradeda aiškėti. Tai pora apie gilius jausmus, ieškančius balso, ir apie pabudimą iš miglos.",
+   "love": "Meilėje gali išryškėti jausmai, kurių anksčiau nesuvokėte. Leiskite sau juos išgirsti ir atleisti.",
+   "work": "Darbe nuojauta apie kryptį gali virsti aiškesniu pašaukimu. Patikrinkite ją, bet neužgniaužkite.",
+   "advice": "Išgirskite tai, kas kyla iš gilumos, ir leiskite tam pamažu tapti aiškiu."
+  },
+  {
+   "a": 18,
+   "b": 21,
+   "general": "Mėnulis ir Pasaulis kartu rodo kelionę iš neaiškumo į visumą. Mėnulis apima sapnus ir baimes, Pasaulis – užbaigimą. Kartu šios kortos sako, kad netikrumas gali būti kelio dalis, o ne kliūtis, ir kad visuma apima ir šviesą, ir šešėlį.",
+   "love": "Meilėje galima priimti ir aiškumą, ir nežinomybę kaip santykio dalį. Tai gilumos ir pilnatvės derinys.",
+   "work": "Darbe sunkiai suvokiamas etapas gali užsidaryti, o bendras vaizdas taps aiškesnis. Atsigręžę galėsite pamatyti, ką jis davė.",
+   "advice": "Priimkite ir šviesą, ir šešėlį kaip vienos visumos dalis."
+  },
+  {
+   "a": 19,
+   "b": 20,
+   "general": "Saulė ir Nuosprendis kartu rodo šviesų pabudimą: džiaugsmas ir aiškumas susitinka su pašaukimu. Saulė suteikia energijos, Nuosprendis – supratimo, ką su ja daryti. Tai pora apie atsinaujinimą, kuris atrodo teisingas.",
+   "love": "Meilėje galima nuoširdžiai atleisti, džiaugtis ir pradėti iš naujo. Atvirumas atneša šilumos.",
+   "work": "Darbe gali išryškėti pašaukimas, kurį palaiko energija. Tai gera proga žengti žingsnį, kuris atrodo teisingas.",
+   "advice": "Atsiliepkite į pašaukimą su džiaugsmu ir pasitikėjimu."
+  },
+  {
+   "a": 19,
+   "b": 21,
+   "general": "Saulė ir Pasaulis yra šviesios užbaigimo kortos: džiaugsmas, pasiekiantis visumą. Saulė suteikia gyvybingumo, Pasaulis – pilnatvės ir pripažinimo. Kartu jos rodo, kad pastangos gali būti užbaigtos šventiškai. Tai pora apie džiaugsmą pasiektu rezultatu.",
+   "love": "Meilėje galima pajusti pilnatvę, džiaugsmą ir gilų pasitenkinimą. Dalykitės tuo atvirai.",
+   "work": "Darbe projektas ar tikslas gali būti sėkmingai užbaigtas ir pripažintas. Verta pasidžiaugti pasiektu.",
+   "advice": "Švęskite savo pasiekimą ir leiskite džiaugsmui matytis."
+  },
+  {
+   "a": 20,
+   "b": 21,
+   "general": "Nuosprendis ir Pasaulis kartu žymi pabudimą, vedantį į užbaigimą. Nuosprendis kviečia atsiliepti į pašaukimą, Pasaulis rodo, kad ciklas gali užsidaryti, kai tai padaroma. Tai pora apie sąmoningą pabaigą ir pasirengimą naujam keliui.",
+   "love": "Meilėje galima atleisti, suprasti ir pasiekti vientisumo pojūtį. Naujas etapas gali prasidėti nuo aiškaus pagrindo.",
+   "work": "Darbe galima užbaigti etapą ir sąmoningai pasirinkti kitą. Atsiliepkite į tai, kas atrodo teisinga.",
+   "advice": "Atsiliepkite į pašaukimą, užbaikite ciklą ir leiskite naujam keliui prasidėti."
+  }
+ ]
+}

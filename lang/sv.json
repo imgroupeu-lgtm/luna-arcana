@@ -1,0 +1,762 @@
+{
+ "ui": {
+  "langName": "Svenska",
+  "aiLanguage": "Swedish",
+  "eyebrow": "Prototyp · Tarot",
+  "lede": "Ställ en fråga, välj en läggning och dra korten. Hela läggningen visas samlad, och varje kort förklaras utifrån sin plats.",
+  "questionPlaceholder": "Din fråga, t.ex. ”Vad bör jag veta om mitt jobb just nu?”",
+  "questionLabel": "Din fråga",
+  "reversedToggle": "Omvända kort",
+  "drawBtn": "Dra kort",
+  "flipAll": "Vänd alla",
+  "chooseSpread": "Välj läggning",
+  "meaningsTitle": "Betydelser",
+  "flipHint": "Tryck på korten för att vända dem, eller välj ”Vänd alla”.",
+  "questionPrefix": "Fråga",
+  "reversedWord": "omvänd",
+  "reversedTag": "Omvänd",
+  "flipCard": "Vänd kort {n}",
+  "suitHint": "Färgen {suit} handlar om {theme}.",
+  "majorHint": "Stora arkanan: ett viktigt livstema.",
+  "yes": "Svar: ja.",
+  "leanYes": "Svar: lutar mot ja.",
+  "no": "Svar: nej.",
+  "leanNo": "Svar: lutar mot nej.",
+  "aiNote": "AI-funktionerna nedan fungerar bara när sidan är öppnad i Claude.",
+  "premiumChip": "Premium · prototyp",
+  "aiTitle": "Tolkning av hela läggningen",
+  "aiDesc": "AI läser korten tillsammans utifrån din fråga: huvudtema, kort för kort, hur de hänger ihop och råd.",
+  "aiBtn": "Tolka läggningen",
+  "stop": "Stopp",
+  "interpreting": "Tolkar korten …",
+  "aiHeads": [
+   "Huvudtema",
+   "Kort för kort",
+   "Hur korten hänger ihop",
+   "Råd"
+  ],
+  "photoTitle": "Fotografera din egen läggning",
+  "photoDesc": "Ladda upp en bild av dina kort, tagen rakt uppifrån. Vi känner igen korten, du kontrollerar listan och sedan får du tolkningen. Rider-Waite-leken känns igen bäst.",
+  "dropLabel": "Välj eller släpp en bild",
+  "spreadOnPhoto": "Vilken läggning som finns på bilden",
+  "freeSpread": "Fri läggning (vet inte)",
+  "previewAlt": "Bilden du laddade upp",
+  "recBtn": "Känn igen kort",
+  "photoInterp": "Tolka den här läggningen",
+  "photoReady": "Bilden är klar.",
+  "looking": "Tittar på bilden …",
+  "found": "Hittade {n} kort. Kontrollera listan före tolkning.",
+  "noneFound": "Hittade inga kort på bilden. Försök med en skarpare bild tagen rakt uppifrån.",
+  "otherDeck": "Leken ser inte ut som Rider-Waite, så kontrollera extra noga.",
+  "chooseCard": "– välj kort –",
+  "cardN": "Kort {n}",
+  "confHigh": "säker",
+  "confMedium": "ganska säker",
+  "confLow": "osäker",
+  "notRecognized": "inte igenkänd",
+  "footer": "Tarot på den här sidan är kultur, reflektion och underhållning. Det är inte medicinska, juridiska eller ekonomiska råd, och inga resultat garanteras. Korten dras slumpmässigt; samma kort kommer aldrig två gånger i en läggning. Exempelläggningen ovan drogs när sidan öppnades. AI-tolkningen är gjord av artificiell intelligens, inte av en människa.",
+  "errors": {
+   "not_granted": "Du har inte gett sidan tillåtelse att använda Claude.",
+   "sampling_disabled": "AI är inte tillgängligt för det här kontot.",
+   "rate_limited": "För många förfrågningar just nu. Försök igen om en stund.",
+   "session_expired": "Du måste logga in igen.",
+   "image_rejected": "Bilden kunde inte läsas. Prova en JPEG- eller PNG-bild.",
+   "images_unavailable": "Bilduppladdning är inte tillgänglig här.",
+   "refused": "Den här förfrågan kan inte besvaras. Prova en annan fråga.",
+   "invalid_json": "Svaret kunde inte läsas. Försök igen.",
+   "empty_completion": "Fick inget svar. Försök igen.",
+   "generic": "Något gick fel. Försök igen."
+  },
+  "navRead": "Lägg kort",
+  "navDaily": "Dagens kort",
+  "navLearn": "Lär dig tarot",
+  "navShop": "Butik",
+  "heroKicker": "Tarot efter månen",
+  "heroTitle": "Läs korten i månens sken",
+  "heroLede": "Dra kort, se hela läggningen samlad och få den förklarad. Eller fotografera dina egna kort och låt dem tolkas.",
+  "ctaRead": "Lägg korten",
+  "ctaPhoto": "Fotografera din läggning",
+  "moonTitle": "Månen i dag",
+  "moonIllum": "{p} % belyst",
+  "moonAge": "Dag {d} av måncykeln",
+  "moonNextFull": "Fullmåne om cirka {d} dygn",
+  "moonNextNew": "Nymåne om cirka {d} dygn",
+  "moonPhases": [
+   "Nymåne",
+   "Tilltagande skära",
+   "Första kvarteret",
+   "Tilltagande måne",
+   "Fullmåne",
+   "Avtagande måne",
+   "Sista kvarteret",
+   "Avtagande skära"
+  ],
+  "moonAdvice": [
+   "I tarottraditionen är nymånen en tid för nya föresatser. Dra ett kort för det du vill börja med.",
+   "Den unga månen passar för små första steg. Fråga korten vad som hjälper dig igång.",
+   "Första kvarteret är en tid för val och motstånd. En läggning med tre kort visar vad som står i vägen.",
+   "Månen växer mot full. Fråga vad du bör vårda och ge mer tid.",
+   "Fullmånen lyser upp det som är dolt. Dags för den stora läggningen och ärlig eftertanke.",
+   "Månen avtar. Fråga vad du är klar med och kan släppa taget om.",
+   "Sista kvarteret är en tid för att rensa ut. Vad bör avslutas före en ny cykel?",
+   "Den gamla månen är en tid för vila och stillhet. Dra ett kort för reflektion."
+  ],
+  "moonCanvasLabel": "Teckning av dagens månfas",
+  "moonDisclaimer": "Beräknad utifrån den genomsnittliga måncykeln; kan avvika några timmar.",
+  "dailyNote": "Samma kort för alla i dag. Nytt kort vid midnatt.",
+  "readTitle": "Lägg korten",
+  "readLede": "Välj läggning, ställ en fråga och dra. Tryck på ett kort för att vända det.",
+  "learnTitle": "Lär dig tarot",
+  "learnLede": "Ett bibliotek med alla 78 korten och läggningarna, skrivet på ditt språk.",
+  "learnItems": [
+   [
+    "Stora arkana",
+    "22 kort om livets stora teman, från Narren till Världen."
+   ],
+   [
+    "Lilla arkana",
+    "56 kort i fyra färger: Stavar, Bägare, Svärd och Mynt."
+   ],
+   [
+    "Så läser du en läggning",
+    "Positioner, omvända kort och hur korten talar tillsammans."
+   ]
+  ],
+  "comingSoon": "Kommer snart",
+  "shopTitle": "Från butiken",
+  "shopLede": "Ljus, rökelse, kortlekar och altardukar för din egen praktik.",
+  "shopItems": [
+   "Ljus",
+   "Rökelse och örter",
+   "Kortlekar",
+   "Altardukar",
+   "Kristaller",
+   "Presentkort"
+  ],
+  "deckNote": "Korten på den här sidan är ritade för Luna Arcana.",
+  "soundOn": "Stämning",
+  "navNum": "Numerologi",
+  "numTitle": "Siffrorna i ditt födelsedatum",
+  "numLede": "Numerologin läser ditt födelsedatum som siffror. Här hittar du ditt livstal, siffran för året du befinner dig i och tarotkortet som hör till ditt datum.",
+  "numDateLabel": "Födelsedatum",
+  "numBtn": "Räkna ut",
+  "numPrivacy": "Datumet räknas ut i din webbläsare och sparas eller skickas inte någonstans.",
+  "numLifePath": "Livstal",
+  "numPersonalYear": "Personligt år {y}",
+  "numBirthCard": "Födelsekort",
+  "numHow": "Så räknas det: alla siffror i datumet adderas till en enda siffra. Mästartalen 11, 22 och 33 behålls.",
+  "numCardHow": "Födelsekortet hittas genom att lägga ihop dag, månad och år och reducera till ett tal från 1 till 22; 22 blir Narren.",
+  "numInvalid": "Ange ett giltigt datum.",
+  "numMeanings": {
+   "1": [
+    "Pionjären",
+    "Självständighet, mod och vilja att börja något nytt. Utmaningen är att lyssna på andra."
+   ],
+   "2": [
+    "Brobyggaren",
+    "Samarbete, känslighet och förmåga att skapa balans. Utmaningen är att stå upp för sina egna behov."
+   ],
+   "3": [
+    "Skaparen",
+    "Uttryck, glädje och kreativitet. Utmaningen är att hålla fokus och slutföra."
+   ],
+   "4": [
+    "Byggaren",
+    "Ordning, uthållighet och en trygg grund. Utmaningen är att tåla förändring."
+   ],
+   "5": [
+    "Den fria",
+    "Frihet, nyfikenhet och förändring. Utmaningen är att hitta ro och engagemang."
+   ],
+   "6": [
+    "Omsorgsgivaren",
+    "Ansvar, kärlek och omsorg om hem och gemenskap. Utmaningen är att inte bära allt själv."
+   ],
+   "7": [
+    "Sökaren",
+    "Eftertanke, insikt och sökande efter mening. Utmaningen är att släppa in andra."
+   ],
+   "8": [
+    "Ledaren",
+    "Genomförandekraft, ambition och förvaltning av resurser. Utmaningen är balansen mellan makt och hjärta."
+   ],
+   "9": [
+    "Den vise",
+    "Medkänsla, avslut och helhetssyn. Utmaningen är att släppa taget."
+   ],
+   "11": [
+    "Mästartal 11 · Ljusbäraren",
+    "Stark intuition och inspiration för andra. Kräver jordning och ro."
+   ],
+   "22": [
+    "Mästartal 22 · Mästerbyggaren",
+    "Stora visioner gjorda praktiska. Kräver tålamod med dig själv."
+   ],
+   "33": [
+    "Mästartal 33 · Läraren",
+    "Omsorg och visdom som delas. Kräver gränser för den egna energin."
+   ]
+  },
+  "numYearMeanings": {
+   "1": "Ett år för nya början och första steg.",
+   "2": "Ett år för samarbete, tålamod och relationer.",
+   "3": "Ett år för uttryck, glädje och nya kontakter.",
+   "4": "Ett år för arbete, struktur och grundläggande arbete.",
+   "5": "Ett år för förändring, resor och nya erfarenheter.",
+   "6": "Ett år för hem, familj och ansvar.",
+   "7": "Ett år för eftertanke, lärande och inre arbete.",
+   "8": "Ett år för resultat, ansvar och ekonomi.",
+   "9": "Ett år för avslut och för att göra plats för det nya."
+  },
+  "navRitual": "Ritualkalender",
+  "moonIn": "Månen i {sign}",
+  "signs": [
+   "Väduren",
+   "Oxen",
+   "Tvillingarna",
+   "Kräftan",
+   "Lejonet",
+   "Jungfrun",
+   "Vågen",
+   "Skorpionen",
+   "Skytten",
+   "Stenbocken",
+   "Vattumannen",
+   "Fiskarna"
+  ],
+  "planetDays": [
+   "Solens dag",
+   "Månens dag",
+   "Mars dag",
+   "Merkurius dag",
+   "Jupiters dag",
+   "Venus dag",
+   "Saturnus dag"
+  ],
+  "ritTitle": "När månen och stjärnorna står rätt",
+  "ritLede": "I folklig magi och astrologisk tradition väljs tidpunkten utifrån tre saker: månfasen, det stjärntecken månen står i och planeten som styr veckodagen. Välj en avsikt så hittar vi de bästa dagarna de kommande 30 dygnen.",
+  "ritToday": "Idag",
+  "ritBest": "Bästa dagarna framöver",
+  "ritScore": "{n} av 5",
+  "ritWhy": "Fas: {phase} · {moon} · {day}",
+  "ritMatchPhase": "rätt fas",
+  "ritMatchSign": "rätt tecken",
+  "ritMatchDay": "rätt veckodag",
+  "ritNoMatch": "ingen träff",
+  "ritRules": "Traditionen säger",
+  "ritPremium": "Hela ritualen med steg, material och ord ingår i Premium.",
+  "ritDisclaimer": "Tidpunkterna följer traditionella korrespondenser och är tänkta som inspiration och reflektion. Inga resultat garanteras. Månens tecken är ungefärligt beräknat och kan avvika nära teckenbytet.",
+  "intents": [
+   {
+    "key": "money",
+    "name": "Öppna flödet av pengar",
+    "text": "Ritualer för överflöd, arbete och nya inkomster.",
+    "rule": "Tilltagande måne, månen i ett jordtecken (Oxen, Jungfrun, Stenbocken) och Jupiters eller Solens dag."
+   },
+   {
+    "key": "love",
+    "name": "Kärlek och självkärlek",
+    "text": "Ritualer för värme, dragningskraft och att vara snäll mot sig själv.",
+    "rule": "Tilltagande måne, månen i Oxen, Vågen eller Kräftan, och Venus dag."
+   },
+   {
+    "key": "protect",
+    "name": "Skydd för hemmet och dig själv",
+    "text": "Ritualer för trygghet och gränser.",
+    "rule": "Fullmåne eller avtagande måne, månen i Stenbocken, Skorpionen eller Väduren, och Saturnus eller Mars dag."
+   },
+   {
+    "key": "cleanse",
+    "name": "Rening och att släppa taget",
+    "text": "Ritualer för att rensa ut, avsluta och släppa det som tynger.",
+    "rule": "Avtagande måne, månen i Jungfrun, Skorpionen eller Fiskarna, och Saturnus dag."
+   },
+   {
+    "key": "begin",
+    "name": "Nya början",
+    "text": "Ritualer för avsikter och första steg.",
+    "rule": "Nymåne eller tidigt tilltagande måne, månen i ett eldtecken (Väduren, Lejonet, Skytten) och Solens eller Månens dag."
+   },
+   {
+    "key": "intuition",
+    "name": "Intuition och drömmar",
+    "text": "Ritualer för insikt, drömmar och tarot.",
+    "rule": "Nymåne eller fullmåne, månen i ett vattentecken (Kräftan, Skorpionen, Fiskarna) och Månens dag."
+   }
+  ],
+  "navJournal": "Dagbok",
+  "jTitle": "Din tarotdagbok",
+  "jLede": "Spara dina läggningar och se vilka kort som återkommer över tid. Dagboken sparas bara i den här webbläsaren och skickas inte någonstans.",
+  "jSave": "Spara i dagboken",
+  "jSaved": "Sparad i dagboken.",
+  "jEmpty": "Dagboken är tom. Dra kort, vänd på dem och spara läggningen.",
+  "jFrequent": "Kort som återkommer",
+  "jTimes": "{n} gånger",
+  "jDelete": "Ta bort",
+  "jEntries": "Sparade läggningar",
+  "freeLeft": "1 gratis AI-tolkning idag.",
+  "freeUsed": "Dagens gratis AI-tolkning är använd. Fler tolkningar kommer med Premium."
+ },
+ "spreads": {
+  "dag": {
+   "label": "Dagens kort",
+   "desc": "Ett kort som tema för dagen.",
+   "pos": [
+    "Dagens tema"
+   ]
+  },
+  "tre": {
+   "label": "Förflutet · Nutid · Framtid",
+   "desc": "Tre kort som visar utvecklingen i frågan.",
+   "pos": [
+    "Förflutet",
+    "Nutid",
+    "Framtid"
+   ]
+  },
+  "situasjon": {
+   "label": "Situation (5)",
+   "desc": "Orsak, kärna, utmaning, utsikt och möjlighet. Möjlighetskortet dras alltid rättvänt.",
+   "pos": [
+    "Orsak",
+    "Situationen",
+    "Utmaning",
+    "Utsikt",
+    "Möjlighet"
+   ]
+  },
+  "janei": {
+   "label": "Ja / Nej",
+   "desc": "Ett kort. Rättvänt lutar mot ja, omvänt mot nej. Stora arkanan ger ett tydligare svar.",
+   "pos": [
+    "Svar"
+   ]
+  },
+  "kors": {
+   "label": "Keltiska korset (10)",
+   "desc": "Den klassiska läggningen för en grundlig genomgång.",
+   "pos": [
+    "Nu",
+    "Korsar",
+    "Grund",
+    "Förflutet",
+    "Mål",
+    "Nära framtid",
+    "Du själv",
+    "Omgivning",
+    "Hopp och rädsla",
+    "Utfall"
+   ]
+  }
+ },
+ "suits": {
+  "staver": {
+   "name": "Stavar",
+   "theme": "handling och passion"
+  },
+  "begre": {
+   "name": "Bägare",
+   "theme": "känslor och relationer"
+  },
+  "sverd": {
+   "name": "Svärd",
+   "theme": "tankar och konflikt"
+  },
+  "mynter": {
+   "name": "Mynt",
+   "theme": "pengar, arbete och kropp"
+  }
+ },
+ "cards": [
+  {
+   "name": "Narren",
+   "up": "Ny början, spontanitet, tillit till vägen framåt.",
+   "rev": "Oförsiktighet, naivitet, ett språng utan förberedelse."
+  },
+  {
+   "name": "Magikern",
+   "up": "Vilja, färdigheter och resurser att skapa något nu.",
+   "rev": "Manipulation, outnyttjad talang, planer utan handling."
+  },
+  {
+   "name": "Översteprästinnan",
+   "up": "Intuition, dold kunskap, lyssna inåt.",
+   "rev": "Hemligheter, ignorerad magkänsla, förvirring."
+  },
+  {
+   "name": "Kejsarinnan",
+   "up": "Överflöd, omsorg, kreativitet och tillväxt.",
+   "rev": "Beroende, stagnation, att glömma sig själv."
+  },
+  {
+   "name": "Kejsaren",
+   "up": "Struktur, ansvar, stabilitet och ledarskap.",
+   "rev": "Kontrollbehov, rigiditet, missbruk av makt."
+  },
+  {
+   "name": "Översteprästen",
+   "up": "Tradition, lärande, vägledning från en mentor.",
+   "rev": "Uppror mot regler, dogmer som inte längre passar."
+  },
+  {
+   "name": "De älskande",
+   "up": "Kärlek, harmoni och ett viktigt värderingsval.",
+   "rev": "Obalans i förhållanden, tvivel, val mot egna värderingar."
+  },
+  {
+   "name": "Vagnen",
+   "up": "Viljestyrka, framåtrörelse, seger genom fokus.",
+   "rev": "Riktningslöshet, förlorad kontroll, motstånd."
+  },
+  {
+   "name": "Styrka",
+   "up": "Inre styrka, tålamod, mildhet som vinner.",
+   "rev": "Självtvivel, utmattning, känslor som tar överhanden."
+  },
+  {
+   "name": "Eremiten",
+   "up": "Eftertanke, ensamhet som ger insikt.",
+   "rev": "Isolering, tillbakadragenhet, att stänga andra ute."
+  },
+  {
+   "name": "Ödets hjul",
+   "up": "Vändpunkt, cykler, ödet är i rörelse.",
+   "rev": "Motgång, motstånd mot förändring, gamla mönster."
+  },
+  {
+   "name": "Rättvisa",
+   "up": "Sanning, balans, konsekvenser av val.",
+   "rev": "Orättvisa, ansvarsfrånskrivning, ensidighet."
+  },
+  {
+   "name": "Den hängde",
+   "up": "Paus, nytt perspektiv, att släppa taget.",
+   "rev": "Uppskjutande, stillastående, offer utan mening."
+  },
+  {
+   "name": "Döden",
+   "up": "Avslut och förvandling, något gammalt tar slut.",
+   "rev": "Motstånd mot förändring, att hålla fast vid det som är över."
+  },
+  {
+   "name": "Måttfullhet",
+   "up": "Balans, tålamod, den gyllene medelvägen.",
+   "rev": "Obalans, överdrift, otålighet."
+  },
+  {
+   "name": "Djävulen",
+   "up": "Bindningar, frestelser, beroende.",
+   "rev": "Befrielse, att bryta ett mönster, ny klarhet."
+  },
+  {
+   "name": "Tornet",
+   "up": "Plötslig omvälvning, sanningen bryter fram.",
+   "rev": "Rädsla för förändring, en kris som skjuts upp."
+  },
+  {
+   "name": "Stjärnan",
+   "up": "Hopp, förnyelse, ro efter stormen.",
+   "rev": "Modlöshet, förlorad tro, att tappa riktningen."
+  },
+  {
+   "name": "Månen",
+   "up": "Illusioner, osäkerhet, drömmar och rädsla.",
+   "rev": "Klarhet kommer, rädslan släpper taget."
+  },
+  {
+   "name": "Solen",
+   "up": "Glädje, framgång, livskraft och klarhet.",
+   "rev": "Tillfällig nedgång, överdriven optimism."
+  },
+  {
+   "name": "Domen",
+   "up": "Uppvaknande, kallelse, att göra upp bokslut.",
+   "rev": "Självkritik, tvivel, att ignorera en kallelse."
+  },
+  {
+   "name": "Världen",
+   "up": "Fullbordan, helhet, en cykel är avslutad.",
+   "rev": "Oavslutade saker, en sista pusselbit saknas."
+  },
+  {
+   "name": "Stavarnas ess",
+   "up": "Ny inspiration, en idé med kraft.",
+   "rev": "Förseningar, brist på driv."
+  },
+  {
+   "name": "Stavarnas tvåa",
+   "up": "Planering, att blicka framåt.",
+   "rev": "Rädsla för det okända, dålig planering."
+  },
+  {
+   "name": "Stavarnas trea",
+   "up": "Expansion, framsteg, de första resultaten.",
+   "rev": "Hinder, grusade förväntningar."
+  },
+  {
+   "name": "Stavarnas fyra",
+   "up": "Firande, hem, trygghet.",
+   "rev": "Oro hemma, brist på gemenskap."
+  },
+  {
+   "name": "Stavarnas femma",
+   "up": "Tävlan, oenighet, friktion.",
+   "rev": "Konflikt undviks, inre strid."
+  },
+  {
+   "name": "Stavarnas sexa",
+   "up": "Erkännande, seger, självförtroende.",
+   "rev": "Högmod går före fall, uteblivet erkännande."
+  },
+  {
+   "name": "Stavarnas sjua",
+   "up": "Stå på dig, försvara din position.",
+   "rev": "Överväldigad, ger upp."
+  },
+  {
+   "name": "Stavarnas åtta",
+   "up": "Fart, nyheter, saker händer snabbt.",
+   "rev": "Förseningar, frustration."
+  },
+  {
+   "name": "Stavarnas nia",
+   "up": "Uthållighet, sista ansträngningen.",
+   "rev": "Utbrändhet, misstro."
+  },
+  {
+   "name": "Stavarnas tia",
+   "up": "Tung börda, för mycket ansvar.",
+   "rev": "Att lägga ifrån sig bördor, delegera."
+  },
+  {
+   "name": "Stavarnas page",
+   "up": "Entusiasm, goda nyheter, nyfikenhet.",
+   "rev": "Omogen iver, uppskjutna planer."
+  },
+  {
+   "name": "Stavarnas riddare",
+   "up": "Äventyr, handling, impulsivitet.",
+   "rev": "Förhastning, ilska, oförutsägbarhet."
+  },
+  {
+   "name": "Stavarnas drottning",
+   "up": "Självsäkerhet, värme, oberoende.",
+   "rev": "Svartsjuka, egoism, osäkerhet."
+  },
+  {
+   "name": "Stavarnas kung",
+   "up": "Visionärt ledarskap, initiativ.",
+   "rev": "Arrogans, förhastade beslut."
+  },
+  {
+   "name": "Bägarnas ess",
+   "up": "Ny kärlek, känslor som öppnar sig.",
+   "rev": "Förträngda känslor, tomhet."
+  },
+  {
+   "name": "Bägarnas tvåa",
+   "up": "Partnerskap, ömsesidig dragning.",
+   "rev": "Obalans, bruten kontakt."
+  },
+  {
+   "name": "Bägarnas trea",
+   "up": "Vänskap, firande, gemenskap.",
+   "rev": "Skvaller, för mycket fest, utanförskap."
+  },
+  {
+   "name": "Bägarnas fyra",
+   "up": "Apati, att förbise ett erbjudande.",
+   "rev": "Nytt intresse, att säga ja igen."
+  },
+  {
+   "name": "Bägarnas femma",
+   "up": "Sorg, förlust, fokus på det som gick fel.",
+   "rev": "Acceptans, att gå vidare."
+  },
+  {
+   "name": "Bägarnas sexa",
+   "up": "Minnen, barndom, oskuld.",
+   "rev": "Att fastna i det förflutna."
+  },
+  {
+   "name": "Bägarnas sjua",
+   "up": "Många val, önsketänkande.",
+   "rev": "Klarhet, att välja realistiskt."
+  },
+  {
+   "name": "Bägarnas åtta",
+   "up": "Att lämna något, söka djupare mening.",
+   "rev": "Rädsla för att gå, driva utan mål."
+  },
+  {
+   "name": "Bägarnas nia",
+   "up": "Önskningar uppfyllda, tillfredsställelse.",
+   "rev": "Girighet, ytlig lycka."
+  },
+  {
+   "name": "Bägarnas tia",
+   "up": "Familjelycka, harmoni.",
+   "rev": "Oenighet i familjen, krossade ideal."
+  },
+  {
+   "name": "Bägarnas page",
+   "up": "Kreativt budskap, känslighet.",
+   "rev": "Omognad, känslomässig obalans."
+  },
+  {
+   "name": "Bägarnas riddare",
+   "up": "Romantik, erbjudande, charm.",
+   "rev": "Humörsvängningar, orealistiska löften."
+  },
+  {
+   "name": "Bägarnas drottning",
+   "up": "Medkänsla, intuition, omsorg.",
+   "rev": "Beroende, känslomässigt kaos."
+  },
+  {
+   "name": "Bägarnas kung",
+   "up": "Känslomässig balans, diplomati.",
+   "rev": "Manipulation, kyliga känslor."
+  },
+  {
+   "name": "Svärdens ess",
+   "up": "Klarhet, genombrott, sanning.",
+   "rev": "Förvirring, felaktigt beslut."
+  },
+  {
+   "name": "Svärdens tvåa",
+   "up": "Svårt val, blockerad situation.",
+   "rev": "Information kommer fram, obeslutsamhet."
+  },
+  {
+   "name": "Svärdens trea",
+   "up": "Hjärtesorg, smärta, sanning som gör ont.",
+   "rev": "Förbättring, förlåtelse."
+  },
+  {
+   "name": "Svärdens fyra",
+   "up": "Vila, återhämtning, eftertanke.",
+   "rev": "Rastlöshet, utmattning."
+  },
+  {
+   "name": "Svärdens femma",
+   "up": "Konflikt, seger till ett pris.",
+   "rev": "Försoning, att lägga ner vapnen."
+  },
+  {
+   "name": "Svärdens sexa",
+   "up": "Övergång, att lämna det svåra.",
+   "rev": "Olösta saker, motstånd mot att flytta på sig."
+  },
+  {
+   "name": "Svärdens sjua",
+   "up": "List, strategi, något döljs.",
+   "rev": "Samvete, sanningen kommer fram."
+  },
+  {
+   "name": "Svärdens åtta",
+   "up": "Fångad av egna tankar, begränsning.",
+   "rev": "Befrielse, nytt perspektiv."
+  },
+  {
+   "name": "Svärdens nia",
+   "up": "Oro, sömnlöshet, ångest.",
+   "rev": "Hopp, rädslan avtar."
+  },
+  {
+   "name": "Svärdens tia",
+   "up": "Smärtsamt slut, botten är nådd.",
+   "rev": "Återuppbyggnad, det värsta är över."
+  },
+  {
+   "name": "Svärdens page",
+   "up": "Nyfikenhet, vaksamhet, nya idéer.",
+   "rev": "Skvaller, tanklösa ord."
+  },
+  {
+   "name": "Svärdens riddare",
+   "up": "Handling, ambition, rakt på sak.",
+   "rev": "Förhastning, aggressivitet."
+  },
+  {
+   "name": "Svärdens drottning",
+   "up": "Klarsyn, oberoende, ärlighet.",
+   "rev": "Kyla, bitterhet, hårda ord."
+  },
+  {
+   "name": "Svärdens kung",
+   "up": "Intellektuell auktoritet, rättvisa.",
+   "rev": "Maktmissbruk, manipulation."
+  },
+  {
+   "name": "Myntens ess",
+   "up": "Ny möjlighet, ekonomisk start.",
+   "rev": "Förlorad möjlighet, dålig planering."
+  },
+  {
+   "name": "Myntens tvåa",
+   "up": "Balans, att jonglera prioriteringar.",
+   "rev": "Överbelastning, oordning i ekonomin."
+  },
+  {
+   "name": "Myntens trea",
+   "up": "Samarbete, hantverk, lärande.",
+   "rev": "Dåligt samarbete, medelmåttighet."
+  },
+  {
+   "name": "Myntens fyra",
+   "up": "Sparande, trygghet, kontroll.",
+   "rev": "Snålhet, att hålla fast för hårt."
+  },
+  {
+   "name": "Myntens femma",
+   "up": "Brist, svåra tider.",
+   "rev": "Förbättring, hjälp är nära."
+  },
+  {
+   "name": "Myntens sexa",
+   "up": "Ge och ta, generositet.",
+   "rev": "Skev fördelning, skuld."
+  },
+  {
+   "name": "Myntens sjua",
+   "up": "Tålamod, långsiktig investering.",
+   "rev": "Otålighet, dålig avkastning."
+  },
+  {
+   "name": "Myntens åtta",
+   "up": "Flit, mästerskap, övning.",
+   "rev": "Perfektionism, leda."
+  },
+  {
+   "name": "Myntens nia",
+   "up": "Självständighet, välstånd, njutning.",
+   "rev": "Överkonsumtion, beroende av andra."
+  },
+  {
+   "name": "Myntens tia",
+   "up": "Arv, familjeförmögenhet, varaktig trygghet.",
+   "rev": "Ekonomisk förlust, familjekonflikt."
+  },
+  {
+   "name": "Myntens page",
+   "up": "Nya studier, praktisk ambition.",
+   "rev": "Brist på framsteg, lättja."
+  },
+  {
+   "name": "Myntens riddare",
+   "up": "Pålitlighet, rutin, hårt arbete.",
+   "rev": "Stagnation, leda."
+  },
+  {
+   "name": "Myntens drottning",
+   "up": "Praktisk omsorg, trygghet, jordnära.",
+   "rev": "Arbetsnarkomani, ekonomisk oro."
+  },
+  {
+   "name": "Myntens kung",
+   "up": "Välstånd, säkerhet, affärssinne.",
+   "rev": "Girighet, materialism."
+  }
+ ]
+}

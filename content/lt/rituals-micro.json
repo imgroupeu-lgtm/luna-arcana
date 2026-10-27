@@ -1,0 +1,660 @@
+{
+ "rituals": [
+  {
+   "id": "trumpas-dekingumo-monetu-indas",
+   "intent": "money",
+   "group": "micro",
+   "title": "Dėkingumo monetų indas",
+   "teaser": "Stiklainis ant lentynos ir viena moneta kiekvieną kartą, kai pastebite, už ką galite padėkoti – mažas įprotis, padedantis pastebėti, ką jau turite.",
+   "intro": [
+    "Į pinigus dažnai žvelgiame per trūkumą: ko dar nėra, ko nepakanka. Šis trumpas ritualas pasuka žvilgsnį į priešingą pusę – į tai, ką jau turite. Kiekviena moneta stiklainyje tampa nedideliu geros akimirkos liudininku.",
+    "Tai ne prašymas ir ne pažadas, kad pajamos padidės. Tai paprastas įprotis, kuris užima kelias minutes ir primena, kad gausą galima pastebėti ir mažuose dalykuose."
+   ],
+   "symbolism": [
+    "Stiklainis – šiuolaikinėje praktikoje matoma vieta, kurioje kaupiami maži ženklai",
+    "Moneta – kasdienis mainų ženklas, čia tapęs dėkingumo žymekliu",
+    "Augantis Mėnulis – tradiciškai siejamas su tuo, kas didėja",
+    "Ketvirtadienis (Jupiterio diena) – klasikinėje astrologijoje Jupiteris siejamas su dosnumu"
+   ],
+   "timing": {
+    "phase": "Augantis Mėnulis",
+    "sign": "Mėnulis Jaučio, Mergelės ar Ožiaragio ženkle",
+    "day": "Ketvirtadienis (Jupiterio diena) arba sekmadienis (Saulės diena)",
+    "hour": "Pirmą kartą – vakare; vėliau papildykite bet kurią dieną, kai pastebite ką nors gero. Trumpas ritualas tinka bet kuriuo metu."
+   },
+   "duration": "apie 5 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Švarus stiklainis ar dėžutė su dangteliu",
+    "Saujelė smulkių monetų",
+    "Mažas lapelis ir rašiklis (nebūtina)"
+   ],
+   "prep": [
+    "Pastatykite stiklainį matomoje vietoje – ant lentynos ar prie lovos.",
+    "Pasiruoškite monetas, kurias galėsite dėti kasdien."
+   ],
+   "steps": [
+    {
+     "title": "Sustokite",
+     "text": "Atsistokite ar atsisėskite prie stiklainio, vieną kartą lėtai įkvėpkite ir iškvėpkite."
+    },
+    {
+     "title": "Įvardykite vieną dalyką",
+     "text": "Mintyse arba garsiai pasakykite, už ką šiandien galite padėkoti – net jei tai tik šiltas puodelis ar laiku atvykęs autobusas."
+    },
+    {
+     "title": "Įmeskite monetą",
+     "text": "Paimkite vieną monetą, trumpam suspauskite delne ir įmeskite į stiklainį. Pasiklausykite jos skambesio."
+    },
+    {
+     "title": "Pabaikite žodžiu",
+     "text": "Ištarkite trumpą baigiamąjį sakinį ir uždarykite dangtelį."
+    }
+   ],
+   "words": "Pastebiu, ką jau turiu.\nUž tai dėkoju.\nTegul mano žvilgsnis lieka dosnus.",
+   "after": [
+    "Kartą per mėnesį ištuštinkite stiklainį ir panaudokite monetas kam nors prasmingam – nedideliam malonumui sau ar dovanai kitam.",
+    "Jei norite, ant lapelio užsirašykite, už ką dėkojote, ir sudėkite į stiklainį."
+   ],
+   "safety": "Šiam ritualui ugnies nereikia. Stiklainį laikykite nepasiekiamoje mažiems vaikams vietoje, nes monetos gali būti pavojingos praryti. Ritualas nepakeičia biudžeto planavimo ir nėra pajamų garantija."
+  },
+  {
+   "id": "trumpas-sekmadienio-islaidu-eilute",
+   "intent": "money",
+   "group": "micro",
+   "title": "Sekmadienio išlaidų eilutė",
+   "teaser": "Penkios minutės savaitės pradžioje: viena rašyta eilutė apie tai, kaip norite elgtis su pinigais artimiausias septynias dienas.",
+   "intro": [
+    "Savaitės pradžioje lengva leisti pinigams tekėti automatiškai. Šis ritualas sustabdo jus vienam sakiniui: prieš prasidedant dienų šurmuliui pasirenkate, kaip šią savaitę norite pirkti, taupyti ir skirti.",
+    "Eilutė nėra biudžetas ir nėra pažadas – tai mažas orientyras, prie kurio galite grįžti, kai kyla pagunda ar abejonė."
+   ],
+   "symbolism": [
+    "Parašytas sakinys – mintis, įgavusi pavidalą",
+    "Sekmadienis – Saulės diena, savaitės pradžios ir aiškumo simbolis",
+    "Žemės ženklai – Jautis, Mergelė ir Ožiaragis tradiciškai siejami su praktiškumu"
+   ],
+   "timing": {
+    "phase": "Augantis Mėnulis",
+    "sign": "Mėnulis Jaučio, Mergelės ar Ožiaragio ženkle",
+    "day": "Sekmadienis (Saulės diena) arba ketvirtadienis (Jupiterio diena)",
+    "hour": "Ryte ar vakare, prieš prasidedant savaitei; tinka ir bet kurią kitą savaitės pradžią."
+   },
+   "duration": "apie 5 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Užrašų knygelė ar lapelis",
+    "Rašiklis"
+   ],
+   "prep": [
+    "Pasirinkite ramų kampelį ir išjunkite pranešimus penkioms minutėms."
+   ],
+   "steps": [
+    {
+     "title": "Atsisėskite ir kvėpuokite",
+     "text": "Padarykite tris lėtus įkvėpimus, pečius nuleiskite žemyn."
+    },
+    {
+     "title": "Peržvelkite savaitę",
+     "text": "Pagalvokite apie artimiausias septynias dienas: kokios išlaidos laukia, kur galite pasirinkti sąmoningiau."
+    },
+    {
+     "title": "Parašykite vieną eilutę",
+     "text": "Esamuoju laiku, savais žodžiais, pavyzdžiui: „Šią savaitę išlaidas renkuosi ramiai ir apgalvotai.“ Pakanka vieno sakinio."
+    },
+    {
+     "title": "Perskaitykite garsiai",
+     "text": "Perskaitykite eilutę vieną kartą ir pasirinkite vieną mažą veiksmą, kurį atliksite iki trečiadienio."
+    }
+   ],
+   "words": "Šią savaitę pinigus renkuosi ramiai.\nŽinau, kam juos skiriu.\nMano sprendimai aiškūs.",
+   "after": [
+    "Lapelį palikite ten, kur jį pamatysite – ant stalo ar piniginėje.",
+    "Kitą sekmadienį pažvelkite, ar eilutė jums padėjo, ir parašykite naują."
+   ],
+   "safety": "Šiam ritualui ugnies nereikia. Tai ne garantija – tik trumpa sąmoningumo akimirka. Ritualas nepakeičia biudžeto, finansinės ar teisinės konsultacijos."
+  },
+  {
+   "id": "trumpas-ryto-meiles-korta",
+   "intent": "love",
+   "group": "micro",
+   "title": "Ryto korta švelnumui",
+   "teaser": "Viena ištraukta taro korta ir viena mintis: kaip šiandien galiu elgtis švelniai su savimi ir kitais?",
+   "intro": [
+    "Rytais dažniausiai skubame, o švelnumui laiko nelieka. Šis ritualas trunka kelias minutes: ištraukiate vieną taro kortą ir klausiate ne „ką man atneš diena“, o „kaip šiandien galiu pasirūpinti švelnumu“.",
+    "Taro čia – ne spėjimas, o atspirties taškas apmąstymui. Korta pasufleruoja vaizdą, o prasmę jai suteikiate jūs."
+   ],
+   "symbolism": [
+    "Viena korta – paprastas atspirties taškas dienos ketinimui",
+    "Penktadienis – Veneros diena klasikinėje astrologijoje",
+    "Rankos ant širdies gestas – dėmesio grąžinimas į save"
+   ],
+   "timing": {
+    "phase": "Augantis Mėnulis",
+    "sign": "Mėnulis Jaučio, Svarstyklių ar Vėžio ženkle",
+    "day": "Penktadienis (Veneros diena)",
+    "hour": "Ryte prieš išeinant iš namų; tinka ir bet kurią kitą dieną."
+   },
+   "duration": "apie 5 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Taro kaladė",
+    "Stalas ar palangė kortai padėti"
+   ],
+   "prep": [
+    "Pamaišykite kortas lėtai, nesiblaškydami."
+   ],
+   "steps": [
+    {
+     "title": "Sustokite",
+     "text": "Prieš ištraukdami kortą padėkite ranką ant krūtinės ir vieną kartą giliai įkvėpkite."
+    },
+    {
+     "title": "Užduokite klausimą",
+     "text": "Mintyse paklauskite: „Kaip šiandien galiu elgtis švelniai – su savimi ir su kitais?“"
+    },
+    {
+     "title": "Ištraukite kortą",
+     "text": "Ištraukite vieną kortą ir ramiai ją apžiūrėkite: spalvas, figūras, nuotaiką."
+    },
+    {
+     "title": "Pasirinkite žodį",
+     "text": "Iš to, ką matote, pasirinkite vieną žodį ir pasakykite jį garsiai. Jis lydės jus dieną."
+    }
+   ],
+   "words": "Šiandien renkuosi švelnumą.\nLeidžiu sau atsiverti gerumui.",
+   "after": [
+    "Dienos metu bent kartą prisiminkite savo žodį.",
+    "Vakare užsirašykite, ar jis jums kuo nors praskaidrino dieną."
+   ],
+   "safety": "Šiam ritualui ugnies nereikia. Korta nenurodo, ką daryti kitam žmogui, ir nieko negarantuoja santykiuose – tai tik apmąstymo priemonė."
+  },
+  {
+   "id": "trumpas-rankos-su-kremu",
+   "intent": "love",
+   "group": "micro",
+   "title": "Rankos su švelnumu",
+   "teaser": "Lėtas rankų kremo įtrynimas kaip mažas rūpesčio sau gestas – tris minutes tik jums.",
+   "intro": [
+    "Rankos visą dieną dirba už mus. Šis ritualas paverčia įprastą rankų kremo įtrynimą kelių minučių dėkingumo gestu: lėtai, su dėmesiu, kaip dovaną sau.",
+    "Meilė sau dažnai prasideda nuo tokių paprastų dalykų – atsisakius skubos ir pradėjus elgtis su savimi taip, kaip elgtumėtės su brangiu žmogumi."
+   ],
+   "symbolism": [
+    "Rankos – tai, kuo liečiame, dirbame ir apkabiname",
+    "Lėtas judesys – skubos pakeitimas dėmesiu",
+    "Penktadienis – Veneros diena klasikinėje astrologijoje"
+   ],
+   "timing": {
+    "phase": "Augantis Mėnulis",
+    "sign": "Mėnulis Jaučio, Svarstyklių ar Vėžio ženkle",
+    "day": "Penktadienis (Veneros diena)",
+    "hour": "Vakare prieš miegą; tinka bet kurią dieną."
+   },
+   "duration": "apie 5 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Rankų kremas, kuris jums tinka ir nesukelia dirginimo",
+    "Minkšta vieta atsisėsti"
+   ],
+   "prep": [
+    "Kremą naudokite tik tokį, kurį įprastai toleruojate; jei oda jautri ar pažeista, rinkitės švelnų kremą be kvapiklių arba ritualą atlikite be kremo, tiesiog glostydami rankas."
+   ],
+   "steps": [
+    {
+     "title": "Atsisėskite patogiai",
+     "text": "Sulėtinkite kvėpavimą ir kelias akimirkas pažvelkite į savo rankas."
+    },
+    {
+     "title": "Įtrinkite kremą lėtai",
+     "text": "Švelniai masažuokite delnus, pirštus, riešus – kiekvieną dalį atskirai."
+    },
+    {
+     "title": "Padėkokite rankoms",
+     "text": "Mintyse padėkokite už tai, ką jos šiandien padarė."
+    },
+    {
+     "title": "Sudėkite delnus ant krūtinės",
+     "text": "Palaikykite juos kelis kvėpavimus ir ištarkite savo žodžius."
+    }
+   ],
+   "words": "Dėkoju savo rankoms.\nRūpinuosi savimi su švelnumu.",
+   "after": [
+    "Tuo pačiu gestu galite užbaigti kiekvieną vakarą, kai pasigendate švelnumo."
+   ],
+   "safety": "Šiam ritualui ugnies nereikia. Nenaudokite kremo, jei jis jums sukelia dirginimą ar alergiją. Ritualas nepakeičia odos priežiūros ar gydytojo patarimo."
+  },
+  {
+   "id": "trumpas-slenksciu-kvapas",
+   "intent": "protect",
+   "group": "micro",
+   "title": "Slenksčio įkvėpimas",
+   "teaser": "Vienas lėtas įkvėpimas prie durų prieš įžengiant į namus – riba tarp dienos darbų ir poilsio.",
+   "intro": [
+    "Dažnai įžengiame į namus su visa dienos įtampa. Šis trumpas ritualas prie slenksčio padeda sąmoningai palikti lauke tai, kas jums nebereikalinga, ir įsinešti į vidų tik savo ramybę.",
+    "Daugelyje Europos tradicijų slenkstis laikomas ypatinga riba. Čia jums tereikia vienos minutės ir kelių žodžių."
+   ],
+   "symbolism": [
+    "Slenkstis – natūrali riba tarp vidaus ir išorės",
+    "Iškvėpimas – paleidimo gestas",
+    "Saturno diena (šeštadienis) – klasikinėje astrologijoje siejama su ribomis"
+   ],
+   "timing": {
+    "phase": "Pilnatis arba mažėjantis Mėnulis",
+    "sign": "Mėnulis Ožiaragio, Skorpiono ar Avino ženkle",
+    "day": "Šeštadienis (Saturno diena) arba antradienis (Marso diena)",
+    "hour": "Grįžus namo vakare; šis trumpas ritualas tinka bet kurią dieną."
+   },
+   "duration": "apie 3 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Tik jūsų namų durys"
+   ],
+   "prep": [
+    "Prieš atrakindami duris padėkite krepšius ar rankinę ant žemės."
+   ],
+   "steps": [
+    {
+     "title": "Sustokite prie durų",
+     "text": "Atsistokite ties slenksčiu ir pajuskite pėdas ant žemės."
+    },
+    {
+     "title": "Įkvėpkite",
+     "text": "Lėtai įkvėpkite, galvodami apie savo namų saugumą."
+    },
+    {
+     "title": "Iškvėpkite dienos naštą",
+     "text": "Iškvėpdami mintyse palikite lauke skubą, rūpesčius ir svetimas nuotaikas."
+    },
+    {
+     "title": "Įženkite ir pasakykite žodžius",
+     "text": "Peržengdami slenkstį ištarkite savo žodžius ir uždarykite duris."
+    }
+   ],
+   "words": "Čia – mano vieta.\nLauke palieku tai, kas nebereikalinga.\nMano namai – saugi vieta.",
+   "after": [
+    "Pastebėkite, ar per kelias dienas pasikeitė jūsų įėjimo į namus pojūtis."
+   ],
+   "safety": "Šiam ritualui ugnies nereikia. Jei namuose jums gresia realus pavojus, kreipkitės į policiją ar pagalbos tarnybas (112); ritualas jų nepakeičia."
+  },
+  {
+   "id": "trumpas-vienas-ribu-sakinys",
+   "intent": "protect",
+   "group": "micro",
+   "title": "Vienas ribų sakinys",
+   "teaser": "Parašykite vieną aiškų sakinį apie savo ribą ir nešiokitės jį kaip tylų priminimą.",
+   "intro": [
+    "Ribos dažnai užsimiršta būtent tada, kai jų labiausiai reikia. Šis ritualas padeda iš anksto aiškiai ir ramiai suformuluoti vieną jums svarbią ribą – be kaltės ir be teisinimosi.",
+    "Užrašytas sakinys tampa tarsi mažu amuletu – ne stebuklingu, o primenančiu, kas jums svarbu."
+   ],
+   "symbolism": [
+    "Rašytas žodis – riba, kuri gavo pavidalą",
+    "Saturnas – klasikinėje astrologijoje siejamas su ribomis ir ištverme",
+    "Pilnatis – metas, kai viskas atrodo ryškiau"
+   ],
+   "timing": {
+    "phase": "Pilnatis arba mažėjantis Mėnulis",
+    "sign": "Mėnulis Ožiaragio, Skorpiono ar Avino ženkle",
+    "day": "Šeštadienis (Saturno diena) arba antradienis (Marso diena)",
+    "hour": "Vakare; trumpas ritualas tinka bet kurią dieną."
+   },
+   "duration": "apie 5 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Mažas popieriaus lapelis",
+    "Rašiklis"
+   ],
+   "prep": [
+    "Pagalvokite apie vieną situaciją, kurioje norėtumėte jaustis tvirčiau, pavyzdžiui, darbe ar šeimoje. Rinkitės tik savo elgesį ir pasirinkimus, o ne kito žmogaus keitimą."
+   ],
+   "steps": [
+    {
+     "title": "Pasirinkite ribą",
+     "text": "Paklauskite savęs: kur man šiuo metu reikia aiškesnės ribos?"
+    },
+    {
+     "title": "Parašykite sakinį",
+     "text": "Rašykite iš savo pusės: „Sakau ne, kai…“ arba „Man reikia laiko, kad nuspręsčiau.“"
+    },
+    {
+     "title": "Perskaitykite garsiai",
+     "text": "Perskaitykite sakinį lėtai, pasiklausydami, kaip jis skamba jūsų balsu."
+    },
+    {
+     "title": "Sulenkite ir pasiimkite",
+     "text": "Sulenkite lapelį ir padėkite ten, kur jį galėsite paliesti – į kišenę ar piniginę."
+    }
+   ],
+   "words": "Mano riba – mano sprendimas.\nSakau ramiai ir aiškiai.",
+   "after": [
+    "Kai jaučiate spaudimą, palieskite lapelį ir prisiminkite sakinį.",
+    "Po poros savaičių perskaitykite jį iš naujo ir, jei reikia, pakoreguokite."
+   ],
+   "safety": "Šiam ritualui ugnies nereikia. Ritualas skirtas jūsų pačių ribų aiškumui, ne kito žmogaus veiksmams, ir nepakeičia pagalbos tarnybų ar specialisto, jei jaučiatės nesaugiai."
+  },
+  {
+   "id": "trumpas-rankos-paleidimas",
+   "intent": "cleanse",
+   "group": "micro",
+   "title": "Rankų plovimas kaip paleidimas",
+   "teaser": "Sunki diena baigėsi. Plaudami rankas leiskite vandeniui nunešti tai, ko nenorite nešti toliau.",
+   "intro": [
+    "Po įtemptos dienos dažnai namo parsinešame ne tik daiktus, bet ir nuotaikas. Rankų plovimas – kasdienis veiksmas, kurį galima paversti trumpu paleidimo ritualu.",
+    "Vanduo daugelyje kultūrų siejamas su apsivalymu ir atsinaujinimu. Čia tai paprastas, sąmoningas gestas, kuris aiškiai pažymi dienos pabaigą."
+   ],
+   "symbolism": [
+    "Tekantis vanduo – atsinaujinimo ženklas",
+    "Rankos – tai, kuo dirbame ir ką nešamės",
+    "Saturno diena (šeštadienis) – klasikinėje astrologijoje siejama su užbaigimu"
+   ],
+   "timing": {
+    "phase": "Mažėjantis Mėnulis",
+    "sign": "Mėnulis Mergelės, Skorpiono ar Žuvų ženkle",
+    "day": "Šeštadienis (Saturno diena)",
+    "hour": "Grįžus namo ar vakare; trumpas ritualas tinka bet kurią dieną."
+   },
+   "duration": "apie 3 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Vandens kriauklė, muilas, švarus rankšluostis"
+   ],
+   "prep": [
+    "Pasirinkite drungną vandenį ir įprastą muilą, kurį toleruojate."
+   ],
+   "steps": [
+    {
+     "title": "Sustokite prie kriauklės",
+     "text": "Atsukite vandenį ir kelias akimirkas tiesiog klausykitės jo."
+    },
+    {
+     "title": "Įvardykite naštą",
+     "text": "Mintyse pasakykite vieną dalyką, kurį šiandien norite paleisti."
+    },
+    {
+     "title": "Plaukite lėtai",
+     "text": "Plaudami rankas įsivaizduokite, kad vanduo nuneša šį dalyką su putomis."
+    },
+    {
+     "title": "Nusausinkite ir padėkokite",
+     "text": "Nusausinkite rankas, giliai įkvėpkite ir padėkokite sau už dieną."
+    }
+   ],
+   "words": "Paleidžiu dienos naštą.\nVanduo ją nuneša.\nManyje vėl erdvė.",
+   "after": [
+    "Jei diena buvo itin sunki, pasikalbėkite su artimu žmogumi ar pasirūpinkite poilsiu."
+   ],
+   "safety": "Šiam ritualui ugnies nereikia. Jei oda jautri ar pažeista, naudokite švelnų muilą. Ritualas nepakeičia psichologo ar gydytojo pagalbos."
+  },
+  {
+   "id": "trumpas-vieno-stalcio-valymas",
+   "intent": "cleanse",
+   "group": "micro",
+   "title": "Vieno stalčiaus valymas",
+   "teaser": "Kelios minutės, vienas stalčius ir trys daiktai, kuriuos galite paleisti – mažas tvarkos ritualas.",
+   "intro": [
+    "Daugelis pastebi, kad išorinė tvarka padeda ir vidinei. Nereikia tvarkyti visų namų – pakanka vieno stalčiaus, lentynos ar kampo. Šis ritualas moko pradėti nuo mažo ir užbaigti.",
+    "Sąmoningai išmesdami ar atiduodami daiktus, pratinatės pasakyti „ačiū, to man nebereikia“ – ir tai gali jaustis stebėtinai lengvai."
+   ],
+   "symbolism": [
+    "Stalčius – kasdienės tvarkos erdvė",
+    "Trys daiktai – maža, įveikiama riba",
+    "Mažėjantis Mėnulis – tradicinis laikas paleisti"
+   ],
+   "timing": {
+    "phase": "Mažėjantis Mėnulis",
+    "sign": "Mėnulis Mergelės, Skorpiono ar Žuvų ženkle",
+    "day": "Šeštadienis (Saturno diena)",
+    "hour": "Dienos metu, kol šviesu; trumpas ritualas tinka bet kurią dieną."
+   },
+   "duration": "apie 8 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Vienas stalčius ar lentyna",
+    "Šiukšlių maišas ir dėžė daiktams atiduoti",
+    "Šluostė dulkėms"
+   ],
+   "prep": [
+    "Pasirinkite tik vieną vietą ir nenukrypkite į kitas."
+   ],
+   "steps": [
+    {
+     "title": "Ištuštinkite",
+     "text": "Išimkite viską iš stalčiaus ir išdėliokite ant paviršiaus."
+    },
+    {
+     "title": "Pasirinkite tris daiktus",
+     "text": "Raskite tris daiktus, kurių nebenaudojate, ir padėkokite jiems: „Ačiū, jau nebereikia.“"
+    },
+    {
+     "title": "Nuvalykite",
+     "text": "Šluoste nuvalykite stalčiaus dugną ir kraštus."
+    },
+    {
+     "title": "Sudėkite atgal",
+     "text": "Grąžinkite tik tai, ko iš tiesų reikia, tvarkingai."
+    }
+   ],
+   "words": "Paleidžiu tai, kas nebereikalinga.\nMano erdvė kvėpuoja.",
+   "after": [
+    "Atiduotus daiktus išneškite iš namų dar šiandien.",
+    "Kitą savaitę pasirinkite kitą vietą, jei norite."
+   ],
+   "safety": "Šiam ritualui ugnies nereikia. Atsargiai elkitės su aštriais ar stiklo daiktais, nešvarius daiktus tvarkykite su pirštinėmis. Ritualas nepakeičia profesionalios pagalbos, jei kaupimas jums kelia sunkumų."
+  },
+  {
+   "id": "trumpas-jaunaties-eilute",
+   "intent": "begin",
+   "group": "micro",
+   "title": "Jaunaties eilutė",
+   "teaser": "Jaunaties vakarą vienas parašytas sakinys apie tai, ką norite pradėti šį mėnesį.",
+   "intro": [
+    "Jaunatis daugelyje tradicijų laikoma naujos pradžios metu. Ilgam ketinimų sąrašui ne visada turime laiko, tad čia – pati trumpiausia versija: viena eilutė, užrašyta ant lapelio.",
+    "Viena aiški eilutė dažnai padeda labiau nei dešimt neaiškių. Ji tampa Mėnulio ciklo kompasu."
+   ],
+   "symbolism": [
+    "Jaunatis – tradicinis naujos pradžios metas",
+    "Viena eilutė – aiškumas be pertekliaus",
+    "Ugnies ženklai – Avinas, Liūtas ir Šaulys tradiciškai siejami su iniciatyva ir energija"
+   ],
+   "timing": {
+    "phase": "Jaunatis arba jaunas augantis Mėnulis",
+    "sign": "Mėnulis Avino, Liūto ar Šaulio ženkle",
+    "day": "Sekmadienis (Saulės diena) arba pirmadienis (Mėnulio diena)",
+    "hour": "Vakare; trumpas ritualas tinka bet kurią dieną."
+   },
+   "duration": "apie 5 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Užrašų knygelė ar lapelis",
+    "Rašiklis"
+   ],
+   "prep": [
+    "Prieš rašydami vieną minutę pabūkite tyloje ir paklauskite savęs, ko norite šį mėnesį."
+   ],
+   "steps": [
+    {
+     "title": "Sustokite",
+     "text": "Padarykite tris lėtus įkvėpimus."
+    },
+    {
+     "title": "Parašykite datą",
+     "text": "Viršuje užrašykite jaunaties datą."
+    },
+    {
+     "title": "Parašykite vieną eilutę",
+     "text": "Esamuoju laiku: „Šį mėnesį pradedu …“ ir baikite vienu konkrečiu veiksmu."
+    },
+    {
+     "title": "Perskaitykite ir padėkite",
+     "text": "Perskaitykite garsiai, padėkokite sau ir padėkite lapelį matomoje vietoje."
+    }
+   ],
+   "words": "Šį mėnesį aš pradedu.\nVienas aiškus žingsnis – ir aš einu.",
+   "after": [
+    "Per pilnatį perskaitykite eilutę be savikritikos ir pažymėkite, kas pajudėjo.",
+    "Per kitą jaunatį parašykite naują."
+   ],
+   "safety": "Šiam ritualui ugnies nereikia. Ketinimas yra kryptis, o ne garantija, ir nepakeičia realių sprendimų ar veiksmų."
+  },
+  {
+   "id": "trumpas-ryto-ketinimo-korta",
+   "intent": "begin",
+   "group": "micro",
+   "title": "Ryto ketinimo korta",
+   "teaser": "Viena taro korta rytui – ne spėjimas, o kryptis dienai.",
+   "intro": [
+    "Pradžia nebūtinai turi būti didelė. Kiekvienas rytas – maža pradžia, ir viena ištraukta korta gali padėti jai suteikti kryptį.",
+    "Čia taro naudojamas ne ateičiai nuspėti, o kaip veidrodis: kokį požiūrį verta pasiimti į dieną?"
+   ],
+   "symbolism": [
+    "Viena korta – paprastas atspirties taškas",
+    "Rytas – kasdienė mažoji jaunatis",
+    "Sekmadienis (Saulės diena) ir pirmadienis (Mėnulio diena) – tradicinis savaitės pradžios laikas"
+   ],
+   "timing": {
+    "phase": "Jaunatis arba jaunas augantis Mėnulis",
+    "sign": "Mėnulis Avino, Liūto ar Šaulio ženkle",
+    "day": "Sekmadienis (Saulės diena) arba pirmadienis (Mėnulio diena)",
+    "hour": "Ryte prieš dienos reikalus; trumpas ritualas tinka bet kurią dieną."
+   },
+   "duration": "apie 5 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Taro kaladė",
+    "Rami vieta prie stalo"
+   ],
+   "prep": [
+    "Paruoškite kaladę ir pasistenkite neskubėti."
+   ],
+   "steps": [
+    {
+     "title": "Kvėpuokite",
+     "text": "Padarykite tris lėtus įkvėpimus ir paklauskite savęs: kokios pradžios noriu šiandien?"
+    },
+    {
+     "title": "Ištraukite kortą",
+     "text": "Ištraukite vieną kortą ir apžiūrėkite jos vaizdą."
+    },
+    {
+     "title": "Raskite žodį",
+     "text": "Raskite vieną žodį, kuris apibūdina tai, ką korta jums sako šiandien."
+    },
+    {
+     "title": "Pasirinkite veiksmą",
+     "text": "Pasirinkite vieną mažą veiksmą, atitinkantį šį žodį, ir atlikite jį dienos metu."
+    }
+   ],
+   "words": "Šiandien pradedu.\nMano žodis – mano kryptis.",
+   "after": [
+    "Vakare užsirašykite, ką padarėte ir ar žodis jums padėjo."
+   ],
+   "safety": "Šiam ritualui ugnies nereikia. Korta nenuspėja ateities ir nieko negarantuoja – tai apmąstymo priemonė."
+  },
+  {
+   "id": "trumpas-menulio-langas",
+   "intent": "intuition",
+   "group": "micro",
+   "title": "Mėnulio langas",
+   "teaser": "Viena minutė prie lango, be telefono – žvilgsnis į Mėnulį ir tyla.",
+   "intro": [
+    "Nuojautą lengviau išgirsti tyloje, kai nėra triukšmo. Šis ritualas trunka vos kelias minutes: atsistojate prie lango, atidedate telefoną ir žiūrite į Mėnulį.",
+    "Nieko nereikia daryti ar suprasti – tiesiog būti su dangumi ir savo mintimis."
+   ],
+   "symbolism": [
+    "Mėnulis – daugelyje kultūrų siejamas su vidiniu pasauliu ir nuojauta",
+    "Langas – riba tarp vidaus ir išorės",
+    "Pirmadienis – Mėnulio diena klasikinėje astrologijoje"
+   ],
+   "timing": {
+    "phase": "Jaunatis arba pilnatis",
+    "sign": "Mėnulis Vėžio, Skorpiono ar Žuvų ženkle",
+    "day": "Pirmadienis (Mėnulio diena)",
+    "hour": "Vakare, kai pasirodo Mėnulis; jei jo nematyti, tiesiog žiūrėkite į dangų."
+   },
+   "duration": "apie 3 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Langas su vaizdu į dangų"
+   ],
+   "prep": [
+    "Telefoną padėkite kitame kambaryje ar bent apverskite ekranu žemyn."
+   ],
+   "steps": [
+    {
+     "title": "Prieikite prie lango",
+     "text": "Prieikite prie lango ir, jei galite, išjunkite šviesą."
+    },
+    {
+     "title": "Žiūrėkite į Mėnulį",
+     "text": "Žiūrėkite į Mėnulį ar dangų visą minutę, nieko neplanuodami."
+    },
+    {
+     "title": "Stebėkite mintis",
+     "text": "Pastebėkite, kokia mintis ar jausmas kyla pirmiausia, nesistengdami jo vertinti."
+    },
+    {
+     "title": "Padėkokite",
+     "text": "Lėtai įkvėpkite, padėkokite ir grįžkite prie savo reikalų."
+    }
+   ],
+   "words": "Klausau tylos.\nManyje yra ramybės ir atsakymų.",
+   "after": [
+    "Jei kilo mintis, užsirašykite ją į knygelę ir grįžkite prie jos kitą dieną."
+   ],
+   "safety": "Šiam ritualui ugnies nereikia. Tai apmąstymo priemonė, o ne prognozė. Prie lango stovėkite saugiai, o jei atidarote langą, nepalikite šalia mažų vaikų be priežiūros."
+  },
+  {
+   "id": "trumpas-triju-kvepimu-zvakes-pauze",
+   "intent": "intuition",
+   "group": "micro",
+   "title": "Trijų kvėpavimų žvakės pauzė",
+   "teaser": "Prieš miegą – žvakė, trys lėti kvėpavimai ir vienas klausimas sau.",
+   "intro": [
+    "Vakare galva dažnai kupina dienos minčių. Žvakės liepsna ir trys kvėpavimai padeda sulėtinti tempą ir pasiklausyti, ką jums šiandien norėtų pasakyti jūsų vidinis balsas.",
+    "Tai ramus ir labai trumpas ritualas, kurį galima kartoti dažnai."
+   ],
+   "symbolism": [
+    "Žvakės liepsna – dėmesio centras",
+    "Trys kvėpavimai – paprasta tempo sulėtinimo priemonė",
+    "Pirmadienis – Mėnulio diena klasikinėje astrologijoje"
+   ],
+   "timing": {
+    "phase": "Jaunatis arba pilnatis",
+    "sign": "Mėnulis Vėžio, Skorpiono ar Žuvų ženkle",
+    "day": "Pirmadienis (Mėnulio diena)",
+    "hour": "Vakare prieš miegą; trumpas ritualas tinka bet kurią dieną."
+   },
+   "duration": "apie 5 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Balta ar kita jums patinkanti žvakė laikiklyje",
+    "Degtukai ar žiebtuvėlis",
+    "Karščiui atsparus stabilus paviršius"
+   ],
+   "prep": [
+    "Žvakę pastatykite ant karščiui atsparaus, stabilaus paviršiaus, atokiau nuo užuolaidų, popieriaus ir vaikų ar gyvūnų."
+   ],
+   "steps": [
+    {
+     "title": "Uždekite žvakę",
+     "text": "Uždekite žvakę ir atsisėskite šalia. Kol ji dega, nepalikite jos be priežiūros."
+    },
+    {
+     "title": "Trys kvėpavimai",
+     "text": "Lėtai įkvėpkite ir iškvėpkite tris kartus, žvelgdami į liepsną."
+    },
+    {
+     "title": "Užduokite klausimą",
+     "text": "Mintyse paklauskite: „Ką šiandien turėčiau išgirsti?“ ir pabūkite tyloje."
+    },
+    {
+     "title": "Užgesinkite saugiai",
+     "text": "Padėkokite sau ir užgesinkite žvakę gesintuvu ar sudrėkintais pirštais, o ne pūsdami."
+    }
+   ],
+   "words": "Sustoju ir klausau.\nDiena baigiasi, ir man gera.",
+   "after": [
+    "Jei kilo mintis ar vaizdas, užsirašykite jį ryte."
+   ],
+   "safety": "Žvakė turi degti tik ant karščiui atsparaus, stabilaus paviršiaus ir niekada likti be priežiūros, ypač šalia vaikų ar gyvūnų. Prieš eidami miegoti įsitikinkite, kad ji visiškai užgesinta. Ritualas nepakeičia miego higienos ar gydytojo pagalbos."
+  }
+ ]
+}

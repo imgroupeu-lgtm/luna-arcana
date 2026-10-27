@@ -1,0 +1,53 @@
+{
+ "name": "Luna Arcana – taro ir Mėnulio ritualai",
+ "short_name": "Luna Arcana",
+ "description": "Taro kortos, ritualai pagal Mėnulį, numerologija, sapnininkas ir pamokos.",
+ "lang": "lt",
+ "start_url": "./?source=pwa",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#0a1424",
+ "theme_color": "#0a1424",
+ "categories": [
+  "lifestyle",
+  "entertainment",
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Traukti kortas",
+   "url": "./#kortos"
+  },
+  {
+   "name": "Ritualai",
+   "url": "./#ritualai"
+  },
+  {
+   "name": "Numerologija",
+   "url": "./#numerologija"
+  },
+  {
+   "name": "Sapnininkas",
+   "url": "./#sapnininkas"
+  }
+ ]
+}

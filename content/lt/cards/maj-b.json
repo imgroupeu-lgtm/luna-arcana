@@ -1,0 +1,759 @@
+{
+ "cards": [
+  {
+   "id": 11,
+   "symbols": [
+    {
+     "s": "Dvi pilkos kolonos už sosto, tarp jų – purpurinis šydas",
+     "m": "Struktūra ir taisyklės, o už jų – tai, kas lieka nematoma; teisingumas turi ribas, bet turi ir gelmę."
+    },
+    {
+     "s": "Kardas, iškeltas stačiai į viršų dešinėje rankoje",
+     "m": "Aiškus protas, sprendimo galia ir atsakomybė už pasekmes."
+    },
+    {
+     "s": "Svarstyklės kairėje rankoje",
+     "m": "Faktų ir aplinkybių sąžiningas pasvėrimas, kiekvienam veiksmui – sava reikšmė."
+    },
+    {
+     "s": "Karūna ir raudona mantija su žaliu apsiaustu",
+     "m": "Autoritetas, pagrįstas ne galia, o principais; žalia primena gyvybingumą ir augimą."
+    },
+    {
+     "s": "Mažas balto bato galiukas, išlindęs iš po drabužio",
+     "m": "Žmogiškas, ramus pagrindas po griežtu paviršiumi."
+    }
+   ],
+   "story": [
+    "Teisingumas atveria antrąją Didžiųjų arkanų dalį. Po Likimo rato, kur viskas atrodė sukasi savaime, čia pirmą kartą pasakoma: kiekvienas veiksmas turi pasekmę, ir ji nėra nei bausmė, nei dovana, o tiesiog atitikmuo. Figūra sėdi tiesiai, žvelgia į jus be įsižeidimo ir be pataikavimo. Svarstyklės reikalauja faktų, kardas – aiškumo, ir kartu su šiuo aiškumu ateina prievolė pripažinti savo dalį.",
+    "Šioje sekoje korta primena, kad ankstesni žingsniai – Vežimo skuba, Stiprybės drąsa, Atsiskyrėlio paieška – dabar tarsi „įrašomi“ į sąskaitą. Tai ne teismas virš jūsų, o kvietimas patiems tapti sąžiningais liudininkais. Šiuolaikiniame skaitymo supratime Teisingumas dažnai susijęs su sutartimis, sprendimais ir vidiniu žodžio bei darbų susiderinimu. Jis klausia ne „kas kaltas?“, o „kas čia iš tiesų vyksta ir ką aš su tuo darau?“. Todėl jo ramybė gimsta ne iš nuosprendžio, o iš to, kad nebereikia apsimesti."
+   ],
+   "reversed": "Apverstas Teisingumas gali rodyti, kad svarstyklės pakrypusios: sprendimas priimtas skubotai, šališkai arba remiantis pusiau tiesa. Kartais tai vidinis vengimas – nenoras pripažinti savo dalies, kaltinimai kitiems ar perdėtas savęs smerkimas. Gali reikšti ir užsitęsusį neapibrėžtumą, kai trūksta dokumentų, faktų ar drąsos pasakyti aiškiai. Kortos kvietimas – sugrįžti prie to, kas patikrinama ir sąžininga.",
+   "positions": {
+    "past": "Praeityje buvo priimtas sprendimas ar duotas žodis, kurio pasekmės jaučiamos iki šiol. Verta pažvelgti, ką tada sverėte.",
+    "present": "Dabar reikia aiškių faktų ir sąžiningo žvilgsnio į situaciją. Skubėti nereikia, bet ir slėptis nuo klausimo neverta.",
+    "future": "Netrukus gali tekti priimti sprendimą arba pamatyti ankstesnių pasirinkimų rezultatą. Apsisprendimas bus tvirtesnis, jei remsitės tuo, kas patikrinta.",
+    "obstacle": "Kliūtis – šališkumas, pusiau tiesos arba nenoras pripažinti savo dalį. Kartais trukdo ir ilgas laukimas dėl nepriimto sprendimo.",
+    "advice": "Surašykite faktus atskirai nuo jausmų ir pažiūrėkite, ką jie sako kartu. Tada elkitės pagal tai, ką laikote teisinga.",
+    "outcome": "Galimas rezultatas – aiškumas ir pusiausvyra, kai žodžiai atitinka darbus. Rezultatas atspindės jūsų pačių pasirinkimų tiesą."
+   },
+   "feelings": "Teisingumas dažniausiai kalba apie tai, kad santykiuose svarbu sąžiningumas ir aiškumas, o ne apie karštą aistrą. Žmogus gali norėti atvirai išsiaiškinti, kur jūs abu stovite, arba pats svarsto, kas tarp jūsų yra teisinga. Kortos negalima paversti žmogaus minčių skaitymu – geriausias būdas sužinoti, ką jis jaučia, yra ramus, tiesus pokalbis.",
+   "money": "Finansų srityje korta kviečia pasižiūrėti į sutartis, įsipareigojimus ir paprastą įplaukų bei išlaidų balansą. Ji kalba apie sąžiningumą ir aiškias sąlygas, o ne apie konkretų sprendimą. Tai tema apmąstymui, o ne patarimas.",
+   "friendship": "Draugystėje Teisingumas primena abipusiškumą: kiek duodame, tiek ir gauname, o nepasakyti dalykai kaupiasi. Atviras, ramus pokalbis gali sutvarkyti daugiau nei ilga tyla.",
+   "spiritual": "Dvasinėje kelionėje korta kviečia derinti vidinį kompasą su kasdieniais pasirinkimais. Pamažu išryškėja, kuriose srityse gyvenate pagal savo vertybes, o kuriose – iš įpročio. Tai darbas su sąžine, kuriam nereikia griežtumo sau.",
+   "combos": [
+    {
+     "with": 4,
+     "text": "Imperatorius ir Teisingumas rodo struktūrą, taisykles ir sąžiningą valdžią: aiškius susitarimus ir atsakomybę už juos."
+    },
+    {
+     "with": 59,
+     "text": "Kardų dešimtukas su Teisingumu gali kalbėti apie skausmingą, bet reikalingą pabaigą, kurią pagaliau pavyksta pamatyti tokią, kokia ji yra."
+    },
+    {
+     "with": 52,
+     "text": "Kardų trejetas kartu su Teisingumu rodo sunkią tiesą, kurią verta išgirsti ir pasverti, kad skausmas neužsitęstų."
+    },
+    {
+     "with": 67,
+     "text": "Monetų ketvertas šalia Teisingumo kviečia ramiai peržiūrėti išteklius, sutartis ir ribas, kad jaustumėtės saugiai."
+    },
+    {
+     "with": 20,
+     "text": "Nuosprendis ir Teisingumas kartu rodo atsiskaitymą su savimi ir galutinį, sąžiningą sprendimą po ilgo svarstymo."
+    }
+   ],
+   "questions": [
+    "Kurioje savo gyvenimo srityje žodžiai ir darbai šiuo metu nesutampa?",
+    "Kokią savo dalį šioje situacijoje sunkiausia pripažinti ir kodėl?",
+    "Koks sprendimas jaustųsi teisingas net tada, kai niekas to nepamatytų?"
+   ]
+  },
+  {
+   "id": 12,
+   "symbols": [
+    {
+     "s": "T formos medis iš gyvos medienos",
+     "m": "Gyvenimas, kuris tęsiasi net sustojus; laikymas, o ne bausmė."
+    },
+    {
+     "s": "Viena koja pririšta, kita sulenkta už jos, sudaranti ketvirtuką",
+     "m": "Savanoriškas sustojimas ir kita balanso forma; kūnas pakabintas, bet ne palaužtas."
+    },
+    {
+     "s": "Šviesos aureolė aplink galvą",
+     "m": "Įžvalga, kuri ateina, kai nustojama kovoti."
+    },
+    {
+     "s": "Rankos sudėtos už nugaros",
+     "m": "Atsisakymas kontroliuoti; veiksmas pasidaro vidinis."
+    },
+    {
+     "s": "Ramus veidas, mėlyna tunika ir raudonos kelnės",
+     "m": "Mintis (mėlyna) ir aistra (raudona) subalansuotos, nors pasaulis apsivertęs."
+    }
+   ],
+   "story": [
+    "Pakabintasis Didžiųjų arkanų sekoje stovi kaip tyli pauzė. Atsiskyrėlis žvelgia į vidų, Likimo ratas sukasi, Teisingumas sveria, o čia kažkas sustoja ir pakeičia žvilgsnio kryptį. Figūra nepasiduoda nei kančiai, nei nevilčiai – jos veidas ramus. Paveikslas rodo, kad kartais pažangos kelias eina per sustojimą ir atsisakymą varyti įvykius jėga.",
+    "Ši korta dažnai skaitoma kaip „kitas kampas“: pasaulis nekeičiamas, bet jūs pamatote jį iš kitos pusės, ir jo prasmė pasikeičia. Ji susijusi su laukimu, turinčiu tikslą, ir su auka, atliekama iš pasirinkimo, o ne iš prievartos. Toliau seka Mirtis: pirma paleidžiame požiūrį, paskui ateina ir pati pabaiga. Taigi Pakabintasis – ne stagnacija, o nusiteikimas, leidžiantis tam, kas jau subrendo, išsiskleisti."
+   ],
+   "reversed": "Apverstas Pakabintasis dažnai rodo sustojimą be prasmės: atidėliojimą, pavadintą kantrybe, arba auką, kurios niekas neprašė. Gali atsirasti pasipriešinimas pauzei – vidinis „turiu kažką daryti“, kuris neleidžia pamatyti naujo kampo. Kartais korta kalba apie jausmą, kad esate įstrigę dėl kitų poreikių. Klausimas: ar laukiate todėl, kad taip reikia, ar todėl, kad bijote žengti žingsnį?",
+   "positions": {
+    "past": "Praeityje buvo laikotarpis, kai teko sustoti, laukti ar atsisakyti kontrolės. Tas sustojimas dabar formuoja jūsų požiūrį.",
+    "present": "Esate pauzėje, kurioje nieko nereikia spausti. Verta pažiūrėti į situaciją iš kito žmogaus ar kitos pusės.",
+    "future": "Netrukus gali tekti sulėtėti arba išmokti kitaip žiūrėti į tai, kas ilgai nesikeičia. Pauzė gali atnešti nuovoką, kurios dabar dar nematote.",
+    "obstacle": "Kliūtis – nenoras paleisti kontrolę arba, priešingai, pasyvumas, paslėptas po žodžiu „laukiu“.",
+    "advice": "Leiskite sau sustoti ir paklauskite, ką pamatytumėte, jei apverstumėte problemos vaizdą. Sprendžiant neskubėkite.",
+    "outcome": "Galimas rezultatas – nauja įžvalga ir ramybė po paleidimo. Kelias tęsiasi jau kitu žvilgsniu."
+   },
+   "feelings": "Pakabintasis gali rodyti, kad žmogus yra sustojęs, svarsto ir dar nežino, ko nori. Jo jausmai gali būti ne išreikšti, o laukiantys, ir tai nebūtinai atstūmimas. Nespauskite atsakymo, bet ir neapgaudinėkite savęs begaliniu laukimu – ramiai pasakyti, ko norite jūs, yra sąžininga abiem pusėms.",
+   "money": "Finansų srityje korta dažnai rodo sprendimų atidėjimą, laukimą arba požiūrio keitimą. Gali būti tinkama pauzė prieš didesnį žingsnį, bet ne begalinis nutylėjimas. Verta atskirti ramų laukimą nuo vengimo.",
+   "friendship": "Draugystėje korta kviečia išklausyti kito požiūrį, net jei jis jums svetimas. Kartais gera auka yra atsisakyti būtinybės turėti paskutinį žodį.",
+   "spiritual": "Tai meditacijos ir apvertimo korta: kas pasikeičia, kai nustoju ginčytis su tuo, kas yra? Ji moko, kad pasidavimas gali būti drąsus pasirinkimas, o ne silpnumas. Įžvalgos ateina tyloje, ne per pastangas.",
+   "combos": [
+    {
+     "with": 9,
+     "text": "Atsiskyrėlis ir Pakabintasis kartu kalba apie gilią vidinę pauzę, tylą ir ieškojimą be skubos."
+    },
+    {
+     "with": 13,
+     "text": "Mirtis po Pakabintojo rodo, kad paleidus požiūrį ateina ir pati pabaiga, kuri palieka vietos naujam."
+    },
+    {
+     "with": 51,
+     "text": "Kardų dvejetas su Pakabintuoju gali kalbėti apie sprendimo atidėjimą, kai viduje dar nėra aiškumo."
+    },
+    {
+     "with": 53,
+     "text": "Kardų ketvertas šalia Pakabintojo rodo sąmoningą poilsį ir atsitraukimą, reikalingą jėgoms atgauti."
+    },
+    {
+     "with": 2,
+     "text": "Žynė ir Pakabintasis – tyli, intuityvi pauzė, kai atsakymas ateina ne iš veiksmo, o iš vidinio klausymosi."
+    }
+   ],
+   "questions": [
+    "Ko aš dabar bandau pastūmėti jėga, nors galbūt reikėtų palaukti?",
+    "Kokį naują kampą galėčiau pamatyti, jei pažvelgčiau į savo situaciją kito žmogaus akimis?",
+    "Kuo skiriasi mano ramus laukimas nuo vengimo?"
+   ]
+  },
+  {
+   "id": 13,
+   "symbols": [
+    {
+     "s": "Skeletas juodais šarvais ant balto žirgo",
+     "m": "Neišvengiamas virsmas, kuris pasirodo ramiai ir ryžtingai; baltas žirgas – šviesa ir tyrumas kelyje."
+    },
+    {
+     "s": "Juoda vėliava su baltos penkialapės rožės simboliu",
+     "m": "Gyvybė ir grožis kaip pokyčio dalis; rožė primena, kad pabaiga ne tuščia."
+    },
+    {
+     "s": "Vyskupas su aukšta mitra, sudėjęs rankas maldai",
+     "m": "Ritualas ir priėmimas; tikėjimas, kad pokytį galima sutikti ramiai."
+    },
+    {
+     "s": "Karalius, parpuolęs ant žemės, ir prieš skeletą klūpantys vaikas bei moteris",
+     "m": "Pokytis liečia visus – ir galinguosius, ir nekaltuosius; niekas nėra atleistas nuo kitimo."
+    },
+    {
+     "s": "Saulė tarp dviejų bokštų tolumoje",
+     "m": "Viltis ir nauja diena, laukianti už perėjimo."
+    }
+   ],
+   "story": [
+    "Mirtis – ko gero, labiausiai nesuprasta korta. Ji nekalba apie fizinę mirtį, o apie virsmą: kai kas nors baigiasi, kad atsirastų vietos kitam. Skeletas joja ramiai, nieko neprašo ir nieko neįkalbinėja. Prieš jį vienodai atsiduria ir karalius, ir vyskupas, ir vaikas, ir moteris, o tolumoje tekanti saulė primena, kad pabaiga nėra paskutinis žodis.",
+    "Sekoje korta eina po Pakabintojo ir prieš Nuosaikumą. Pirma paleidžiamas požiūris, tada pasikeičia dalykas, o po to gimsta nauja pusiausvyra. Šiuolaikinėje skaitymo praktikoje Mirtis dažnai susijusi su užbaigtu etapu, išaugtu vaidmeniu ar santykių forma, kuri nebeatitinka to, kas esame. Kortos jėga – ramiai pripažinti, kad kas nors baigėsi, ir sąmoningai, su dėkingumu atsisveikinti."
+   ],
+   "reversed": "Apversta Mirtis kalba apie pasipriešinimą pokyčiui: kabinimąsi į tai, kas jau išseko, arba baimę žengti pro duris, kurios jau atvertos. Gali rodyti pusiau užbaigtą virsmą, kai nei sena, nei nauja neturi pakankamai vietos. Kartais tai lėtas, vidinis keitimasis, kurio dar neįvardijate. Kvietimas – švelniai paklausti, ką dar laikote tik iš įpročio.",
+   "positions": {
+    "past": "Praeityje baigėsi svarbus etapas, santykis ar vaidmuo. Tai paliko pėdsaką, bet taip pat ir erdvę kitam.",
+    "present": "Dabar vyksta virsmas arba brandi pabaiga. Gali būti liūdna ir kartu lengva – abu jausmai turi vietą.",
+    "future": "Netrukus kažkas gali užsibaigti, kad prasidėtų nauja pakopa. Pasiruoškite ne bijodami, o dėkodami.",
+    "obstacle": "Kliūtis – kabinimasis į tai, kas jau išseko, arba baimė pripažinti pabaigą.",
+    "advice": "Leiskite tam, kas baigta, baigtis, ir padėkokite už tai, ko išmokote. Tada pažiūrėkite, kas jau laukia.",
+    "outcome": "Galimas rezultatas – išsivadavimas ir naujas pradžios taškas. Po virsmo atsiranda daugiau erdvės ir tiesos."
+   },
+   "feelings": "Mirtis santykių klausimuose dažniausiai rodo, kad kažkas keičiasi, o ne kad žmogus jus palieka. Gali būti, kad jausmai persitvarko, o ankstesnė forma nebetinka. Užuot spėliojus, geriau atvirai pasikalbėti apie tai, kas keičiasi.",
+   "money": "Finansinėje srityje korta gali žymėti senos tvarkos, šaltinio ar įpročio pabaigą ir naujos tvarkos pradžią. Ji kalba apie virsmo temą, o ne apie nuostolį kaip tokį. Verta pamažu atsisakyti to, kas nebeveikia.",
+   "friendship": "Draugystėje korta gali rodyti, kad vienas etapas baigėsi, o ryšys gali persitvarkyti arba nutolti natūraliai. Kartais lieka tik švelni padėka.",
+   "spiritual": "Tai gilaus paleidimo korta: kokią savo versiją jau išaugau? Ji moko nebijoti ribų ir pamatyti, kaip iš jų gimsta kitas gyvenimo skyrius. Pokyčio nereikia pulti, užtenka jį priimti.",
+   "combos": [
+    {
+     "with": 12,
+     "text": "Pakabintasis ir Mirtis kartu rodo, kad pauzė ir paleidimas veda į virsmą."
+    },
+    {
+     "with": 14,
+     "text": "Mirtis ir Nuosaikumas – po pabaigos ateina palaipsnis atsinaujinimas ir nauja pusiausvyra."
+    },
+    {
+     "with": 16,
+     "text": "Bokštas su Mirtimi rodo ryškų perversmą, po kurio tampa aišku, kas buvo netikra."
+    },
+    {
+     "with": 59,
+     "text": "Kardų dešimtukas kartu su Mirtimi žymi skausmingą, bet galutinį užbaigimą, po kurio galima kilti."
+    },
+    {
+     "with": 0,
+     "text": "Kvailys ir Mirtis – pabaiga, po kurios atsiveria visiškai naujas, lengvas pirmas žingsnis."
+    }
+   ],
+   "questions": [
+    "Kas mano gyvenime jau baigėsi, nors dar nepripažinau?",
+    "Už ką galiu padėkoti tam, ką paleidžiu?",
+    "Kuri mano versija laukia vietos, kurią dabar užima senas įprotis?"
+   ]
+  },
+  {
+   "id": 14,
+   "symbols": [
+    {
+     "s": "Sparnuotas angelas baltais drabužiais",
+     "m": "Tarpininkas tarp dangaus ir žemės; rami, vedanti ranka."
+    },
+    {
+     "s": "Viena koja vandenyje, kita ant sausumos",
+     "m": "Pasąmonės ir sąmonės, jausmų ir proto sujungimas."
+    },
+    {
+     "s": "Dvi taurės, iš vienos į kitą pilamas skystis",
+     "m": "Nuolatinis srautas ir maišymas; kantri, nesibaigianti dermė."
+    },
+    {
+     "s": "Kelias, vedantis į kalnus, ir švytinti karūna virš jų",
+     "m": "Ilgesnis tikslas, siekiamas žingsnis po žingsnio."
+    },
+    {
+     "s": "Vandens pakraštyje augantys vilkdalgiai",
+     "m": "Vaivorykštės deivės Irisos simbolis; žinia ir spalvų įvairovė."
+    }
+   ],
+   "story": [
+    "Nuosaikumas ateina po Mirties kaip atokvėpis ir atkūrimas. Angelas lėtai pila skystį iš vieno indo į kitą – tai ne skubus darbas, o ritmas. Korta kalba apie sudedamųjų dalių derinimą: ne išvalymą, o susijungimą, kuriame kiekviena dalis išlaiko savo vertę. Tai alchemijos dvasia: kantriai maišyti, kol gims kažkas naujo.",
+    "Sekoje po užbaigtos pabaigos kyla klausimas, kaip gyventi toliau. Nuosaikumas atsako: ne šuoliais, o saikingai. Jis nereikalauja kraštutinumų ir labiausiai vertina nuoseklumą, kuris matomas ne žodžiuose, o kasdieniame santykyje su savimi ir kitais. Šiuolaikinėje praktikoje korta siejama su vidine pusiausvyra, kantrybe, kūrybiniu sintezavimu ir ilgojo kelio matymu."
+   ],
+   "reversed": "Apverstas Nuosaikumas rodo disbalansą: per daug darbo, per daug poilsio, per daug jausmų arba per daug proto. Gali būti nekantrumas, norint viską pasiekti iš karto, arba kraštutinumų šokinėjimas. Kartais korta kviečia pastebėti, kur prarandate ritmą ir kaip jį švelniai atstatyti. Padeda ne griežta disciplina, o vienas mažas, nuolatinis žingsnis.",
+   "positions": {
+    "past": "Praeityje buvo laikotarpis, kai radote saiką ar išmokote kantrybės. Tos patirtys vis dar jus palaiko.",
+    "present": "Dabar svarbu rasti tolygų tempą ir derinti skirtingus poreikius. Nieko nereikia išspręsti per vieną dieną.",
+    "future": "Ateityje gali laukti lėtesnis, bet tvirtesnis kelias. Dermė gims iš mažų, pastovių pastangų.",
+    "obstacle": "Kliūtis – kraštutinumai arba nekantrumas. Noras viską pakeisti iš karto gali sutrikdyti nuoseklumą.",
+    "advice": "Rinkitės saiką: truputį to, truputį ano, ir tai kasdien. Leiskite dalykams susimaišyti natūraliai.",
+    "outcome": "Galimas rezultatas – vidinė pusiausvyra ir darnus kelias. Tai nėra staigi pergalė, o stabili harmonija."
+   },
+   "feelings": "Nuosaikumas rodo, kad žmogus gali ieškoti ramaus, subalansuoto ryšio be didelių dramų. Jis gali būti atsargus, norintis suderinti skirtingus poreikius, ir tai dažnai ženklas, kad ryšys jam svarbus. Šios kortos jausmai rimti, bet ne garsūs, tad pokalbis be skubos gali padėti geriausiai.",
+   "money": "Finansų srityje korta kalba apie saikingumą, nuoseklumą ir išteklių paskirstymą per laiką. Tai ne patarimas, o tema: lėtas, pastovus ritmas dažnai ramesnis nei šuoliai. Verta pasižiūrėti, ar išlaidos ir poilsis turi pusiausvyrą.",
+   "friendship": "Draugystėje korta rodo švelnų skirtumų derinimą ir gebėjimą nusileisti vieniems kitiems. Svarbiausia – ne būti vienodiems, o rasti bendrą tempą.",
+   "spiritual": "Tai kvėpavimo ir ritmo korta: nuolatinė praktika nugali atsitiktinius šuolius. Joje slypi nuosaiki alchemija – jausmai ir protas nebekovoja, o maišosi. Dvasinis augimas tampa kasdienio gyvenimo dalimi.",
+   "combos": [
+    {
+     "with": 13,
+     "text": "Mirtis ir Nuosaikumas: po pabaigos ateina švelnus atsinaujinimas ir nauja pusiausvyra."
+    },
+    {
+     "with": 8,
+     "text": "Stiprybė ir Nuosaikumas kartu rodo ramią vidinę galią, palaikomą kantrybės ir švelnumo."
+    },
+    {
+     "with": 15,
+     "text": "Velnias po Nuosaikumo kviečia pastebėti, kur prarandamas saikas, ir sugrąžinti pusiausvyrą."
+    },
+    {
+     "with": 37,
+     "text": "Taurių dvejetas šalia Nuosaikumo rodo abipusę dermę ir švelnų derinimąsi."
+    },
+    {
+     "with": 41,
+     "text": "Taurių šešetas su Nuosaikumu gali kalbėti apie švelnų atsigavimą ir sugrįžimą prie ramaus ritmo."
+    }
+   ],
+   "questions": [
+    "Kur mano gyvenime šiuo metu per daug vieno ir per mažai kito?",
+    "Koks mažas, nuoseklus žingsnis padėtų man atstatyti ritmą?",
+    "Kokias dvi savo puses galėčiau švelniai sumaišyti, o ne priešpriešinti?"
+   ]
+  },
+  {
+   "id": 15,
+   "symbols": [
+    {
+     "s": "Raguota figūra su šikšnosparnio sparnais, stovinti ant juodo pjedestalo",
+     "m": "Materialaus pasaulio traukos ir šešėlio simbolis; tai, kas laikoma tamsoje."
+    },
+    {
+     "s": "Apversta pentagrama ant kaktos",
+     "m": "Dvasia, nugrimzdusi į materiją; pasaulietiškų troškimų dominavimas."
+    },
+    {
+     "s": "Viena ranka pakelta, kitoje – žemyn nukreiptas deglas",
+     "m": "Ugnį, kuri gali uždegti aistrą ir nepastebimai išplisti."
+    },
+    {
+     "s": "Nuogi vyras ir moteris su ragais ir uodegomis, pririšti prie pjedestalo",
+     "m": "Žmonės, užmiršę, kad pančius galima nusimesti; vienos uodega liepsnoja, kitos – su vynuogėmis: aistra ir pagunda."
+    },
+    {
+     "s": "Laisvos grandinės aplink kaklus",
+     "m": "Pančiai, kuriuos iš tiesų galima nusiimti; priklausomybė, kurią sukūrėme patys."
+    }
+   ],
+   "story": [
+    "Velnias – korta apie tai, kas mus laiko, kai to nepastebime. Jis nėra išorinis priešas: figūrų grandinės laisvos, jas galima nusimesti. Tikroji pamoka – pamatyti, kad pančiai dažnai yra mūsų pačių įpročiai, baimės ir troškimai, pavadinti būtinybe. Čia be moralizavimo atvirai parodoma ir traukos, ir prisirišimo jėga.",
+    "Sekoje Velnias eina po Nuosaikumo, tarsi priminimas, kad pusiausvyra neišlaikoma be savistabos. Jis atskleidžia šešėlį: tai, ko nenorime pripažinti, bet kas vis tiek formuoja elgesį. Šiuolaikinėje praktikoje ši korta siejama su materialiniais ir emociniais prisirišimais, užsisukusiais ciklais, kontrole bei trauka. Kortos dovana – skaidrumas: kai matote, kas jus riša, galite rinktis iš naujo."
+   ],
+   "reversed": "Apverstas Velnias paprastai rodo išsilaisvinimą arba bandymą išsilaisvinti: įpročio laužymą, ribų nubrėžimą ar tiesos pripažinimą. Tai gali būti ir laikotarpis, kai senas modelis dar graužia, nors jau matote, kaip jis veikia. Kartais korta perspėja apie slopinimą ar per griežtą atsisakymą, kuris vėliau grįžta. Švelnumas sau čia svarbesnis už stiprią valią.",
+   "positions": {
+    "past": "Praeityje buvo prisirišimas, įprotis ar situacija, kuri turėjo daug galios. Ji vis dar gali veikti.",
+    "present": "Dabar verta pastebėti, kas jus traukia ar riša labiau, nei norėtumėte pripažinti.",
+    "future": "Ateityje gali iškilti pagunda arba galimybė pamatyti savo pančius ir juos nusiimti.",
+    "obstacle": "Kliūtis – įprotis, baimė ar troškimas, kurie atrodo būtini, nors dažnai yra pasirenkami.",
+    "advice": "Pasižiūrėkite į savo pančius be gėdos. Paklauskite, kas jums iš tikrųjų naudinga, o kas tik pažįstama.",
+    "outcome": "Galimas rezultatas – daugiau laisvės ir aiškumo, kai modelis tampa matomas."
+   },
+   "feelings": "Velnias gali rodyti stiprią trauką, bet taip pat ir prisirišimą ar nesveiką dinamiką. Kortos nereikėtų skaityti kaip nuosprendžio žmogui, verčiau kaip klausimą: ar šis ryšys leidžia jums būti laisviems? Aiškios ribos ir atviras pokalbis padeda atskirti trauką nuo tikros pagarbos.",
+   "money": "Finansinėje srityje korta gali kalbėti apie prisirišimą prie daiktų, pinigų ar saugumo jausmo ir apie įpročius, kurie vargina. Tai ne sprendimas, o priminimas pažvelgti į savo santykį su turtu. Verta paklausti, kas jus iš tikrųjų valdo.",
+   "friendship": "Draugystėje korta gali rodyti priklausomybę nuo kito žmogaus patvirtinimo ar santykio modelius, kurie atima daugiau nei duoda. Sveika draugystė palieka laisvę.",
+   "spiritual": "Tai šešėlio darbo korta: kas manyje slepiasi, kad nereikėtų keistis? Ji kviečia pažvelgti į savo troškimus su smalsumu, o ne su gėda. Vidinė laisvė prasideda nuo pastebėjimo.",
+   "combos": [
+    {
+     "with": 14,
+     "text": "Nuosaikumas ir Velnias – saiko praradimas ir kvietimas jį grąžinti sąmoningumu."
+    },
+    {
+     "with": 16,
+     "text": "Bokštas su Velniu rodo, kaip griūva prisirišimų struktūros ir pagaliau išsilaisvinama."
+    },
+    {
+     "with": 6,
+     "text": "Mylimieji ir Velnias kalba apie traukos ir pasirinkimo skirtumą – ar renkamės laisvai, ar pririšti."
+    },
+    {
+     "with": 72,
+     "text": "Monetų devynetas su Velniu rodo saugumo ir kontrolės santykį, kuris gali išlaisvinti arba suvaržyti."
+    },
+    {
+     "with": 45,
+     "text": "Taurių dešimtukas šalia Velnio klausia, ar namų šiluma laisva, ar laikoma prisirišimu."
+    }
+   ],
+   "questions": [
+    "Kokį grandinės žiedą galėčiau nusiimti jau šiandien?",
+    "Ką gaunu iš šio įpročio, ko nesuteikia kiti dalykai?",
+    "Kuo skiriasi tai, ko iš tikrųjų noriu, nuo to, kas mane riša?"
+   ]
+  },
+  {
+   "id": 16,
+   "symbols": [
+    {
+     "s": "Aukštas bokštas ant uolos kyšulio",
+     "m": "Pasididžiavimas ir pastatytas, bet nepakankamai tvirtas pasaulio vaizdas."
+    },
+    {
+     "s": "Žaibas, trenkiantis į bokšto viršų",
+     "m": "Staigi įžvalga ar įvykis, sudrebinantis iliuziją."
+    },
+    {
+     "s": "Nukrentanti karūna",
+     "m": "Ego ir tariamos valdžios praradimas; mintys, kurios nebeturi pagrindo."
+    },
+    {
+     "s": "Dvi figūros, krintančios iš bokšto",
+     "m": "Priverstinį pokytį ir paleidimą: žemė pasislenka iš po kojų."
+    },
+    {
+     "s": "Mažos liepsnos lašų formos žymės danguje",
+     "m": "Dvasinė šviesa, krintanti kaip dovana ar žinia."
+    }
+   ],
+   "story": [
+    "Bokštas – staigi tiesa. Žaibas griauna ne bet ką, o tai, kas pastatyta ant netikro pagrindo: iliuzijų, apsimetinėjimo, pasididžiavimo. Kritimas atrodo žiaurus, tačiau korta sako, kad ankstesnė tvirtovė tik atrodė saugi. Sugriuvus mūrui atsiveria horizontas.",
+    "Sekoje po Velnio, kai pančiai jau pamatyti, Bokštas rodo pačią išsivadavimo akimirką – ne švelnią, o staigią. Po jo ateina Žvaigždė: po sukrėtimo dažnai seka ramybė ir viltis. Šiuolaikiniame skaitymo supratime Bokštas dažnai susijęs su pabudimu, krize, atverianta akis, arba pokyčiu, kuris nebuvo planuotas. Kortos esmė – ne bausmė, o išsivadavimas nuo to, kas jau nebetarnauja."
+   ],
+   "reversed": "Apverstas Bokštas gali rodyti krizės vengimą: žinote, kad pamatai trūkinėja, bet stengiatės viską palikti kaip yra. Gali reikšti ir lėtesnį, vidinį griuvimą, kai pokytis vyksta be didelio sukrėtimo. Kartais korta kalba apie išgyventą sukrėtimą, po kurio dar reikia atsigauti. Jei galite, pirma pasirinkite savo žingsnį, kol to nepadarys aplinkybės.",
+   "positions": {
+    "past": "Praeityje įvyko netikėtas pokytis ar atskleidimas, kuris sudrebino pamatus. Jo pasekmės jaučiamos iki šiol.",
+    "present": "Dabar kažkas keičiasi staigiai arba tiesa išeina į paviršių. Svarbu išlikti ramiems ir žiūrėti, kas lieka tvirta.",
+    "future": "Netrukus gali įvykti nelauktas pokytis, kuris išlaisvins vietą tikresniam pagrindui.",
+    "obstacle": "Kliūtis – bandymas išlaikyti tai, kas jau virpa, arba baimė pripažinti tiesą.",
+    "advice": "Nesikabinkite į griūvančias sienas. Pažiūrėkite, kas liko, ir statykite nuo šio pagrindo.",
+    "outcome": "Galimas rezultatas – skaidrumas ir tikresnė pradžia po sukrėtimo."
+   },
+   "feelings": "Bokštas rodo, kad santykyje kyla stiprūs jausmai arba staiga atsiskleidžia tiesa. Žmogus gali jaustis sukrėstas ar sutrikęs. Šiuo metu geriausia pasirūpinti ramiu, saugiu pokalbiu, o ne daryti išvadų karštomis akimirkomis.",
+   "money": "Finansų tema – netikėti pokyčiai arba paaiškėjusi nepatikima struktūra. Korta nenusako, kas nutiks, tik primena, kad stabilumas remiasi tikrais pamatais. Gali padėti ramiai peržiūrėti situaciją.",
+   "friendship": "Draugystėje korta gali žymėti staigų nesutarimą ar tiesos atskleidimą. Po sukrėtimo kartais ryšys tampa sąžiningesnis, o kartais pakeičia formą.",
+   "spiritual": "Tai pabudimo korta. Ji rodo akimirkas, kai išsiskleidžia tiesa, kurios seniai vengėme. Dvasiniame kelyje Bokštas moko pasitikėti, kad iš griuvėsių gali išaugti kažkas autentiškesnio.",
+   "combos": [
+    {
+     "with": 15,
+     "text": "Velnias ir Bokštas: prisirišimų pančiai trūksta ir ateina priverstinė, bet išlaisvinanti tiesa."
+    },
+    {
+     "with": 17,
+     "text": "Bokštas ir Žvaigždė: po sukrėtimo ateina švelnus atsinaujinimas ir viltis."
+    },
+    {
+     "with": 13,
+     "text": "Mirtis ir Bokštas rodo gilų virsmą: pabaigą ir sukrėtimą, atvėrusį naują kelią."
+    },
+    {
+     "with": 54,
+     "text": "Kardų penketas su Bokštu gali žymėti skausmingą konfliktą, po kurio aiškėja, kas buvo svarbu."
+    },
+    {
+     "with": 57,
+     "text": "Kardų aštuonetas šalia Bokšto rodo jausmą, kad esate įstrigę, kol netikėtas pokytis atveria išėjimą."
+    }
+   ],
+   "questions": [
+    "Kokie mano įsitikinimai ar sprendimai remiasi netvirtu pagrindu?",
+    "Ką jau nujaučiu, bet dar nenoriu pripažinti?",
+    "Kas lieka tvirta, jei viskas, kas nereikalinga, nukrenta?"
+   ]
+  },
+  {
+   "id": 17,
+   "symbols": [
+    {
+     "s": "Nuoga moteris, klūpanti prie vandens",
+     "m": "Atvirumas ir nuoširdumas; neturėti ko slėpti."
+    },
+    {
+     "s": "Du ąsočiai: vienas pilamas į vandenį, kitas ant žemės",
+     "m": "Dosnumas pasąmonei ir apčiuopiamam pasauliui; vidinė ir išorinė dalyba."
+    },
+    {
+     "s": "Didelė aštuonspindulė žvaigždė ir septynios mažesnės",
+     "m": "Viltis ir vedlys; septynios mažesnės dažnai siejamos su septyniomis senosiomis planetomis."
+    },
+    {
+     "s": "Viena koja vandenyje, kita ant žemės",
+     "m": "Pusiausvyra tarp pasąmonės ir kasdienybės."
+    },
+    {
+     "s": "Paukštis (ibis) medyje fone",
+     "m": "Išmintis ir žinios, ramiai stebinčios."
+    }
+   ],
+   "story": [
+    "Žvaigždė eina po Bokšto kaip kvėpavimas po audros. Viskas, kas buvo pastatyta ant netikro pagrindo, sugriuvo, ir dabar nėra ko saugoti – lieka tik tyra, nuoga tiesa ir dangus. Moteris pila vandenį be baimės, nes jis atsinaujina. Šviesa naktį ne šildo, bet orientuoja.",
+    "Seka čia ypač svarbi: po Bokšto ateina ne triumfas, o švelnus atsigavimas. Žvaigždė rodo kantrią viltį, kuri nereikalauja įrodymų. Šiuolaikiniame skaitymo supratime ji siejama su įkvėpimu, ramybe, kūrybiniu atsinaujinimu ir tikėjimu, kad kelias egzistuoja, nors dar nematome viso jo. Korta kviečia pasidalinti tuo, ką turite, ir palikti vietos tylai."
+   ],
+   "reversed": "Apversta Žvaigždė gali rodyti viltį, kuri apmirė: nusivylimą, abejonę, išsekimą. Kartais tai atsiribojimas nuo savęs ar nuo tikėjimo, kad bus geriau. Korta gali perspėti apie pervargimą ir poreikį pailsėti, o ne dar labiau stengtis. Pirmasis žingsnis – leisti sau jausti nuovargį ir švelniai grįžti prie to, kas nuramina.",
+   "positions": {
+    "past": "Praeityje buvo ramybės ar vilties laikotarpis, o galbūt atsigavimas po sunkumų. Tai vis dar jus palaiko.",
+    "present": "Dabar gera pauzė, kurioje galima atsigauti ir vėl tikėti. Būkite atviri ir nuoširdūs.",
+    "future": "Ateityje gali laukti atsinaujinimo laikotarpis ir tylus įkvėpimas.",
+    "obstacle": "Kliūtis – abejonė, nuovargis ar tikėjimo stoka, kad dalykai pasitaisys.",
+    "advice": "Leiskite sau pailsėti ir laikykitės bent mažos vilties. Pasidalinkite tuo, ką turite.",
+    "outcome": "Galimas rezultatas – ramybė, įkvėpimas ir pasitikėjimas savo keliu."
+   },
+   "feelings": "Žvaigždė dažnai kalba apie švelnius, nuoširdžius jausmus ir norą atsiverti. Žmogus gali norėti sugrįžti prie ramybės ar susitaikymo. Tai šilta korta, tačiau ji neatsako už kito žmogaus jausmus – daugiau padės atviras, nuoširdus pokalbis.",
+   "money": "Finansų srityje korta rodo kantrią viltį po sunkesnio laikotarpio. Tai ne prognozė, o nuotaika: pamažu aiškėja kryptis. Verta žengti nedidelius, ramius žingsnius.",
+   "friendship": "Draugystėje Žvaigždė rodo nuoširdų ryšį ir ramų palaikymą, kai nereikia nieko įrodinėti. Gera korta pasidalinti tuo, kas svarbu.",
+   "spiritual": "Tai tylios maldos ir meditacijos korta. Ji kviečia pasitikėti vidine šviesa, net kai kelio dar nematyti. Dvasinis augimas čia – atsinaujinimas, o ne siekis.",
+   "combos": [
+    {
+     "with": 16,
+     "text": "Bokštas ir Žvaigždė: po sukrėtimo ateina švelnus atsigavimas ir viltis."
+    },
+    {
+     "with": 18,
+     "text": "Žvaigždė ir Mėnulis – šviesa ir sapnai, kuriuose ramybė reikalauja pasitikėjimo nežinomybe."
+    },
+    {
+     "with": 2,
+     "text": "Žynė ir Žvaigždė rodo intuityvų ramumą ir gilų vidinį pasitikėjimą."
+    },
+    {
+     "with": 36,
+     "text": "Taurių tūzas su Žvaigžde žymi naują emocinį atsinaujinimą ir atvirą širdį."
+    },
+    {
+     "with": 41,
+     "text": "Taurių šešetas šalia Žvaigždės – švelnus sugrįžimas prie to, kas šilta ir nuoširdu."
+    }
+   ],
+   "questions": [
+    "Kokia maža viltis šiuo metu mane palaiko?",
+    "Kuo galiu pasidalinti, kad pajusčiau atsinaujinimą?",
+    "Ką norėčiau patikėti pačiam laikui?"
+   ]
+  },
+  {
+   "id": 18,
+   "symbols": [
+    {
+     "s": "Mėnulis su veidu, tarp dviejų bokštų",
+     "m": "Pasąmonė ir riba tarp žinomo bei nežinomo; vartai į nežinią."
+    },
+    {
+     "s": "Šuo ir vilkas, kaukiantys į mėnulį",
+     "m": "Prijaukinta ir laukinė prigimtis, kurios abi reaguoja į slaptą šauksmą."
+    },
+    {
+     "s": "Vėžys, ropojantis iš tvenkinio",
+     "m": "Giliausias, pirmapradžias mintis ir jausmus, kylančius į paviršių."
+    },
+    {
+     "s": "Vingiuotas takas tarp bokštų",
+     "m": "Kelias per neaiškumą, kuris reikalauja kantrybės ir pasitikėjimo."
+    },
+    {
+     "s": "Krintantys šviesos lašai (jodai)",
+     "m": "Subtilios žinios ar įkvėpimas, sklindantis iš viršaus."
+    }
+   ],
+   "story": [
+    "Mėnulis kviečia keliauti ten, kur kontūrai neaiškūs. Šviesa silpna, atspindėta, o kelias vingiuoja tarp dviejų bokštų. Šuo ir vilkas primena, kad net sutramdyti instinktai mus veikia, o iš tvenkinio ropojantis vėžys – kad giliausios mintys iškyla tada, kai mažiausiai to tikimės. Tai sapnų, nuojautų ir baimių sritis.",
+    "Sekoje po Žvaigždės vilties ateina patikra pusiau šviesoje. Mėnulis neatima ramybės, bet klausia, kiek iš to, ką matome, yra tiesa, o kiek – atspindys. Šiuolaikiniame skaitymo supratime korta siejama su intuicija, iliuzijomis, sapnais ir nerimu. Jos išmintis – nepulti į sprendimus tamsoje, bet ir nenuvertinti vidinio balso. Vėliau eina Saulė, kuri atneša aiškumą."
+   ],
+   "reversed": "Apverstas Mėnulis dažnai rodo, kad rūkas sklaidosi: baimės mažėja, tiesa pamažu išeina į dienos šviesą. Tačiau tai gali reikšti ir slopinamas nuojautas ar nenorą pripažinti nerimo. Kartais korta kalba apie sumaištį, kuri dar neišsisklaidė. Padeda paprastas dalykas – užrašyti, kas yra faktas, o kas spėjimas.",
+   "positions": {
+    "past": "Praeityje buvo neaiškumo, nerimo ar sapnų laikotarpis. Kai kurie jausmai galbūt dar neįvardyti.",
+    "present": "Dabar viskas gali atrodyti neaišku, ir tai normalu. Verta klausytis intuicijos, bet patikrinti faktus.",
+    "future": "Netrukus aiškumas gali ateiti lėtai, o iki tol gali tekti pagyventi su nežinomybe.",
+    "obstacle": "Kliūtis – baimė, iliuzija ar spėlionės, kurios gali iškreipti vaizdą.",
+    "advice": "Eikite lėtai, pasitikėkite jausmu, bet leiskite dienos šviesai patikrinti. Nedarykite didelių sprendimų per rūką.",
+    "outcome": "Galimas rezultatas – gilesnis supratimas apie save ir aiškumas, kai rūkas pasitraukia."
+   },
+   "feelings": "Mėnulis dažniausiai rodo neaiškius, besikeičiančius jausmus, kuriuos žmogus pats gali dar nesuprasti. Gali būti nerimas, nutylėjimai ar spėlionės, kurios skiriasi nuo tikrovės. Užuot spėliojus, geriau sąžiningai paklausti ir išklausyti.",
+   "money": "Finansų srityje korta rodo neaiškumą ir poreikį atidžiai patikrinti informaciją. Tai ne vieta skubiems sprendimams; verta palaukti, kol vaizdas taps aiškesnis. Rūpestį padeda sumažinti konkretūs skaičiai.",
+   "friendship": "Draugystėje korta gali kalbėti apie nesusikalbėjimus ar neišsakytus jausmus. Ramus, švelnus klausimas dažnai išsklaido rūką.",
+   "spiritual": "Tai sapnų ir pasąmonės korta. Ji kviečia vesti sapnų dienoraštį, klausytis vidinio balso ir nebijoti tamsos. Dvasinis augimas čia slypi savo šešėlių pažinime.",
+   "combos": [
+    {
+     "with": 17,
+     "text": "Žvaigždė ir Mėnulis: vilties šviesa ir sapnų neapibrėžtumas, kuriame reikia pasitikėjimo."
+    },
+    {
+     "with": 19,
+     "text": "Mėnulis ir Saulė: po rūko ateina aiškumas ir šiluma."
+    },
+    {
+     "with": 2,
+     "text": "Žynė su Mėnuliu – gilios nuojautos, paslaptys ir poreikis klausytis tylos."
+    },
+    {
+     "with": 51,
+     "text": "Kardų dvejetas šalia Mėnulio rodo sprendimą, kurio negalima priimti dėl neaiškumo."
+    },
+    {
+     "with": 58,
+     "text": "Kardų devynetas su Mėnuliu kalba apie naktinį nerimą ir mintis, kurios sustiprėja tamsoje."
+    }
+   ],
+   "questions": [
+    "Kokios baimės šiuo metu bando prisistatyti kaip faktai?",
+    "Ką man pasakoja mano sapnai ar nuojautos?",
+    "Kas aiškiai žinoma, o kas yra tik spėjimas?"
+   ]
+  },
+  {
+   "id": 19,
+   "symbols": [
+    {
+     "s": "Didelė saulė su veidu",
+     "m": "Gyvybė, aiškumas ir viską apšviečianti tiesa."
+    },
+    {
+     "s": "Nuogas vaikas ant balto žirgo",
+     "m": "Nekaltumas, džiaugsmas ir nesuvaržytas gyvybingumas."
+    },
+    {
+     "s": "Raudona vėliava vaiko rankoje",
+     "m": "Ryžtas ir gyvybinė energija, nešama džiaugsmingai."
+    },
+    {
+     "s": "Saulėgrąžos už mūro",
+     "m": "Augimas link šviesos; tai, kas pasirenka šilumą."
+    },
+    {
+     "s": "Vainikas ir raudona plunksna vaiko galvoje",
+     "m": "Pergalė, paprastas pasitenkinimas ir šventinė nuotaika."
+    }
+   ],
+   "story": [
+    "Saulė – viena šviesiausių kortų. Po Mėnulio rūko ji parodo tiesiog tai, kas yra, be baimės ir be pagražinimų. Vaikas joja laisvai ir ramiai, nes čia nereikia kontroliuoti: pasitikėjimas natūralus. Mūras už nugaros ir saulėgrąžos primena, kad net apsaugoti kampai nušvinta, kai juos pasiekia šviesa.",
+    "Sekoje Saulė eina po Mėnulio ir veda prie Nuosprendžio. Kai šešėlis pamatytas, galima džiaugtis tuo, kas gera. Šiuolaikiniame skaitymo supratime Saulė siejama su sėkme, gyvybingumu, atvirumu ir paprastu džiaugsmu, kuriam nereikia priežasties. Ji kviečia leisti sau šviesti ir nebijoti būti matomiems, nesijaučiant nei per daug, nei per mažai."
+   ],
+   "reversed": "Apversta Saulė nerodo tamsos – dažniau kalba apie laikiną debesuotumą. Gali būti perdėtas optimizmas, ignoruojantis realius klausimus, arba nuovargis, trukdantis džiaugtis. Kartais džiaugsmas atidėtas, nes žadate jį sau „vėliau“. Kvietimas – rasti bent mažą šviesos lopinėlį šiandien, nelaukiant idealių sąlygų.",
+   "positions": {
+    "past": "Praeityje buvo šviesus, gyvybingas laikotarpis arba džiaugsmas, kuris vis dar šildo.",
+    "present": "Dabar yra erdvės džiaugsmui, aiškumui ir paprastam buvimui. Nesibijokite būti matomi.",
+    "future": "Ateityje gali laukti gyvybingesnis, šviesesnis laikotarpis.",
+    "obstacle": "Kliūtis – perdėtas optimizmas arba nuovargis, trukdantis pastebėti tai, kas gera.",
+    "advice": "Leiskite sau džiaugtis ir pasidalinkite šiluma. Pasirūpinkite poilsiu, kad energija netaptų perdegimu.",
+    "outcome": "Galimas rezultatas – džiaugsmas, aiškumas ir pasitikėjimas savimi."
+   },
+   "feelings": "Saulė dažniausiai rodo šiltus, atvirus jausmus ir norą būti kartu. Žmogui su jumis gali būti lengva ir gera. Vis dėlto kortos šiluma nepakeičia tiesaus pokalbio – džiaugsmą verta pasakyti garsiai.",
+   "money": "Finansų srityje korta rodo aiškumą ir pasitikėjimą, kai viskas tampa matoma. Tai ne garantija, o tema: skaidrumas ir paprastumas palengvina sprendimus. Džiaugsmas dažnai yra naudingas orientyras.",
+   "friendship": "Draugystėje Saulė – bendras juokas, šventė ir paprastas buvimas kartu. Tai korta, kuri kviečia pasidalinti džiaugsmu.",
+   "spiritual": "Tai dėkingumo ir paprasto džiaugsmo korta. Ji primena, kad dvasinis augimas nebūtinai yra sunkus. Šviesa gali būti tiesiog buvimas čia ir dabar.",
+   "combos": [
+    {
+     "with": 18,
+     "text": "Mėnulis ir Saulė: po neaiškumo ateina aiškumas ir šiluma."
+    },
+    {
+     "with": 0,
+     "text": "Kvailys ir Saulė – nekaltas, džiaugsmingas naujos pradžios žingsnis."
+    },
+    {
+     "with": 45,
+     "text": "Taurių dešimtukas su Saule rodo harmoningą namų šilumą ir gilų pasitenkinimą."
+    },
+    {
+     "with": 35,
+     "text": "Skeptrų karalius šalia Saulės žymi šiltą, įkvepiančią lyderystę."
+    },
+    {
+     "with": 28,
+     "text": "Skeptrų septynetas su Saule gali rodyti, kad ginantis savo vietą jaučiate vis daugiau pasitikėjimo."
+    }
+   ],
+   "questions": [
+    "Kas mane šiandien paprastai pradžiugina?",
+    "Kur galėčiau drąsiau pasirodyti ir šviesti?",
+    "Ką atidedu „iki geresnių laikų“, nors galiu daryti dabar?"
+   ]
+  },
+  {
+   "id": 20,
+   "symbols": [
+    {
+     "s": "Angelas su trimitu debesyse",
+     "m": "Pašaukimas, kviečiantis atsibusti; tradiciškai siejamas su Gabrieliumi."
+    },
+    {
+     "s": "Vėliava su kryžiumi ant trimito",
+     "m": "Dvasinė žinia, skambanti kartu su trimito garsu."
+    },
+    {
+     "s": "Žmonės, keliantys rankas iš karstų",
+     "m": "Atgimimo vaizdinys: atsiliepimas į kvietimą po ilgo miego."
+    },
+    {
+     "s": "Jūra ir snieguotos kalnų viršūnės fone",
+     "m": "Pasąmonė ir tolimi tikslai; platus kontekstas."
+    }
+   ],
+   "story": [
+    "Nuosprendis – pašaukimo korta. Trimito garsas pažadina visus, kurie kadaise miegojo, ir jie kyla ištiesę rankas. Tai ne bausmė, o galimybė atsiliepti į vidinį kvietimą. Čia apibendrinama nueito kelio patirtis ir klausiama: kas aš dabar esu ir kur noriu eiti?",
+    "Seka veda iš Saulės džiaugsmo į atsakingą įvertinimą. Po šviesos ir pasitikėjimo atsiranda gebėjimas pažvelgti į visą savo istoriją – net į sunkias jos dalis – su atleidimu. Šiuolaikinėje praktikoje korta siejama su atbudimu, pašaukimu, sąžiningu savęs vertinimu ir ryžtu pradėti naują etapą. Ji paruošia Pasaulio užbaigimą, kuriame viskas susijungia."
+   ],
+   "reversed": "Apverstas Nuosprendis gali rodyti savikritiką, kuri nebeaugina, o tik slegia, arba pašaukimo ignoravimą. Kartais tai abejonė, ar „jau per vėlu“, ir neaptarti klausimai, kurių tarsi nebereikia liesti. Kvietimas – švelnumas sau: ne smerkti praeitį, o pripažinti, ko ji išmokė.",
+   "positions": {
+    "past": "Praeityje buvo atbudimo ar pašaukimo akimirka, kuri paveikė jūsų kelią.",
+    "present": "Dabar verta pažvelgti į nueitą kelią ir paklausti, ar jis atitinka jūsų vidinį balsą.",
+    "future": "Netrukus gali pasigirsti aiškus kvietimas arba ateiti supratimas, atversiantis naują etapą.",
+    "obstacle": "Kliūtis – savikritika, abejonė ar atidėliojimas atsiliepti į vidinį balsą.",
+    "advice": "Pažvelkite į savo kelią su švelnumu ir atsiliepkite į tai, kas jus šaukia.",
+    "outcome": "Galimas rezultatas – atsinaujinimas ir aiškesnis pašaukimas."
+   },
+   "feelings": "Nuosprendis gali rodyti, kad žmogus iš naujo vertina santykį ir galbūt ruošiasi atvirai pasakyti, ko nori. Tai gali būti ir atleidimo ar susitaikymo momentas. Konkretūs jausmai lieka jo paties, todėl nuoširdus pokalbis yra patikimiausias kelias.",
+   "money": "Finansų srityje korta kviečia peržiūrėti nueitą kelią ir paklausti, ar dabartinis darbas bei pasirinkimai dera su jūsų vertybėmis. Tai ne sprendimas, o įvertinimas. Pokytis gali pasirodyti teisingas tada, kai kyla iš vidinio aiškumo.",
+   "friendship": "Draugystėje korta gali žymėti atleidimą arba senų reikalų išsiaiškinimą. Tai laikas pasakyti tai, kas buvo nutylėta.",
+   "spiritual": "Tai pabudimo ir pašaukimo korta. Ji kviečia sąžiningai pasižiūrėti į savo gyvenimą ir pasirinkti, kaip gyventi toliau. Atleidimas sau čia yra svarbiausias žingsnis.",
+   "combos": [
+    {
+     "with": 19,
+     "text": "Saulė ir Nuosprendis – džiaugsmas virsta sąmoningu pasirinkimu ir atbudimu."
+    },
+    {
+     "with": 21,
+     "text": "Nuosprendis ir Pasaulis – įvertinimas veda į užbaigimą ir naują etapą."
+    },
+    {
+     "with": 11,
+     "text": "Teisingumas ir Nuosprendis – sąžiningas atsiskaitymas su savimi ir galutinis sprendimas."
+    },
+    {
+     "with": 41,
+     "text": "Taurių šešetas su Nuosprendžiu gali žymėti sugrįžimą prie praeities, kad ją suprastumėte ir atleistumėte."
+    },
+    {
+     "with": 59,
+     "text": "Kardų dešimtukas šalia Nuosprendžio rodo pabaigą, po kurios galima atgimti kitaip."
+    }
+   ],
+   "questions": [
+    "Kokį vidinį kvietimą seniai girdžiu, bet į jį neatsiliepiu?",
+    "Ką savo praeityje galiu priimti ir atleisti?",
+    "Koks būčiau, jei nustočiau savęs teisti?"
+   ]
+  },
+  {
+   "id": 21,
+   "symbols": [
+    {
+     "s": "Šokanti figūra lapų vainike",
+     "m": "Užbaigtumas, harmonija ir judėjimas, kuris yra visuma."
+    },
+    {
+     "s": "Dvi lazdelės rankose",
+     "m": "Aktyvų ir receptyvų polius, balansą tarp davimo ir priėmimo."
+    },
+    {
+     "s": "Raudonos juostos, surištos vainiko viršuje ir apačioje",
+     "m": "Tęstinumas ir ciklo atsinaujinimas."
+    },
+    {
+     "s": "Keturios figūros kampuose: angelas, erelis, jautis, liūtas",
+     "m": "Keturios būtybės, dažnai siejamos su keturiais evangelistais ir keturiais pastoviaisiais zodiako ženklais; pasaulio pilnatvė."
+    },
+    {
+     "s": "Violetinis šalikas, apgaubiantis šokėją",
+     "m": "Lengvumą ir judesio vienybę."
+    }
+   ],
+   "story": [
+    "Pasaulis – kelionės pabaiga ir kartu naujo ciklo pradžia. Šokėja nebesiekia ir neieško: ji tiesiog yra savo vainike, primenančiame užbaigtą ratą. Aplinkui keturios figūros saugo pasaulio kampus, o viduje viskas susijungia. Tai pilnatvės ir vientisumo jausmas.",
+    "Seka baigiasi Pasauliu, kuris atsako į Kvailio pirmąjį žingsnį: kelionė nuo nekaltumo pasiekia brandą. Tačiau Pasaulis – ne nuobodus finišas: iš jo galima vėl žengti į nulį. Šiuolaikiniame skaitymo supratime tai užbaigimo, pasiekimo, vientisumo ir pripažinimo korta. Jos kvietimas – švęsti ir pastebėti, kiek jau nueita."
+   ],
+   "reversed": "Apverstas Pasaulis dažniausiai rodo nebaigtą dalyką: trūksta paskutinio žingsnio, detalės ar drąsos užbaigti. Gali būti sunku atsisveikinti su laikotarpiu arba bijoma, kas ateis po to. Kartais korta kalba apie sąstingį, kai viskas beveik padaryta, bet pabaiga vis atidedama. Padeda paprastas klausimas: ko trūksta, kad galėčiau tai užbaigti?",
+   "positions": {
+    "past": "Praeityje buvo užbaigtas svarbus etapas, davęs jums brandos ir pasitenkinimo.",
+    "present": "Dabar esate netoli užbaigimo ar integracijos. Verta pastebėti, kiek jau nuėjote.",
+    "future": "Netrukus gali užsidaryti ratas ir atsiverti naujas skyrius.",
+    "obstacle": "Kliūtis – paskutinio žingsnio vengimas arba baimė, kas bus po užbaigimo.",
+    "advice": "Užbaikite tai, kas beveik baigta, ir leiskite sau tai atšvęsti.",
+    "outcome": "Galimas rezultatas – pilnatvė, pripažinimas ir pasiruošimas naujam ciklui."
+   },
+   "feelings": "Pasaulis gali rodyti, kad žmogus jaučia ryšio visumą ir norą kažką užbaigti ar įtvirtinti. Tai ir šilta, ir brandi korta, bet ji neatskleidžia konkrečių minčių. Ramus pokalbis padės suprasti, ar jūs abu žvelgiate į tą pačią kryptį.",
+   "money": "Finansinėje srityje korta rodo tikslo pasiekimą, užbaigimą ir tvarkos pojūtį. Tai nėra garantija, o tema: viskas susideda į vietą. Gali būti naudinga peržiūrėti ilgalaikes kryptis.",
+   "friendship": "Draugystėje korta žymi brandų, visapusišką ryšį ir bendrų etapų užbaigimą. Tai gera proga padėkoti vieniems kitiems.",
+   "spiritual": "Tai integracijos korta: visos patirtys tampa viena visuma. Ji kviečia pastebėti savo kelią ir pripažinti jį, o tada pasiruošti naujam ratui. Dvasinis augimas čia – šventė, o ne pastanga.",
+   "combos": [
+    {
+     "with": 0,
+     "text": "Kvailys ir Pasaulis – ciklo pradžia ir pabaiga, kelionė, kuri sugrįžta į naują pradžią."
+    },
+    {
+     "with": 20,
+     "text": "Nuosprendis ir Pasaulis – atbudimas, įvertinimas ir užbaigimas vienoje linijoje."
+    },
+    {
+     "with": 10,
+     "text": "Likimo ratas ir Pasaulis rodo ciklo užbaigimą ir naują posūkį."
+    },
+    {
+     "with": 73,
+     "text": "Monetų dešimtukas su Pasauliu žymi ilgalaikį stabilumą ir tvirtą pasiekimą."
+    },
+    {
+     "with": 30,
+     "text": "Skeptrų devynetas šalia Pasaulio rodo atsparumą, kuris padeda pasiekti užbaigimą."
+    }
+   ],
+   "questions": [
+    "Ką jau užbaigiau, bet dar nepadėkojau sau už tai?",
+    "Kokio paskutinio žingsnio vengiu?",
+    "Koks naujas ratas manęs laukia, kai šis užsidarys?"
+   ]
+  }
+ ]
+}

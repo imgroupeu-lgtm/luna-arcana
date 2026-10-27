@@ -1,0 +1,946 @@
+{
+ "cards": [
+  {
+   "id": 36,
+   "symbols": [
+    {
+     "s": "Ranka, išnirusi iš debesies",
+     "m": "Dovana, kuri ateina ne iš jūsų pastangų: pradžia, kurios nevaldote."
+    },
+    {
+     "s": "Taurė, iš kurios trykšta penki srautai",
+     "m": "Jausmų gausa, tekanti į visas puses; kartais siejama su penkiais pojūčiais."
+    },
+    {
+     "s": "Balandis su plotkele snapelyje",
+     "m": "Šiuolaikinėje ezoterikoje – ramybės ir dvasinio palaiminimo ženklas."
+    },
+    {
+     "s": "Lelijos tvenkinyje apačioje",
+     "m": "Grynumas ir jausmų gelmė, vis dar ramiai atsiverianti."
+    },
+    {
+     "s": "Vandens lašai, krintantys žemyn",
+     "m": "Jausmas, kuris liejasi per kraštus ir kurį galima dalytis."
+    }
+   ],
+   "story": [
+    "Tūzai tarote laikomi grynąja elemento sėkla, dar nepaženklinta jokia istorija. Taurių tūzas – tai jausmų pradžia: dar nėra poros, namų ar išsiskyrimo, yra tik atvira taurė ir vanduo, kuris jau teka per kraštus. Šiai kortai sąlygų nereikia. Ji klausia ne „ar jums pasiseks?“, o „ar leisite sau pajusti?“.",
+    "Taurių kelionėje tūzas yra visko pradžia: iš jo vėliau išaugs dvejeto pokalbis, trejeto šventė, penketo netektis ir dešimtuko pilnatvė. Tačiau jis nežada, kuria kryptimi vanduo nuteks. Tai gali būti nauja meilė, bet taip pat kūrybinis polėkis, užuojauta sau ar staiga atsiradęs gebėjimas verkti ir juoktis nesigėdijant. Svarbiausia čia ne rezultatas, o atvirumas: kad dovana jus pasiektų, taurė turi būti ištiesta, o ne užkimšta. Jei ši korta iškrito, verta paklausti, kokiam jausmui jau seniai trūksta vietos."
+   ],
+   "reversed": "Apversta korta dažniausiai rodo ne jausmų nebuvimą, o jų užtvarą: taurė stovi, bet vanduo neteka. Galbūt po sunkaus laikotarpio atsargumas tapo įpročiu, o gal tiesiog baisu jausti. Kartais tai laikinas išsekimas, kuriam reikia poilsio, o ne kaltų ieškojimo. Švelniai pasidomėkite, ką saugote nuo savęs.",
+   "positions": {
+    "past": "Kažkada į jūsų gyvenimą atėjo jausmas, kuris pakeitė nuotaiką, ir jo aidas jaučiamas iki šiol.",
+    "present": "Dabar atsiveria galimybė pradėti iš naujo emocine prasme; jausmai prašosi vietos, nors dar neaišku, kur jie nuves.",
+    "future": "Netolimoje ateityje gali atsirasti nauja šiluma, kūrybinė pradžia ar susitikimas, kuris palies širdį.",
+    "obstacle": "Kliūtis gali būti nenoras priimti dovaną iš baimės, kad ji nebus ilga, arba perdėta kontrolė.",
+    "advice": "Palikite vietos neplanuotam jausmui ir nesistenkite iš karto jo įvardyti ar vertinti.",
+    "outcome": "Rezultatas – atviresnė širdis ir ryšys, kuriame jausmai nebėra slepiami."
+   },
+   "feelings": "Kalbant apie kito žmogaus jausmus, ši korta rodo širdingą, nuoširdų susidomėjimą, kuris gali būti dar visai naujas ir nesusiformavęs. Tai greičiau švelnumo pradžia nei nusistovėjęs įsipareigojimas. Vienintelis patikimas būdas sužinoti – paklausti ir išklausyti.",
+   "money": "Pinigų srityje korta kalba apie naują pradžią, kurioje jus traukia prasmė, o ne vien nauda. Ji primena, kad darbas, atliekamas su širdimi, atrodo kitaip nei darbas iš pareigos.",
+   "friendship": "Draugystėje tai nauja pažintis, užsimezgantis nuoširdumas ar sena draugystė, kuri staiga tampa gilesnė. Verta pirmam žengti žingsnį.",
+   "spiritual": "Dvasiniu požiūriu tai kvietimas ramiai pabūti su savimi ir leisti vidiniam šaltiniui pasirodyti. Tinka malda, meditacija, rašymas ar tiesiog pasivaikščiojimas prie vandens.",
+   "combos": [
+    {
+     "with": 6,
+     "text": "Su Mylimaisiais tūzas rodo gilų, sąmoningai pasirenkamą ryšį, o ne atsitiktinį prisirišimą."
+    },
+    {
+     "with": 17,
+     "text": "Su Žvaigžde jausmų šaltinis tampa viltimi ir atsigavimo pradžia."
+    },
+    {
+     "with": 19,
+     "text": "Su Saule atsiveriantis jausmas turi paprasto, atviro džiaugsmo atspalvį."
+    },
+    {
+     "with": 37,
+     "text": "Su Taurių dvejetu pradžia virsta pirmu tikru dviejų žmonių pokalbiu."
+    },
+    {
+     "with": 46,
+     "text": "Su Taurių pažu jausmas ateina kaip žinia ar kūrybinė idėja."
+    }
+   ],
+   "questions": [
+    "Kokio jausmo šiuo metu laukiu ir ko bijau, jei jis ateis?",
+    "Kas mano gyvenime jau teka, bet aš to nepastebiu?",
+    "Ką galėčiau padaryti šiandien, kad mano taurė būtų atviresnė?"
+   ]
+  },
+  {
+   "id": 37,
+   "symbols": [
+    {
+     "s": "Vyras ir moteris, keičiasi taurėmis",
+     "m": "Abipusis davimas ir priėmimas; santykis, kuriame abu pasirodo."
+    },
+    {
+     "s": "Vainikai ant jų galvų",
+     "m": "Pagarba ir švenčiamas susitikimas; abu laikomi vertais."
+    },
+    {
+     "s": "Kaduceus (lazda su dviem gyvatėmis) ir sparnuota liūto galva virš jo",
+     "m": "Priešybių susiliejimas: aistra ir protas, ugnis ir vanduo viename ryšyje."
+    },
+    {
+     "s": "Namas ant kalvos fone",
+     "m": "Bendras tikslas ir galimas bendras gyvenimas, bet dar ne dabartis."
+    }
+   ],
+   "story": [
+    "Po tūzo pasirodo antras žmogus: sėkla tampa susitikimu. Dvejetas tarote paprastai klausia, kaip du pradai susijungia, o Taurių dvejeto atsakymas – per pagarbą. Žmonės čia stovi veidas į veidą, tarp jų išlieka tarpas, ir kiekvienas laiko savo taurę. Niekas nieko nenustelbia, niekas nesiekia valdžios.",
+    "Ši korta dažnai siejama su romantine meile, bet jos tema platesnė: tai bet kuri lygiavertė sąjunga – draugystė, sutartis, bendras darbas, susitaikymas po ginčo. Ji kalba apie tą trapų momentą, kai abu pasiryžta būti atviri vienu metu. Virš jų kybanti liūto galva primena, kad ryšys gali turėti ugnies ir intensyvumo, tačiau jį subalansuoja kaduceus ir ramus abipusiškumas. Pagrindinis klausimas: ar duodate tiek, kiek ir gaunate, ir ar galite priimti, nesijausdami skolingi?"
+   ],
+   "reversed": "Apversta korta rodo susvyravusį sutarimą: vienas duoda daugiau, kitas nutyla arba abu bijo pirmi atsiverti. Kartais tai trumpalaikis nesusipratimas, kartais – ilgesnis nutolimas. Pirmiausia verta ne ieškoti kaltų, o grįžti prie paprasto pokalbio: ko kiekvienas iš tikrųjų nori ir ko bijo.",
+   "positions": {
+    "past": "Praeityje buvo ryšys ar susitarimas, kuriame jautėtės išgirsti, ir tai vis dar formuoja jūsų lūkesčius.",
+    "present": "Šiuo metu aktuali dviejų žmonių pusiausvyra: abipusis dėmesys, pagarba ir pasirengimas atsiliepti.",
+    "future": "Gali atsirasti artimas ryšys, partnerystė ar susitaikymas, jei abi pusės bus nuoširdžios.",
+    "obstacle": "Kliūtis – nelygus davimas ir ėmimas arba tylus lūkestis, kad kitas atspės, ko norite.",
+    "advice": "Pasakykite tiesiai, ko norite, ir iš tiesų išklausykite atsakymą.",
+    "outcome": "Rezultatas – santykis, kuriame abu jaučiasi matomi ir vienodai svarbūs."
+   },
+   "feelings": "Kito žmogaus požiūriu korta rodo norą būti arti ir laikyti jus lygiaverčiu. Tai tikra trauka, tačiau ji reikalauja abipusio žingsnio. Jei nesate tikri, ką žmogus jaučia, padėkite jam tai pasakyti ramiu, nespaudžiančiu klausimu.",
+   "money": "Pinigų srityje tai sutartis, partnerystė ar bendras projektas, kuriam svarbus teisingas pasidalijimas. Verta aiškiai aptarti lūkesčius, kol jie dar neišaugo į nuoskaudas.",
+   "friendship": "Draugystėje tai abipusė pagarba ir tikras bendravimas, kai kiekvienas duoda ir priima. Gali būti ir seno ginčo sutaikymas.",
+   "spiritual": "Dvasiškai korta kviečia sujungti dvi savo puses – protą ir jausmą, vidinį balsą ir išorinį veiksmą. Ji primena, kad dvasinis kelias taip pat gali būti dialogas, o ne monologas.",
+   "combos": [
+    {
+     "with": 2,
+     "text": "Su Žyne ryšys turi gilų, dar neištartą sluoksnį – verta klausytis ne tik žodžių."
+    },
+    {
+     "with": 6,
+     "text": "Su Mylimaisiais dvejetas pabrėžia sąmoningą, abipusį pasirinkimą kartu."
+    },
+    {
+     "with": 11,
+     "text": "Su Teisingumu atsiranda aiškios, sąžiningos sutarties tema."
+    },
+    {
+     "with": 40,
+     "text": "Su Taurių penketu primena, kad naujas ryšys kartais nešiojasi senus sielvartus."
+    },
+    {
+     "with": 41,
+     "text": "Su Taurių šešetu ryšys turi senos pažinties šilumą arba sugrįžta kažkas pažįstamo."
+    }
+   ],
+   "questions": [
+    "Ar aš duodu ir priimu vienodai?",
+    "Ką noriu pasakyti kitam žmogui, bet vis nedrįstu?",
+    "Kuo mano ryšiai pasikeistų, jei jie remtųsi pagarba, o ne baime?"
+   ]
+  },
+  {
+   "id": 38,
+   "symbols": [
+    {
+     "s": "Trys moterys, pakėlusios taures",
+     "m": "Bendras tostas, džiaugsmas, kuris dalijamas, o ne laikomas vienam."
+    },
+    {
+     "s": "Šokio judesys, susikibusios rankos",
+     "m": "Lygiavertė bendrystė, kurioje niekas nestovi nuošalyje."
+    },
+    {
+     "s": "Gėlių vainikai ant galvų",
+     "m": "Šventė, gamtos gausa, švelnus pasiruošimas džiaugsmui."
+    },
+    {
+     "s": "Vaisiai ir moliūgai prie kojų",
+     "m": "Derlius, rezultatas to, kas buvo sėta ir puoselėta."
+    }
+   ],
+   "story": [
+    "Jei dvejetas yra dviejų žmonių pokalbis, trejetas atveria duris į bendruomenę. Taurių trejetas – tai džiaugsmas, kuris nereikalauja priežasties kitos nei buvimas kartu. Trys šokėjos laiko taures aukštai, ir svarbu čia ne kuri pirmauja, o tai, kad ratas užsidaro: kiekviena yra ir davėja, ir gavėja.",
+    "Tarote trejetas dažnai reiškia pirmąjį augimo rezultatą, ir šioje kortoje tas rezultatas – bendra šventė po sunkesnio laikotarpio ar vien už tai, kad ryšiai gyvi. Prie kojų gulintis derlius primena, kad linksmybės čia nėra tuščios: jos auga iš ankstesnio darbo ir pasitikėjimo. Korta kviečia nustoti stebėti iš šalies ir prisijungti prie ko nors gyvo: susitikimo, pietų, dainos, vestuvių. Kartu ji klausia, ar turite savo ratą, kuriame galite būti nepasirengę ir nerimti, o vis tiek būti priimti."
+   ],
+   "reversed": "Apversta korta rodo, kad šventė gali virsti pertekliumi arba, priešingai, atskirtimi. Kartais tai apkalbų, pavydo ar klikos jausmas, kai kažkas lieka už rato. Galima ir tiesiog nuovargis nuo socialumo. Verta paklausti, ar bendravimas jus maitina, ar išsekina, ir kas jums iš tikrųjų rūpi.",
+   "positions": {
+    "past": "Buvo laikas, kai jautėtės priklausantys grupei ar dalyvavote džiugioje šventėje, ir tai vis dar duoda stiprybės.",
+    "present": "Dabar svarbi bendrystė: žmonės, su kuriais lengva, ir progos pasidžiaugti.",
+    "future": "Netrukus gali pasitaikyti šventė, susibūrimas ar naujas draugų ratas, kuris pakels nuotaiką.",
+    "obstacle": "Kliūtis – per didelis siekis įtikti, paviršutiniškas bendravimas ar baimė likti už rato.",
+    "advice": "Priimkite kvietimą ir leiskite sau džiaugtis be pasiteisinimų.",
+    "outcome": "Rezultatas – stipresnis priklausymo jausmas ir bendrystė, iš kurios galima semtis jėgų."
+   },
+   "feelings": "Šio žmogaus jausmai greičiausiai šilti ir socialūs: jam malonu jūsų draugija ir jis mielai su jumis bendrauja. Tai nebūtinai romantinė trauka, bet tikrai jaukumas ir džiaugsmas būti kartu. Verta pastebėti, ar tas džiaugsmas lieka ir tada, kai aplinkui nėra kitų žmonių.",
+   "money": "Pinigų srityje tema – bendras darbas, komanda ar bendras pasiekimas, kurį verta paminėti. Taip pat gali liesti išlaidas šventėms ir dosnumą, vertą apgalvoti.",
+   "friendship": "Tai viena draugiškiausių kortų: sutikti seni draugai, naujas ratas, bendros šventės. Ji primena, kad draugystė maitinasi bendru laiku.",
+   "spiritual": "Dvasiškai korta kalba apie džiaugsmo praktiką ir bendrystę: kartais artimiausias kelias į prasmę eina per bendrą stalą, dainą ar šokį. Garsiai išsakytas dėkingumas dažnai pasiekia giliau nei tylus.",
+   "combos": [
+    {
+     "with": 19,
+     "text": "Su Saule džiaugsmas tampa atviras ir šviesus, be paslėptų sąlygų."
+    },
+    {
+     "with": 21,
+     "text": "Su Pasauliu bendra šventė žymi užbaigtą etapą."
+    },
+    {
+     "with": 45,
+     "text": "Su Taurių dešimtuku bendrystė gali peraugti į šeimos ar ilgalaikės bendruomenės šilumą."
+    },
+    {
+     "with": 39,
+     "text": "Su Taurių ketvertu šventė jau laukia, o jūs galite nepastebėti kvietimo."
+    },
+    {
+     "with": 44,
+     "text": "Su Taurių devynetu bendras džiaugsmas virsta ramiu pasitenkinimu."
+    }
+   ],
+   "questions": [
+    "Su kuo man lengva ir džiugu ir kada paskutinį kartą su jais susitikau?",
+    "Ar leidžiu sau švęsti mažus laimėjimus?",
+    "Kur aš bendrauju iš įpročio, o kur – iš tikro noro?"
+   ]
+  },
+  {
+   "id": 39,
+   "symbols": [
+    {
+     "s": "Jaunas vyras, sėdintis po medžiu",
+     "m": "Pasitraukimas į save; pauzė, kai išorėje nieko nevyksta, bet viskas svarstoma."
+    },
+    {
+     "s": "Sukryžiuotos rankos ir kojos",
+     "m": "Uždarumas, užsisklendimas ir nenoras priimti."
+    },
+    {
+     "s": "Trys taurės priešais jį",
+     "m": "Jau turimi dalykai, kurie nebedžiugina."
+    },
+    {
+     "s": "Ketvirtoji taurė, ištiesta iš debesies",
+     "m": "Nauja galimybė, siūloma tyliai ir lengva praleisti."
+    },
+    {
+     "s": "Medžio kamienas ir žolė",
+     "m": "Ramybė ir stabilumas, bet taip pat sąstingis."
+    }
+   ],
+   "story": [
+    "Ketvertas tarote paprastai reiškia stabilumą, kuris gali virsti sąstingiu, ir Taurių ketvertas tai rodo per jausmus. Jaunas vyras turi tris taures, bet jos jo nebedomina: džiaugsmas išsisėmė, o ketvirtoji taurė, ištiesta iš debesies, lieka nepastebėta. Jis ne nelaimingas, greičiau nuobodžiaujantis, nusivylęs ar pervargęs.",
+    "Korta kalba apie sustojimą, kurio prireikia po daug patirto: nebesinori nei naujų pasiūlymų, nei senų džiaugsmų. Kartais toks sustojimas reikalingas, nes vidinis balsas tampa girdimas tik tada, kai aplink nurimsta. Tačiau pavojus tas, kad užsisklendus galima praleisti tai, kas tikrai verta dėmesio. Šis ketvertas klausia: ar jūsų abejingumas – tikras poilsis, ar apsauga nuo nusivylimo? Atsakymas padeda suprasti, ar laikas dar pasėdėti, ar pakelti akis."
+   ],
+   "reversed": "Apversta korta rodo, kaip apmąstymas pamažu virsta judėjimu: pastebimas siūlymas, atsiranda smalsumas, grįžta jėgų. Kartais tai staigus pabudimas po ilgos apatijos, kartais – pavėluotas gailestis dėl praleisto. Svarbu nesigėdyti, kad užtruko, ir paimti tą taurę, kuri vis dar ištiesta.",
+   "positions": {
+    "past": "Buvo laikotarpis, kai viskas atrodė nuobodu ar nebeteko jėgų, ir tai vis dar veikia jūsų pasirinkimus.",
+    "present": "Šiuo metu esate pauzėje: svarstote, galbūt nepatenkinti, ir galite praleisti tai, kas siūloma.",
+    "future": "Netrukus gali pasirodyti pasiūlymas ar mintis, kurią reikės pastebėti, kad ji nenueitų pro šalį.",
+    "obstacle": "Kliūtis – pesimistinis žvilgsnis, dėl kurio visi pasiūlymai atrodo vienodai nevertingi.",
+    "advice": "Padarykite pauzę, bet pakelkite žvilgsnį ir leiskite sau pasižiūrėti, kas ištiesta.",
+    "outcome": "Rezultatas – atgautas susidomėjimas ir aiškesnis supratimas, ko iš tiesų norite."
+   },
+   "feelings": "Šio žmogaus jausmai gali būti neaiškūs, ir jis pats gali nežinoti, ko nori: jis gali būti pavargęs, abejingas ar užsisklendęs. Tai nebūtinai atmetimas jums, o tiesiog vidinės energijos trūkumas. Dažnai geriausia pasiūlyti pasikalbėti be spaudimo.",
+   "money": "Pinigų srityje tema – nepasitenkinimas esama padėtimi ar pasiūlymai, kuriuos reikia atidžiau įvertinti, o ne atmesti iš nuovargio. Korta nenurodo, ką daryti, tik primena apžiūrėti, ką turite.",
+   "friendship": "Draugystėje gali būti atsiribojimas, kai norisi ramybės, ar draugas, kuris atrodo nutolęs. Švelnus pakvietimas be spaudimo gali padėti.",
+   "spiritual": "Dvasiškai tai kontempliacijos laikas: tylos, žvilgsnio į vidų. Korta primena, kad ne kiekvienas sustojimas yra kelio pabaiga, kartais tai tik poilsis po medžiu.",
+   "combos": [
+    {
+     "with": 9,
+     "text": "Su Atsiskyrėliu pasitraukimas yra sąmoningas ir turi tikslą."
+    },
+    {
+     "with": 12,
+     "text": "Su Pakabintuoju sustojimas atveria naują žvilgsnį, jei jo neskubama nutraukti."
+    },
+    {
+     "with": 36,
+     "text": "Su Taurių tūzu nepastebėta dovana tampa matoma."
+    },
+    {
+     "with": 42,
+     "text": "Su Taurių septynetu gausa galimybių kelia nuovargį."
+    },
+    {
+     "with": 17,
+     "text": "Su Žvaigžde po nusivylimo švelniai grįžta viltis."
+    }
+   ],
+   "questions": [
+    "Ką aš šiuo metu praleidžiu, nes žiūriu į kitą pusę?",
+    "Ar noriu pailsėti, ar slepiuosi nuo ko nors?",
+    "Kokia maža galimybė galėtų vėl pažadinti mano smalsumą?"
+   ]
+  },
+  {
+   "id": 40,
+   "symbols": [
+    {
+     "s": "Figūra tamsiu apsiaustu, nusukta nuo žiūrovo",
+     "m": "Sielvarto pasaulis, užsidarymas į save."
+    },
+    {
+     "s": "Trys apvirtusios taurės ir išsiliejęs vynas",
+     "m": "Tai, kas prarasta ir nebegrąžinama."
+    },
+    {
+     "s": "Dvi stovinčios taurės už nugaros",
+     "m": "Kas dar išlikę ir ką galima sau leisti pamatyti."
+    },
+    {
+     "s": "Upė su tiltu ir pilimi tolumoje",
+     "m": "Kelias pirmyn ir namai, į kuriuos dar įmanoma sugrįžti."
+    },
+    {
+     "s": "Niūrus dangus",
+     "m": "Liūdesio nuotaika, kuri nebūtinai amžina."
+    }
+   ],
+   "story": [
+    "Penketas tarote beveik visada atneša krizę ir išbandymą. Taurių penketas – tai nusivylimo ir netekties korta, kurioje jausmai išeina ant paviršiaus. Apsigaubusi figūra žiūri į tai, kas išsiliejo, ir nemato, kad už nugaros dvi taurės vis dar stovi. Tai gerai pažįstama žmogiška būsena: sielvartas užgožia viską, kas dar liko.",
+    "Korta nepataria „pasikelti“ ir nepasmerkia liūdesio. Ji pripažįsta, kad netektis yra tikra ir kad jai reikia laiko. Tačiau ji neleidžia pamiršti, kad paveiksle yra ir antra pusė bei užuomina į upę ir tiltą, rodančius kelią tolyn. Tai korta apie sielvarto kantrybę: pirmiausia pripažinti, kas išsiliejo, o paskui, ne iš karto, atsisukti. Ji gali liesti nutrūkusį ryšį, praradimą, nepasisekusį planą ar seną nuoskaudą, kuriai dar nebuvo leista išsilieti."
+   ],
+   "reversed": "Apversta korta rodo, kaip figūra pamažu atsisuka. Sielvartas nebeturi tokios galios, ir atsiranda noras paimti tas stovinčias taures. Kartais tai atleidimas, kartais tik pasirengimas jį apsvarstyti. Svarbu neskubėti ir neprisiversti: atsigavimas turi savo tempą, o korta rodo, kad jis jau prasidėjo.",
+   "positions": {
+    "past": "Praeityje buvo praradimas ar nusivylimas, kurio pėdsakas dar jaučiamas.",
+    "present": "Dabar sielvartas ar liūdesys užima daug vietos; svarbu jam leisti būti, bet nepamiršti, kas dar yra.",
+    "future": "Gali ateiti laikotarpis, kai teks pripažinti netektį, o paskui pamažu pajudėti toliau.",
+    "obstacle": "Kliūtis – užsikabinimas už to, kas prarasta, ir nesugebėjimas pastebėti, kas dar išliko.",
+    "advice": "Leiskite sau liūdėti ir paprašykite artimųjų pagalbos, o paskui atsisukite į tai, kas dar stovi.",
+    "outcome": "Rezultatas – ramesnis susitaikymas ir naujos jėgos pradėti iš naujo."
+   },
+   "feelings": "Šio žmogaus jausmai gali būti sunkūs: jis gali liūdėti dėl to, kas su jumis nesusiję. Jei liūdesys susijęs su jumis, tai greičiausiai nuoskauda ar gailestis. Nepuolkite taisyti – dažnai pakanka pasiūlyti buvimą šalia.",
+   "money": "Pinigų srityje korta kalba apie nuostolio ar nesėkmės jausmą ir poreikį pamatyti, kas dar išliko. Ji nenurodo veiksmų, tik primena neprarasti viso vaizdo.",
+   "friendship": "Draugystėje tai gali būti nutrūkęs ryšys, nuoskauda ar draugas, kuriam sunku. Dažnai svarbiausia yra buvimas šalia be patarimų.",
+   "spiritual": "Dvasiškai tai gedulo ir susitaikymo laikas. Korta kviečia leisti jausmams pasireikšti: rašyti, verkti, prisiminti, ir tik paskui eiti tolyn.",
+   "combos": [
+    {
+     "with": 13,
+     "text": "Su Mirtimi netektis atveria laikotarpio pabaigą ir vietą naujam."
+    },
+    {
+     "with": 16,
+     "text": "Su Bokštu sielvartas ateina staiga, ir svarbu, kas išlieka pamatu."
+    },
+    {
+     "with": 17,
+     "text": "Su Žvaigžde po netekties atsiranda tyli viltis."
+    },
+    {
+     "with": 41,
+     "text": "Su Taurių šešetu susitaikymas ateina per prisiminimus."
+    },
+    {
+     "with": 45,
+     "text": "Su Taurių dešimtuku primena, kad šeimos ar bendruomenės šiluma išlieka ir po sunkių metų."
+    }
+   ],
+   "questions": [
+    "Ką šiuo metu apraudu ir ar sau leidžiu tai daryti?",
+    "Kas man vis dar stovi, nors to nepastebiu?",
+    "Koks mažas žingsnis padėtų man atsisukti į tiltą?"
+   ]
+  },
+  {
+   "id": 41,
+   "symbols": [
+    {
+     "s": "Du maži vaikai, vienas paduoda gėles kitam",
+     "m": "Nekaltas, nesavanaudiškas davimas; šiluma be sąlygų."
+    },
+    {
+     "s": "Taurės, pilnos baltų gėlių",
+     "m": "Prisiminimų grožis ir džiaugsmas paprastais dalykais."
+    },
+    {
+     "s": "Senoviškas kiemas su pastatais",
+     "m": "Sugrįžimas į pažįstamą vietą, namų ir vaikystės nuojauta."
+    },
+    {
+     "s": "Suaugęs žmogus fone, einantis tolyn",
+     "m": "Gyvenimas teka, o prisiminimai lieka kaip dovana."
+    }
+   ],
+   "story": [
+    "Šešetas tarote dažniausiai atneša harmoniją po sunkesnio penketo, ir Taurių šešetas yra švelniausias to pavyzdys. Po netekties ateina švelnumas: nuo sielvarto pereiname prie prisiminimų, kuriuose yra šilumos. Vaikai čia nesiderėja ir nieko neįrodinėja, jie tiesiog dalijasi tuo, kas gražu.",
+    "Šeštoji taurė kalba apie sugrįžimą: į vaikystę, į senus draugus, į vietą, kur kažkada buvo gera. Tai gali būti realus susitikimas, bet taip pat vidinis vaiko balsas, primenantis, kas jus džiugino prieš jums tampant suaugusiais. Korta nesiūlo gyventi praeitimi, tačiau parodo, kad praeityje yra dovanų, kurių vertę galime nebesuprasti. Pagrindinis klausimas: kokią seną šilumą galite parsinešti į dabartį, nepasiduodami ilgesiui, kuris iškreipia tikrovę?"
+   ],
+   "reversed": "Apversta korta rodo, kad nostalgija gali tapti spąstais: gyvenimas lyginamas su idealizuota praeitimi, o dabartis atrodo pilkesnė. Kartais tai senas ryšys, kuris vėl bando sugrįžti ir kuriam reikia atidesnio žvilgsnio. Švelniai paklauskite, kas buvo tikra, o kas tik suromantinta, ir ko dabar tikrai norite.",
+   "positions": {
+    "past": "Praeityje buvo gili, paprasta šiluma ar žmogus, kuris vis dar daro įtaką jūsų jausmams.",
+    "present": "Šiuo metu aktualūs prisiminimai, seni pažįstami ar sugrįžęs ryšys.",
+    "future": "Gali įvykti susitikimas po ilgo laiko arba dalykas, kuris primins vaikystės džiaugsmus.",
+    "obstacle": "Kliūtis – idealizuotas praeities vaizdas, dėl kurio dabartis atrodo skurdesnė.",
+    "advice": "Pasisemkite šilumos iš gero prisiminimo, bet nuspręskite, ko norite dabar.",
+    "outcome": "Rezultatas – nuoširdus susitaikymas su praeitimi ir šiltesnis santykis su savimi."
+   },
+   "feelings": "Šio žmogaus jausmai gali būti nostalgiški, švelnūs ir saugūs. Gali būti, kad jūs jam primenate ką nors gero ir pažįstamo. Verta atskirti, ar žmogus mato jus, ar tik senų laikų atspindį.",
+   "money": "Pinigų srityje tema – dovanos, paveldas, sena pažįstama veikla ar paprastas dosnumas. Korta kviečia pagalvoti, kas jums iš tikrųjų turi vertės, o ne tik naudos.",
+   "friendship": "Tai draugystė, kurią saugo ilgi metai: seni draugai, bendri prisiminimai, šeimos draugai. Gera proga paskambinti kam nors, su kuo seniai nekalbėjote.",
+   "spiritual": "Dvasiškai tai kelionė pas vidinį vaiką: žaismingumą, smalsumą, paprastą dėkingumą. Prisiminkite, kas vaikystėje teikė ramybę, ir pabandykite tai sugrąžinti į dabartį.",
+   "combos": [
+    {
+     "with": 19,
+     "text": "Su Saule vaikystės šviesa tampa gyva dabartimi."
+    },
+    {
+     "with": 40,
+     "text": "Su Taurių penketu švelnumas po sielvarto pasirodo kaip pirmas palengvėjimas."
+    },
+    {
+     "with": 0,
+     "text": "Su Kvailiu prisiminta nekalta šypsena virsta nauja pradžia."
+    },
+    {
+     "with": 36,
+     "text": "Su Taurių tūzu sena šiluma atveria naują jausmą."
+    },
+    {
+     "with": 45,
+     "text": "Su Taurių dešimtuku prisiminimai gali peraugti į šeimos šilumą."
+    }
+   ],
+   "questions": [
+    "Kas man vaikystėje teikė džiaugsmą ir ką iš to galėčiau grąžinti?",
+    "Ar tikrai norėčiau grįžti į praeitį, ar tik į jausmą, kurį ji suteikė?",
+    "Kam galėčiau paskambinti ar parašyti šią savaitę?"
+   ]
+  },
+  {
+   "id": 42,
+   "symbols": [
+    {
+     "s": "Septynios taurės, plaukiančios debesyse",
+     "m": "Vaizduotės pasiūlytos galimybės; jos skirtingos ir nė viena dar nėra realybė."
+    },
+    {
+     "s": "Taurėse – žmogaus galva, apsigaubusi figūra, gyvatė, pilis, brangenybės, vainikas, drakonas",
+     "m": "Tradiciškai šie vaizdai siejami su meile, paslaptimi, pagunda, saugumu, turtu, pergale ir baime – viskuo, kas gali užgožti pasirinkimą."
+    },
+    {
+     "s": "Žmogaus siluetas, nugara į žiūrovą",
+     "m": "Žvilgsnis į vidų; svajonė, matoma pačio, o ne pasaulio."
+    },
+    {
+     "s": "Tamsus, miglotas fonas",
+     "m": "Neaiškumas ir iliuzijos, kurias dar reikia atskirti nuo realybės."
+    }
+   ],
+   "story": [
+    "Septynetas tarote dažnai kalba apie išbandymus, vertinimą ir pasirinkimą. Taurių septynetas parodo, kaip daug dalykų mums gali rodytis esantys pasiekiami ir kaip sunku išsirinkti, kai visi atrodo viliojantys. Taurėse – skirtingos svajonės ir baimės, ir neaišku, kurios yra tikros.",
+    "Ši korta nesmerkia vaizduotės. Priešingai, jos reikia: nuo to prasideda kiekvienas kūrybinis ar gyvenimo pokytis. Bet ji įspėja, kad svajoti gali būti lengviau nei rinktis, o jei nesirenkama, tai, kas „galėtų būti“, gali virsti vieta, kurioje įstringama. Taurių septynetas klausia: kurią iš šių taurių tikrai norite paimti ir kokio žingsnio tam reikia? Kartais svarbu paklausti ir kitaip: kurios iš jų yra tik gražus vaizdas, o kurios – tai, kam esate pasirengę skirti laiko ir energijos?"
+   ],
+   "reversed": "Apversta korta rodo, kad rūkas pradeda sklaidytis. Pagaliau galima atskirti, kas tikra, o kas iliuzija, ir ryžtis vienam keliui. Kartais tai atrodo kaip nusivylimas, nes atsisakoma svajonių, bet tai ir išsilaisvinimas. Svarbu nepasiduoti naujam skubėjimui ir atidžiai paklausti savęs, ko iš tiesų norite.",
+   "positions": {
+    "past": "Praeityje daug svajojote ar turėjote daug galimybių ir ne visada pavyko pasirinkti.",
+    "present": "Šiuo metu prieš jus daug pasirinkimų ir fantazijų, kurias dar reikia išgryninti.",
+    "future": "Netrukus gali atsirasti keletas pasiūlymų, kuriuos reikės atsargiai įvertinti.",
+    "obstacle": "Kliūtis – nenoras rinktis, nes kiekviena galimybė atrodo viliojanti arba rizikinga.",
+    "advice": "Surašykite pasirinkimus, atskirkite svajones nuo planų ir pasirinkite vieną žingsnį.",
+    "outcome": "Rezultatas – aiškesnė kryptis ir sprendimas, kuris atitinka jūsų vertybes."
+   },
+   "feelings": "Šio žmogaus jausmai gali būti nevienareikšmiai: jis galbūt idealizuoja arba svarsto kelias galimybes. Kol nėra tikro pokalbio, lengva sukurti vaizdą, kuris neatitinka realybės. Verta pasiteirauti tiesiai ir klausytis konkrečių žodžių ir veiksmų.",
+   "money": "Pinigų srityje tema – daug pasiūlymų, idėjų ir pažadų, kuriuos svarbu atskirti nuo realių planų. Korta kviečia rinktis ramiai ir nepasiduoti gražiems pažadams.",
+   "friendship": "Draugystėje tai gali būti nerealistiški lūkesčiai kitam žmogui arba daug pažįstamų, bet mažai gilių ryšių. Verta paklausti, kas jums iš tikrųjų svarbu.",
+   "spiritual": "Dvasiškai tai vaizduotės ir simbolių laikas, kai verta rašyti sapnus ar vizijas, bet tik kaip priemonę pažinti save. Korta primena atskirti vidinį paveikslą nuo to, ką gyvenimas iš tikrųjų siūlo.",
+   "combos": [
+    {
+     "with": 18,
+     "text": "Su Mėnuliu iliuzijos tampa tirštesnės, ir verta lėtai ieškoti tikrų ženklų."
+    },
+    {
+     "with": 7,
+     "text": "Su Vežimu iš daugelio galimybių atsiranda viena kryptis."
+    },
+    {
+     "with": 11,
+     "text": "Su Teisingumu pasirinkimas remiasi aiškia, sąžininga logika."
+    },
+    {
+     "with": 0,
+     "text": "Su Kvailiu vaizduotė virsta drąsiu pirmu žingsniu."
+    },
+    {
+     "with": 43,
+     "text": "Su Taurių aštuonetu po svajonių ateina sprendimas palikti tai, kas netenkina."
+    }
+   ],
+   "questions": [
+    "Kurios iš mano svajonių yra planai, o kurios tik pabėgimas?",
+    "Ką pasirinkčiau, jei žinočiau, kad niekas manęs nevertins?",
+    "Koks vienas veiksmas šią savaitę priartintų mane prie vienos pasirinktos taurės?"
+   ]
+  },
+  {
+   "id": 43,
+   "symbols": [
+    {
+     "s": "Figūra raudonu apsiaustu ir lazda, einanti nuo taurių",
+     "m": "Sąmoningas pasitraukimas; nuovargis nuo to, kas nebeteikia prasmės."
+    },
+    {
+     "s": "Aštuonios taurės, sudėtos tvarkingomis eilėmis",
+     "m": "Sukaupta, tvarkinga, bet nebeteikianti pilnatvės; vienoje vietoje trūksta taurės."
+    },
+    {
+     "s": "Kalnai tolumoje",
+     "m": "Sunkesnis, bet prasmingesnis kelias aukštyn."
+    },
+    {
+     "s": "Mėnulis danguje",
+     "m": "Vidinė šviesa ir intuicija, vedanti kelią tamsoje."
+    },
+    {
+     "s": "Upelis prie jo kelio",
+     "m": "Jausmų srautas, kuris lydi kelionę."
+    }
+   ],
+   "story": [
+    "Aštuonetas tarote dažnai reiškia pokytį ar judėjimą, o Taurių aštuonetas kalba apie sprendimą, kuris neatsiranda dėl krizės, o iš tylaus suvokimo: to, ką turiu, jau nepakanka. Figūra palieka tvarkingai sudėtas taures, kuriose liko viena tuščia vieta, ir eina link kalnų, kur dar niekas neaišku. Tai ne bėgimas, o greičiau ryžtas.",
+    "Kartais sunkiausia palikti tai, kas iš šalies atrodo gerai: santykius, darbą ar įsitikinimus, kurie niekam nekenkia, bet nebemaitina. Ši korta pripažįsta, kad toks žingsnis skausmingas ir kad už jo nėra jokių garantijų. Mėnulis danguje rodo, kad kelionė vyksta naktį, jausmu, o ne planu. Svarbus klausimas: ar išeinate iš baimės, ar eidami link kažko, kas jums brangu? Ir ar jau išgyvenote tai, ką paliekate?"
+   ],
+   "reversed": "Apversta korta rodo atidėtą arba pusiaukelėje paliktą išėjimą. Galbūt baimė laiko vietoje, o gal ieškote išėjimo, nežinodami, ko ieškote. Kartais tai ir sugrįžimas, kai suvokiama, kad pirmykštė vieta vis dėlto buvo verta dėmesio. Svarbu neapgaudinėti savęs ir pasakyti, kas jus iš tikrųjų sulaiko.",
+   "positions": {
+    "past": "Praeityje palikote ar nutraukėte ką nors, kas nebeteikė prasmės, ir tai vis dar atsiliepia.",
+    "present": "Šiuo metu bręsta suvokimas, kad tai, kas yra, nebeatitinka jūsų ilgesio.",
+    "future": "Gali ateiti pokytis, kuris pareikalaus išeiti iš pažįstamos aplinkos, kad rastumėte daugiau prasmės.",
+    "obstacle": "Kliūtis – baimė prarasti pažįstamą ar bėgimas nuo problemos užuot jos išsprendus.",
+    "advice": "Ramiai įvardykite, ko trūksta, ir žingsnis po žingsnio eikite link to.",
+    "outcome": "Rezultatas – gilesnė prasmė ir vidinė laisvė, nors kelias gali būti ilgas."
+   },
+   "feelings": "Šio žmogaus jausmai gali būti prieštaringi: jam gali rūpėti jūs, bet kartu jis jaučia pilnatvės trūkumą. Kartais korta rodo, kad žmogus pasitraukia, nes jam reikia kito kelio, o ne todėl, kad jūs nepakankamai geri. Atvirai aptarti jausmus yra geriau nei spėlioti.",
+   "money": "Pinigų srityje tema – pasitraukimas iš darbo ar projekto, kuris atrodo saugus, bet nebeteikia prasmės. Korta nepataria, ar tai daryti, tik kviečia sąžiningai pasvarstyti.",
+   "friendship": "Draugystėje tai gali būti natūralus nutolimas, atsisveikinimas su ryšiais, kurie nebeaugo, ar poreikis ieškoti bendraminčių. Tai gali vykti be kaltės ir su dėkingumu.",
+   "spiritual": "Dvasiškai tai ieškojimo ir klajonių laikas, kai senieji atsakymai nebetinka. Korta ragina eiti lėtai, klausytis vidinės šviesos ir neskubėti ieškoti galutinio atsakymo.",
+   "combos": [
+    {
+     "with": 9,
+     "text": "Su Atsiskyrėliu išėjimas tampa sąmoningu ieškojimu."
+    },
+    {
+     "with": 0,
+     "text": "Su Kvailiu nežinomybė virsta nuotykiu."
+    },
+    {
+     "with": 13,
+     "text": "Su Mirtimi tai, ką paliekate, iš tikrųjų baigiasi ir tai priimama."
+    },
+    {
+     "with": 10,
+     "text": "Su Likimo ratu išėjimas sutampa su platesniu gyvenimo posūkiu."
+    },
+    {
+     "with": 44,
+     "text": "Su Taurių devynetu klausiama, ar pasitenkinimas tikras, ar tik išorinis."
+    }
+   ],
+   "questions": [
+    "Kas mano gyvenime atrodo gerai, bet nebemaitina?",
+    "Ar einu link kažko, ar tik bėgu nuo kažko?",
+    "Ko man reikėtų pasiimti su savimi, o ką ramiai palikti?"
+   ]
+  },
+  {
+   "id": 44,
+   "symbols": [
+    {
+     "s": "Vyras sėdi ant suolo, rankos sukryžiuotos",
+     "m": "Pasitenkinimas, savimi patenkintas žvilgsnis; kartu ir šiek tiek uždarumo."
+    },
+    {
+     "s": "Raudona kepurė",
+     "m": "Šiuolaikinėje tradicijoje – gyvybingumas ir malonumas."
+    },
+    {
+     "s": "Devynios taurės lanku jam už nugaros, ant mėlynu audiniu uždengto stalo",
+     "m": "Sukaupti ištekliai ir jausmų atsargos; jis rodo jas kaip pasiekimą."
+    },
+    {
+     "s": "Geltonas fonas",
+     "m": "Šiluma ir saulėta nuotaika."
+    }
+   ],
+   "story": [
+    "Devynetas tarote reiškia beveik užbaigtą ciklą, kai matyti sukauptas rezultatas. Taurių devynetas dažnai vadinamas „norų korta“: žmogus, sėdintis priešais savo taures, atrodo patenkintas ir ramus. Jis kviečia pasidžiaugti tuo, kas pasiekta, ir pripažinti, kad šį kartą pakanka.",
+    "Tai korta apie malonumą be kaltės. Po sunkių metų, netekčių ir ieškojimų Taurių devynetas tarsi sako: leiskite sau pasimėgauti. Tačiau yra ir subtilesnis sluoksnis: vyras sėdi vienas, rankos sukryžiuotos, o taurės išrikiuotos už jo nugaros. Gali būti, kad pasitenkinimas yra tikras, bet kartais jis primena atsitraukimą nuo to, kas gilesnio. Todėl korta klausia: ar mano džiaugsmas toks pilnas, kokį rodo, ir ar turiu su kuo juo pasidalyti? Ar yra kas nors artimo, bet neišsakyto?"
+   ],
+   "reversed": "Apversta korta rodo, kad pasitenkinimas tampa paviršutiniškas arba pavojingai savimi patenkintas. Gali būti, kad daug turite, bet nejaučiate pilnatvės, arba kad troškimai jau nebesustoja. Kartais tai tiesiog nepatenkinti norai. Verta paklausti, ko iš tikrųjų trūksta, nes tai dažnai ne daiktai.",
+   "positions": {
+    "past": "Praeityje patyrėte pasitenkinimo ar išsipildymo akimirką, kuri vis dar primena, ko norite.",
+    "present": "Šiuo metu galite būti savotiškoje pasiekimų viršūnėje ir turite pagrindo pasidžiaugti.",
+    "future": "Gali išsipildyti svarbus noras ar atsirasti proga pasidžiaugti tuo, kas pasiekta.",
+    "obstacle": "Kliūtis – pernelyg didelis pasitenkinimas, dėl kurio nebesiekiate daugiau, arba paviršutinis pasitenkinimas, kuris neteikia pilnatvės.",
+    "advice": "Padėkokite sau už tai, kas pasiekta, ir leiskite sau mėgautis be kaltės.",
+    "outcome": "Rezultatas – ramus pasitenkinimas ir gilesnis dėkingumas."
+   },
+   "feelings": "Šio žmogaus jausmai greičiausiai patenkinti ir ramūs. Jis gali jaustis gerai jūsų draugijoje arba apskritai būti geroje vietoje. Tačiau tai nebūtinai gilus įsipareigojimas, o kartais tik pasitenkinimas pačia akimirka.",
+   "money": "Pinigų srityje korta kalba apie pasitenkinimą savo ištekliais ir mėgavimąsi pasiekimais. Ji primena, kad pakankamumas yra jausmas, o ne vien skaičius.",
+   "friendship": "Draugystėje tai malonios, atsipalaidavusios akimirkos, geras stalas, gera kompanija. Verta pasidalyti savo gerove, nes ji lengviau jaučiama kartu.",
+   "spiritual": "Dvasiškai tai dėkingumo korta. Ji kviečia sąmoningai pastebėti, už ką dėkingi, ir pajusti pasitenkinimą jo nenuvertinant.",
+   "combos": [
+    {
+     "with": 19,
+     "text": "Su Saule džiaugsmas yra atviras ir šiltas."
+    },
+    {
+     "with": 21,
+     "text": "Su Pasauliu pasitenkinimas žymi užbaigtą kelionės etapą."
+    },
+    {
+     "with": 17,
+     "text": "Su Žvaigžde pasitenkinimas susijungia su viltimi ir ramia dėkingumo nuotaika."
+    },
+    {
+     "with": 45,
+     "text": "Su Taurių dešimtuku asmeninis pasitenkinimas gali peraugti į bendrą laimę."
+    },
+    {
+     "with": 43,
+     "text": "Su Taurių aštuonetu klausiama, ar pasitenkinimas tikras."
+    }
+   ],
+   "questions": [
+    "Už ką šiandien galiu padėkoti sau ir gyvenimui?",
+    "Ar mano pasitenkinimas tikras, ar slepia kažko trūkumą?",
+    "Su kuo norėčiau pasidalyti savo taurėmis?"
+   ]
+  },
+  {
+   "id": 45,
+   "symbols": [
+    {
+     "s": "Pora su iškeltomis rankomis",
+     "m": "Dėkingumas ir pasitikėjimas, dalijimasis laime."
+    },
+    {
+     "s": "Dešimt taurių vaivorykštės lanke",
+     "m": "Pilnatvė, jausmų visuma, dangaus palaiminimas."
+    },
+    {
+     "s": "Du vaikai, šokantys ar žaidžiantys",
+     "m": "Nekalta laimė, kuri auga iš saugumo."
+    },
+    {
+     "s": "Namas tarp medžių",
+     "m": "Bendri namai, saugumas, stabilumas."
+    },
+    {
+     "s": "Upė ir žalia kaimo vietovė",
+     "m": "Jausmų tėkmė, kuri teka natūraliu keliu, o ne priverstinai."
+    }
+   ],
+   "story": [
+    "Dešimtukas tarote žymi ciklo pabaigą ir pilnatvę. Taurių dešimtukas yra jausmų užbaigtumas: ne kovos laimėjimas ar turto sukaupimas, o buvimas tarp artimų žmonių, kai namai tikrai yra namai. Pora stovi atsukta į vaivorykštę ir tarsi dėkoja, o vaikai šoka.",
+    "Ši korta dažnai suvokiama kaip šeimos laimė, bet jos žinia platesnė: ji kalba apie bet kokį saugų ryšių tinklą, kuriame galima būti savimi, ir apie vertybes, kurios tampa bendros. Verta atsiminti, kad vaivorykštė kyla po lietaus, todėl šis džiaugsmas nėra naivus – jis dažnai išauga iš sunkesnių metų, kuriuos praėjote kartu. Korta klausia: ką jūs vadinate namais ir kam galite juos atverti? O jei dabar to trūksta, kokios mažos dalys jau yra ir ką galėtumėte padaryti, kad prie jų priartėtumėte?"
+   ],
+   "reversed": "Apversta korta rodo, kad idealus vaizdas gali nesutapti su tikrove. Šeimoje ar bendruomenėje atsiranda įtampos, nutylėjimų ar nerealių lūkesčių, kad „turi būti puiku“. Kartais tai dar tik kelias į harmoniją. Verta atsisakyti tobulumo reikalavimo ir pradėti nuo vieno nuoširdaus pokalbio.",
+   "positions": {
+    "past": "Praeityje buvo laikas, kai jautėtės saugūs ir mylimi, ir tai vis dar yra jūsų atspirties taškas.",
+    "present": "Šiuo metu aktualūs namai, šeima ir bendros vertybės – verta jais pasidžiaugti.",
+    "future": "Gali ateiti stabilesnis, šiltesnis laikotarpis, kuriame bendri tikslai ir saugumas tampa svarbesni.",
+    "obstacle": "Kliūtis – nerealūs lūkesčiai, kad viskas turi būti tobula, arba nutylėti nesutarimai.",
+    "advice": "Padėkokite artimiesiems ir kartu apgalvokite, ką norite išsaugoti.",
+    "outcome": "Rezultatas – jausmų išsipildymas ir pasitenkinimas bendrais namais."
+   },
+   "feelings": "Šio žmogaus jausmai linkę į ilgalaikį, bendrą, saugų ryšį: jam svarbu priklausymas ir stabilumas. Tai šilta korta, bet ji nenurodo konkretaus asmens, todėl pasikalbėkite apie tai, ko abu norite.",
+   "money": "Pinigų srityje tema – bendras šeimos ar bendruomenės gerovės jausmas, kuriam pinigai yra tik dalis. Korta pabrėžia, kad tikras turtas dažnai matuojamas ne vien sąskaita.",
+   "friendship": "Draugystėje tai artimas ratas, tapęs beveik šeima. Gera proga pakviesti draugus prie bendro stalo.",
+   "spiritual": "Dvasiškai tai pilnatvės ir dėkingumo korta: galite pamatyti, kad turite daugiau, nei manėte. Ji kviečia saugoti ryšius, kuriuos jau turite.",
+   "combos": [
+    {
+     "with": 19,
+     "text": "Su Saule šeimos šviesa yra visiška ir atvira."
+    },
+    {
+     "with": 21,
+     "text": "Su Pasauliu ryšių tinklas pasiekia užbaigtumą."
+    },
+    {
+     "with": 6,
+     "text": "Su Mylimaisiais laimė remiasi sąmoningu pasirinkimu kartu."
+    },
+    {
+     "with": 38,
+     "text": "Su Taurių trejetu bendrystė virsta šiltu namų ratu."
+    },
+    {
+     "with": 40,
+     "text": "Su Taurių penketu primena, kad pilnatvė kartais auga iš netekčių."
+    }
+   ],
+   "questions": [
+    "Ką aš vadinu namais ir kas juose man svarbiausia?",
+    "Kokio tobulumo laukiu iš savo artimųjų ir iš savęs?",
+    "Kam norėčiau padėkoti šią savaitę?"
+   ]
+  },
+  {
+   "id": 46,
+   "symbols": [
+    {
+     "s": "Jaunas žmogus mėlynu drabužiu su lotosų raštu",
+     "m": "Jautrumas, atvirumas, vandens ir jausmų pasaulis."
+    },
+    {
+     "s": "Žuvis, išnirusi iš taurės",
+     "m": "Netikėta žinia iš pasąmonės; idėja ar jausmas, kuris pats prabyla."
+    },
+    {
+     "s": "Jūra už nugaros",
+     "m": "Gili emocinė erdvė, kurioje gimsta nuojautos."
+    },
+    {
+     "s": "Kepurė su plevėsuojančia skarele",
+     "m": "Lengvumas, žaismingumas ir šiek tiek ekscentriškumo."
+    },
+    {
+     "s": "Figūra stovi ant kranto ir žiūri į taurę",
+     "m": "Dėmesys vidiniam pasauliui ir atsargus žvilgsnis."
+    }
+   ],
+   "story": [
+    "Pažas tarote yra pradedantysis, pasiuntinys, žinia. Taurių pažas yra jautriausias iš keturių: pažas sutinka jausmą ne kaip suaugęs, kuris iš karto žino, ką su juo daryti, o su nuostaba, nes iš taurės išnyra žuvis ir pažvelgia tiesiai į jį. Žuvis čia kalba apie tai, kas iškyla iš vidaus: nuojauta, sapnas, meninė idėja.",
+    "Kaip žmogaus tipas, Taurių pažas yra svajotojas, kūrybingas, švelnus ir lengvai sujaudinamas. Toks žmogus dažnai mato tai, ko kiti nemato, jaučia kitų nuotaikas ir mėgsta paprastus malonumus. Tačiau toks žmogus gali būti ir neryžtingas: sunkiai atsisako svajonių ir nelengvai gina save, kai tenka. Kaip žinia, korta gali reikšti romantišką pasiūlymą, kūrybinį impulsą ar tiesiog kvietimą nebijoti pasirodyti jautriam. Svarbu ne paneigti ją protu, o išklausyti ir paskui pasirinkti, ką su ta žinia daryti."
+   ],
+   "reversed": "Apversta korta rodo, kad jautrumas gali tapti per ūmus: lengva užsidaryti, pabėgti į fantazijas arba pasinerti į nuotaikų audras. Kartais žinia lieka neišgirsta, nes jos bijoma. Kartais tai nebrandumas, kuriam reikia augti. Švelniai įvardykite jausmus ir pasirūpinkite, kad jie neperimtų visko.",
+   "positions": {
+    "past": "Praeityje atėjo žinia, kūrybinė mintis ar švelnus jausmas, kuris palietė jus giliau, nei tikėjotės.",
+    "present": "Šiuo metu jautrumas ir kūrybiškumas yra aktyvūs, ir verta jų klausytis.",
+    "future": "Netrukus gali atsirasti žinia, kvietimas ar sumanymas, kuris atsiveria per jausmus.",
+    "obstacle": "Kliūtis – per didelis jautrumas ar svajonių pasaulis, kuris trukdo pasielgti praktiškai.",
+    "advice": "Išklausykite idėją ar jausmą ir pabandykite jį išreikšti žodžiais, piešiniu ar melodija.",
+    "outcome": "Rezultatas – kūrybinis augimas ir didesnis pasitikėjimas savo jausmais."
+   },
+   "feelings": "Šio žmogaus jausmai gali būti atviri, švelnūs, kartais nedrąsūs. Jei kas nors rašo ar rodo dėmesį, tai dažnai nuoširdu, bet gali būti dar nesubrendę. Atsakykite maloniai ir aiškiai – netrukus pamatysite, ar jausmas pasirengęs augti.",
+   "money": "Pinigų srityje tema – kūrybinės idėjos, menas, talentas ir poreikis jam rasti praktinę formą. Korta primena, kad vaizduotei paprastai reikia ir konkretaus plano.",
+   "friendship": "Draugystėje tai jautrus, kūrybingas draugas arba nauja pažintis, kuri jus nustebins. Verta būti švelniems ir nuoširdiems.",
+   "spiritual": "Dvasiškai tai vaizduotės, sapnų ir simbolių atvertas kelias. Korta kviečia stebėti vidines nuotaikas ir žinias be skubėjimo jų aiškinti.",
+   "combos": [
+    {
+     "with": 0,
+     "text": "Su Kvailiu žinia atneša naują pradžią ir drąsą parodyti pažeidžiamumą."
+    },
+    {
+     "with": 2,
+     "text": "Su Žyne intuicija ir sapnai pradeda kalbėti aiškiau."
+    },
+    {
+     "with": 36,
+     "text": "Su Taurių tūzu jausmas virsta konkrečia žinia."
+    },
+    {
+     "with": 42,
+     "text": "Su Taurių septynetu fantazijas reikia atskirti nuo plano."
+    },
+    {
+     "with": 18,
+     "text": "Su Mėnuliu jautrumas gali pasimaišyti su iliuzijomis, todėl verta pasitikrinti faktus."
+    }
+   ],
+   "questions": [
+    "Kokią žinią šiuo metu bando perduoti mano vidus?",
+    "Kaip galėčiau savo jautrumą paversti kūryba?",
+    "Kur savo svajones laikau per toli nuo realybės?"
+   ]
+  },
+  {
+   "id": 47,
+   "symbols": [
+    {
+     "s": "Riteris ant balto žirgo",
+     "m": "Švarūs ketinimai, romantika ir idealizmas."
+    },
+    {
+     "s": "Sparnuotas šalmas",
+     "m": "Žinios, įkvėpimas, lengvos mintys (kaip Hermio atributas)."
+    },
+    {
+     "s": "Taurė, laikoma priešais save",
+     "m": "Pasiūlymas, dovana, siūloma širdis."
+    },
+    {
+     "s": "Žuvys ant riterio tuniko",
+     "m": "Jausmų pasaulis, kuris jį varo."
+    },
+    {
+     "s": "Upė ir kalnai tolumoje",
+     "m": "Judėjimas per jausmų kraštovaizdį link tikslo."
+    }
+   ],
+   "story": [
+    "Riteris tarote veikia, keliauja, nešasi žinią. Taurių riteris yra romantikas: jis jodinėja neskubėdamas, žirgas eina lėtu žingsniu, o taurė laikoma atsargiai, kad niekas neišsilietų. Jis neina į mūšį, jis neša pasiūlymą, kvietimą, jausmą.",
+    "Kaip žmogaus tipas, tai žavus, kultūringas, jautrus žmogus, kuris gražiai kalba ir turi idealų. Toks žmogus gali įkvėpti, sujaudinti ir pasiūlyti ką nors tikrai gražaus. Tačiau silpnoji vieta – skirtumas tarp žodžių ir veiksmų: idealas dažnai ryškesnis nei kasdienybė. Kaip korta, ji kviečia žingsniu priartėti prie to, ką siūlo širdis, ir kartu paklausti: ar mano pažadai atitinka tai, ką galiu tęsti? Šis riteris moko, kad nuoširdumas gražiausias tada, kai jį lydi ištvermė."
+   ],
+   "reversed": "Apversta korta rodo, kad žavesys gali tapti apgaulingu: gražūs žodžiai be darbo, nuotaikų svyravimai ar pabėgimas nuo atsakomybės. Kartais tai tiesiog nusivylimas, kad idealas neatitiko realybės. Verta atidžiau žiūrėti į veiksmus ir būti sąžiningiems su savimi dėl lūkesčių.",
+   "positions": {
+    "past": "Praeityje buvo romantiškas pasiūlymas, gražus pažadas ar žmogus, kuris pažadino idealizmą.",
+    "present": "Šiuo metu aktualus pasiūlymas, kvietimas arba jūsų pačių poreikis veikti iš širdies.",
+    "future": "Gali ateiti kvietimas, romantiškas gestas ar kūrybinis pasiūlymas.",
+    "obstacle": "Kliūtis – žodžių ir veiksmų neatitikimas arba nerealūs lūkesčiai.",
+    "advice": "Sekite širdimi, bet patikrinkite, ar jūsų pažadai laikosi kasdienybėje.",
+    "outcome": "Rezultatas – romantiškas ar kūrybingas žingsnis, jei jis paremtas veiksmais."
+   },
+   "feelings": "Šio žmogaus jausmai gali būti nuoširdūs ir romantiški, tačiau gali kisti pagal nuotaiką. Pažiūrėkite, ar žodžiai paremti veiksmais ir pastovumu. Tai vienas geriausių būdų atskirti žavesį nuo tikro rūpesčio.",
+   "money": "Pinigų srityje tema – pasiūlymas, kvietimas ar idealistinis projektas, kuris traukia širdį. Korta primena paklausti, ar jis turi ir praktinį pagrindą.",
+   "friendship": "Draugystėje tai žavus, šiltas žmogus, kuris mėgsta gražius susitikimus ir gestus. Verta pastebėti, ar tuo galima pasikliauti.",
+   "spiritual": "Dvasiškai tai ieškojimas per širdį, poezija, muzika, kontempliacija. Korta kviečia keliauti link idealo ir kartu išlikti sąžiningam su savimi.",
+   "combos": [
+    {
+     "with": 6,
+     "text": "Su Mylimaisiais romantiškas pasiūlymas tampa sąmoningu pasirinkimu."
+    },
+    {
+     "with": 7,
+     "text": "Su Vežimu širdies kryptis gauna ryžto ir tikslo."
+    },
+    {
+     "with": 36,
+     "text": "Su Taurių tūzu dovana ateina kaip tikras gestas."
+    },
+    {
+     "with": 37,
+     "text": "Su Taurių dvejetu pasiūlymas sulaukia atsakymo."
+    },
+    {
+     "with": 18,
+     "text": "Su Mėnuliu romantika gali pasislėpti už iliuzijų, todėl vertinkite ramiai."
+    }
+   ],
+   "questions": [
+    "Ar mano žodžiai atitinka mano veiksmus?",
+    "Kokį idealą dabar nešu ir ar jis dar tinka?",
+    "Ką galėčiau padaryti, kad širdies pasiūlymas taptų realus?"
+   ]
+  },
+  {
+   "id": 48,
+   "symbols": [
+    {
+     "s": "Karalienė soste prie jūros kranto",
+     "m": "Emocinis gylis, valdomas ramiai; ji sėdi ties jausmų riba."
+    },
+    {
+     "s": "Puošni, uždara taurė su dangteliu",
+     "m": "Vidinis pasaulis, kurį ji prižiūri ir kuriuo žavisi, bet kuris nėra atviras visiems."
+    },
+    {
+     "s": "Soste iškalti jūriniai motyvai",
+     "m": "Ryšys su vandens, nuojautų ir pasąmonės pasauliu."
+    },
+    {
+     "s": "Akmenukai ir vanduo prie kojų",
+     "m": "Jausmų banga, siekianti ją, bet jos nenuplaunanti."
+    },
+    {
+     "s": "Karūna ir ilgas, banguojantis apdaras",
+     "m": "Branda ir vidinis orumas."
+    }
+   ],
+   "story": [
+    "Karalienė tarote reiškia brandą ir emocinį meistriškumą, o Taurių karalienė – brandų jautrumą. Ji sėdi prie jūros, bet ne vandenyje, ir žvelgia į savo taurę, kurią laiko tarsi brangenybę. Dangtelis ant taurės rodo, kad jos pasaulis gilus ir kad ji pati nusprendžia, ką ir kada atverti.",
+    "Kaip žmogaus tipas, tai empatiškas, intuityvus, rūpestingas žmogus, kuris jaučia kitų nuotaikas ir dažnai tampa patikimu patarėju. Toks žmogus moka klausytis ir sugeba būti šalia sunkią akimirką. Tačiau jos pavojus – paskęsti kitų jausmuose ar nepastebėti savų ribų. Korta kviečia gerbti savo jautrumą kaip talentą ir kartu leisti sau pailsėti. Ji klausia: ar mano atjauta turi kraštus, ir ar sugebu rūpintis savimi taip, kaip kitais? Ši karalienė žino, kad gylis nereiškia, jog reikia nuolat plaukti."
+   ],
+   "reversed": "Apversta korta rodo, kad jautrumas gali užlieti: sunku atskirti savus ir svetimus jausmus, atsiranda perdėtas prisirišimas ar užsidarymas. Kartais tai emocinis išsekimas, kai visko duota per daug. Verta pasitraukti prie kranto, nustatyti ribas ir grįžti prie savo poreikių.",
+   "positions": {
+    "past": "Praeityje turėjote ar sutikote žmogų, kuris gilų jausmą derino su rūpesčiu, ir tai suformavo jūsų požiūrį.",
+    "present": "Šiuo metu verta klausytis intuicijos ir rūpintis tiek kitais, tiek savimi.",
+    "future": "Gali atsirasti situacija, kurioje jautrumas ir empatija padės suprasti kitą.",
+    "obstacle": "Kliūtis – emocinis perkrovimas arba pernelyg tvirtas prisirišimas prie kitų jausmų.",
+    "advice": "Klausykite intuicijos, bet saugokite savo ribas ir leiskite sau pailsėti.",
+    "outcome": "Rezultatas – gilesnis supratimas ir ryšys, paremtas tikra atjauta."
+   },
+   "feelings": "Šio žmogaus jausmai paprastai gilūs, švelnūs ir rūpestingi, bet ne visada išreikšti žodžiais. Gali būti, kad jis labai jus jaučia, bet nedrąsiai tai rodo. Saugi, nesuvaržyta erdvė dažniausiai padeda jausmams pasireikšti.",
+   "money": "Pinigų srityje tema – darbas, kuriame svarbi atjauta, globa ar kūryba, ir poreikis nepamiršti ribų. Korta primena, kad jautrumas yra išteklius, kuriam taip pat reikia poilsio.",
+   "friendship": "Draugystėje tai patikimas žmogus, pas kurį galima ateiti su rūpesčiais. Svarbu, kad ir jis būtų išklausytas.",
+   "spiritual": "Dvasiškai tai intuicijos, sapnų ir vidinio klausymosi korta. Ji kviečia nusiraminti prie vandens, rašyti dienoraštį ir pasitikėti vidiniu žinojimu.",
+   "combos": [
+    {
+     "with": 2,
+     "text": "Su Žyne intuicija pasiekia didžiausią gylį."
+    },
+    {
+     "with": 8,
+     "text": "Su Stiprybe jautrumas virsta ramia drąsa."
+    },
+    {
+     "with": 14,
+     "text": "Su Nuosaikumu emocijos randa pusiausvyrą."
+    },
+    {
+     "with": 46,
+     "text": "Su Taurių pažu jautrus pradedantysis sutinka brandų globėją."
+    },
+    {
+     "with": 49,
+     "text": "Su Taurių karaliumi gilumas ir subrendusi savitvarda susijungia viename ryšyje."
+    }
+   ],
+   "questions": [
+    "Kur mano atjauta nustoja būti dovana ir tampa našta?",
+    "Kaip aš rūpinuosi savimi tuo metu, kai rūpinuosi kitais?",
+    "Ką man sako intuicija, kurios nepaisau?"
+   ]
+  },
+  {
+   "id": 49,
+   "symbols": [
+    {
+     "s": "Karalius, sėdintis soste ant jūros",
+     "m": "Emocinis meistriškumas: sprendimai, priimami audringoje aplinkoje."
+    },
+    {
+     "s": "Taurė vienoje rankoje, skeptras kitoje",
+     "m": "Jausmų ir valdžios pusiausvyra."
+    },
+    {
+     "s": "Žuvies amuletas ant krūtinės",
+     "m": "Ryšys su jausmų pasauliu, nešiojamas drauge su valdžia."
+    },
+    {
+     "s": "Laivas ir iššokanti žuvis fone",
+     "m": "Jūros gyvenimas, tėkmė; karaliaus pasaulis nėra ramus."
+    }
+   ],
+   "story": [
+    "Karalius tarote reiškia valdymą, meistriškumą ir atsakomybę. Taurių karalius yra emocinis lyderis: sėdi soste, kuris plūduriuoja neramioje jūroje, tačiau jis pats išlieka ramus. Jūra nenurimsta ir jis jos nesutramdo – jis tiesiog išmoko su ja gyventi.",
+    "Kaip žmogaus tipas, tai brandus, išmintingas, diplomatiškas žmogus, kuris jaučia ir kitus, ir save, bet nepasiduoda emocijų bangoms. Toks žmogus yra geras patarėjas, mediatorius, globėjas, kuris gali išklausyti ir nepulti spręsti už kitą. Jo klaida kartais yra per didelis santūrumas: jausmai uždaromi taip giliai, kad kiti jų nebemato, o kartais net ir jis pats. Korta kviečia klausti: kaip aš elgiuosi su emocijomis audros metu ir ar leidžiu sau jaustis, o ne tik tvarkytis? Tikras meistriškumas yra ne jausmų nebuvimas, o gebėjimas juos pasitelkti su atsakomybe."
+   ],
+   "reversed": "Apversta korta rodo, kad savitvarda tampa šalčiu arba, priešingai, nuotaikos pradeda valdyti sprendimus. Kartais atsiranda subtilus manipuliavimas jausmais ar slopinamas liūdesys, kuris vėliau išsiveržia. Verta atidžiai pažvelgti, ar ramybė yra tikra, ar tik kaukė, ir ar jums leidžiama jausti.",
+   "positions": {
+    "past": "Praeityje buvo žmogus ar jūsų pačių laikotarpis, kai sugebėjote išlikti ramūs audroje.",
+    "present": "Šiuo metu naudinga branda ir nuosaikumas: reikia išklausyti, o ne pulti spręsti.",
+    "future": "Gali atsirasti situacija, kurioje jums teks būti ramia atrama kitiems.",
+    "obstacle": "Kliūtis – emocijų slopinimas arba šaltumas, kuris kitiems atrodo kaip atstūmimas.",
+    "advice": "Išlikite ramūs ir sąžiningi, bet leiskite sau jausti, o ne tik tvarkytis.",
+    "outcome": "Rezultatas – emocinė branda ir santykiai, grįsti pasitikėjimu."
+   },
+   "feelings": "Šio žmogaus jausmai paprastai gilūs, bet santūriai išreikšti. Jis gali jus gerbti ir rūpintis jumis, nors tai rodo ne žodžiais, o patikimumu. Jei jaučiate nuotolį, švelnus pokalbis dažniausiai padeda labiau nei spėjimai.",
+   "money": "Pinigų srityje tema – atsakingas, ramus požiūris ir sprendimai, priimami be emocinės karštligės. Korta primena, kad nuosaikumas padeda ir tada, kai aplinkui audra.",
+   "friendship": "Draugystėje tai patikimas žmogus, pas kurį galima ateiti patarimo ir kuris nepuola teisti. Svarbu, kad ir jis turėtų, kam atsiverti.",
+   "spiritual": "Dvasiškai tai savitvardos ir vidinės pusiausvyros korta, kviečianti derinti jausmą ir išmintį. Kartais pakanka kelių ramių įkvėpimų prieš atsakant.",
+   "combos": [
+    {
+     "with": 11,
+     "text": "Su Teisingumu emocinė branda pasirodo sąžiningu sprendimu."
+    },
+    {
+     "with": 14,
+     "text": "Su Nuosaikumu pusiausvyra tampa ramiu gyvenimo būdu."
+    },
+    {
+     "with": 4,
+     "text": "Su Imperatoriumi atsakomybė derinama su jautrumu."
+    },
+    {
+     "with": 48,
+     "text": "Su Taurių karaliene du brandūs, jautrūs žmonės susitinka lygiavertėje partnerystėje."
+    },
+    {
+     "with": 13,
+     "text": "Su Mirtimi užbaigiamas etapas priimamas be dramos."
+    }
+   ],
+   "questions": [
+    "Kaip elgiuosi su savo emocijomis audros metu?",
+    "Ar leidžiu sau jausti, o ne tik valdyti?",
+    "Kam galėčiau tapti ramia atrama ir kas gali būti ja man?"
+   ]
+  }
+ ]
+}

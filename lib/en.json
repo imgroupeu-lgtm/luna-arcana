@@ -1,0 +1,1655 @@
+{
+  "labels": {
+    "kwUp": "Keywords",
+    "kwRev": "Reversed",
+    "about": "About the card",
+    "love": "Love",
+    "work": "Work",
+    "advice": "Advice",
+    "element": "Element",
+    "astro": "Astrology",
+    "number": "Number",
+    "open": "Read more about the card",
+    "close": "Close"
+  },
+  "cards": [
+    {
+      "kw_up": [
+        "new beginnings",
+        "spontaneity",
+        "trust",
+        "openness"
+      ],
+      "kw_rev": [
+        "carelessness",
+        "naivety",
+        "fumbling",
+        "haste"
+      ],
+      "about": "A young wanderer stands at the edge of a cliff with a small bundle over his shoulder, a dog at his heels and the sun shining behind him. The card is about the first step, and meeting life with open eyes and a light heart.",
+      "love": "In love, the Fool can point to a new and unpredictable beginning, or to a wish to meet someone without expectations. It can also remind you to watch your step a little.",
+      "work": "At work, it may be about daring something new or trying an unfamiliar path. It can help to balance the enthusiasm with a simple plan.",
+      "advice": "Let curiosity lead you, but bring along what you already know.",
+      "element": "Air",
+      "astro": "Air (Golden Dawn)",
+      "number": "Zero: potential, the emptiness before everything begins"
+    },
+    {
+      "kw_up": [
+        "will",
+        "action",
+        "skill",
+        "focus"
+      ],
+      "kw_rev": [
+        "manipulation",
+        "scattered energy",
+        "untapped talent",
+        "plans without action"
+      ],
+      "about": "A figure stands at an altar with a wand raised to the sky and one hand pointing to the earth, with all four symbols laid out before him. Above his head floats the infinity sign, an image of thought and action being connected.",
+      "love": "In relationships, the card can speak of showing yourself clearly and taking the initiative for an honest conversation. It also reminds you to be sincere, without playing games.",
+      "work": "At work, it suggests you have the tools you need and that the time may be right to use them. Focus is the key.",
+      "advice": "Gather your strength in one place and begin.",
+      "element": "Air",
+      "astro": "Mercury",
+      "number": "One: will, beginnings and conscious creative power"
+    },
+    {
+      "kw_up": [
+        "intuition",
+        "stillness",
+        "hidden knowledge",
+        "inner listening"
+      ],
+      "kw_rev": [
+        "secrets",
+        "ignored gut feeling",
+        "confusion",
+        "withdrawal"
+      ],
+      "about": "A woman sits between a light and a dark pillar, with a veil behind her and a moon at her feet. She holds a scroll whose contents are only half visible, and the card is about what lies beneath the surface.",
+      "love": "In love, the card can invite you to listen to what is not said, in yourself and in the other person. Patience can bring more clarity than quick answers.",
+      "work": "At work, it may be time to observe before you decide. Not everything needs to be explained right away.",
+      "advice": "Be still for a while and notice what you actually know.",
+      "element": "Water",
+      "astro": "Moon",
+      "number": "Two: duality, balance between the seen and the hidden"
+    },
+    {
+      "kw_up": [
+        "care",
+        "abundance",
+        "creative joy",
+        "sensuality"
+      ],
+      "kw_rev": [
+        "dependency",
+        "smothering care",
+        "stagnation",
+        "forgetting yourself"
+      ],
+      "about": "A crowned woman rests in a green landscape with ears of grain and a flowing stream, surrounded by nature in full bloom. The card stands for fertility, pleasure and what grows when it is nourished.",
+      "love": "In love, it is about warmth, tenderness, and giving and receiving care. It can also remind you to look after yourself.",
+      "work": "At work, it can point to creative projects that are allowed to grow at their own pace. Quality and nurturing often bear better fruit than haste.",
+      "advice": "Nourish what you want to grow, yourself included.",
+      "element": "Water",
+      "astro": "Venus",
+      "number": "Three: growth, creative power and expression"
+    },
+    {
+      "kw_up": [
+        "structure",
+        "stability",
+        "authority",
+        "responsibility"
+      ],
+      "kw_rev": [
+        "rigidity",
+        "need for control",
+        "inflexibility",
+        "abuse of power"
+      ],
+      "about": "A crowned man sits on a stone throne adorned with rams' heads, holding a sceptre and an orb, with a red cloak over his armour. He stands for order, boundaries and the ability to build something that lasts.",
+      "love": "In love, the card can speak of security, loyalty and clear boundaries. It can also ask you to see whether a need for control is taking the place of closeness.",
+      "work": "At work, it is about leadership, planning and taking responsibility. Good frameworks can free up energy, as long as they do not become a cage.",
+      "advice": "Create structure that supports you, not one that shuts you in.",
+      "element": "Fire",
+      "astro": "Aries",
+      "number": "Four: foundation, order and stability"
+    },
+    {
+      "kw_up": [
+        "tradition",
+        "guidance",
+        "community",
+        "learning"
+      ],
+      "kw_rev": [
+        "breaking with norms",
+        "dogma",
+        "following others blindly",
+        "independence"
+      ],
+      "about": "A religious figure sits between two pillars with a hand raised in blessing, two disciples kneeling before him and keys at his feet. The card is about handed-down wisdom and the shared values we live by.",
+      "love": "In love, it can concern commitment, shared values and perhaps rituals that bind two people together. It can also ask what you yourself believe in.",
+      "work": "At work, the card can point to mentors, education and steady routines. It can be useful to learn from those who have walked the path before.",
+      "advice": "Seek advice from someone you trust, but test it against your own understanding.",
+      "element": "Earth",
+      "astro": "Taurus",
+      "number": "Five: seeking meaning, learning and tradition"
+    },
+    {
+      "kw_up": [
+        "choice",
+        "union",
+        "values",
+        "harmony"
+      ],
+      "kw_rev": [
+        "indecision",
+        "imbalance",
+        "disagreement",
+        "unclear values"
+      ],
+      "about": "Two figures stand naked beneath an angel, with a tree behind each of them, one bearing fruit and one flames. The card is about a choice that comes from the heart and what happens when two sides meet.",
+      "love": "In love, this is about deep connection and choosing each other consciously. It can also concern a choice that calls for honesty.",
+      "work": "At work, it points to a crossroads where your values should weigh heavily. Cooperation can become a strength.",
+      "advice": "Choose what matches who you really are.",
+      "element": "Air",
+      "astro": "Gemini",
+      "number": "Six: harmony, choice and mutuality"
+    },
+    {
+      "kw_up": [
+        "drive",
+        "victory",
+        "self-control",
+        "direction"
+      ],
+      "kw_rev": [
+        "lack of direction",
+        "aggression",
+        "lost control",
+        "obstacles"
+      ],
+      "about": "A young warrior stands in a chariot drawn by two sphinxes, one light and one dark, beneath a starry canopy. No reins are visible, since will steers the journey.",
+      "love": "In love, the card can point to focused effort and the ability to hold your course through a demanding period. It can also remind you to listen, not just push ahead.",
+      "work": "At work, it is about progress, concentration and gathering opposing forces towards a shared goal.",
+      "advice": "Hold both forces in your hand and choose a direction.",
+      "element": "Water",
+      "astro": "Cancer",
+      "number": "Seven: willpower, momentum and mastery"
+    },
+    {
+      "kw_up": [
+        "courage",
+        "patience",
+        "gentle power",
+        "confidence"
+      ],
+      "kw_rev": [
+        "self-doubt",
+        "raw force",
+        "impatience",
+        "vulnerability"
+      ],
+      "about": "A woman gently closes the jaws of a lion, while the infinity sign floats above her head. The card shows that true strength is often soft, calm and persistent.",
+      "love": "In love, it is about tenderness and patience, and about meeting your own and others' vulnerable sides with warmth.",
+      "work": "At work, it can speak of handling pressure with calm and steady strength. Perseverance often beats commotion.",
+      "advice": "Meet what frightens you with gentleness and a steady hand.",
+      "element": "Fire",
+      "astro": "Leo",
+      "number": "Eight: inner strength, endurance and balance"
+    },
+    {
+      "kw_up": [
+        "insight",
+        "solitude",
+        "searching",
+        "guidance"
+      ],
+      "kw_rev": [
+        "isolation",
+        "withdrawal",
+        "loneliness",
+        "avoiding others"
+      ],
+      "about": "An old man stands on a snow-covered mountaintop with a lantern lighting up a small star and a staff in his other hand. The card shows a quiet search for your own truth.",
+      "love": "In love, the card can mean you need time alone to understand what you want. It can also remind you that closeness requires knowing yourself.",
+      "work": "At work, it can concern deep focus, study or a break from the noise to think clearly.",
+      "advice": "Make time for stillness and let the lantern light your own way.",
+      "element": "Earth",
+      "astro": "Virgo",
+      "number": "Nine: completion, reflection and inner guidance"
+    },
+    {
+      "kw_up": [
+        "cycles",
+        "change",
+        "turns of fate",
+        "progress"
+      ],
+      "kw_rev": [
+        "setbacks",
+        "resistance to change",
+        "bad luck",
+        "repetition"
+      ],
+      "about": "A great wheel with symbols and letters floats in the sky, surrounded by wings, a sphinx, a snake and a creature in each corner. The card reminds us that everything moves in cycles and nothing stays in the same form.",
+      "love": "In love, the card can mark a turning point, either a new phase or the breaking of an old pattern. It encourages you to go with the movement.",
+      "work": "At work, it points to change and opportunities opening up, and to adapting to new circumstances.",
+      "advice": "Stay flexible, for the wheel keeps turning.",
+      "element": "Fire",
+      "astro": "Jupiter",
+      "number": "Ten: a full cycle, a new level beginning"
+    },
+    {
+      "kw_up": [
+        "balance",
+        "truth",
+        "responsibility",
+        "cause and effect"
+      ],
+      "kw_rev": [
+        "injustice",
+        "imbalance",
+        "evasion",
+        "avoiding responsibility"
+      ],
+      "about": "A figure sits on a throne with a sword in one hand and scales in the other, between two pillars and with a veil behind. The card is about honesty and the consequences of our choices.",
+      "love": "In love, it is about fairness, open communication and mutual respect. Keep your word and be clear.",
+      "work": "At work, it can point to agreements, assessments and decisions that call for objectivity and clear facts.",
+      "advice": "Be honest, with yourself too, and weigh it up.",
+      "element": "Air",
+      "astro": "Libra",
+      "number": "Eleven: balance, weighing up and responsibility"
+    },
+    {
+      "kw_up": [
+        "pause",
+        "new perspective",
+        "surrender",
+        "patience"
+      ],
+      "kw_rev": [
+        "delay",
+        "stagnation",
+        "resistance",
+        "needless sacrifice"
+      ],
+      "about": "A man hangs upside down from a tree by one foot, yet his face is calm and surrounded by a glow. The card is about letting go, waiting and seeing the world from another angle.",
+      "love": "In love, the card can speak of letting things mature or seeing the situation from the other person's side. Pressure rarely moves things forward.",
+      "work": "At work, it can mean a pause, a detour or necessary patience before the next step.",
+      "advice": "Let go for a moment and see what changes.",
+      "element": "Water",
+      "astro": "Water",
+      "number": "Twelve: surrender and a changed view"
+    },
+    {
+      "kw_up": [
+        "endings",
+        "transformation",
+        "release",
+        "new chapter"
+      ],
+      "kw_rev": [
+        "resistance to change",
+        "stuckness",
+        "unfinished business",
+        "fear of endings"
+      ],
+      "about": "A skeleton rider on a white horse carries a black banner with a white rose, while people of different stages of life stand before him. The card is rarely about literal death, but about endings that make room for something new.",
+      "love": "In love, the card can mark that a phase is over and there is a need to let go. This can also open the way to deeper honesty.",
+      "work": "At work, it can concern a project or role coming to an end. That frees up space for something else.",
+      "advice": "Let what is finished be finished.",
+      "element": "Water",
+      "astro": "Scorpio",
+      "number": "Thirteen: endings and transformation"
+    },
+    {
+      "kw_up": [
+        "balance",
+        "moderation",
+        "patience",
+        "harmony"
+      ],
+      "kw_rev": [
+        "imbalance",
+        "extremes",
+        "haste",
+        "lack of coherence"
+      ],
+      "about": "An angel stands with one foot in water and the other on land, pouring liquid back and forth between two cups. The card is about blending, rhythm and finding a golden middle way.",
+      "love": "In love, this is about finding a steady rhythm and blending different needs with care.",
+      "work": "At work, it can point to a balanced pace and cooperation where different strengths complement each other.",
+      "advice": "Find your centre and let things blend at a calm pace.",
+      "element": "Fire",
+      "astro": "Sagittarius",
+      "number": "Fourteen: adaptation, blending and balance"
+    },
+    {
+      "kw_up": [
+        "bondage",
+        "temptation",
+        "shadow",
+        "materialism"
+      ],
+      "kw_rev": [
+        "liberation",
+        "breaking habits",
+        "reclaimed power",
+        "insight"
+      ],
+      "about": "A horned figure sits on a pedestal, and two naked figures are chained to it with loose chains. The card shows the habits and attachments we have created ourselves, often without seeing them.",
+      "love": "In love, the card can point to attraction, dependency or patterns that hold us fast. It invites you to see them clearly.",
+      "work": "At work, it can concern habits or ambitions that take more than they give, and the question of what really governs you.",
+      "advice": "See what binds you, for the chains often sit looser than they look.",
+      "element": "Earth",
+      "astro": "Capricorn",
+      "number": "Fifteen: shadow, desire and bondage"
+    },
+    {
+      "kw_up": [
+        "upheaval",
+        "revelation",
+        "shock",
+        "awakening"
+      ],
+      "kw_rev": [
+        "avoiding disaster",
+        "fear of change",
+        "delayed collapse",
+        "gradual change"
+      ],
+      "about": "A tower on a cliff is struck by lightning, with flames and a falling crown, as two figures throw themselves out. The card shows that false structures can fall so that something truer can be built.",
+      "love": "In love, the card can mark a sudden insight or a change that shakes what felt safe. It can leave room for more honest relationships.",
+      "work": "At work, it can point to sudden changes or to something unsustainable becoming clear, and a need to build anew.",
+      "advice": "See what falls as an opening, and build on solid ground.",
+      "element": "Fire",
+      "astro": "Mars",
+      "number": "Sixteen: upheaval and breakthrough"
+    },
+    {
+      "kw_up": [
+        "hope",
+        "renewal",
+        "inspiration",
+        "calm"
+      ],
+      "kw_rev": [
+        "discouragement",
+        "lack of faith",
+        "exhaustion",
+        "disconnection"
+      ],
+      "about": "A naked woman pours water from two jugs, one into a pond and the other onto the earth, beneath a large star surrounded by smaller ones. The card stands for quiet hope, healing rest and trust that the light returns.",
+      "love": "In love, it is about openness, trust and sharing what you carry. It is a card of reconciling calm.",
+      "work": "At work, it points to a way forward after a heavy period, and to ideas that come on their own when you breathe calmly.",
+      "advice": "Hold on to hope and let it be quiet for a while.",
+      "element": "Air",
+      "astro": "Aquarius",
+      "number": "Seventeen: hope, inspiration and clarity"
+    },
+    {
+      "kw_up": [
+        "dreams",
+        "intuition",
+        "illusion",
+        "the unconscious"
+      ],
+      "kw_rev": [
+        "confusion lifting",
+        "fear",
+        "clarity",
+        "truth coming out"
+      ],
+      "about": "The moon shines over a path between two towers, while a dog and a wolf howl and a crayfish crawls up from a pool. The card is about half-light, dreams and the feelings we do not quite understand.",
+      "love": "In love, the card can point to uncertainty and strong feelings that cannot be explained right away. Give it time and ask honest questions.",
+      "work": "At work, things may be unclear, and it can be wise to wait with big decisions until the picture is clearer.",
+      "advice": "Go slowly and trust what you feel, but check it against daylight.",
+      "element": "Water",
+      "astro": "Pisces",
+      "number": "Eighteen: the unconscious, dreams and illusion"
+    },
+    {
+      "kw_up": [
+        "joy",
+        "vitality",
+        "clarity",
+        "success"
+      ],
+      "kw_rev": [
+        "temporary shadow",
+        "over-optimism",
+        "delayed joy",
+        "burnout"
+      ],
+      "about": "A naked child rides a white horse beneath a large sun, with sunflowers behind a wall and a red banner in hand. The card stands for warmth, clarity and the simple joy of being alive.",
+      "love": "In love, it is about openness, playfulness and delighting in each other. Honesty brings light.",
+      "work": "At work, it can speak of progress and energy, and of being visible in a natural way.",
+      "advice": "Recharge in what gives you joy, and let it show.",
+      "element": "Fire",
+      "astro": "Sun",
+      "number": "Nineteen: vitality, joy and clarity"
+    },
+    {
+      "kw_up": [
+        "awakening",
+        "calling",
+        "renewal",
+        "reflection"
+      ],
+      "kw_rev": [
+        "self-criticism",
+        "ignoring the call",
+        "doubt",
+        "unresolved questions"
+      ],
+      "about": "An angel blows a trumpet over a sea, and people rise from their graves with outstretched arms. The card is about waking up, taking stock and answering an inner call.",
+      "love": "In love, the card can mark a new understanding and forgiveness, of yourself and of others.",
+      "work": "At work, it points to an assessment of the road so far and a possible change that feels right.",
+      "advice": "Listen to the call and take stock with gentleness.",
+      "element": "Fire",
+      "astro": "Fire",
+      "number": "Twenty: awakening and renewal"
+    },
+    {
+      "kw_up": [
+        "completion",
+        "wholeness",
+        "achievement",
+        "integration"
+      ],
+      "kw_rev": [
+        "unfinished",
+        "missing the last step",
+        "delay",
+        "stagnation"
+      ],
+      "about": "A dancer floats in a wreath of leaves, surrounded by the figures of the four corners: an angel, an eagle, a bull and a lion. The card marks a circle closing and a new one that can open.",
+      "love": "In love, it is about wholeness and contentment, and about two life paths finding their rhythm.",
+      "work": "At work, the card marks the completion of a course and recognition of what has been achieved, before the next chapter.",
+      "advice": "Take time to celebrate what you have completed.",
+      "element": "Earth",
+      "astro": "Saturn",
+      "number": "Twenty-one: fulfilment and wholeness"
+    },
+    {
+      "kw_up": [
+        "new inspiration",
+        "spark",
+        "drive",
+        "opportunity"
+      ],
+      "kw_rev": [
+        "delay",
+        "lack of drive",
+        "lost spark",
+        "postponed start"
+      ],
+      "about": "A hand holds out a budding wand from a cloud above a landscape of mountains and a river. The card is a spark of pure energy, the seed of an idea waiting to be lit.",
+      "love": "In love, it can be a new passion, a spark or a wish to take the initiative.",
+      "work": "At work, it can mean a new idea or a project with energy in it.",
+      "advice": "Seize the spark while it is warm.",
+      "element": "Fire",
+      "astro": "Root of Fire: the pure power of the element",
+      "number": "One: seed and beginning"
+    },
+    {
+      "kw_up": [
+        "planning",
+        "choice",
+        "overview",
+        "courage"
+      ],
+      "kw_rev": [
+        "fear of the unknown",
+        "poor planning",
+        "hesitation",
+        "staying with the familiar"
+      ],
+      "about": "A man stands on a castle wall with a glass globe in his hand and a wand beside him, looking out over the sea. The card is about choosing the next goal and aiming further than today.",
+      "love": "In love, the card can ask what you want for the future and invite you to share your plans.",
+      "work": "At work, it is about planning, weighing alternatives and daring to aim further.",
+      "advice": "Look ahead and choose a direction.",
+      "element": "Fire",
+      "astro": "Mars in Aries",
+      "number": "Two: choice and duality"
+    },
+    {
+      "kw_up": [
+        "expansion",
+        "progress",
+        "outlook",
+        "first results"
+      ],
+      "kw_rev": [
+        "obstacles",
+        "delays",
+        "disappointed expectations",
+        "patience required"
+      ],
+      "about": "A man stands on a cliff with his back turned, looking out over a sea where ships sail away, leaning on a wand with two more planted beside him. The card shows that earlier effort is beginning to bear first fruit.",
+      "love": "In love, it can mean looking ahead to something bigger together, or waiting for a connection to grow.",
+      "work": "At work, it points to expansion, cooperation across teams, or earlier effort beginning to pay off.",
+      "advice": "Keep watch and trust what you have sown.",
+      "element": "Fire",
+      "astro": "Sun in Aries",
+      "number": "Three: growth and expression"
+    },
+    {
+      "kw_up": [
+        "celebration",
+        "home",
+        "security",
+        "community"
+      ],
+      "kw_rev": [
+        "unrest at home",
+        "lack of community",
+        "dissolution",
+        "uncertainty"
+      ],
+      "about": "Four wands form a blooming arch with a garland above, and people celebrate in the foreground in front of a castle. The card is about a safe harbour and the joy of reaching a first anchor point.",
+      "love": "In love, it is about security, celebration and a sense of belonging.",
+      "work": "At work, it can point to a milestone or a good working atmosphere.",
+      "advice": "Pause and celebrate what has been built.",
+      "element": "Fire",
+      "astro": "Venus in Aries",
+      "number": "Four: stability and foundation"
+    },
+    {
+      "kw_up": [
+        "competition",
+        "disagreement",
+        "disorder",
+        "testing"
+      ],
+      "kw_rev": [
+        "avoiding conflict",
+        "agreement",
+        "strife ended",
+        "inner tension"
+      ],
+      "about": "Five young men swing wands against one another in a chaotic and energetic game. The card is about friction, rivalry and differing opinions colliding.",
+      "love": "In love, it can point to disagreements or differing needs. Constructive dialogue can make the difference.",
+      "work": "At work, it can concern competition or differing ideas that need handling.",
+      "advice": "Let your differences challenge you, not divide you.",
+      "element": "Fire",
+      "astro": "Saturn in Leo",
+      "number": "Five: challenge and instability"
+    },
+    {
+      "kw_up": [
+        "victory",
+        "recognition",
+        "confidence",
+        "progress"
+      ],
+      "kw_rev": [
+        "self-doubt",
+        "lack of recognition",
+        "a fall",
+        "humiliation"
+      ],
+      "about": "A rider on a white horse carries a laurel wreath on his wand while people cheer around him. The card shows pride after succeeding and the joy of being seen.",
+      "love": "In love, it can concern confidence and recognition, and sharing joy in what has been achieved.",
+      "work": "At work, it can point to a success or good result that gets noticed.",
+      "advice": "Accept the recognition, but keep your feet on the ground.",
+      "element": "Fire",
+      "astro": "Jupiter in Leo",
+      "number": "Six: harmony and recognition"
+    },
+    {
+      "kw_up": [
+        "defence",
+        "perseverance",
+        "taking a stand",
+        "courage"
+      ],
+      "kw_rev": [
+        "overwhelm",
+        "giving up",
+        "withdrawal",
+        "exhaustion"
+      ],
+      "about": "A man stands on a hilltop defending himself with a wand against six others coming from below. The card is about holding your ground for what you believe in.",
+      "love": "In love, it is about standing up for your own boundaries and values.",
+      "work": "At work, it can point to outside pressure and the need to hold on to your own position.",
+      "advice": "Stand for what you believe, without spending all your strength on the fight.",
+      "element": "Fire",
+      "astro": "Mars in Leo",
+      "number": "Seven: trial and steadfastness"
+    },
+    {
+      "kw_up": [
+        "speed",
+        "momentum",
+        "swift action",
+        "news"
+      ],
+      "kw_rev": [
+        "delays",
+        "haste",
+        "frustration",
+        "a halt"
+      ],
+      "about": "Eight wands fly through the air above a landscape without people. The card is about speed, movement and things happening fast.",
+      "love": "In love, it can mean quick contact or a development picking up speed, and a need to check that your feelings keep pace.",
+      "work": "At work, it can speak of news, travel or projects suddenly gathering speed.",
+      "advice": "Use the speed, but keep track of where you are.",
+      "element": "Fire",
+      "astro": "Mercury in Sagittarius",
+      "number": "Eight: movement and momentum"
+    },
+    {
+      "kw_up": [
+        "perseverance",
+        "resilience",
+        "vigilance",
+        "final effort"
+      ],
+      "kw_rev": [
+        "exhaustion",
+        "paranoia",
+        "giving up",
+        "vulnerability"
+      ],
+      "about": "A bandaged man leans on a wand in front of eight others standing like a wall behind him. The card is about holding out after a long struggle and gathering the last of your strength.",
+      "love": "In love, it can point to caution after earlier wounds and patient trust.",
+      "work": "At work, it is about perseverance and finishing even when you are tired.",
+      "advice": "Hold on a little longer, and remember to rest.",
+      "element": "Fire",
+      "astro": "Moon in Sagittarius",
+      "number": "Nine: nearly complete, endurance"
+    },
+    {
+      "kw_up": [
+        "burden",
+        "responsibility",
+        "toil",
+        "completion"
+      ],
+      "kw_rev": [
+        "putting down the burden",
+        "delegating",
+        "breakdown",
+        "overload"
+      ],
+      "about": "A man carries ten wands in his arms towards a town in the distance, bent under the weight. The card is about responsibility that has grown heavy and what we take on.",
+      "love": "In love, it can show that you are carrying too much alone, and that sharing would lighten the load.",
+      "work": "At work, it is about workload and the need to prioritise or ask for help.",
+      "advice": "See what you can put down or share.",
+      "element": "Fire",
+      "astro": "Saturn in Sagittarius",
+      "number": "Ten: overload and completion"
+    },
+    {
+      "kw_up": [
+        "curiosity",
+        "enthusiasm",
+        "news",
+        "exploration"
+      ],
+      "kw_rev": [
+        "impatience",
+        "scatteredness",
+        "no news arriving",
+        "haste"
+      ],
+      "about": "A young messenger stands in a desert with a blossoming wand and looks at it. The card stands for a young spark, playfulness and curiosity.",
+      "love": "In love, it can be enthusiasm, flirtation or new possibilities.",
+      "work": "At work, it can concern a new idea or learning that gives energy.",
+      "advice": "Do something playful and stay open to the new.",
+      "element": "Fire",
+      "astro": "Earth of Fire (elemental tradition)",
+      "number": "Page: messenger and beginner"
+    },
+    {
+      "kw_up": [
+        "adventurousness",
+        "drive",
+        "charisma",
+        "speed"
+      ],
+      "kw_rev": [
+        "hot temper",
+        "restlessness",
+        "impatience",
+        "moodiness"
+      ],
+      "about": "A knight on a rearing horse carries a wand in a desert-like scene. The card stands for bold energy, wanderlust and eagerness to conquer new goals.",
+      "love": "In love, it can be passion and excitement, but also a need to stay the course.",
+      "work": "At work, it is about enterprising spirit and speed, often with a need for stamina.",
+      "advice": "Channel your eagerness in one direction.",
+      "element": "Fire",
+      "astro": "Fire of Fire (elemental tradition)",
+      "number": "Knight: movement and action"
+    },
+    {
+      "kw_up": [
+        "confidence",
+        "warmth",
+        "charisma",
+        "independence"
+      ],
+      "kw_rev": [
+        "jealousy",
+        "demanding nature",
+        "unpredictability",
+        "insecurity"
+      ],
+      "about": "A crowned woman sits on a throne with a sunflower and a black cat at her feet, holding a wand. The card stands for warm self-assurance and creative power.",
+      "love": "In love, the card can concern generous warmth and a wish to be seen as you are.",
+      "work": "At work, it is about charisma, leadership and inspiring others.",
+      "advice": "Be yourself with warmth and let others see it.",
+      "element": "Fire",
+      "astro": "Water of Fire (elemental tradition)",
+      "number": "Queen: maturity and inner power"
+    },
+    {
+      "kw_up": [
+        "vision",
+        "leadership",
+        "courage",
+        "inspiration"
+      ],
+      "kw_rev": [
+        "domination",
+        "hot temper",
+        "unrealistic ideas",
+        "self-centredness"
+      ],
+      "about": "A crowned man sits on a throne decorated with lions and salamanders, with a blossoming wand in his hand. The card stands for a leader with a fiery spirit and long-term vision.",
+      "love": "In love, it can mean a secure and warm partner, or that you take the lead yourself.",
+      "work": "At work, it is about seeing the big picture and inspiring others.",
+      "advice": "Lead with vision and let others grow.",
+      "element": "Fire",
+      "astro": "Air of Fire (elemental tradition)",
+      "number": "King: mastery and responsibility"
+    },
+    {
+      "kw_up": [
+        "new love",
+        "feelings",
+        "compassion",
+        "openness"
+      ],
+      "kw_rev": [
+        "emotional blockage",
+        "suppressed feelings",
+        "emptiness",
+        "closed-offness"
+      ],
+      "about": "A hand holds out an overflowing cup from a cloud, while a dove lets a wafer fall and water streams into a pond with lilies. The card is about a flow of feelings and making room for them.",
+      "love": "In love, it can be a new beginning, deeper heart connection or a new understanding.",
+      "work": "At work, it can concern work that feels meaningful and emotionally engaging.",
+      "advice": "Open your heart and let it flow.",
+      "element": "Water",
+      "astro": "Root of Water: the pure power of the element",
+      "number": "One: seed and beginning"
+    },
+    {
+      "kw_up": [
+        "union",
+        "mutuality",
+        "attraction",
+        "partnership"
+      ],
+      "kw_rev": [
+        "breakup",
+        "imbalance",
+        "disagreement",
+        "misunderstandings"
+      ],
+      "about": "A couple exchange cups, with a winged lion above them and a snake around a staff behind. The card is about mutual respect and love between two people.",
+      "love": "In love, it is one of the cards of mutuality and meeting as equals.",
+      "work": "At work, it can point to good cooperation or an agreement between equals.",
+      "advice": "Meet the other with openness and respect.",
+      "element": "Water",
+      "astro": "Venus in Cancer",
+      "number": "Two: union and partnership"
+    },
+    {
+      "kw_up": [
+        "friendship",
+        "celebration",
+        "joy",
+        "community"
+      ],
+      "kw_rev": [
+        "excess",
+        "gossip",
+        "isolation",
+        "feeling left out"
+      ],
+      "about": "Three women raise their cups in a dance, with fruits at their feet. The card is about joy and shared celebration.",
+      "love": "In love, it is about friendship, play and togetherness.",
+      "work": "At work, it can point to good teamwork and atmosphere.",
+      "advice": "Share the joy with those you love.",
+      "element": "Water",
+      "astro": "Mercury in Cancer",
+      "number": "Three: growth and expression"
+    },
+    {
+      "kw_up": [
+        "apathy",
+        "contemplation",
+        "discontent",
+        "pause"
+      ],
+      "kw_rev": [
+        "new opportunities",
+        "motivation",
+        "awakening",
+        "seeing what is offered"
+      ],
+      "about": "A man sits under a tree with his arms crossed, looking at three cups, while a hand from a cloud offers a fourth. The card is about overlooking what is offered because you are brooding.",
+      "love": "In love, it can point to boredom or unanswered longing, and a need to look at what you actually want.",
+      "work": "At work, it can concern a lack of drive and time to consider.",
+      "advice": "Lift your gaze and see what is actually being offered.",
+      "element": "Water",
+      "astro": "Moon in Cancer",
+      "number": "Four: stillness and reflection"
+    },
+    {
+      "kw_up": [
+        "sorrow",
+        "loss",
+        "regret",
+        "emotional reckoning"
+      ],
+      "kw_rev": [
+        "forgiveness",
+        "moving on",
+        "acceptance",
+        "healing"
+      ],
+      "about": "A cloaked figure looks down at three spilled cups, while two stand upright behind. The card is about grief and not forgetting what still stands.",
+      "love": "In love, it can point to sorrow or disappointment, and to seeing what is still there.",
+      "work": "At work, it is about dealing with setbacks and finding a new way.",
+      "advice": "Give your sorrow room, and see what remains standing too.",
+      "element": "Water",
+      "astro": "Mars in Scorpio",
+      "number": "Five: loss and challenge"
+    },
+    {
+      "kw_up": [
+        "nostalgia",
+        "childhood",
+        "kindness",
+        "reunion"
+      ],
+      "kw_rev": [
+        "stuck in the past",
+        "unrealistic memories",
+        "maturing",
+        "moving on"
+      ],
+      "about": "Two children share flowers in an old courtyard filled with cups. The card is about memories and innocent kindness.",
+      "love": "In love, it can be a reunion, tenderness or old bonds awakening.",
+      "work": "At work, it can concern working with people you know or returning to something familiar.",
+      "advice": "Draw warmth from your memories, but live in the present.",
+      "element": "Water",
+      "astro": "Sun in Scorpio",
+      "number": "Six: harmony and mutual gift"
+    },
+    {
+      "kw_up": [
+        "imagination",
+        "choices",
+        "dreams",
+        "illusions"
+      ],
+      "kw_rev": [
+        "clarity",
+        "decision",
+        "realism",
+        "choosing"
+      ],
+      "about": "A figure contemplates seven cups filled with different symbols floating in clouds. The card is about imagination and many possibilities that need sorting.",
+      "love": "In love, it can concern daydreams or many options, and a need to be clear about what you want.",
+      "work": "At work, it is about choosing among several possibilities and separating dream from plan.",
+      "advice": "Separate dream from plan and choose one.",
+      "element": "Water",
+      "astro": "Venus in Scorpio",
+      "number": "Seven: options and imagination"
+    },
+    {
+      "kw_up": [
+        "leaving",
+        "moving on",
+        "searching",
+        "deeper meaning"
+      ],
+      "kw_rev": [
+        "staying put",
+        "fear of leaving",
+        "carrying on with the familiar",
+        "dependency"
+      ],
+      "about": "A figure walks away from eight stacked cups towards the mountains under the moon. The card is about leaving something good enough behind and seeking deeper.",
+      "love": "In love, it can be a realisation that something no longer nourishes you.",
+      "work": "At work, it is about changing direction to find more meaning.",
+      "advice": "Dare to walk towards what holds more meaning.",
+      "element": "Water",
+      "astro": "Saturn in Pisces",
+      "number": "Eight: change and seeking"
+    },
+    {
+      "kw_up": [
+        "contentment",
+        "enjoyment",
+        "gratitude",
+        "fulfilment"
+      ],
+      "kw_rev": [
+        "greed",
+        "complacency",
+        "superficiality",
+        "unfulfilled"
+      ],
+      "about": "A man sits contentedly with his arms crossed in front of nine cups on a shelf. The card is known as the wish card and is about enjoying what you have.",
+      "love": "In love, it is about contentment and joy in what is.",
+      "work": "At work, it can point to good results and satisfaction with your effort.",
+      "advice": "Enjoy what you have, and be grateful.",
+      "element": "Water",
+      "astro": "Jupiter in Pisces",
+      "number": "Nine: fulfilment and enjoyment"
+    },
+    {
+      "kw_up": [
+        "family joy",
+        "harmony",
+        "belonging",
+        "fulfilment"
+      ],
+      "kw_rev": [
+        "family unrest",
+        "broken relationships",
+        "disagreement",
+        "unrealistic ideals"
+      ],
+      "about": "A couple stand with their arms raised towards a rainbow of ten cups, while children play in front of a home. The card is about happiness in community and belonging.",
+      "love": "In love, it is about harmony, security and shared values.",
+      "work": "At work, it can point to a good working environment and shared goals.",
+      "advice": "Value the community you are a part of.",
+      "element": "Water",
+      "astro": "Mars in Pisces",
+      "number": "Ten: fulfilment and harmony"
+    },
+    {
+      "kw_up": [
+        "sensitivity",
+        "creativity",
+        "openness",
+        "dreams"
+      ],
+      "kw_rev": [
+        "immaturity",
+        "emotional instability",
+        "escapism",
+        "vulnerability"
+      ],
+      "about": "A young person stands by the sea and looks at a fish poking its head out of a cup. The card stands for a tender mind and creative impulses.",
+      "love": "In love, it can be a new feeling, a romantic message or gentle openness.",
+      "work": "At work, it can concern creative ideas or intuitive hunches.",
+      "advice": "Receive a new feeling with curiosity.",
+      "element": "Water",
+      "astro": "Earth of Water (elemental tradition)",
+      "number": "Page: messenger and beginner"
+    },
+    {
+      "kw_up": [
+        "romance",
+        "charm",
+        "offers",
+        "ideals"
+      ],
+      "kw_rev": [
+        "mood swings",
+        "unrealistic expectations",
+        "letting down",
+        "superficiality"
+      ],
+      "about": "A knight on a calm white horse carries a cup through a peaceful landscape. The card stands for a romantic soul who follows the heart.",
+      "love": "In love, it is about being open and making proposals, and following words with action.",
+      "work": "At work, it can concern an offer, an invitation or an idealistic project.",
+      "advice": "Follow your heart, but make sure it arrives somewhere.",
+      "element": "Water",
+      "astro": "Fire of Water (elemental tradition)",
+      "number": "Knight: movement and action"
+    },
+    {
+      "kw_up": [
+        "empathy",
+        "intuition",
+        "care",
+        "depth"
+      ],
+      "kw_rev": [
+        "emotional overwhelm",
+        "dependency",
+        "withdrawal",
+        "insecurity"
+      ],
+      "about": "A crowned woman sits by the sea and gazes at an ornate cup. The card stands for emotional depth and understanding.",
+      "love": "In love, it is about care, intuition and listening to feelings.",
+      "work": "At work, it can concern sensitivity towards colleagues, mentoring or caring professions.",
+      "advice": "Listen to your feelings without drowning in them.",
+      "element": "Water",
+      "astro": "Water of Water (elemental tradition)",
+      "number": "Queen: maturity and inner power"
+    },
+    {
+      "kw_up": [
+        "emotional balance",
+        "compassion",
+        "wisdom",
+        "diplomacy"
+      ],
+      "kw_rev": [
+        "mood swings",
+        "coldness",
+        "manipulation",
+        "suppression"
+      ],
+      "about": "A crowned man sits on a throne in the middle of a restless sea and holds a cup. The card stands for a leader who keeps his feelings calm.",
+      "love": "In love, it is about maturity, support and emotional security.",
+      "work": "At work, it can concern counselling, empathic leadership and diplomacy.",
+      "advice": "Stay calm in the midst of the waves.",
+      "element": "Water",
+      "astro": "Air of Water (elemental tradition)",
+      "number": "King: mastery and responsibility"
+    },
+    {
+      "kw_up": [
+        "clarity",
+        "truth",
+        "breakthrough",
+        "new insight"
+      ],
+      "kw_rev": [
+        "confusion",
+        "vagueness",
+        "harshness",
+        "mental block"
+      ],
+      "about": "A hand holds out a sword from a cloud, crowned with a wreath, above steep mountains. The card is about the power of thought and clarity cutting through fog.",
+      "love": "In love, it can mean an honest conversation and a new insight into a relationship.",
+      "work": "At work, it can be a breakthrough idea or a clear stance.",
+      "advice": "Let the truth come out in a kind way.",
+      "element": "Air",
+      "astro": "Root of Air: the pure power of the element",
+      "number": "One: seed and beginning"
+    },
+    {
+      "kw_up": [
+        "dilemma",
+        "pause",
+        "balance",
+        "avoiding decisions"
+      ],
+      "kw_rev": [
+        "confusion",
+        "information revealed",
+        "indecision",
+        "tension"
+      ],
+      "about": "A blindfolded woman sits with two swords crossed in front of a calm sea. The card is about a difficult decision and a reluctance to look.",
+      "love": "In love, it can point to a stalemate where feelings and thoughts conflict.",
+      "work": "At work, it is about a choice that needs more information or courage.",
+      "advice": "Take off the blindfold when you are ready.",
+      "element": "Air",
+      "astro": "Moon in Libra",
+      "number": "Two: choice and duality"
+    },
+    {
+      "kw_up": [
+        "sorrow",
+        "heartbreak",
+        "pain",
+        "truth"
+      ],
+      "kw_rev": [
+        "healing",
+        "forgiveness",
+        "releasing the pain",
+        "gradual improvement"
+      ],
+      "about": "Three swords pierce a red heart beneath rain and clouds. The card is about painful truth and the loss that comes with it.",
+      "love": "In love, it can point to grief and separation, and to allowing yourself to feel.",
+      "work": "At work, it is about disappointments and harsh feedback that can teach you something.",
+      "advice": "Allow yourself to feel what hurts.",
+      "element": "Air",
+      "astro": "Saturn in Libra",
+      "number": "Three: growth and expression, here through pain"
+    },
+    {
+      "kw_up": [
+        "rest",
+        "calm",
+        "recovery",
+        "contemplation"
+      ],
+      "kw_rev": [
+        "unrest",
+        "exhaustion",
+        "return to activity",
+        "restlessness"
+      ],
+      "about": "A knight lies resting on a tomb with three swords on the wall and one beneath him. The card is about a pause and refilling after a demanding time.",
+      "love": "In love, it can point to a need for quiet and distance to gather yourself.",
+      "work": "At work, it is about resting so you can think clearly.",
+      "advice": "Give yourself permission to rest.",
+      "element": "Air",
+      "astro": "Jupiter in Libra",
+      "number": "Four: stability and rest"
+    },
+    {
+      "kw_up": [
+        "conflict",
+        "defeat",
+        "a costly victory",
+        "selfishness"
+      ],
+      "kw_rev": [
+        "reconciliation",
+        "regret",
+        "old conflict",
+        "letting go"
+      ],
+      "about": "A man gathers up swords while two others walk away in shame. The card is about conflict where the victory may cost more than it is worth.",
+      "love": "In love, it can point to a conflict where both sides may lose, and the question is what is really worth the fight.",
+      "work": "At work, it can concern disagreement and who wins, and at what price.",
+      "advice": "Choose your battles wisely.",
+      "element": "Air",
+      "astro": "Venus in Aquarius",
+      "number": "Five: challenge and unrest"
+    },
+    {
+      "kw_up": [
+        "transition",
+        "moving on",
+        "calm after the storm",
+        "journey"
+      ],
+      "kw_rev": [
+        "stagnation",
+        "reluctance to leave",
+        "unresolved matters",
+        "return"
+      ],
+      "about": "A woman and a child cross the water in a boat with six swords, towards calm water. The card is about leaving difficult waters behind.",
+      "love": "In love, it can be a transition to something calmer, with something to carry along.",
+      "work": "At work, it is about change, moving, or getting through a demanding phase.",
+      "advice": "Move towards calmer water at your own pace.",
+      "element": "Air",
+      "astro": "Mercury in Aquarius",
+      "number": "Six: harmony and transition"
+    },
+    {
+      "kw_up": [
+        "cunning",
+        "strategy",
+        "secrecy",
+        "avoidance"
+      ],
+      "kw_rev": [
+        "being found out",
+        "honesty",
+        "conscience",
+        "confessing"
+      ],
+      "about": "A man sneaks away from a camp with five swords while two remain. The card is about proceeding carefully, and about what we avoid saying.",
+      "love": "In love, the card can remind you of honesty, and to look at whether there are secrets.",
+      "work": "At work, it can concern tactics or going your own way, and the question of what is right.",
+      "advice": "Be open about what you are doing.",
+      "element": "Air",
+      "astro": "Moon in Aquarius",
+      "number": "Seven: assessment and cunning"
+    },
+    {
+      "kw_up": [
+        "restriction",
+        "stuckness",
+        "fear",
+        "self-imposed limits"
+      ],
+      "kw_rev": [
+        "liberation",
+        "new perspectives",
+        "seeing the way out",
+        "courage"
+      ],
+      "about": "A woman stands bound and blindfolded, surrounded by eight swords in water. The card is about feeling trapped, though the way out is often more open than it seems.",
+      "love": "In love, it can point to limiting thoughts about yourself or the relationship.",
+      "work": "At work, it is about seeing possibilities even when you feel locked in.",
+      "advice": "See whether the limits are as firm as they seem.",
+      "element": "Air",
+      "astro": "Jupiter in Gemini",
+      "number": "Eight: restriction and movement"
+    },
+    {
+      "kw_up": [
+        "worry",
+        "anxiety",
+        "sleeplessness",
+        "rumination"
+      ],
+      "kw_rev": [
+        "relief",
+        "sharing the burden",
+        "hope",
+        "seeking help"
+      ],
+      "about": "A person sits up in bed with their hands over their face, with nine swords on the wall behind. The card is about heavy thoughts in the middle of the night.",
+      "love": "In love, it can be worries that grow in silence, and a need to talk about them.",
+      "work": "At work, it is about stress and racing thoughts, and asking for support.",
+      "advice": "Share your worries with someone you trust.",
+      "element": "Air",
+      "astro": "Mars in Gemini",
+      "number": "Nine: worry and intensity"
+    },
+    {
+      "kw_up": [
+        "rock bottom",
+        "ending",
+        "finish",
+        "new light"
+      ],
+      "kw_rev": [
+        "rising up",
+        "recovery",
+        "resisting an ending",
+        "drama"
+      ],
+      "about": "A figure lies with ten swords in the back while the sunrise lights up the sea. The card is about a painful ending and the morning that comes all the same.",
+      "love": "In love, it can be an ending that makes room for something new.",
+      "work": "At work, it can point to the end of a heavy period.",
+      "advice": "The worst is behind you, and the light is returning.",
+      "element": "Air",
+      "astro": "Sun in Gemini",
+      "number": "Ten: completion and rock bottom"
+    },
+    {
+      "kw_up": [
+        "curiosity",
+        "observation",
+        "ideas",
+        "learning"
+      ],
+      "kw_rev": [
+        "gossip",
+        "sharp tongue",
+        "superficiality",
+        "impulsiveness"
+      ],
+      "about": "A young person stands with a raised sword in wind and beneath clouds. The card stands for sharp questions and eagerness to learn.",
+      "love": "In love, it can be conversations and curiosity about each other.",
+      "work": "At work, it can concern learning, information and new perspectives.",
+      "advice": "Ask questions and listen.",
+      "element": "Air",
+      "astro": "Earth of Air (elemental tradition)",
+      "number": "Page: messenger and beginner"
+    },
+    {
+      "kw_up": [
+        "speed",
+        "courage",
+        "drive",
+        "ambition"
+      ],
+      "kw_rev": [
+        "haste",
+        "criticism",
+        "impatience",
+        "carelessness"
+      ],
+      "about": "A knight gallops into the wind with a raised sword. The card stands for quick thinking and decisive action.",
+      "love": "In love, it can be direct communication and a need to understand both sides.",
+      "work": "At work, it is about ambition and efficiency.",
+      "advice": "Think before you strike.",
+      "element": "Air",
+      "astro": "Fire of Air (elemental tradition)",
+      "number": "Knight: movement and action"
+    },
+    {
+      "kw_up": [
+        "clarity",
+        "independence",
+        "honesty",
+        "experience"
+      ],
+      "kw_rev": [
+        "cold criticism",
+        "bitterness",
+        "isolation",
+        "harshness"
+      ],
+      "about": "A crowned woman sits alone on a throne with a sword and an outstretched hand. The card stands for clear sight and clear communication.",
+      "love": "In love, it is about honesty and clear boundaries.",
+      "work": "At work, it can concern analytical judgement and plain speaking.",
+      "advice": "Be clear and honest, but with warmth.",
+      "element": "Air",
+      "astro": "Water of Air (elemental tradition)",
+      "number": "Queen: maturity and inner power"
+    },
+    {
+      "kw_up": [
+        "intellect",
+        "justice",
+        "authority",
+        "clear thinking"
+      ],
+      "kw_rev": [
+        "cold power",
+        "manipulation",
+        "harshness",
+        "injustice"
+      ],
+      "about": "A crowned man sits on a throne with a raised sword, beneath a sky of clouds and winds. The card stands for thought, law and justice.",
+      "love": "In love, it is about clear communication and fair treatment.",
+      "work": "At work, it can concern professional weight and judgement.",
+      "advice": "Use your mind to create fairness.",
+      "element": "Air",
+      "astro": "Air of Air (elemental tradition)",
+      "number": "King: mastery and responsibility"
+    },
+    {
+      "kw_up": [
+        "new opportunity",
+        "security",
+        "seed",
+        "material beginning"
+      ],
+      "kw_rev": [
+        "missed opportunity",
+        "poor planning",
+        "insecurity",
+        "postponed"
+      ],
+      "about": "A hand holds out a golden coin from a cloud above a garden with an arch of flowers. The card is about a concrete seed of something that can grow.",
+      "love": "In love, it can be a new, down-to-earth beginning, something that feels safe.",
+      "work": "At work, it can be a new job, idea or concrete opportunity that can take root.",
+      "advice": "Plant the seed and look after it.",
+      "element": "Earth",
+      "astro": "Root of Earth: the pure power of the element",
+      "number": "One: seed and beginning"
+    },
+    {
+      "kw_up": [
+        "balance",
+        "adaptation",
+        "flexibility",
+        "prioritising"
+      ],
+      "kw_rev": [
+        "imbalance",
+        "overload",
+        "disorganisation",
+        "losing track"
+      ],
+      "about": "A man juggles two coins connected by an infinity sign while ships bob on the waves behind. The card is about keeping several things in motion.",
+      "love": "In love, it is about balancing time and energy.",
+      "work": "At work, it is about flexibility and prioritising.",
+      "advice": "Find the rhythm and prioritise.",
+      "element": "Earth",
+      "astro": "Jupiter in Capricorn",
+      "number": "Two: balance and duality"
+    },
+    {
+      "kw_up": [
+        "cooperation",
+        "craftsmanship",
+        "learning",
+        "teamwork"
+      ],
+      "kw_rev": [
+        "disagreement",
+        "poor cooperation",
+        "unfinished work",
+        "sloppiness"
+      ],
+      "about": "A craftsman works in a church while two others look at the plans. The card is about cooperation and quality.",
+      "love": "In love, it can point to building something together step by step.",
+      "work": "At work, it is about skill, cooperation and feedback.",
+      "advice": "Build together, and listen to those who know more.",
+      "element": "Earth",
+      "astro": "Mars in Capricorn",
+      "number": "Three: growth and expression"
+    },
+    {
+      "kw_up": [
+        "security",
+        "thrift",
+        "control",
+        "stability"
+      ],
+      "kw_rev": [
+        "greed",
+        "hoarding",
+        "letting go",
+        "release"
+      ],
+      "about": "A man sits with coins under his feet and a coin on his head, holding a coin to his chest. The card is about security and control.",
+      "love": "In love, it can point to a need for control and security, and to opening up.",
+      "work": "At work, it is about stability and thrift.",
+      "advice": "Hold on to what gives you security, without shutting yourself in.",
+      "element": "Earth",
+      "astro": "Sun in Capricorn",
+      "number": "Four: foundation and stability"
+    },
+    {
+      "kw_up": [
+        "hardship",
+        "feeling left out",
+        "worry",
+        "need"
+      ],
+      "kw_rev": [
+        "improvement",
+        "help",
+        "a way out",
+        "support"
+      ],
+      "about": "Two figures walk through the snow past a lit church window. The card is about a cold period where help may be closer than you think.",
+      "love": "In love, it can point to loneliness or a sense of being left out, and that it is fine to ask for support.",
+      "work": "At work, it is about a difficult period and the need for support.",
+      "advice": "Ask for help, it may be close.",
+      "element": "Earth",
+      "astro": "Mercury in Taurus",
+      "number": "Five: challenge and lack"
+    },
+    {
+      "kw_up": [
+        "generosity",
+        "sharing",
+        "fairness",
+        "support"
+      ],
+      "kw_rev": [
+        "debt",
+        "inequality",
+        "selfishness",
+        "imbalance"
+      ],
+      "about": "A merchant hands out coins while holding scales, and two people ask for help. The card is about giving and receiving in balance.",
+      "love": "In love, it is about mutuality in what is given and taken.",
+      "work": "At work, it is about pay, fair sharing and support.",
+      "advice": "Give and receive with equal hands.",
+      "element": "Earth",
+      "astro": "Moon in Taurus",
+      "number": "Six: harmony and exchange"
+    },
+    {
+      "kw_up": [
+        "patience",
+        "assessment",
+        "long-term thinking",
+        "harvest"
+      ],
+      "kw_rev": [
+        "impatience",
+        "poor investment",
+        "lack of reward",
+        "frustration"
+      ],
+      "about": "A man leans on a hoe and looks at a bush with seven coins. The card is about waiting and assessing the fruits of the work.",
+      "love": "In love, it is about letting something grow and not pushing.",
+      "work": "At work, it is about long-term effort and assessing results.",
+      "advice": "Give it time, and look at what you have sown.",
+      "element": "Earth",
+      "astro": "Saturn in Taurus",
+      "number": "Seven: assessment and patience"
+    },
+    {
+      "kw_up": [
+        "craftsmanship",
+        "practice",
+        "focus",
+        "skill"
+      ],
+      "kw_rev": [
+        "perfectionism",
+        "clumsiness",
+        "repetition",
+        "lack of focus"
+      ],
+      "about": "A craftsman hammers a coin onto a staff and has seven finished coins beside him. The card is about diligence and practice.",
+      "love": "In love, it is about effort and care in small things.",
+      "work": "At work, it is about developing skills and immersing yourself.",
+      "advice": "Practise, and let quality grow.",
+      "element": "Earth",
+      "astro": "Sun in Virgo",
+      "number": "Eight: mastery and development"
+    },
+    {
+      "kw_up": [
+        "independence",
+        "abundance",
+        "refinement",
+        "security"
+      ],
+      "kw_rev": [
+        "dependency",
+        "excessive control",
+        "loneliness",
+        "loss of security"
+      ],
+      "about": "A woman stands in a vineyard with a falcon on her hand and coins around her. The card is about independence and the fruit of your own effort.",
+      "love": "In love, it is about independence and security within yourself.",
+      "work": "At work, it can point to a secure position and recognised effort.",
+      "advice": "Enjoy the fruit of your own work.",
+      "element": "Earth",
+      "astro": "Venus in Virgo",
+      "number": "Nine: nearly complete and self-reliance"
+    },
+    {
+      "kw_up": [
+        "legacy",
+        "family",
+        "long-term security",
+        "community"
+      ],
+      "kw_rev": [
+        "family conflict",
+        "instability",
+        "loss of roots",
+        "inheritance disputes"
+      ],
+      "about": "An old man sits with a dog, and a couple and a child stand beneath a gate with ten coins. The card is about lineage, home and what is handed down.",
+      "love": "In love, it is about lasting security and a shared life.",
+      "work": "At work, it is about stability, tradition and building for the long term.",
+      "advice": "Build for those who come after you.",
+      "element": "Earth",
+      "astro": "Mercury in Virgo",
+      "number": "Ten: completion and legacy"
+    },
+    {
+      "kw_up": [
+        "study",
+        "down-to-earth nature",
+        "curiosity",
+        "potential"
+      ],
+      "kw_rev": [
+        "inattention",
+        "procrastination",
+        "unclear goals",
+        "lack of ambition"
+      ],
+      "about": "A young person stands in a green meadow and studies a coin in their hands. The card stands for eagerness to learn and a down-to-earth seed.",
+      "love": "In love, it can be a quiet and sincere beginning.",
+      "work": "At work, it is about learning and practical steps.",
+      "advice": "Take one practical step at a time.",
+      "element": "Earth",
+      "astro": "Earth of Earth (elemental tradition)",
+      "number": "Page: messenger and beginner"
+    },
+    {
+      "kw_up": [
+        "reliability",
+        "diligence",
+        "patience",
+        "routine"
+      ],
+      "kw_rev": [
+        "boredom",
+        "stubbornness",
+        "sluggishness",
+        "perfectionism"
+      ],
+      "about": "A knight holds a coin while sitting on a calm black horse in a ploughed field. The card stands for steady and thorough effort.",
+      "love": "In love, it is about loyalty and regular care.",
+      "work": "At work, it is about thoroughness and reliability.",
+      "advice": "Keep a steady pace and do it thoroughly.",
+      "element": "Earth",
+      "astro": "Fire of Earth (elemental tradition)",
+      "number": "Knight: movement and action"
+    },
+    {
+      "kw_up": [
+        "care",
+        "practicality",
+        "generosity",
+        "security"
+      ],
+      "kw_rev": [
+        "worry",
+        "materialism",
+        "overwork",
+        "self-neglect"
+      ],
+      "about": "A crowned woman sits in a blooming garden with a coin in her lap and a hare nearby. The card stands for practical care and warmth.",
+      "love": "In love, it is about caring and creating a cosy home.",
+      "work": "At work, it is about looking after resources and people.",
+      "advice": "Look after yourself and those around you.",
+      "element": "Earth",
+      "astro": "Water of Earth (elemental tradition)",
+      "number": "Queen: maturity and inner power"
+    },
+    {
+      "kw_up": [
+        "stability",
+        "resources",
+        "experience",
+        "dependable leadership"
+      ],
+      "kw_rev": [
+        "stubbornness",
+        "stinginess",
+        "materialism",
+        "rigidity"
+      ],
+      "about": "A crowned man sits on a throne decorated with bulls, with a coin and a sceptre, in a garden full of grapes. The card stands for well-developed security and solid leadership.",
+      "love": "In love, it is about security, reliability and practical support.",
+      "work": "At work, it is about stability, experience and the ability to build.",
+      "advice": "Build solidly and share the surplus.",
+      "element": "Earth",
+      "astro": "Air of Earth (elemental tradition)",
+      "number": "King: mastery and responsibility"
+    }
+  ]
+}

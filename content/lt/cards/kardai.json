@@ -1,0 +1,910 @@
+{
+ "cards": [
+  {
+   "id": 50,
+   "symbols": [
+    {
+     "s": "Ranka, išnyranti iš debesies ir laikanti stačią kardą",
+     "m": "Mintis ar įžvalga, kuri ateina tarsi iš šalies, kaip dovana, o ne kaip pastangų rezultatas."
+    },
+    {
+     "s": "Karūna ant kardo smaigalio su šakelėmis iš abiejų pusių",
+     "m": "Pergalė ir garbė; aiškumas, kuris įpareigoja ir kartu apdovanoja."
+    },
+    {
+     "s": "Šešios mažos lašo formos kibirkštys, krintančios nuo karūnos",
+     "m": "Idėjos „sėklos“, kurios gali nusileisti ir įsišaknyti."
+    },
+    {
+     "s": "Stačios, plikos kalnų viršūnės apačioje",
+     "m": "Atšiaurus, bet aiškus kraštovaizdis: tiesa be dekoracijų ir iššūkis kopti."
+    }
+   ],
+   "story": [
+    "Kardų tūzas yra oro stichijos pradžia – mintis, dar nespėjusi tapti nuomone, planu ar ginču. Jis atsiranda staiga, kaip akimirka, kai po ilgo painiavos laikotarpio aiškiai suprantate, kas vyksta. Kitaip nei kitų kortų eilių tūzai, šis nežada šilumos ar saugumo; jis siūlo aiškumą, o aiškumas kartais būna ir vėsus, ir reiklus. Kardas su karūna primena, kad tiesa turi dvi puses: ji išlaisvina, bet ir įpareigoja veikti pagal tai, ką pamatėte.",
+    "Kardų kelyje tūzas yra sėkla: visos vėlesnės kortos – nuo dvejeto dilemos iki dešimtuko pabaigos – parodo, ką darome su šia pirmine įžvalga. Nuoseklumo šioje kortoje dar nėra: ji tik pasiūlo pradžią. Daugelis skaito ją kaip kvietimą pasakyti tai, kas seniai norėjosi pasakyti, arba pagaliau pavadinti dalyką tikru vardu, bet jau tada pasirinkti žodžius taip, kad kardas būtų naudojamas kaip įrankis, o ne kaip ginklas."
+   ],
+   "reversed": "Apversta korta gali rodyti, kad aiškumas dar nepasiekė jūsų: mintys sulipusios, informacijos per daug arba per mažai. Kartais tai įspėjimas dėl skubotos išvados ar žodžių, pasakytų per aštriai. Dažnai pakanka sulėtinti tempą, užsirašyti faktus ir atskirti, kas žinoma, nuo to, kas tik įtariama.",
+   "positions": {
+    "past": "Praeityje buvo įžvalga ar sprendimas, kuris pakeitė požiūrį. Galbūt kažkas buvo pasakyta atvirai ir tai iki šiol daro įtaką.",
+    "present": "Dabar jums atsiveria aiškesnis vaizdas arba atsiranda drąsos pavadinti dalykus tikraisiais vardais. Verta šį momentą pagauti ir užfiksuoti.",
+    "future": "Netrukus gali ateiti nauja idėja, atsakymas ar pokalbis, po kurio nuostatos pasikeis. Būkite pasirengę ją priimti, net jei ji nepatogi.",
+    "obstacle": "Kliūtis gali būti pati tiesa, kurios nenorima girdėti, arba pernelyg aštrus jos pateikimas. Taip pat – nepasitikėjimas savo pirmąja įžvalga.",
+    "advice": "Užsirašykite, ką aiškiai suprantate, ir tik tada nuspręskite, ką su tuo daryti. Rinkitės tikslius, bet ne žeidžiančius žodžius.",
+    "outcome": "Galimas rezultatas – aiškesnė kryptis ir ramesnė galva, nes aiškumas pakeičia spėliones. Kaip su juo pasielgsite, priklauso nuo jūsų."
+   },
+   "feelings": "Jei klausiate apie kito žmogaus jausmus, tūzas dažniau kalba apie tai, kad tas žmogus ieško aiškumo ir norėtų ką nors pasakyti tiesiai. Tai gali būti pradžia sąžiningesniam pokalbiui. Korta negali parodyti paslėptų išgyvenimų – tikrasis atsakymas ateina iš paties pokalbio.",
+   "money": "Finansų srityje korta kalba apie aiškų vaizdą: aiškiai pamatytus skaičius, nuoširdų žvilgsnį į situaciją, naują požiūrį. Tai tik temos apžvalga, o ne patarimas, ką daryti su pinigais.",
+   "friendship": "Draugystėje tai gali būti atviras pokalbis, po kurio ryšys tampa tikresnis. Taip pat – priminimas klausytis tiesos ir žodžius sverti pagal tai, kiek jie gali įskaudinti.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia pastebėti, kokios mintys tikrai jūsų, o kokios paveldėtos. Gera proga trumpam sustoti, užsirašyti pagrindinį tikslą ir paklausti savęs, kam jis tarnauja.",
+   "combos": [
+    {
+     "with": 0,
+     "text": "Kvailys ir Kardų tūzas – pirmas žingsnis su aiškia mintimi: drąsa eiti, žinant, kodėl einate."
+    },
+    {
+     "with": 1,
+     "text": "Magas suteikia valios ir įrankių, kad įžvalga virstų darbu, o ne liktų tik gera mintimi."
+    },
+    {
+     "with": 11,
+     "text": "Teisingumas pabrėžia sąžiningumą ir atsakomybę: aiškumas, kuris tinka visoms pusėms."
+    },
+    {
+     "with": 51,
+     "text": "Po įžvalgos dažnai ateina pasirinkimas; dvejetas klausia, ar esate pasirengę pažvelgti į tiesą atmerktomis akimis."
+    },
+    {
+     "with": 62,
+     "text": "Kardų karalienė šalia tūzo rodo žmogų ar nuostatą, kuri tiesą sako tiesiai, bet su saiku."
+    }
+   ],
+   "questions": [
+    "Ką aš jau žinau, tik nedrįstu pripažinti?",
+    "Kokiais žodžiais galėčiau pasakyti savo tiesą, kad ji būtų išgirsta, o ne atmesta?",
+    "Kuri mano mintis šiandien labiausiai pasiūlė naują kryptį ir ką su ja darysiu?"
+   ]
+  },
+  {
+   "id": 51,
+   "symbols": [
+    {
+     "s": "Moteris su užrištomis akimis, sėdinti ant suolo",
+     "m": "Sąmoningas ar nesąmoningas nenoras matyti; vidinis susitelkimas."
+    },
+    {
+     "s": "Du sukryžiuoti kardai, laikomi prieš krūtinę",
+     "m": "Dvi lygiavertės galimybės arba pusiausvyra, išlaikoma jėga."
+    },
+    {
+     "s": "Ramus vanduo už nugaros ir uolėtos kyšančios iš jo uolos",
+     "m": "Jausmai, kurių ji nenori žiūrėti; ramybė, po kuria slypi neišspręstas klausimas."
+    },
+    {
+     "s": "Pusmėnulis danguje",
+     "m": "Intuicija ir kintantys sprendimo ciklai."
+    }
+   ],
+   "story": [
+    "Kardų dvejetas yra pirmasis išbandymas po tūzo įžvalgos: kai tiesa jau pamatyta, atsiranda du keliai, bet nei vieno iš jų pasirinkti nesinori. Moteris sėdi nugara į jūrą, sukryžiavusi kardus, tarsi laikytų save kartu. Tai pusiausvyra, bet įtempta: ji reikalauja nuolatinio raumenų darbo ir negali tęstis amžinai. Raištis ant akių skaitomas dvejopai – kaip apsauga nuo pernelyg skaudžių vaizdų ir kaip pasirinkimas nežinoti.",
+    "Kardų istorijoje dvejetas rodo, kad aiškumas pats savaime dar nesprendžia: reikia drąsos veikti. Kardai gali sukurti ginkluotas paliaubas – ir su kitu žmogumi, ir su savimi. Daugelis skaito šią kortą kaip kvietimą nusiraminti, surinkti trūkstamą informaciją ir pasiklausyti ne tik proto, bet ir intuicijos, kurią simbolizuoja mėnulis. Sprendimas dažnai ateina ne iš dar vieno pliusų ir minusų sąrašo, o iš ryžto pasirinkti vieną pusę ir priimti jos kainą."
+   ],
+   "reversed": "Apversta korta rodo, kad ilgai laikyta įtampa pradeda atslūgti: raištis krenta, ir tai, ko nenorėjote matyti, ima išryškėti. Tai gali būti palengvėjimas arba šokas. Kita galima prasmė – nuolatinis svyravimas, kai neryžtingumas jau pats tampa sprendimu. Naudinga paklausti, ko iš tikrųjų bijote pamatyti.",
+   "positions": {
+    "past": "Praeityje buvote sprendimo kryžkelėje ar ilgai laikėtės neutralumo, kad išvengtumėte konflikto. Tai paveikė dabartinę situaciją.",
+    "present": "Šiuo metu esate tarp dviejų galimybių ir jaučiate įtampą, nes nė viena nėra visiškai pasirenkama. Pauzė gali būti naudinga, bet ne begalinė.",
+    "future": "Netrukus teks pasirinkti arba paaiškės trūkstama informacija, kuri pakeis galimybių svorį.",
+    "obstacle": "Kliūtis – baimė suklysti ir noras išvengti pasekmių. Taip pat gali trukdyti informacijos trūkumas, kurio dar nesate pasiruošę ieškoti.",
+    "advice": "Atsisėskite ramiai, užsirašykite abiejų kelių kainą ir naudą, o tada paklauskite, ką sakytumėte draugui. Raištį nusiimkite po truputį.",
+    "outcome": "Galimas rezultatas – atsiras aiškesnė pozicija arba sprendimas, kuris atpalaiduos įtampą. Net mažas apsisprendimo žingsnis dažnai pakeičia visą vaizdą."
+   },
+   "feelings": "Šis žmogus gali jausti nežinią ir sunkumą apsispręsti, ar leisti sau priartėti. Neryžtingumas čia nebūtinai reiškia abejingumą; kartais žmogus sau slepia tai, ką jaučia. Vienintelis patikimas būdas sužinoti – atviras, nespaudžiantis pokalbis.",
+   "money": "Su pinigais susijusi tema – sprendimas, kurį sunku priimti dėl kelių vienodai patrauklių ar nepatrauklių variantų. Korta primena pasitikslinti faktus, bet tai nėra finansinis patarimas.",
+   "friendship": "Draugystėje tai gali būti situacija, kai reikia pasirinkti pusę arba susilaikyti nuo žodžių, kad nesukeltumėte skausmo. Verta paklausti savęs, ar tylėjimas dar tarnauja ryšiui.",
+   "spiritual": "Dvasinėje praktikoje dvejetas kviečia ramiai sėdėti su neapibrėžtumu, tarsi meditacijoje. Tylos akimirkos ir kvėpavimas gali padėti išgirsti vidinį balsą, kuris nesiginčija su protu.",
+   "combos": [
+    {
+     "with": 2,
+     "text": "Žynė šalia dvejeto pabrėžia intuiciją ir paslėptus sluoksnius: atsakymas gali slypėti tame, ką jau žinote, bet nenorite sakyti."
+    },
+    {
+     "with": 18,
+     "text": "Mėnulis stiprina netikrumo ir miglotų jausmų temą; verta atskirti baimę nuo tikro signalo."
+    },
+    {
+     "with": 6,
+     "text": "Mylimieji ir Kardų dvejetas – tikras pasirinkimas, kai širdis ir protas traukia skirtingomis kryptimis."
+    },
+    {
+     "with": 50,
+     "text": "Su tūzu dvejetas rodo, kad žinoti tiesą ir ją priimti yra du skirtingi žingsniai."
+    },
+    {
+     "with": 55,
+     "text": "Kardų šešetas rodo, kad sprendimas galiausiai atneš judėjimą pirmyn, nors ir ne be pastangų."
+    }
+   ],
+   "questions": [
+    "Ko aš nenoriu matyti ir kodėl?",
+    "Kokia būtų kiekvieno kelio kaina po metų?",
+    "Kokią mažą informaciją galėčiau gauti, kad sprendimas taptų lengvesnis?"
+   ]
+  },
+  {
+   "id": 52,
+   "symbols": [
+    {
+     "s": "Raudona širdis, perverta trijų kardų",
+     "m": "Skausmas, tiesa ar žodžiai, kurie paliečia giliai; ne fizinis sužeidimas, o širdies skausmo simbolis."
+    },
+    {
+     "s": "Pilkos lietaus debesys",
+     "m": "Liūdesys, kuris turi savo laiką ir pereina."
+    },
+    {
+     "s": "Lietaus lašai",
+     "m": "Ašaros ir valymasis: skausmas, kuris gali išplauti."
+    },
+    {
+     "s": "Nėra jokių žmonių figūrų",
+     "m": "Skausmas aiškiai matomas, be pagražinimų; nėra kur pasislėpti, tik kur jį pripažinti."
+    }
+   ],
+   "story": [
+    "Kardų trejetas – viena iš kortų, kurios atrodo baisios, bet iš tikrųjų labai tiesmukos: ji kalba apie sielvartą, o ne apie bausmę. Trys kardai perveria širdį ne kaip pranašystė, o kaip vaizdas to, kaip kartais jaučiamės išgirdę skaudžią tiesą ar patyrę netektį. Skausmas čia nesumažinamas ir neišaukštinamas; jis tiesiog parodomas. Trejetas dažnai siejamas su pirmuoju rezultatu, o Kardų kelyje jis rodo, kad pirmąją įžvalgą, pasirinkimą ir tiesą turi sutikti širdis.",
+    "Vis dėlto lietus nėra amžinas. Kortos vaizde nėra veikėjo, kuris kaltintų ar teistų – yra tik jausmas ir jo leidimas būti. Daugelis praktikų skaito trejetą kaip priminimą, kad natūralu liūdesį pripažinti, o jo slopinimas dažnai tik pailgina skausmą. Tai kviečia pasirūpinti savimi, ieškoti ramių žmonių šalia ir žodžius, kurie padėtų pavadinti, kas įvyko. Kai skausmas turi vardą, jį dažnai lengviau pakelti."
+   ],
+   "reversed": "Apversta korta dažniausiai kalba apie lėtą gijimą: kardai lyg ištraukiami, bet širdis dar prisimena. Tai gali būti atleidimas, paleidimas arba, priešingai, skausmo laikymas viduje ir nenoras jį išreikšti. Verta pasidomėti, ar leidžiate sau liūdėti pakankamai ir ar turite paramą.",
+   "positions": {
+    "past": "Praeityje buvo skaudi patirtis, atsisveikinimas ar žodžiai, kurie paliko žymę. Jie vis dar gali daryti įtaką dabartiniam požiūriui.",
+    "present": "Dabar galite jausti liūdesį, nusivylimą ar sunkią tiesą. Leiskite sau tai pripažinti, nes jausmas yra tikras.",
+    "future": "Galimas sunkus pokalbis ar supratimas, kuris sukels liūdesį. Tačiau tai taip pat gali atverti kelią tikresniam gyvenimui.",
+    "obstacle": "Kliūtis – bandymas nuslopinti skausmą arba kaltinti save. Taip pat gali trukdyti pernelyg skubus noras „viską pamiršti“.",
+    "advice": "Leiskite sau liūdėti, paprašykite artimo žmogaus pabūti šalia ir būkite švelnūs sau. Jei skausmas ilgai nesilpsta, verta pasikalbėti su specialistu.",
+    "outcome": "Galimas rezultatas – sielvarto pripažinimas, po kurio atsiranda erdvė gijimui. Tai nėra greitas kelias, bet jis yra tikras."
+   },
+   "feelings": "Šis žmogus gali jausti liūdesį ar skausmą dėl situacijos, kuri kažkada įvyko tarp jūsų, arba dėl savo paties išgyvenimų. Tai nebūtinai jūsų kaltė ir nebūtinai nukreipta į jus. Atviras, švelnus pokalbis ar tiesiog buvimas šalia gali pasakyti daugiau nei spėjimai.",
+   "money": "Finansų temoje trejetas gali kalbėti apie nusivylimą ar sunkią žinią, susijusią su pinigais ar darbu. Tai tik simbolinis kontekstas, o ne konkretus patarimas.",
+   "friendship": "Draugystėje korta gali rodyti žeidžiantį žodį, išsiskyrimą ar susvetimėjimą. Ji taip pat primena, kad tikri draugai gali būti šalia ir tada, kai skauda.",
+   "spiritual": "Dvasinėje praktikoje trejetas kviečia pagerbti sielvartą: užsidegti žvakę (saugiai, ant ugniai atsparaus paviršiaus ir nepalikus be priežiūros), parašyti laišką, kurio nesiųsite, arba tiesiog pabūti tyloje.",
+   "combos": [
+    {
+     "with": 16,
+     "text": "Bokštas ir Kardų trejetas – netikėtas sukrėtimas ir jo emocinis atgarsis; svarbu leisti sau išgyventi, o ne skubėti taisyti."
+    },
+    {
+     "with": 17,
+     "text": "Žvaigždė neša viltį po skausmo: gijimas gali būti lėtas, bet jis įmanomas."
+    },
+    {
+     "with": 53,
+     "text": "Kardų ketvertas po trejeto rodo būtiną poilsį ir atsigavimą."
+    },
+    {
+     "with": 40,
+     "text": "Taurių penketas gilina liūdesio temą ir kviečia pastebėti, kas dar liko."
+    },
+    {
+     "with": 19,
+     "text": "Saulė šalia primena, kad šviesa sugrįžta, kai jausmams leidžiama praeiti."
+    }
+   ],
+   "questions": [
+    "Kokio skausmo aš vis dar nepripažįstu?",
+    "Kas man padeda jaustis saugiai, kai liūdžiu?",
+    "Kokio švelnaus žingsnio šiandien galiu imtis dėl savęs?"
+   ]
+  },
+  {
+   "id": 53,
+   "symbols": [
+    {
+     "s": "Riteris, gulintis ant akmeninio karsto su sudėtomis maldai rankomis",
+     "m": "Sąmoningas sustojimas ir poilsis; kovotojas, kuris sudeda ginklus."
+    },
+    {
+     "s": "Trys kardai, pakabinti ant sienos virš jo",
+     "m": "Praeities skausmai, kurie nebeturi būti nešiojami rankose."
+    },
+    {
+     "s": "Vienas kardas, gulintis po juo",
+     "m": "Parengtis ir tvirtas pagrindas ramybei."
+    },
+    {
+     "s": "Vitražas lange virš riterio, vaizduojantis dvi figūras",
+     "m": "Pagalba ir paguoda, kurią galima priimti sustojus."
+    }
+   ],
+   "story": [
+    "Kardų ketvertas – pirmasis tikras šios eilės atokvėpis. Po tūzo įžvalgos, dvejeto sprendimų įtampos ir trejeto skausmo atėjo laikas, kai niekas iš jūsų nereikalauja veiksmo. Riteris guli ne dėl to, kad pasidavė, o todėl, kad kitaip nebegalėtų tęsti. Ketvertas daugelyje kortų reiškia pamatą, ir čia tas pamatas yra tyla: sustojimas, kuriame protas gali atsigauti.",
+    "Svarbu, kad šis poilsis būtų sąmoningas. Ant sienos kabantys kardai primena, kad rūpesčiai nepradingo, tačiau šiuo metu jų nereikia laikyti. Daugelis skaito šią kortą kaip kvietimą sau leisti pauzę be kaltės: miegą, vienatvę, maldą, meditaciją ar tiesiog tylą. Tai ir pasiruošimas: kai protas pailsės, kitas etapas bus aiškesnis. Ši korta primena, kad atsigavimas yra darbas, nors iš išorės atrodo kaip nieko neveikimas."
+   ],
+   "reversed": "Apversta korta gali rodyti, kad poilsis neateina: mintys skuba, nors kūnas pavargęs, arba atsiranda spaudimas grįžti per anksti. Taip pat ji gali reikšti, kad poilsis jau baigėsi ir laikas judėti. Pasiklauskite, ar tai, ko vengiate, yra nuovargis, ar baimė.",
+   "positions": {
+    "past": "Praeityje buvo laikas, kai teko trauktis ir ilsėtis, ar sunki patirtis, po kurios reikėjo atsigauti.",
+    "present": "Dabar jums reikia pertraukos. Jei galite, sumažinkite pareigas ir leiskite sau tylą be kaltės.",
+    "future": "Netrukus gali ateiti tylesnis etapas arba galimybė sustoti ir atsigauti. Priimkite ją kaip dovaną.",
+    "obstacle": "Kliūtis – nesugebėjimas sustoti, kaltė dėl poilsio ar aplinkos spaudimas veikti.",
+    "advice": "Suplanuokite ramybės valandas ir saugokite jas kaip svarbų susitikimą. Net trumpa kasdienė pauzė padeda.",
+    "outcome": "Galimas rezultatas – atsigavimas ir aiškesnė mintis, kai pasijusite pasiruošę grįžti prie reikalų."
+   },
+   "feelings": "Šis žmogus gali būti pavargęs ar jam reikia atstumo, kad pailsėtų. Tai dažniau susiję su jo būsena, o ne su jumis. Ramus pasiūlymas pabūti šalia, nespaudžiant atsakymo, gali būti geriausias būdas parodyti rūpestį.",
+   "money": "Su pinigais susijusi tema – pauzė, laiko atsikvėpti prieš didesnį sprendimą. Tai simbolinis skaitymas, ne finansinė rekomendacija.",
+   "friendship": "Draugystėje korta rodo, kad kartais pakanka tylaus buvimo šalia ir kad draugui gali prireikti erdvės. Tai ir leidimas sau pasakyti, kad dabar sunku.",
+   "spiritual": "Dvasinėje praktikoje ketvertas kviečia tylai, kvėpavimo pratimams ir trumpai meditacijai. Verta įsivaizduoti, kad pakabinate kardus ant sienos ir pailsite be jų.",
+   "combos": [
+    {
+     "with": 52,
+     "text": "Po trejeto skausmo ketvertas atneša būtiną poilsį; jausmams reikia laiko nusileisti."
+    },
+    {
+     "with": 9,
+     "text": "Atsiskyrėlis stiprina vienatvės ir vidinės šviesos paieškos temą."
+    },
+    {
+     "with": 12,
+     "text": "Pakabintasis pabrėžia valingą sustojimą ir naują perspektyvą."
+    },
+    {
+     "with": 58,
+     "text": "Kardų devynetas rodo, kad mintys gali netilti net poilsio metu, todėl svarbu ramiai joms pasakyti „ne dabar“."
+    },
+    {
+     "with": 14,
+     "text": "Nuosaikumas padeda įveikti perdegimą ir grįžti prie veiklos švelniu tempu."
+    }
+   ],
+   "questions": [
+    "Kokio poilsio man labiausiai trūksta: kūno, minčių ar jausmų?",
+    "Ką galiu padėti ant sienos, kad kelias valandas nenešiočiau?",
+    "Kaip pastebėsiu, kad jau galiu grįžti prie veiklos?"
+   ]
+  },
+  {
+   "id": 54,
+   "symbols": [
+    {
+     "s": "Vyras priekyje, laikantis kardus ir šypsantis",
+     "m": "Pergalė, kuri atrodo kaip laimėjimas, bet kuri gali palikti tuštumą."
+    },
+    {
+     "s": "Du kardai ant žemės",
+     "m": "Tai, kas buvo paliktas ar atimtas; pralaimėjusiųjų „ginklai“."
+    },
+    {
+     "s": "Dvi nutolstančios figūros prie jūros",
+     "m": "Tie, kurie pasitraukė; santykių nutrūkimas ar susvetimėjimas."
+    },
+    {
+     "s": "Plėšyti, audringi debesys",
+     "m": "Įtampa ir emocinis fonas po ginčo."
+    }
+   ],
+   "story": [
+    "Kardų penketas sugrįžta prie to, ką pradėjo dvejetas: kai tiesa pamatyta, ją reikia ginti. Kardų nesutarimas čia pasiekia viršūnę: vienas renka kardus, kiti nueina nuleidę galvas. Penketas dažnai reiškia sutrikimą ir krizę, o šioje kortoje tai – ginčas, kuriame laimėjimas turi kainą. Vaizdas neteisia nugalėtojo, tačiau užduoda klausimą: ką iš tikrųjų laimėjau?",
+    "Korta gali kalbėti apie savigarbos gynimą, nuolatinį norą būti teisiam arba, atvirkščiai, apie situaciją, kai pasitraukiate neišsakę savo. Ji primena, kad kai kurių ginčų verta nepradėti. Daugelis skaito penketą kaip pamoką apie ribas: kur ginti save, o kur paleisti. Šiai kortai tinka sąžiningas klausimas: ar galima rasti sprendimą, kuriame niekas nenueina nuleidęs galvos?"
+   ],
+   "reversed": "Apversta korta gali reikšti, kad konfliktas slūgsta, atsiranda noras susitaikyti arba apgailestavimas. Kartais tai rodo, kad seną ginčą dar laikote viduje ir kartojate jį mintyse. Verta paklausti, ar dabar svarbiau būti teisiam, ar ramiam.",
+   "positions": {
+    "past": "Praeityje buvo konfliktas ar situacija, kurioje kažkas laimėjo, o santykiai nukentėjo. Atgarsiai gali jaustis iki šiol.",
+    "present": "Dabar yra įtampa, ginčas ar vidinė kova dėl teisingumo. Pasvarstykite, kiek energijos tam skiriate.",
+    "future": "Gali kilti nesutarimas, kuriame teks pasirinkti, ar ginti savo poziciją, ar rinktis ramybę.",
+    "obstacle": "Kliūtis – užsispyrimas, pasididžiavimas ar noras įrodyti savo tiesą bet kokia kaina.",
+    "advice": "Pasirinkite savo kovas. Paklauskite, ko iš tikrųjų norite: pergalės ar sprendimo, ir kokia kaina jums priimtina.",
+    "outcome": "Galimas rezultatas – pamoka apie ribas ir santykių kainą. Jei pasirinksite ramesnį kelią, galite išsaugoti daugiau nei laimėjimą."
+   },
+   "feelings": "Šis žmogus gali jausti įtampą, nusivylimą ar norą būti išgirstas ir teisus. Gali būti, kad jis dar ginasi viduje. Pokalbis, kuriame abi pusės girdimos, dažniausiai padeda labiau nei bandymas rasti kaltą.",
+   "money": "Su pinigais ši korta gali siūlyti temą apie nesutarimus ar derybas, kuriose svarbu išlaikyti sąžiningumą ir ramybę. Tai ne finansinis patarimas.",
+   "friendship": "Draugystėje penketas rodo ginčą, kuris gali atstumti. Verta paklausti savęs, ar draugystė jums svarbesnė už teisumą šiame ginče.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia pastebėti, kokiose situacijose norisi laimėti ir kodėl. Gali padėti kvėpavimo pratimai prieš sunkų pokalbį ir sąžiningas savęs paklausimas.",
+   "combos": [
+    {
+     "with": 4,
+     "text": "Imperatorius šalia penketo rodo kovą dėl kontrolės ir autoriteto; svarbu skirti stiprybę nuo užsispyrimo."
+    },
+    {
+     "with": 16,
+     "text": "Bokštas stiprina ginčo ar konflikto staigumą; po audros tenka iš naujo atsistatyti."
+    },
+    {
+     "with": 55,
+     "text": "Kardų šešetas po penketo rodo atsitraukimą ir judėjimą į ramesnius vandenis."
+    },
+    {
+     "with": 8,
+     "text": "Stiprybė primena, kad tikroji jėga dažnai yra rami, o ne triukšminga."
+    },
+    {
+     "with": 45,
+     "text": "Taurių dešimtukas kviečia pagalvoti, ar ginčą verta išspręsti dėl bendros ramybės."
+    }
+   ],
+   "questions": [
+    "Ką aš tikrai noriu laimėti šiame ginče?",
+    "Ar yra pergalė, kuri man kainuoja daugiau, nei verta?",
+    "Kokia riba man svarbi ir kaip ją galiu pasakyti ramiai?"
+   ]
+  },
+  {
+   "id": 55,
+   "symbols": [
+    {
+     "s": "Valtininkas, stovintis valties gale su ilga kartimi",
+     "m": "Vedlys ar pagalbininkas, vykdantis perėjimą; kontrolė, kad judėjimas nesustotų."
+    },
+    {
+     "s": "Moteris su gobtuvu ir vaikas valtyje",
+     "m": "Tie, kurie keliauja kartu; pažeidžiamumas ir nešama praeitis."
+    },
+    {
+     "s": "Šeši kardai, stovintys valtyje",
+     "m": "Rūpesčiai ir prisiminimai, kuriuos pasiimame su savimi."
+    },
+    {
+     "s": "Banguotas vanduo kairėje, ramesnis – dešinėje",
+     "m": "Perėjimas iš neramumo į ramybę."
+    }
+   ],
+   "story": [
+    "Kardų šešetas – tai kelionė po audros. Po penketo konflikto ir ketverto poilsio atėjo laikas keisti vietą, ir valtis neša jus į ramesnius vandenis. Šešetas dažnai reiškia harmoniją ir pagalbą, ir čia ji prasideda nuo to, kad ne viską reikia palikti: kardai stovi valtyje, tai yra, mintys ir išmoktos pamokos keliauja kartu. Svarbu, kad perėjimas nėra pabėgimas, o apgalvotas judėjimas.",
+    "Moteris ir vaikas atrodo užsidarę savyje, bet jie nėra vieni: valtininkas stumia valtį. Korta primena, kad pokyčiui reikia ir savo pastangų, ir kitų pagalbos. Ji tinka kalbant apie pasiryžimą palikti sunkų etapą, naujas aplinkybes, mokymąsi ar persikėlimą. Tai ne greita laimė: vanduo priekyje tik ramesnis, ne visiškai tylus. Bet kryptis aiški, ir to dažnai pakanka."
+   ],
+   "reversed": "Apversta korta gali rodyti, kad perėjimas stringa: sunku atsisveikinti arba valtis nenori judėti. Kartais tai grįžimas į seną vietą dėl neišspręstų klausimų. Verta paklausti, kas palaiko jus krante ir ar tai dar tarnauja.",
+   "positions": {
+    "past": "Praeityje buvo perėjimas, išvykimas ar sunkaus laikotarpio palikimas, kuris pakeitė jūsų kryptį.",
+    "present": "Dabar judate iš sunkesnio etapo į ramesnį, nors dalį nešate su savimi. Tai laikas pasirinkti, ką pasiimti.",
+    "future": "Netrukus gali atsirasti galimybė pakeisti aplinką, požiūrį ar kryptį; ramumas ateis palaipsniui.",
+    "obstacle": "Kliūtis – nenoras paleisti praeitį arba baimė pasikliauti kito pagalba.",
+    "advice": "Planuokite perėjimą žingsnis po žingsnio, paprašykite pagalbos ir leiskite sau nešti tik tai, kas dar reikalinga.",
+    "outcome": "Galimas rezultatas – ramesni vandenys ir naujas pradžios jausmas, nors kai kurios pamokos liks su jumis."
+   },
+   "feelings": "Šis žmogus gali jausti norą pereiti į ramesnį etapą arba rūpintis jumis, ir kartu nešti praeities pamokas. Gali būti, kad ryšys keičiasi, o ne baigiasi. Atviras pokalbis, kaip abu norite judėti, padės daugiau nei spėjimai.",
+   "money": "Su pinigais susijusi tema – perėjimas, persikėlimas ar kitoks etapas, kuriame verta ramiai viską apsvarstyti. Tai simbolinis skaitymas, ne finansinis patarimas.",
+   "friendship": "Draugystėje šešetas gali rodyti, kad ryšys keičiasi arba kad kas nors padeda jums įveikti sunkų laiką. Korta primena dėkingumą tiems, kurie yra valtyje kartu.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia pagerbti perėjimą: padėkoti už tai, kas buvo, ir pasirinkti, ką nešti toliau. Gali padėti trumpas ritualas su vandens vaizdiniu, pavyzdžiui, apmąstymas prie ežero ar jūros.",
+   "combos": [
+    {
+     "with": 7,
+     "text": "Vežimas ir Kardų šešetas – sąmoningas judėjimas pirmyn, kai kryptis aiški, o valia stipri."
+    },
+    {
+     "with": 9,
+     "text": "Atsiskyrėlis rodo kelionę į save ir išmoktų pamokų pasiėmimą su savimi."
+    },
+    {
+     "with": 54,
+     "text": "Po penketo konflikto šešetas rodo atsitraukimą ir išėjimą į ramesnius vandenis."
+    },
+    {
+     "with": 57,
+     "text": "Kardų aštuonetas po šešeto rodo, kad kai kurie vidiniai apribojimai keliauja kartu, kol jų nepastebite."
+    },
+    {
+     "with": 10,
+     "text": "Likimo ratas šalia primena, kad perėjimai yra gyvenimo ciklo dalis ir ne visada priklauso nuo jūsų."
+    }
+   ],
+   "questions": [
+    "Ką noriu pasiimti su savimi į ramesnius vandenis?",
+    "Kas man padeda perplaukti, o kas laiko krante?",
+    "Kokiu tempu man saugu keisti vietą?"
+   ]
+  },
+  {
+   "id": 56,
+   "symbols": [
+    {
+     "s": "Vyras, ant pirštų galų nutolstantis nuo stovyklos",
+     "m": "Atsargumas, slaptumas, noras pasiekti tikslą nepastebėtam."
+    },
+    {
+     "s": "Penki kardai glėbyje",
+     "m": "Tai, ką pavyko pasiimti; pasirinktas dalinis laimėjimas."
+    },
+    {
+     "s": "Du kardai, įsmeigti į žemę",
+     "m": "Tai, ką jis palieka; neišnešta dalis ar atsisakyta rizika."
+    },
+    {
+     "s": "Palapinės ir žmonės fone",
+     "m": "Aplinka, nuo kurios atsiskiriama; bendruomenė ar sistema, kurios taisyklių nesilaikoma."
+    }
+   ],
+   "story": [
+    "Kardų septynetas yra strategijos korta. Po šešeto perėjimo mintis ima ieškoti būdų, kaip pasiekti norimą, nebūtinai tiesiu keliu. Septynetas dažnai siejamas su vertinimu ir pasirinkimu, o čia tas pasirinkimas – ką paimti, ką palikti ir ar tai pastebės kiti. Figūra šypsosi, bet nešasi tik dalį kardų: pervertintos galimybės gali brangiai kainuoti.",
+    "Šią kortą verta skaityti ne tik kaip apgaulę, bet ir kaip nepriklausomumą: kartais ji kalba apie darbą vienam, apie nenorą ginčytis su visais ar apie atsargų pasitraukimą iš nepalankios aplinkos. Tačiau ji visada klausia apie sąžiningumą. Ar šis kelias leidžia jaustis ramiai? Ar tai, ką paslepiate, galėtų išlaikyti dienos šviesą? Korta nevertina, ji tik prašo pasitikrinti sąžinę ir pagalvoti apie pasekmes."
+   ],
+   "reversed": "Apversta korta dažnai rodo, kad paslaptis išaiškėja arba atsiranda noras prisipažinti. Gali būti, kad lengviau atvirai pasakyti tiesą nei toliau slėptis. Taip pat gali reikšti, kad laikas atsisakyti pernelyg sudėtingos strategijos ir grįžti prie paprasto sąžiningumo.",
+   "positions": {
+    "past": "Praeityje buvo situacija, kai pasirinkote veikti nepastebimai arba išvengti tiesioginio konflikto; tai paliko pėdsaką.",
+    "present": "Dabar galite taikyti strategiją, savarankiškai ieškoti sprendimo ar laikyti kai ką sau. Pasitikrinkite, ar tai tikrai naudinga.",
+    "future": "Gali atsirasti proga laimėti protingumu, bet kartu ir pagunda apeiti taisykles. Rinkitės apgalvotai.",
+    "obstacle": "Kliūtis – nuslėpta informacija, nepasitikėjimas arba nenoras prašyti pagalbos.",
+    "advice": "Pasitikrinkite savo motyvus. Jei imtumėte tą patį atvirai, ar vis tiek pasirinktumėte šį kelią? Jei ne, ieškokite sąžiningesnio būdo.",
+    "outcome": "Galimas rezultatas – dalinis laimėjimas ir pamoka apie sąžiningumą. Jei pasirinksite atvirumą, ryšiai gali tapti tvirtesni."
+   },
+   "feelings": "Šis žmogus gali slėpti dalį savo minčių ar elgtis atsargiai dėl nesaugumo, o ne dėl blogos valios. Korta nesako, kad jis meluoja; ji rodo, kad ne viskas pasakyta. Ramus, nekaltinantis klausimas dažnai atveria daugiau nei įtarinėjimas.",
+   "money": "Su pinigais susijusi tema – atsargumas, strategija ir sąžiningumas. Korta primena pasitikrinti, ar viskas daroma skaidriai; tai ne finansinis patarimas.",
+   "friendship": "Draugystėje septynetas gali rodyti nepasakytus dalykus ar atsitraukimą. Atviras pokalbis dažnai pakeičia atstumą artumu.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia pažvelgti į slaptas savo nuostatas ir paklausti, ar jos tarnauja jūsų vertybėms. Gali padėti rašymas dienoraštyje, kuriame nesiruošiate niekam rodyti.",
+   "combos": [
+    {
+     "with": 0,
+     "text": "Kvailys ir Kardų septynetas – nuoširdumas ir gudrumas: kas svarbiau, kai einate savo keliu?"
+    },
+    {
+     "with": 1,
+     "text": "Magas pabrėžia gebėjimus ir įtaką; svarbu, kad jie būtų naudojami sąžiningai."
+    },
+    {
+     "with": 11,
+     "text": "Teisingumas primena atsakomybę už pasirinkimus; tai, kas paslėpta, dažnai išaiškėja."
+    },
+    {
+     "with": 59,
+     "text": "Kardų dešimtukas rodo, kad pernelyg ilgas slėpimasis ar nuovargis gali baigtis sustojimu."
+    },
+    {
+     "with": 60,
+     "text": "Kardų pažas šalia rodo budrų stebėtoją, kuris gali pastebėti nesutapimus."
+    }
+   ],
+   "questions": [
+    "Ką aš slepiu ir kodėl?",
+    "Ar yra sąžiningesnis kelias, vedantis į tą patį tikslą?",
+    "Ko galėčiau paprašyti iš kitų, kad ši našta nebūtų vien mano?"
+   ]
+  },
+  {
+   "id": 57,
+   "symbols": [
+    {
+     "s": "Moteris su užrištomis akimis, audeklu apvyniotu kūnu",
+     "m": "Jausmas, kad esate suvaržyti; vidinė, kartais pačių sukurta riba."
+    },
+    {
+     "s": "Aštuoni kardai, įsmeigti aplink ją",
+     "m": "Mintys ir įsitikinimai, kurie atrodo kaip sienos."
+    },
+    {
+     "s": "Seklus vanduo po kojomis",
+     "m": "Jausmai, kurie yra čia pat; išeitis ne tokia sudėtinga, kaip atrodo."
+    },
+    {
+     "s": "Pilis ant uolos tolumoje",
+     "m": "Saugumas ar siekis, esantis kitoje pusėje."
+    }
+   ],
+   "story": [
+    "Kardų aštuonetas rodo mintis, kurios sukuria narvą. Moteris nėra užrakinta durimis ar grotomis: kardai stovi aplink ją, o tarpai tarp jų tušti. Raištis ant akių ir audeklas ant rankų primena, kad dažnai kliūtis yra ne išorėje, o įsitikinimuose „aš negaliu“, „nėra kitos galimybės“. Aštuonetas dažnai siejamas su judėjimu, bet čia jis užstringa, nes protas griežtai riboja kelią.",
+    "Tai ne kaltinimas: kartais išorinės aplinkybės tikrai sunkios. Korta sako, kad net ir tuomet verta pasitikrinti, ar nėra tarpų. Seklus vanduo ir pilis tolumoje rodo, kad išeitis egzistuoja, tik reikia nusiimti raištį ir žengti žingsnį. Daugelis skaito aštuonetą kaip kvietimą išbandyti naują požiūrį, paprašyti kito žmogaus žvilgsnio ir pastebėti, kurie kardai tikrai neįveikiami, o kurie tik atrodo."
+   ],
+   "reversed": "Apversta korta rodo, kad raištis ima slysti: pamatote, kad turite daugiau pasirinkimų. Tai gali būti išsivadavimas, drąsa ar vidinis atsilaisvinimas. Kita galima prasmė – dar nesijaučiate pasirengę žengti žingsnį, nors kelias jau matomas. Svarbu elgtis švelniai ir nuosekliai.",
+   "positions": {
+    "past": "Praeityje jautėtės įstrigę ar apriboti, ir tos mintys galėjo formuoti dabartinį požiūrį.",
+    "present": "Dabar galite jausti, kad nėra išėjimo. Pažiūrėkite, ar visos sienos tikrai tvirtos, ar kai kurios yra tik mintys.",
+    "future": "Netrukus gali atsirasti galimybė pamatyti naują kelią arba paprašyti pagalbos, kuri atveria duris.",
+    "obstacle": "Kliūtis – baimė, savikritika ar įsitikinimas, kad „nieko negalima pakeisti“.",
+    "advice": "Užsirašykite, ką laikote neįmanomu, ir kiekvienam punktui suraskite bent vieną mažą žingsnį. Pasikalbėkite su pasitikimu žmogumi.",
+    "outcome": "Galimas rezultatas – išsilaisvinimas iš ribojančių minčių ir naujos perspektyvos atsiradimas, nors tai gali užtrukti."
+   },
+   "feelings": "Šis žmogus gali jaustis įstrigęs, neapsisprendžiantis arba bijantis žengti žingsnį. Tai nebūtinai abejingumas jums; dažniau tai vidinė įtampa. Kantrus, nespaudžiantis buvimas šalia gali padėti jam pamatyti galimybes.",
+   "money": "Su pinigais susijusi tema – jausmas, kad pasirinkimų nėra, ir pasitikrinimas, ar viską tikrai matote. Tai simbolinis skaitymas, ne finansinis patarimas.",
+   "friendship": "Draugystėje aštuonetas gali rodyti, kad jaučiatės nesuprasti arba bijote pasakyti, ko norite. Pasitikėjimas ir atvirumas gali sumažinti atstumą.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia pastebėti ribojančius įsitikinimus ir švelniai juos pakeisti. Gali padėti vaizduotės pratimas: įsivaizduokite, kad nusiimate raištį ir žengiate pro tarpą tarp kardų.",
+   "combos": [
+    {
+     "with": 15,
+     "text": "Velnias ir Kardų aštuonetas – ribojimai, kuriuos kuriame patys; svarbu pamatyti, kurios grandinės laisvos."
+    },
+    {
+     "with": 12,
+     "text": "Pakabintasis siūlo pažvelgti į situaciją kitu kampu, tai gali atverti išeitį."
+    },
+    {
+     "with": 17,
+     "text": "Žvaigždė atneša viltį ir nuoširdžią paramą, padedančią nusiimti raištį."
+    },
+    {
+     "with": 58,
+     "text": "Kardų devynetas šalia rodo, kad besisukančios mintys labiau įkalina nei aplinkybės."
+    },
+    {
+     "with": 0,
+     "text": "Kvailys primena, kad pirmas žingsnis į nežinią gali būti paprastesnis, nei atrodo."
+    }
+   ],
+   "questions": [
+    "Kuris mano įsitikinimas atrodo kaip siena?",
+    "Kas pasikeistų, jei vienas iš kardų būtų tik įsivaizduojamas?",
+    "Kokį mažą žingsnį galėčiau žengti dar šiandien?"
+   ]
+  },
+  {
+   "id": 58,
+   "symbols": [
+    {
+     "s": "Žmogus, sėdintis lovoje ir dengiantis veidą rankomis",
+     "m": "Nerimas, kuris užgula naktį; sunkumas prisipažinti rūpestį."
+    },
+    {
+     "s": "Devyni kardai, horizontaliai išrikiuoti juodoje sienoje virš lovos",
+     "m": "Rūpesčiai, kurie atrodo didesni nei yra; besisukančios mintys."
+    },
+    {
+     "s": "Antklodė su rožėmis ir astrologiniais ženklais",
+     "m": "Tai, kas dar teikia šilumą, grožį ir ryšį su kažkuo didesniu."
+    },
+    {
+     "s": "Lovos kojūgalio raižinys su kovos scena",
+     "m": "Žmogaus kova ir sunkumas, išreikštas ne tik mintimis, bet ir istorija."
+    }
+   ],
+   "story": [
+    "Kardų devynetas – nemigos ir nakties minčių korta. Protas kardus pastato eilėje, ir kiekvienas atrodo vis skaudesnis. Devynetas dažnai siejamas su artėjančia pabaiga, o čia jis rodo piką pasiekusį nerimą prieš dešimtuko pabaigą. Svarbu, kad žmogus lovoje sėdi, o ne guli: jis jau pabudo, jau žino, kad mintys jį slegia, ir gali rinktis.",
+    "Daugeliu atvejų devynetas kalba apie tai, kad baimė yra didesnė už tikrovę. Tai nereiškia, kad rūpesčio nėra, bet naktį jis atrodo be ribų. Korta kviečia kalbėti apie tai, kas slegia: tai pirmas žingsnis, kad kardai nustotų slėgti. Jei nerimas tęsiasi ilgai ar trukdo gyventi, verta kreiptis į specialistą. Antklodė su rožėmis primena, kad net sunkią naktį šalia yra šilumos ir grožio."
+   ],
+   "reversed": "Apversta korta gali rodyti, kad naktis baigiasi: nerimas silpsta arba atsiranda galimybė pasidalyti. Tai taip pat gali reikšti, kad rūpesčiai nuslopinami ir slepiami. Verta paklausti, kas jums padėtų išgirsti save be baimės.",
+   "positions": {
+    "past": "Praeityje buvo rūpesčių, kurie ilgai neleido ramiai miegoti ar atsipalaiduoti; jų pėdsakas gali likti.",
+    "present": "Dabar galite jausti nerimą ar besisukančias mintis. Pažymėkite, kas yra faktas, o kas baimės vaizdinys.",
+    "future": "Galite pajusti, kad nerimas stiprėja, bet kartu atsiras ir galimybė paprašyti pagalbos ar išsakyti rūpestį.",
+    "obstacle": "Kliūtis – tylėjimas, perdėtas savęs kaltinimas ar vienatvė su rūpesčiais.",
+    "advice": "Užsirašykite rūpesčius ant popieriaus, atskirkite, ką galite paveikti, ir pasikalbėkite su pasitikimu žmogumi. Pasirūpinkite poilsiu.",
+    "outcome": "Galimas rezultatas – palengvėjimas, kai rūpesčiai išsakomi ir pasidalijami. Tai neišsprendžia viso, bet padeda atgauti aiškumą."
+   },
+   "feelings": "Šis žmogus gali jausti nerimą ar rūpestį ir sunkiai apie tai kalbėti. Tai nebūtinai susiję su jumis; dažniau tai jo paties vidinė įtampa. Švelnus klausimas „kaip tau?“ ir kantrybė gali padėti jam atsiverti.",
+   "money": "Su pinigais susijusi tema – rūpestis ir nerimas, kuris gali būti didesnis nei faktinė situacija. Korta primena sudėlioti faktus, bet tai nėra finansinis patarimas.",
+   "friendship": "Draugystėje devynetas rodo, kad kam nors reikia pokalbio ar paramos. Atsiliepkite, jei galite, o jei patys nerimaujate – drąsiai paprašykite.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia vakarinį nusiraminimą: kvėpavimo pratimus, nakties dienoraštį, švelnią muziką. Jei naudojate žvakę, statykite ją saugiai ir niekada nepalikite be priežiūros.",
+   "combos": [
+    {
+     "with": 18,
+     "text": "Mėnulis ir Kardų devynetas – naktinės baimės ir iliuzijos; svarbu atskirti jausmą nuo tikrovės."
+    },
+    {
+     "with": 13,
+     "text": "Mirtis šalia reiškia pabaigą ir pokytį, kuris gali atnešti palengvėjimą po bejėgystės."
+    },
+    {
+     "with": 19,
+     "text": "Saulė parodo, kad rytas atneša aiškumą ir šilumą."
+    },
+    {
+     "with": 59,
+     "text": "Kardų dešimtukas rodo, kad po didžiausio įtempimo ateina pabaiga ir galimybė pradėti iš naujo."
+    },
+    {
+     "with": 14,
+     "text": "Nuosaikumas padeda ieškoti ramybės ir pusiausvyros tarp minčių ir kūno."
+    }
+   ],
+   "questions": [
+    "Kokia mintis mane labiausiai kamuoja ir ar ji faktas?",
+    "Su kuo galėčiau pasidalyti šiuo rūpesčiu?",
+    "Kas man padeda nusiraminti vakare?"
+   ]
+  },
+  {
+   "id": 59,
+   "symbols": [
+    {
+     "s": "Figūra, gulinti veidu žemyn, su dešimčia kardų nugaroje",
+     "m": "Perdėtas, teatrališkas „viskas baigta“ vaizdas; pasiektas dugnas, ne pranašystė apie fizinį likimą."
+    },
+    {
+     "s": "Raudonas apsiaustas",
+     "m": "Gyvybingumas ir jausmai, kurie vis dar su jumis."
+    },
+    {
+     "s": "Juodas dangus ir saulėtekis ties horizontu",
+     "m": "Tamsiausia valanda prieš rytą."
+    },
+    {
+     "s": "Ramus vanduo ir tolimi kalnai",
+     "m": "Po audros ateinanti ramybė."
+    }
+   ],
+   "story": [
+    "Kardų dešimtukas – tai Kardų eilės pabaiga ir viena dramatiškiausių kortų. Dešimt kardų – tiek daug, kad vaizdas beveik nerealus, ir tai ne atsitiktinai: korta kalba apie jausmą „aš nebegaliu daugiau“, kai dalykas pasiekia savo ribą. Vis dėlto dešimtis reiškia užbaigimą, ir čia kalbama apie užbaigtą skausmingą etapą, o ne apie nelaimę ateityje. Kai nebėra kur kristi, belieka pakilti.",
+    "Svarbiausia šios kortos detalė – horizontas. Debesis praskiria saulėtekis, vanduo ramus, kalnai stovi. Nors figūra dar neatsistojo, pasaulis aplink jau keičiasi. Daugelis skaito dešimtuką kaip leidimą pripažinti pabaigą ir nebesilaikyti to, kas nebeveikia: santykio, darbo, įsitikinimo ar vaidmens. Skausmas pripažįstamas, bet kartu primenama, kad nauja pradžia (kitas tūzas) yra arti. Reikia tik leisti rytui ateiti."
+   ],
+   "reversed": "Apversta korta rodo, kad blogiausia jau praėjo ir pamažu atsigaunate. Kita prasmė – nenoras užbaigti, perdėtas dramatizavimas ar kartojamas skausmas, kai dalykas jau seniai baigėsi. Verta pasidomėti, ką jums duotų leidimas pasakyti „viskas, užteks“.",
+   "positions": {
+    "past": "Praeityje buvo laikotarpis, kuris baigėsi skausmingai ar išsekino jus. Dabar galite matyti, ko jis išmokė.",
+    "present": "Dabar jaučiate, kad pasiekėte ribą ar užbaigiate sunkų etapą. Pripažinkite tai, nes tai pirmas žingsnis į priekį.",
+    "future": "Netrukus gali baigtis sudėtingas etapas ir atsirasti vietos naujam. Pabaigos jausmas gali būti ir skausmingas, ir išlaisvinantis.",
+    "obstacle": "Kliūtis – kabinimasis į tai, kas baigėsi, arba perdėtas dramatizavimas, kuris neleidžia pamatyti saulėtekio.",
+    "advice": "Leiskite pabaigai įvykti. Pasirūpinkite savimi, paprašykite palaikymo ir primenkite sau, kad tai laikinas etapas.",
+    "outcome": "Galimas rezultatas – pabaiga, po kurios atsiveria nauja pradžia. Ji nebūtinai bus lengva, tačiau gali būti aiškesnė."
+   },
+   "feelings": "Šis žmogus gali jaustis išsekęs, nusivylęs ar pasiekęs ribą, ir ne visada moka apie tai kalbėti. Tai dažniau apie jo paties išgyvenimus nei apie jūsų vertę. Kantrybė, rūpestis ir erdvė gali padėti.",
+   "money": "Su pinigais susijusi tema – sunkaus etapo pabaiga ir naujos pradžios galimybė. Tai simbolinis skaitymas, ne finansinis patarimas.",
+   "friendship": "Draugystėje korta gali rodyti ryšio pabaigą arba pačios sunkiausios dalies pabaigą. Tikri draugai dažnai lieka šalia ir tada, kai atrodo, kad viskas baigėsi.",
+   "spiritual": "Dvasinėje praktikoje dešimtukas kviečia užbaigimo ritualus: laiško rašymą, dėkingumo žodžius ir ryto pasitikimą. Jei naudojate žvakę, statykite ją saugiai ir niekada nepalikite be priežiūros.",
+   "combos": [
+    {
+     "with": 16,
+     "text": "Bokštas ir Kardų dešimtukas – staigios pabaigos ir griūties vaizdas; po jų atsiranda erdvė naujam pamatui."
+    },
+    {
+     "with": 13,
+     "text": "Mirtis šalia kalba apie transformaciją: viena era baigiasi, kita prasideda."
+    },
+    {
+     "with": 19,
+     "text": "Saulė parodo, kad šviesa po tamsos nėra tik pažadas, o natūralus ciklas."
+    },
+    {
+     "with": 50,
+     "text": "Kardų tūzas po dešimtuko rodo naują įžvalgą ir pradžią po sunkios pabaigos."
+    },
+    {
+     "with": 20,
+     "text": "Nuosprendis kviečia pripažinti, kas baigėsi, ir atsiliepti į naują kvietimą."
+    }
+   ],
+   "questions": [
+    "Kas manyje jau baigėsi ir ką noriu paleisti?",
+    "Kokį rytą įsivaizduoju po šios nakties?",
+    "Kas man padės atsistoti, kai ateis metas?"
+   ]
+  },
+  {
+   "id": 60,
+   "symbols": [
+    {
+     "s": "Jaunas žmogus, stovintis ant nelygios žemės ir laikantis iškeltą kardą",
+     "m": "Budrumas, noras mokytis ir bandymas valdyti naują įrankį – mintį."
+    },
+    {
+     "s": "Debesys ir vėjas, lenkiantis medžius",
+     "m": "Judančios idėjos ir nepastovumas; protas, kuris nenurimsta."
+    },
+    {
+     "s": "Paukščiai danguje",
+     "m": "Mintys ir naujienos, kurios skrenda greitai."
+    },
+    {
+     "s": "Kalvelė ir tolumoje atsiveriantis vaizdas",
+     "m": "Stebėtojo pozicija: matote daugiau, jei esate truputį aukščiau."
+    }
+   ],
+   "story": [
+    "Kardų pažas – pasiuntinys, kuris dar mokosi valdyti savo ginklą. Jis atkreipia dėmesį į viską: kaip kalba kiti, kokios idėjos sklando, kas čia vyksta. Vėjas pučia, bet jis stovi, nors ir laiko kardą kiek nepatogiai. Tai žmogus, kuriam viskas įdomu, kuris užduoda daug klausimų ir kartais pasako daugiau, nei buvo numatęs.",
+    "Kaip žmogaus tipas, Kardų pažas – smalsus mokinys ar jaunuolis (nebūtinai pagal amžių), kalbus, budrus, mėgstantis idėjas ir diskusijas, kartais sarkastiškas. Jam reikia mokytis pasverti žodžius ir pamatyti, kad informacija nėra išmintis. Kortos vertė – nuoširdus noras suprasti. Jos užduotis – nenukirsti kito dar nespėjus išklausyti. Pažas siūlo mokytis, klausti ir dalytis idėjomis, bet su atsargumu, kad žodžiai nekirstų giliau, nei norėta."
+   ],
+   "reversed": "Apversta korta įspėja apie apkalbas, aštrų liežuvį ar neapgalvotus žodžius. Taip pat gali rodyti, kad idėjos negimsta, nes bijoma suklysti. Verta sustoti, patikrinti informaciją ir paklausti, ar tai, ką ketinate pasakyti, būtina ir tinkama.",
+   "positions": {
+    "past": "Praeityje buvo smalsumas, naujos idėjos ar žinios, kurios ėmė keisti požiūrį. Galbūt atsirado ir neapgalvotų žodžių.",
+    "present": "Dabar yra laikas stebėti, klausinėti ir mokytis. Venkite skubių išvadų.",
+    "future": "Netrukus galite sulaukti žinios, naujos idėjos ar mokymosi galimybės. Būkite atviri, bet patikrinkite faktus.",
+    "obstacle": "Kliūtis – paviršutiniškumas, apkalbos ar nepatikrinta informacija.",
+    "advice": "Klauskite, tikrinkite šaltinius ir dalinkitės mintimis taktiškai. Smalsumas padeda, kai jis derinamas su pagarba.",
+    "outcome": "Galimas rezultatas – daugiau žinių ir supratimo, o kartu pamoka apie žodžių svorį."
+   },
+   "feelings": "Šis žmogus gali jausti smalsumą, norą pažinti jus per pokalbius ir idėjas. Tas žmogus gali būti kalbus, bet ne visada pasirengęs gilioms emocijoms. Atviri klausimai ir lengvi pokalbiai padeda jam atsiverti.",
+   "money": "Su pinigais susijusi tema – informacijos rinkimas, mokymasis ir atsargumas dėl nepatikrintų žinių. Tai simbolinis skaitymas, ne finansinis patarimas.",
+   "friendship": "Draugystėje pažas yra draugas, su kuriuo smagu kalbėtis ir dalintis idėjomis. Jis taip pat gali priminti būti atsargesniems su apkalbomis.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia mokytis: skaityti, užrašyti klausimus, stebėti. Pradedančiojo požiūris – ne gėda, o galimybė.",
+   "combos": [
+    {
+     "with": 0,
+     "text": "Kvailys ir Kardų pažas – smalsumas ir pirmas žingsnis; svarbu išlaikyti atidumą."
+    },
+    {
+     "with": 1,
+     "text": "Magas šalia rodo gebėjimą paversti idėjas veiksmais, jei jie pagrįsti žiniomis."
+    },
+    {
+     "with": 2,
+     "text": "Žynė siūlo derinti protą su intuicija ir klausytis to, kas nepasakyta."
+    },
+    {
+     "with": 50,
+     "text": "Kardų tūzas stiprina aiškią idėją ir mokymosi pradžią."
+    },
+    {
+     "with": 56,
+     "text": "Kardų septynetas įspėja apie pagundą naudoti žodžius ar informaciją kaip strategiją."
+    }
+   ],
+   "questions": [
+    "Ko aš šiuo metu norėčiau išmokti ar suprasti?",
+    "Kokia informacija mane pasiekė ir ar ją patikrinau?",
+    "Kaip galėčiau pasakyti tiesą švelniau?"
+   ]
+  },
+  {
+   "id": 61,
+   "symbols": [
+    {
+     "s": "Riteris šuoliuoja ant balto žirgo su iškeltu kardu",
+     "m": "Ryžtas, greitis ir tiesus veiksmas link tikslo."
+    },
+    {
+     "s": "Vėjo lenkiami medžiai",
+     "m": "Stipri srovė, kurioje judama: idėjos, aplinkybės ar paties riterio užsidegimas."
+    },
+    {
+     "s": "Debesys ir audringas dangus",
+     "m": "Intensyvus mąstymo laukas, nenuspėjamumas."
+    }
+   ],
+   "story": [
+    "Kardų riteris – greičiausias iš visų Kardų dvaro kortų. Jis kerta lauką vėjyje, nežiūrėdamas į šalis, nes mato tikslą. Jo protas aštrus, jis kalba tiesiai, veikia ryžtingai ir nekantrauja, jei kiti lėtesni. Kaip žmogaus tipas, tai ambicingas, drąsus, kartais nekantrus ir tiesmukas asmuo, kuris mėgsta idėjas, ginčus ir greitą sprendimą; jam svarbu būti teisiam ir pasiekti rezultatą.",
+    "Riterio stiprybė – energija ir aiškumas, silpnybė – pamirštama, kad kiti irgi turi jausmų. Korta primena, kad greitis be krypties gali nublokšti į šalį, o žodžiai kerta taip pat, kaip kardas. Ji kviečia veikti drąsiai, bet pagalvoti apie tai, kas dar yra kelyje. Kai riteris sulėtina žirgą ir išklauso, jo ryžtas tampa tikra vertybe, o ne įtampos šaltiniu."
+   ],
+   "reversed": "Apversta korta įspėja apie skubėjimą, nekantrumą ir griežtus žodžius. Kartais ji rodo, kad greitis išseko, o kartais – kad norima judėti, bet nežinoma kur. Pravartu sulėtinti žingsnį, pasitikslinti tikslą ir paklausti, ar tikrai šiuo keliu norite eiti.",
+   "positions": {
+    "past": "Praeityje buvo sparti veikla, ambicingas žingsnis ar ryžtingas sprendimas, kuris pakeitė eigą.",
+    "present": "Dabar esate judėjimo, kryptingumo ir tiesioginio bendravimo etape. Stebėkite, ar greitis neviršija aiškumo.",
+    "future": "Netrukus galite pajusti poreikį veikti greitai arba sutikti žmogų, kuris veikia ryžtingai ir atvirai.",
+    "obstacle": "Kliūtis – nekantrumas, tiesmukumas ar skubotas sprendimas, nespėjus išklausyti.",
+    "advice": "Nustatykite aiškų tikslą, bet sulėtinkite prieš pasakydami ar nuspręsdami. Ryžtas ir mandagumas gali eiti kartu.",
+    "outcome": "Galimas rezultatas – greitas judėjimas ir pasiekimai, jei išlaikote pusiausvyrą tarp ryžto ir dėmesio kitiems."
+   },
+   "feelings": "Šis žmogus gali jausti ryžtą, susidomėjimą ir norą veikti, bet ne visada moka išreikšti švelnumą. Jis gali kalbėti tiesiai ir greitai. Jei kas nors neaišku, tiesiog paklauskite; atviras klausimas dažnai gauna atvirą atsakymą.",
+   "money": "Su pinigais susijusi tema – ambicija ir greiti sprendimai, kuriuos verta ramiai apgalvoti. Tai simbolinis skaitymas, ne finansinis patarimas.",
+   "friendship": "Draugystėje riteris yra ryžtingas ir kartais per daug tiesus draugas. Jis gali padėti judėti pirmyn, tačiau reikia atsargumo su žodžiais.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia nukreipti energiją: judėjimą, vaikščiojimą gamtoje ar kryptingą mokymąsi. Prieš priimant sprendimą, verta sustoti ir įkvėpti.",
+   "combos": [
+    {
+     "with": 7,
+     "text": "Vežimas ir Kardų riteris – stipri valia ir kryptis; svarbu, kad greitis neviršytų kontrolės."
+    },
+    {
+     "with": 8,
+     "text": "Stiprybė švelnina riterio ryžtą ir moko valdyti impulsus."
+    },
+    {
+     "with": 16,
+     "text": "Bokštas įspėja, kad skubėjimas gali baigtis staigiu sustojimu."
+    },
+    {
+     "with": 54,
+     "text": "Kardų penketas šalia rodo ginčus, kuriuose pergalė gali kainuoti daugiau nei verta."
+    },
+    {
+     "with": 33,
+     "text": "Skeptrų riteris papildo energiją, tačiau gali padidinti nekantrumą; reikia aiškaus tikslo."
+    }
+   ],
+   "questions": [
+    "Kokio tikslo aš tikrai siekiu ir kam jis tarnauja?",
+    "Kur mano greitis ar žodžiai gali žeisti kitus?",
+    "Kada paskutinį kartą sustojau ir išklausiau?"
+   ]
+  },
+  {
+   "id": 62,
+   "symbols": [
+    {
+     "s": "Karalienė soste profilyje, su vertikaliu kardu dešinėje rankoje",
+     "m": "Aiškus mąstymas, sprendimas, pagrįstas patirtimi."
+    },
+    {
+     "s": "Kairė ranka atvira, ištiesta",
+     "m": "Atvirumas tiesai ir kvietimas kalbėti; kartu ribos."
+    },
+    {
+     "s": "Sostas, papuoštas drugeliais ir kerubu",
+     "m": "Transformacija, protas ir išmintis, gimusi iš patirties."
+    },
+    {
+     "s": "Debesys ir paukštis fone",
+     "m": "Viršutinis, orinis pasaulis; vienatvė ir platus žvilgsnis."
+    }
+   ],
+   "story": [
+    "Kardų karalienė yra aiškaus mąstymo ir sąžiningumo įsikūnijimas. Ji sėdi aukštai, matydama toli, ir kalba tiesiai, bet ne dėl žiaurumo, o todėl, kad žino, jog tiesa – geriausia dovana. Kaip žmogaus tipas, tai nepriklausomas, protingas, dažnai patyręs žmogus, kuris patyrė netekčių ir iš jų išmoko. Ji vertina aiškumą, nemėgsta apsimetinėjimo, ir jai svarbu išlaikyti ribas.",
+    "Jos stiprybė – gebėjimas pamatyti dalykus tokius, kokie jie yra, ir patarti be iliuzijų. Jos pavojus – šaltumas arba izoliacija, kai atsitraukimas tampa skydu. Atvira kairė ranka rodo, kad ji vis dėlto gali priimti: jos sąžiningumas gali būti šiltas, jei jis derinamas su užuojauta. Korta kviečia kalbėti aiškiai, bet su pagarba, ir rinktis ribas ne dėl baimės, o dėl savigarbos."
+   ],
+   "reversed": "Apversta korta gali rodyti šaltumą, kartėlį ar aštrius žodžius, sakomus iš skausmo. Taip pat gali reikšti izoliaciją, kai stengiamasi viską spręsti vienam. Verta paklausti, ar tiesa sakoma su rūpesčiu, ir ar yra žmogus, kuriuo galima pasitikėti.",
+   "positions": {
+    "past": "Praeityje buvo laikas, kai pasitikėjote savo protu, patirtimi ir aiškiomis ribomis, galbūt po sunkaus išgyvenimo.",
+    "present": "Dabar jums padeda aiškus mąstymas, sąžiningumas ir nepriklausomybė. Verta išreikšti savo ribas ramiai.",
+    "future": "Galite sutikti žmogų, kuris kalba aiškiai ir sąžiningai, arba patys pajusite poreikį tokiu tapti.",
+    "obstacle": "Kliūtis – šaltumas, kritiškumas ar pernelyg didelis atsiribojimas.",
+    "advice": "Kalbėkite tiesiai, bet su šiluma. Aiškios ribos ir užuojauta gali sugyventi.",
+    "outcome": "Galimas rezultatas – aiškumas, subrendęs požiūris ir pagarbos vertos ribos."
+   },
+   "feelings": "Šis žmogus gali jausti pagarbą ir norą būti sąžiningam su jumis, bet jausmus rodo santūriai. Tas žmogus vertina tiesą labiau nei gražius žodžius. Nuoširdus, ramus pokalbis padeda geriau nei spėjimai.",
+   "money": "Su pinigais susijusi tema – aiškus požiūris, sąžiningumas ir ribos. Korta primena realistiškai pažvelgti į situaciją; tai nėra finansinis patarimas.",
+   "friendship": "Draugystėje karalienė primena žmogų, kuris pasakys tiesą ir gerbs jūsų ribas. Jos paramos vertė – aiškumas, ne paguoda.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia tylai, savistabai ir sąžiningam dienoraščiui. Tyla padeda atskirti, kas tikrai jūsų, o kas ne.",
+   "combos": [
+    {
+     "with": 2,
+     "text": "Žynė ir Kardų karalienė – intuicija ir protas kartu; gili, bet aiški nuovoka."
+    },
+    {
+     "with": 11,
+     "text": "Teisingumas pabrėžia sąžiningumą, atsakomybę ir aiškią mąstyseną."
+    },
+    {
+     "with": 9,
+     "text": "Atsiskyrėlis rodo vienatvę kaip išminties šaltinį."
+    },
+    {
+     "with": 52,
+     "text": "Kardų trejetas primena, kad jos aiškumas gali kilti iš patirto skausmo."
+    },
+    {
+     "with": 49,
+     "text": "Taurių karalius papildo protą jausmų brandumu ir šiluma."
+    }
+   ],
+   "questions": [
+    "Kur mano sąžiningumas yra šiltas, o kur šaltas?",
+    "Kokią ribą šiandien noriu aiškiau pasakyti?",
+    "Kam galiu leisti save pamatyti be apsaugos?"
+   ]
+  },
+  {
+   "id": 63,
+   "symbols": [
+    {
+     "s": "Karalius soste su vertikaliu kardu",
+     "m": "Protas kaip teisingumo įrankis ir atsakomybės simbolis."
+    },
+    {
+     "s": "Mėlynas apsiaustas ir raudonas apsiaustas",
+     "m": "Mąstymo ramybė ir atsakomybės šiluma."
+    },
+    {
+     "s": "Sostas, papuoštas drugeliais ir kerubo atvaizdu",
+     "m": "Protas, nusiteikęs transformacijai ir kilnumui."
+    },
+    {
+     "s": "Debesuotas dangus aplink sostą",
+     "m": "Oro stichija: idėjos, kalba, nuojauta."
+    }
+   ],
+   "story": [
+    "Kardų karalius yra protas, subrandintas atsakomybės. Jis nebe pažas, trokštantis žinių, nei riteris, skubantis į kovą: jis sėdi soste ir sprendžia pagal principus. Kaip žmogaus tipas, tai analitiškas, tiesus, teisingas žmogus – vadovas, teisininkas, mokytojas ar patarėjas, kuris vertina tvarką, taisykles ir aiškius argumentus. Jam svarbu logika ir teisingumas, o emocijas dažnai vertina protu.",
+    "Jo pavojus – šaltumas, perdėtas griežtumas ir noras kontroliuoti. Kai valdžia nebesiremia užuojauta, ji tampa tuščia taisykle. Todėl korta kviečia sieti argumentus su žmoniškumu: aiškus mąstymas veikia geriausiai, kai tarnauja ne ego, o bendram gėriui. Karalius moko priimti sprendimus, kalbėti aiškiai ir prisiimti atsakomybę už žodžius, taip pat klausytis, nes tikra išmintis neatsiejama nuo atvirumo."
+   ],
+   "reversed": "Apversta korta gali rodyti šaltą valdžią, manipuliavimą ar nelanksčią kritiką. Ji taip pat gali reikšti, kad trūksta aiškumo ar vadovavimo. Verta paklausti, ar savo galią naudojate sąžiningai ir ar išklausote kitus, prieš nuspręsdami.",
+   "positions": {
+    "past": "Praeityje turėjote tvarkos, sprendimų ir atsakomybės patirties, arba sutikote žmogų, kuris tokį vaidmenį atliko.",
+    "present": "Dabar naudingas aiškus mąstymas, pagrįstas principais. Verta pasverti argumentus ir išlikti teisingiems.",
+    "future": "Gali ateiti laikas, kai teks priimti svarbų sprendimą arba bendrauti su patarėju ar autoritetu.",
+    "obstacle": "Kliūtis – nelankstumas, pernelyg griežtas požiūris ar dominavimas.",
+    "advice": "Remkitės faktais ir principais, bet neužmirškite šilumos. Aiški kalba ir pagarba kitiems stiprina autoritetą.",
+    "outcome": "Galimas rezultatas – pagrįstas sprendimas ir pasitikėjimas, jei išlaikote teisingumą ir atvirumą."
+   },
+   "feelings": "Šis žmogus gali jausti pagarbą ir norą būti teisingas, bet emocijas reiškia santūriai ar racionaliai. Gali būti, kad jausmus jis rodo veiksmais, o ne žodžiais. Ramus, aiškus pokalbis padeda geriau nei emocijų spaudimas.",
+   "money": "Su pinigais susijusi tema – aiškios taisyklės, tvarka ir atsakomybė. Korta primena nuosekliai pažvelgti į situaciją; tai nėra finansinis patarimas.",
+   "friendship": "Draugystėje karalius yra patikimas, sąžiningas draugas, galintis duoti aiškų patarimą. Svarbu, kad jo tiesmukumas neužgožtų užuojautos.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia mąstyti apie vertybes ir principus, pagal kuriuos gyvenate. Dienoraštis apie sprendimus, kuriais didžiuojatės, padeda stiprinti vidinį kompasą.",
+   "combos": [
+    {
+     "with": 4,
+     "text": "Imperatorius ir Kardų karalius – tvarka, struktūra ir autoritetas; reikia saiko, kad tai netaptų kontrole."
+    },
+    {
+     "with": 11,
+     "text": "Teisingumas sustiprina sąžiningumo ir atsakomybės temą."
+    },
+    {
+     "with": 5,
+     "text": "Šventikas rodo vertybes ir tradiciją, kurioms protas gali tarnauti."
+    },
+    {
+     "with": 50,
+     "text": "Kardų tūzas rodo aiškią idėją, kurią karalius gali paversti sprendimu."
+    },
+    {
+     "with": 62,
+     "text": "Kardų karalienė šalia rodo dvi aiškias, patyrusias pozicijas; svarbu, kad jos išgirstų viena kitą."
+    }
+   ],
+   "questions": [
+    "Kokiais principais remiuosi, kai priimu sprendimus?",
+    "Kur mano tiesmukumas gali įskaudinti?",
+    "Kaip galėčiau derinti protą ir užuojautą?"
+   ]
+  }
+ ]
+}

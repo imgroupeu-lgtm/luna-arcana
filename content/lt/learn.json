@@ -1,0 +1,842 @@
+{
+ "labels": {
+  "lesson": "Pamoka",
+  "of": "iš",
+  "keypoints": "Svarbiausia",
+  "quiz": "Pasitikrinkite",
+  "check": "Tikrinti",
+  "correct": "Teisingai",
+  "wrong": "Neteisingai",
+  "score": "{n} iš {m} teisingai",
+  "next": "Kita pamoka",
+  "prev": "Ankstesnė",
+  "back": "Visos pamokos",
+  "retry": "Bandyti dar kartą",
+  "cardQuiz": "Atpažinkite kortą",
+  "cardQuizLede": "Pagal raktažodžius atspėkite, kuri tai korta.",
+  "newQ": "Kitas klausimas",
+  "minutes": "{n} min. skaityti"
+ },
+ "lessons": [
+  {
+   "id": "kas-yra-taro",
+   "title": "Kas yra taro",
+   "lede": "Taro – 78 iliustruotų kortų kaladė, kuri šiandien dažniausiai naudojama apmąstymams ir savistabai.",
+   "sections": [
+    {
+     "h": "Kaladės sandara",
+     "p": [
+      "Klasikinę taro kaladę sudaro 78 kortos. Jos dalijamos į dvi dalis: 22 Didžiuosius arkanus ir 56 Mažuosius arkanus. Taigi 78 = 22 + 56.",
+      "Didieji arkanai – tai kortos su pavadinimais ir didelėmis temomis: Kvailys, Magas, Žynė, Mirtis, Saulė, Pasaulis ir kitos. Jos paprastai rodo svarbius gyvenimo etapus, esmines pamokas ir gilesnius poslinkius.",
+      "Mažieji arkanai primena įprastas žaidimo kortas ir yra suskirstyti į keturias mastis: Skeptrus, Taures, Kardus ir Monetas. Kiekvienoje yra po 14 kortų: tūzas, nuo dvejeto iki dešimtuko ir keturios rūmų kortos – Pažas, Riteris, Karalienė ir Karalius (4 × 14 = 56). Jos dažniau kalba apie kasdienes situacijas, nuotaikas ir sprendimus."
+     ]
+    },
+    {
+     "h": "Trumpa istorija",
+     "p": [
+      "Taro kortos atsirado XV amžiuje Šiaurės Italijoje kaip kortų žaidimas, vadintas tarocchi. Viena seniausių išlikusių kaladžių – Visconti-Sforza kaladė.",
+      "Ezoterinės, būrimo prasmės taro pradėta ieškoti vėliau – tai dokumentuota nuo XVIII a. pabaigos Prancūzijoje. Antoine'o Court de Gébelino 1781 m. veikale „Le Monde primitif“ išsakyta mintis, kad taro kilęs iš Senovės Egipto; istorikai šią mintį atmeta. Apie 1789 m. Etteilla išleido kaladę, sukurtą specialiai būrimui.",
+      "1888 m. Londone įkurtas Hermetinis Auksinės Aušros ordinas (Golden Dawn) taro susiejo su astrologija, elementais ir Kabala. Šios idėjos stipriai paveikė šiuolaikinį kortų aiškinimą."
+     ]
+    },
+    {
+     "h": "Žymiausios kaladės",
+     "p": [
+      "1909 m. išleista Rider–Waite–Smith kaladė: ją parengė A. E. Waite'as, iliustravo Pamela Colman Smith, išleido leidykla William Rider & Son. Joje ir Mažųjų arkanų kortos turi pilnai iliustruotas scenas, o ne vien simbolių rinkinį. Dėl to ji tapo daugelio šiuolaikinių kaladžių pagrindu.",
+      "Kita žinoma kaladė – Thoth taro, kurią Aleisteris Crowley'is ir Frieda Harris tapė 1938–1943 m., o išleista 1969 m.",
+      "Svarbu suprasti: taro yra apmąstymų įrankis, o ne mokslinis ateities numatymo metodas. Kortos padeda pastebėti mintis, jausmus ir pasirinkimus, kuriuos kasdienybėje lengva praleisti."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Kaladę sudaro 78 kortos: 22 Didieji ir 56 Mažieji arkanai.",
+    "Taro atsirado XV a. Italijoje kaip kortų žaidimas.",
+    "Būrimo prasmės taro priskiriamos nuo XVIII a. pabaigos Prancūzijoje.",
+    "Egipto kilmės teiginį istorikai atmeta.",
+    "Taro – savistabos įrankis, ne tikslus ateities prognozavimas."
+   ],
+   "quiz": [
+    {
+     "q": "Kiek kortų yra klasikinėje taro kaladėje?",
+     "options": [
+      "56",
+      "72",
+      "78",
+      "80"
+     ],
+     "answer": 2,
+     "explain": "Kaladę sudaro 22 Didieji ir 56 Mažieji arkanai, iš viso 78."
+    },
+    {
+     "q": "Kur ir kada atsirado taro kaip kortų žaidimas?",
+     "options": [
+      "Senovės Egipte",
+      "XVIII a. Anglijoje",
+      "XIX a. Vokietijoje",
+      "XV a. Šiaurės Italijoje"
+     ],
+     "answer": 3,
+     "explain": "Taro atsirado XV a. Šiaurės Italijoje kaip kortų žaidimas tarocchi."
+    },
+    {
+     "q": "Kuo Rider–Waite–Smith kaladė (1909 m.) tapo ypač įtakinga?",
+     "options": [
+      "Visos Mažųjų arkanų kortos turi iliustruotas scenas",
+      "Joje yra 100 kortų",
+      "Ją sukūrė Crowley'is",
+      "Ji neturi Didžiųjų arkanų"
+     ],
+     "answer": 0,
+     "explain": "Joje visos Mažųjų arkanų kortos turi iliustruotas scenas, todėl kaladė tapo daugelio šiuolaikinių kaladžių pagrindu."
+    },
+    {
+     "q": "Kaip šiandien geriausia suprasti taro?",
+     "options": [
+      "Kaip tikslų ateities prognozavimo metodą",
+      "Kaip apmąstymų ir savistabos įrankį",
+      "Kaip senovės Egipto knygą",
+      "Kaip psichologinę diagnozę"
+     ],
+     "answer": 1,
+     "explain": "Taro padeda apmąstyti mintis ir pasirinkimus, o ne moksliškai prognozuoja ateitį."
+    }
+   ]
+  },
+  {
+   "id": "didieji-arkanai",
+   "title": "Didieji arkanai: Kvailio kelionė",
+   "lede": "22 Didžiuosius arkanus galima skaityti kaip vieną istoriją apie žmogų, einantį per gyvenimo etapus.",
+   "sections": [
+    {
+     "h": "Pradžia ir mokymasis (0–VII)",
+     "p": [
+      "Kelionę pradeda Kvailys (0) – žmogus su mažu ryšuliu, žengiantis į nežinomybę. Jam būdingi atvirumas, spontaniškumas ir pasitikėjimas. Pirmiausia jis sutinka Magą (I), kuris rodo, kad turime įrankių ir valią veikti, o paskui Žynę (II) – tylią intuiciją ir paslėptas žinias.",
+      "Toliau eina Imperatorė (III) ir Imperatorius (IV): viena atstovauja rūpesčiui ir gausai, o kitas – struktūrai ir autoritetui. Šventikas (V) pristato tradiciją ir mokymąsi, Mylimieji (VI) – pasirinkimą ir vertybes, o Vežimas (VII) – savitvardą bei judėjimą pirmyn. Tai išorinio pasaulio įsisavinimo etapas."
+     ]
+    },
+    {
+     "h": "Gilėjimas ir posūkiai (VIII–XIV)",
+     "p": [
+      "Antroje dalyje dėmesys krypsta į vidų. Stiprybė (VIII) moko, kad tikroji jėga – kantrybė ir švelnumas. Atsiskyrėlis (IX) traukiasi, kad ieškotų įžvalgos. Likimo ratas (X) primena, kad gyvenimas juda ciklais, o Teisingumas (XI) kviečia prisiimti atsakomybę už pasirinkimus.",
+      "Pakabintasis (XII) siūlo sustoti ir pažvelgti kitaip, Mirtis (XIII) žymi pabaigas ir transformaciją, o Nuosaikumas (XIV) – pusiausvyros ir saiko paieškas. Atkreipkite dėmesį: šioje kaladėje Stiprybė yra VIII, o Teisingumas – XI, kaip Rider–Waite–Smith tradicijoje; kai kuriose senesnėse kaladėse šios kortos sukeistos vietomis. Mirtis dažniausiai reiškia ne fizinę mirtį, o pokytį."
+     ]
+    },
+    {
+     "h": "Šešėlis, šviesa ir užbaigimas (XV–XXI)",
+     "p": [
+      "Trečioji dalis – didžiausių išbandymų metas. Velnias (XV) parodo saitus ir pagundas, Bokštas (XVI) – staigų sukrėtimą, griaunantį netvirtus pamatus. Po jų atsiranda Žvaigždė (XVII) su viltimi ir atsinaujinimu, Mėnulis (XVIII) su sapnais, nerimu ir iliuzijomis.",
+      "Saulė (XIX) atneša džiaugsmą ir aiškumą, Nuosprendis (XX) – pabudimą bei pašaukimą, o Pasaulis (XXI) – užbaigimą ir visumą. Tuomet kelias vėl gali prasidėti iš naujo.",
+      "Kvailio kelionė yra šiuolaikinis skaitymo būdas, o ne vienintelė teisinga interpretacija. Ji padeda matyti, kad kiekviena korta turi savo vietą didesnėje istorijoje, ir parodo, kurią gyvenimo fazę jums gali atspindėti ištraukta korta."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Kvailys (0) pradeda kelionę, Pasaulis (XXI) ją užbaigia.",
+    "Kortos skirstomos į tris dalis: 0–VII, VIII–XIV, XV–XXI.",
+    "Pirmoji dalis – išorinis pasaulis, antroji – vidinis gilėjimas, trečioji – išbandymai ir užbaigimas.",
+    "Šioje kaladėje Stiprybė yra VIII, Teisingumas – XI.",
+    "Mirtis dažniausiai simbolizuoja transformaciją, ne fizinę mirtį."
+   ],
+   "quiz": [
+    {
+     "q": "Kokį numerį turi Kvailys?",
+     "options": [
+      "0",
+      "I",
+      "XXI",
+      "XXII"
+     ],
+     "answer": 0,
+     "explain": "Kvailys yra 0 – kelionės pradžia, prieš visus kitus arkanus."
+    },
+    {
+     "q": "Kuri korta pagal Rider–Waite–Smith tvarką yra XI?",
+     "options": [
+      "Stiprybė",
+      "Pakabintasis",
+      "Likimo ratas",
+      "Teisingumas"
+     ],
+     "answer": 3,
+     "explain": "Pagal Rider–Waite–Smith tvarką Stiprybė yra VIII, o Teisingumas – XI."
+    },
+    {
+     "q": "Ką dažniausiai reiškia Mirtis?",
+     "options": [
+      "Fizinę mirtį",
+      "Nelaimę",
+      "Pabaigą ir transformaciją",
+      "Nuosprendį"
+     ],
+     "answer": 2,
+     "explain": "Mirtis simbolizuoja pabaigas ir pokyčius, o ne fizinę mirtį."
+    },
+    {
+     "q": "Kuri korta užbaigia Kvailio kelionę?",
+     "options": [
+      "Saulė",
+      "Pasaulis",
+      "Žvaigždė",
+      "Nuosprendis"
+     ],
+     "answer": 1,
+     "explain": "Pasaulis (XXI) simbolizuoja užbaigimą ir visumą."
+    }
+   ]
+  },
+  {
+   "id": "mazieji-arkanai",
+   "title": "Mažieji arkanai: keturios mastys",
+   "lede": "Mažieji arkanai – 56 kortos, kalbančios apie kasdienybę: veiksmus, jausmus, mintis ir materialų pasaulį.",
+   "sections": [
+    {
+     "h": "Keturios mastys ir elementai",
+     "p": [
+      "Mažuosius arkanus sudaro keturios mastys, kurių kiekviena siejama su vienu iš keturių elementų ir atskira gyvenimo sritimi. Šis sąsajų su elementais modelis buvo ypač išplėtotas Auksinės Aušros tradicijoje.",
+      "Skeptrai (ugnis) – veiksmas, aistra, noras kurti ir siekti. Taurės (vanduo) – jausmai, santykiai, intuicija. Kardai (oras) – mintys, kalba, sprendimai ir konfliktai. Monetos (žemė) – pinigai, darbas, kūnas ir materialūs reikalai."
+     ]
+    },
+    {
+     "h": "Kaip masčių temos atrodo kasdienybėje",
+     "p": [
+      "Skeptrai atsiliepia, kai kalbate apie naują projektą, motyvaciją ar energijos trūkumą. Taurės – kai rūpi draugystė, meilė, vienatvė ar emocinė pusiausvyra. Kardai – kai reikia aiškiai pasakyti tiesą, priimti sprendimą arba nuraminti nerimaujantį protą. Monetos – kai kalbama apie biudžetą, darbo rutiną, sveikatos įpročius ar namus.",
+      "Kiekviena mastis turi ir šviesių, ir sudėtingesnių pusių. Pavyzdžiui, Taurių penketas kalba apie netektį ir sielvartą, o Taurių dešimtukas – apie šeimos džiaugsmą ir harmoniją. Panašiai Kardų dešimtukas gali reikšti dugną ir pabaigą, o Monetų dešimtukas – paveldą ir ilgalaikį saugumą."
+     ]
+    },
+    {
+     "h": "Kaip jas skaityti",
+     "p": [
+      "Skaitydami Mažuosius arkanus pirmiausia pažiūrėkite į mastį: ji nurodo, kurioje gyvenimo srityje vyksta istorija. Tada žiūrėkite į skaičių ar rūmų kortą – jie parodo, kuriame etape esate arba kokį vaidmenį atliekate.",
+      "Jei išdėstyme vyrauja viena mastis, tai gali rodyti, kad ta sritis dabar jums svarbiausia. Jei kurios nors masties trūksta, verta paklausti savęs, ar kuri nors sritis nelieka be dėmesio. Šie klausimai – tik kryptys apmąstymui, o ne nuosprendžiai."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Yra keturios mastys po 14 kortų: iš viso 56.",
+    "Skeptrai – ugnis, Taurės – vanduo, Kardai – oras, Monetos – žemė.",
+    "Skeptrai: veiksmas; Taurės: jausmai; Kardai: mintys; Monetos: pinigai ir darbas.",
+    "Mastis rodo sritį, skaičius – etapą.",
+    "Kiekviena mastis turi ir lengvesnių, ir sunkesnių kortų."
+   ],
+   "quiz": [
+    {
+     "q": "Kuri mastis siejama su vandens elementu?",
+     "options": [
+      "Skeptrai",
+      "Kardai",
+      "Monetos",
+      "Taurės"
+     ],
+     "answer": 3,
+     "explain": "Taurės atitinka vandenį, jausmus ir santykius."
+    },
+    {
+     "q": "Apie kokią temą dažniausiai kalba Kardai?",
+     "options": [
+      "Pinigus ir darbą",
+      "Mintis, kalbą ir konfliktus",
+      "Aistrą ir veiksmą",
+      "Šeimą ir namus"
+     ],
+     "answer": 1,
+     "explain": "Kardai – oro elementas: mintys, sprendimai, konfliktai."
+    },
+    {
+     "q": "Kuri mastis siejama su žeme?",
+     "options": [
+      "Monetos",
+      "Kardai",
+      "Skeptrai",
+      "Taurės"
+     ],
+     "answer": 0,
+     "explain": "Monetos – žemės elementas, pinigai, darbas ir materialūs reikalai."
+    },
+    {
+     "q": "Kiek kortų turi viena mastis?",
+     "options": [
+      "10",
+      "12",
+      "14",
+      "22"
+     ],
+     "answer": 2,
+     "explain": "Mastis turi tūzą, kortas nuo dvejeto iki dešimtuko ir keturias rūmų kortas, iš viso 14."
+    }
+   ]
+  },
+  {
+   "id": "skaiciai",
+   "title": "Skaičių prasmė Mažuosiuose arkanuose",
+   "lede": "Skaičiai nuo tūzo iki dešimtuko pasakoja apie tai, kuriame etape yra masčių tema.",
+   "sections": [
+    {
+     "h": "Nuo pradžios iki augimo (1–4)",
+     "p": [
+      "Kiekviena mastis eina tuo pačiu keliu. Tūzas (1) – sėkla ir pradžia: Skeptrų – nauja inspiracija, Taurių – nauja meilė, Kardų – aiškumas, Monetų – nauja galimybė. Dvejetas (2) – pasirinkimas, dvilypumas ir pusiausvyra. Trejetas (3) – augimas, bendradarbiavimas ir raiška.",
+      "Ketvertas (4) – pamatas, stabilumas ir struktūra. Tai gali būti ir saugumas, ir sąstingis, priklausomai nuo masties: Skeptrų ketvertas – šventė ir namai, o Taurių ketvertas – apatija ir nepasitenkinimas."
+     ]
+    },
+    {
+     "h": "Išbandymai ir vidurys (5–7)",
+     "p": [
+      "Penketas (5) dažnai žymi iššūkį, nesutarimą ar stoką. Skeptrų penketas – konkurencija, Taurių – sielvartas, Kardų – konfliktas, Monetų – vargas. Šešetas (6) atneša harmoniją, mainus ir perėjimą: Skeptrų šešetas – pergalė, Kardų – judėjimas pirmyn.",
+      "Septynetas (7) – tai vertinimas ir patikra: reikia ištvermės, kantrybės ar strategijos. Skeptrų septynetas kalba apie savo pozicijos gynimą, Monetų – apie kantrų laukimą."
+     ]
+    },
+    {
+     "h": "Pabaiga (8–10)",
+     "p": [
+      "Aštuonetas (8) – judėjimas ir tobulėjimas arba įstrigimas: Skeptrų aštuonetas – greitis, o Kardų – apribojimai. Devynetas (9) – beveik užbaigtas kelias, ištvermė ar vidinis rezultatas: Taurių devynetas – pasitenkinimas, Monetų – savarankiškumas ir gausa.",
+      "Dešimtukas (10) – ciklo pabaiga. Jis gali reikšti pilnatvę (Taurių dešimtukas – šeimos džiaugsmas, Monetų – paveldas) arba perkrovą ir dugną (Skeptrų dešimtukas – našta, Kardų – pabaiga). Po dešimtuko prasideda naujas ciklas, kurį pradeda tūzas.",
+      "Didieji arkanai taip pat turi savo skaičius, tačiau jų prasmė labiau priklauso nuo konkrečios kortos nei nuo numerio."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Tūzas – pradžia, dvejetas – pasirinkimas, trejetas – augimas.",
+    "Ketvertas – pamatas, penketas – iššūkis, šešetas – harmonija.",
+    "Septynetas – patikra, aštuonetas – judėjimas arba apribojimas.",
+    "Devynetas – beveik užbaigta, dešimtukas – ciklo pabaiga.",
+    "Tas pats skaičius skirtingose mastyse skamba skirtingai."
+   ],
+   "quiz": [
+    {
+     "q": "Ką dažniausiai reiškia tūzas?",
+     "options": [
+      "Pabaigą",
+      "Pradžią ir sėklą",
+      "Konfliktą",
+      "Pasirinkimą"
+     ],
+     "answer": 1,
+     "explain": "Tūzas yra sėkla ir pradžia kiekvienoje mastyje."
+    },
+    {
+     "q": "Su kuo dažniausiai siejamas penketas?",
+     "options": [
+      "Harmonija",
+      "Šventė",
+      "Iššūkis ir nesutarimas",
+      "Užbaigimas"
+     ],
+     "answer": 2,
+     "explain": "Penketas dažnai reiškia iššūkį, netektį ar stoką."
+    },
+    {
+     "q": "Kas būdinga dešimtukui?",
+     "options": [
+      "Ciklo pabaiga",
+      "Pirmas žingsnis",
+      "Pusiausvyra tarp dviejų dalykų",
+      "Tvirtas pamatas"
+     ],
+     "answer": 0,
+     "explain": "Dešimtukas žymi ciklo užbaigimą – pilnatvę arba perkrovą."
+    },
+    {
+     "q": "Kuri korta kalba apie šeimos džiaugsmą ir harmoniją?",
+     "options": [
+      "Kardų dešimtukas",
+      "Skeptrų penketas",
+      "Monetų ketvertas",
+      "Taurių dešimtukas"
+     ],
+     "answer": 3,
+     "explain": "Taurių dešimtukas simbolizuoja šeimos džiaugsmą ir priklausymą."
+    }
+   ]
+  },
+  {
+   "id": "rumu-kortos",
+   "title": "Rūmų kortos: Pažas, Riteris, Karalienė, Karalius",
+   "lede": "Šešiolika rūmų kortų gali reikšti žmones, jūsų paties vaidmenis arba tam tikrą energiją ar elgesio būdą.",
+   "sections": [
+    {
+     "h": "Keturi rangai",
+     "p": [
+      "Kiekvienoje mastyje yra keturios rūmų kortos. Pažas – pasiuntinys ir pradedantysis: smalsumas, mokymasis, naujienos. Riteris – judėjimas ir veiksmas: užsidegimas, kryptis, kartais skubotumas. Karalienė – brandumas ir vidinė jėga: rūpestis, intuicija ir gebėjimas išlaikyti pusiausvyrą. Karalius – meistriškumas ir atsakomybė: vadovavimas, patirtis, pasitikėjimas.",
+      "Mastis suteikia kortoms savitą atspalvį. Skeptrų karalienė šilta ir charizmatiška, Taurių karalienė – empatiška ir intuityvi, Kardų karalienė – aiški ir sąžininga, Monetų karalienė – praktiška ir dosni."
+     ]
+    },
+    {
+     "h": "Trys skaitymo būdai",
+     "p": [
+      "Pirmasis – kaip žmogus. Rūmų korta gali apibūdinti jūsų aplinkos asmenį, pavyzdžiui, mentorių ar kolegą. Būkite atsargūs: korta tik nusako elgesio būdą, o ne tikrąjį žmogaus charakterį, todėl nespręskite apie konkretų asmenį vien pagal ją.",
+      "Antrasis – kaip jūsų vaidmuo. Pažas gali rodyti, kad esate mokinio vietoje, Karalius – kad turite prisiimti atsakomybę ir vadovauti.",
+      "Trečiasis – kaip energija ar elgesio būdas. Riteris gali reikšti, kad situacijai dabar reikia ryžto, o Karalienė – kad verta sulėtinti tempą ir įsiklausyti į intuiciją."
+     ]
+    },
+    {
+     "h": "Elementai ir kaip jie derinasi",
+     "p": [
+      "Rūmų kortos dažnai aiškinamos per elementų derinį. Pavyzdžiui, Skeptrų pažas – ugnies entuziazmas, dar tik besimokantis, o Taurių riteris – vanduo, judantis kaip ugnis, todėl jis romantiškas ir žavus. Šis modelis nėra privalomas, bet gali padėti pastebėti subtilius skirtumus tarp kortų.",
+      "Jei išdėstyme pasirodo daug rūmų kortų, galite klausti savęs: kokius vaidmenis dabar vaidinu? Kas man padėtų jaustis brandžiau ir laisviau?"
+     ]
+    }
+   ],
+   "keypoints": [
+    "Pažas – pasiuntinys ir mokinys, Riteris – veiksmas.",
+    "Karalienė – brandumas ir vidinė jėga, Karalius – meistriškumas ir atsakomybė.",
+    "Rūmų kortą galima skaityti kaip žmogų, vaidmenį arba energiją.",
+    "Mastis nusako rūmų kortos pobūdį.",
+    "Korta nėra tikslus žmogaus charakterio aprašymas."
+   ],
+   "quiz": [
+    {
+     "q": "Kuri rūmų korta siejama su pasiuntinio ir pradedančiojo energija?",
+     "options": [
+      "Karalius",
+      "Pažas",
+      "Karalienė",
+      "Riteris"
+     ],
+     "answer": 1,
+     "explain": "Pažas – pasiuntinys, mokinys, naujienos ir smalsumas."
+    },
+    {
+     "q": "Kuri korta daugiausia kalba apie judėjimą ir veiksmą?",
+     "options": [
+      "Riteris",
+      "Pažas",
+      "Karalienė",
+      "Karalius"
+     ],
+     "answer": 0,
+     "explain": "Riteris simbolizuoja judėjimą, kryptį ir veiksmą."
+    },
+    {
+     "q": "Kaip galima skaityti rūmų kortą?",
+     "options": [
+      "Tik kaip svetimą žmogų",
+      "Tik kaip ateities įvykį",
+      "Kaip žmogų, vaidmenį arba energiją",
+      "Tik kaip pinigų ženklą"
+     ],
+     "answer": 2,
+     "explain": "Rūmų kortos gali reikšti žmogų, jūsų vaidmenį arba elgesio būdą."
+    },
+    {
+     "q": "Ką dažniausiai reiškia Karalius?",
+     "options": [
+      "Neapgalvotą skubėjimą",
+      "Pirmą žingsnį",
+      "Nežinomybę",
+      "Meistriškumą ir atsakomybę"
+     ],
+     "answer": 3,
+     "explain": "Karalius – meistriškumas, vadovavimas ir atsakomybė."
+    }
+   ]
+  },
+  {
+   "id": "apverstos-kortos",
+   "title": "Apverstos kortos",
+   "lede": "Apversta korta nėra „blogoji“ korta – tai tiesiog kitas jos aiškinimo požiūrio kampas, kurio kai kurie skaitytojai visai nenaudoja.",
+   "sections": [
+    {
+     "h": "Ką gali reikšti apvertimas",
+     "p": [
+      "Kai korta ištraukiama apversta, jos prasmė paprastai nevirsta priešinga. Dažniausiai taikomi keli požiūriai.",
+      "Užblokuota energija: korta veikia, bet kažkas jai trukdo. Vidinė energija: tai, kas įprastai matoma išorėje, dabar vyksta viduje, pavyzdžiui, nepasakytas jausmas. Atidėta energija: tema egzistuoja, bet dar nesubrendusi arba vėluoja. Per daug arba per mažai: korta rodo perteklių ar trūkumą savo temoje. Pavyzdžiui, apverstas Kvailys gali reikšti neapdairumą ir skubėjimą, o apverstas Magas – išsisklaidžiusią energiją ar planus be veiksmų."
+     ]
+    },
+    {
+     "h": "Ar būtina naudoti apverstas kortas?",
+     "p": [
+      "Ne. Daug patyrusių skaitytojų visas kortas skaito tik tiesias, nes mano, kad kiekviena korta jau turi pakankamai sluoksnių – tiek šviesių, tiek sudėtingų. Kiti apverstas kortas vertina kaip papildomą niuansų šaltinį.",
+      "Pradedantiesiems dažnai patariama pirmiausia gerai išmokti tiesias prasmes. Kai jos taps aiškios, galėsite išbandyti ir apvertimą – arba nuspręsti, kad jis jums nereikalingas."
+     ]
+    },
+    {
+     "h": "Apverstos kortos šioje svetainėje",
+     "p": [
+      "Svetainėje yra jungiklis „Apverstos kortos“. Kai jis įjungtas, atsitiktinės kortos gali būti ištraukiamos apverstos, o jų reikšmės aprašomos atskirai. Išjungus jungiklį, visos kortos rodomos tiesiai.",
+      "Išdėstyme „Situacija“ paskutinė korta (Galimybė) visada ištraukiama tiesiai, nes ji skirta konstruktyviai krypčiai. Išdėstyme „Taip / Ne“ tiesi korta linksta į „taip“, o apversta – į „ne“.",
+      "Kad ir kokį požiūrį pasirinktumėte, apverstą kortą verta suvokti kaip kvietimą užduoti klausimą: kas čia užblokuota, kas slypi viduje, o kas atidėta?"
+     ]
+    }
+   ],
+   "keypoints": [
+    "Apverstos kortos aiškinamos kitu kampu, o ne kaip „blogos“.",
+    "Požiūriai: užblokuota, vidinė, atidėta, perteklius arba trūkumas.",
+    "Daug skaitytojų apverstų kortų nenaudoja, ir tai visiškai priimtina.",
+    "Svetainėje apvertimą galima įjungti ir išjungti.",
+    "„Situacijos“ išdėstymo paskutinė korta – Galimybė – visada tiesi."
+   ],
+   "quiz": [
+    {
+     "q": "Kaip dažniausiai aiškinama apversta korta?",
+     "options": [
+      "Kaip prakeiksmas",
+      "Kaip kita aiškinimo perspektyva, pavyzdžiui, užblokuota energija",
+      "Kaip tikra priešingybė",
+      "Kaip klaida"
+     ],
+     "answer": 1,
+     "explain": "Apvertimas siūlo kitą kampą: užblokuotą, vidinę ar atidėtą energiją."
+    },
+    {
+     "q": "Ar privaloma naudoti apverstas kortas?",
+     "options": [
+      "Taip, visada",
+      "Tik su Didžiaisiais arkanais",
+      "Tik su Taurėmis",
+      "Ne, daugelis skaitytojų jų nenaudoja"
+     ],
+     "answer": 3,
+     "explain": "Apverstos kortos yra pasirinkimas, o ne taisyklė."
+    },
+    {
+     "q": "Kaip „Taip / Ne“ išdėstyme skaitoma apversta korta?",
+     "options": [
+      "Linksta į „ne“",
+      "Linksta į „taip“",
+      "Neturi prasmės",
+      "Visada reiškia „galbūt“"
+     ],
+     "answer": 0,
+     "explain": "Šioje svetainėje apversta korta „Taip / Ne“ išdėstyme linksta į „ne“."
+    },
+    {
+     "q": "Kuri „Situacijos“ išdėstymo korta visada traukiama tiesiai?",
+     "options": [
+      "Priežastis",
+      "Iššūkis",
+      "Galimybė",
+      "Perspektyva"
+     ],
+     "answer": 2,
+     "explain": "Galimybės korta visada traukiama tiesiai, neapversta."
+    }
+   ]
+  },
+  {
+   "id": "klausimas",
+   "title": "Kaip užduoti gerą klausimą",
+   "lede": "Gerą skaitymą lemia geras klausimas: atviras, aiškus ir sutelktas į jus pačius.",
+   "sections": [
+    {
+     "h": "Atviri klausimai",
+     "p": [
+      "Klausimai, į kuriuos atsakoma „taip“ arba „ne“, dažnai užveria pokalbį. Atviri klausimai su žodžiais „kaip“, „ką“, „kas“ suteikia kortoms erdvės. Vietoje „Ar jis mane myli?“ galite klausti: „Ką man verta suprasti apie šiuos santykius?“",
+      "Taip pat venkite klausimų su tiksliomis datomis ar garantijomis. Taro nėra mokslinis ateities numatymo metodas, todėl geriau klausti apie tendencijas, pasirinkimus ir savo galimybes."
+     ]
+    },
+    {
+     "h": "Dėmesys sau, ne kitiems",
+     "p": [
+      "Gerą klausimą dažnai galite pradėti žodžiais „Ką man verta...“ arba „Kaip galėčiau...“. Klausimas apie kito žmogaus jausmus, mintis ar ketinimus iš tiesų tik skatina spėlioti, nes korta negali žinoti, kas vyksta kito žmogaus viduje.",
+      "Vietoje to apmąstykite savo požiūrį: kas man šioje situacijoje svarbu, ko bijau, ką galiu pakeisti? Tai ir yra tikroji kortų vertė – jos padeda geriau suprasti save."
+     ]
+    },
+    {
+     "h": "Ko neturėtų spręsti kortos",
+     "p": [
+      "Sveikatos, teisės ir finansų klausimų negalima spręsti kortomis. Nesirinkite gydymo, nenutraukite vaistų vartojimo, nepasirašykite sutarčių ir neinvestuokite pinigų vien dėl to, ką parodė korta. Šiais klausimais kreipkitės į gydytoją, teisininką ar finansų specialistą.",
+      "Kortos gali padėti apmąstyti jausmus, susijusius su tokiomis situacijomis, tačiau sprendimus dėl jų priimkite pasitarę su atitinkamu specialistu.",
+      "Prieš traukdami kortas, trumpam sustokite. Užsirašykite klausimą ir perskaitykite jį dar kartą: ar jis atviras, ar sutelktas į mane ir ar neliečia sveikatos, teisinių ar finansinių sprendimų?"
+     ]
+    }
+   ],
+   "keypoints": [
+    "Atviri klausimai (kaip, ką) duoda daugiau nei „taip / ne“.",
+    "Sutelkite dėmesį į savo jausmus ir pasirinkimus.",
+    "Kortos nežino kito žmogaus minčių.",
+    "Sveikatos, teisės ir finansų klausimų kortomis nespręskite.",
+    "Užsirašykite klausimą prieš traukdami kortas."
+   ],
+   "quiz": [
+    {
+     "q": "Kuris klausimas yra geriausias?",
+     "options": [
+      "Ar jis man paskambins?",
+      "Ar laimėsiu loterijoje?",
+      "Ką man verta suprasti apie savo darbo situaciją?",
+      "Kada tiksliai ištekėsiu?"
+     ],
+     "answer": 2,
+     "explain": "Atviras klausimas, nukreiptas į save, suteikia daugiausia prasmingo atsakymo."
+    },
+    {
+     "q": "Kodėl nerekomenduojama klausti apie kito žmogaus mintis?",
+     "options": [
+      "Nes korta negali pasakyti, ką galvoja kitas žmogus, todėl atsakymas būtų tik spėjimas",
+      "Nes kortos nemėgsta klausimų",
+      "Nes tai uždrausta įstatymu",
+      "Nes tai užtrunka ilgiau"
+     ],
+     "answer": 0,
+     "explain": "Korta negali pasakyti, ką galvoja kitas žmogus."
+    },
+    {
+     "q": "Kokių sprendimų negalima palikti kortoms?",
+     "options": [
+      "Dienos temai",
+      "Sveikatos, teisės ir finansų sprendimams",
+      "Mėgstamiausiai spalvai",
+      "Savo nuotaikai"
+     ],
+     "answer": 1,
+     "explain": "Šiems sprendimams reikia gydytojo, teisininko ar finansų specialisto."
+    },
+    {
+     "q": "Kaip turėtų prasidėti geras klausimas?",
+     "options": [
+      "„Kada tiksliai...“",
+      "„Ar tikrai...“",
+      "„Ar jis...“",
+      "„Kaip galėčiau...“"
+     ],
+     "answer": 3,
+     "explain": "Klausimas „Kaip galėčiau...“ yra atviras ir orientuotas į jus."
+    }
+   ]
+  },
+  {
+   "id": "isdestymai",
+   "title": "Išdėstymai: pozicijos po pozicijos",
+   "lede": "Išdėstymas suteikia kortoms vietas, o kiekviena vieta – savo klausimą.",
+   "sections": [
+    {
+     "h": "Dienos korta ir trys kortos",
+     "p": [
+      "Dienos korta (viena pozicija: „Dienos tema“) – paprasčiausias išdėstymas. Ji nurodo temą, į kurią verta atkreipti dėmesį visą dieną. Vakare galite apsvarstyti, kaip ši tema pasireiškė.",
+      "Išdėstymas „Praeitis · Dabartis · Ateitis“ turi tris pozicijas: „Praeitis“, „Dabartis“ ir „Ateitis“. Jos rodo situacijos raidą. Ateities korta čia – tikėtina kryptis, jei viskas tęsis kaip dabar, o ne neišvengiamas likimas."
+     ]
+    },
+    {
+     "h": "Situacija ir Taip / Ne",
+     "p": [
+      "Išdėstymas „Situacija“ turi penkias pozicijas. „Priežastis“ parodo, iš kur viskas kilo. „Situacija“ – kas vyksta dabar. „Iššūkis“ – kas stabdo ar kelia įtampą. „Perspektyva“ – į ką galima pažvelgti kitaip. „Galimybė“ – kas gali padėti judėti pirmyn; ši korta visada traukiama tiesiai.",
+      "„Taip / Ne“ išdėstymas turi vieną poziciją – „Atsakymas“. Tiesi korta linksta į „taip“, apversta (jei įjungtos apverstos kortos) – į „ne“, o Didieji arkanai atsakymą išreiškia aiškiau. Tai tik pagalbinis įrankis; svarbius sprendimus priimkite ne vien pagal jį."
+     ]
+    },
+    {
+     "h": "Keltų kryžius",
+     "p": [
+      "Keltų kryžius turi dešimt pozicijų ir tinka nuodugniai analizei. „Dabar“ – esama padėtis. „Kliūtis“ – kas kryžiuojasi su ja. „Pagrindas“ – gilesnė priežastis, situacijos šaknys. „Praeitis“ – kas jau paliko pėdsaką. „Tikslas“ – link ko einate ir ko siekiate.",
+      "„Artima ateitis“ – kas greitai gali įvykti. „Jūs“ – jūsų požiūris ir vaidmuo. „Aplinka“ – kiti žmonės ir išorinės aplinkybės. „Viltys ir baimės“ – ko tikitės ir ko bijote (jos dažnai susijusios). „Rezultatas“ – kur viskas gali nuvesti, jei nieko nekeisite.",
+      "Skaitydami visada žiūrėkite ne tik į atskiras kortas, bet ir į jų santykį: kaip „Dabar“ susijusi su „Kliūtimi“, o „Tikslas“ – su „Rezultatu“."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Dienos korta turi vieną poziciją: „Dienos tema“.",
+    "Praeitis · Dabartis · Ateitis – trys kortos situacijos raidai.",
+    "„Situacija“: Priežastis, Situacija, Iššūkis, Perspektyva, Galimybė.",
+    "„Taip / Ne“: tiesi korta – veikiau „taip“, apversta – veikiau „ne“.",
+    "Keltų kryžius turi 10 pozicijų, o paskutinė – „Rezultatas“."
+   ],
+   "quiz": [
+    {
+     "q": "Kiek pozicijų turi „Situacijos“ išdėstymas?",
+     "options": [
+      "3",
+      "5",
+      "7",
+      "10"
+     ],
+     "answer": 1,
+     "explain": "„Situacija“ turi penkias pozicijas: Priežastis, Situacija, Iššūkis, Perspektyva, Galimybė."
+    },
+    {
+     "q": "Kuri korta „Situacijos“ išdėstyme visada traukiama tiesiai?",
+     "options": [
+      "Galimybė",
+      "Priežastis",
+      "Iššūkis",
+      "Perspektyva"
+     ],
+     "answer": 0,
+     "explain": "Galimybės korta visada traukiama neapversta."
+    },
+    {
+     "q": "Kaip „Taip / Ne“ išdėstyme skaitoma tiesi korta?",
+     "options": [
+      "Linksta į „ne“",
+      "Neturi reikšmės",
+      "Linksta į „taip“",
+      "Rodo praeitį"
+     ],
+     "answer": 2,
+     "explain": "Tiesi korta linksta į „taip“, apversta – į „ne“."
+    },
+    {
+     "q": "Kuri pozicija yra Keltų kryžiaus dešimtoji?",
+     "options": [
+      "Kliūtis",
+      "Aplinka",
+      "Pagrindas",
+      "Rezultatas"
+     ],
+     "answer": 3,
+     "explain": "Dešimta Keltų kryžiaus pozicija yra „Rezultatas“."
+    }
+   ]
+  },
+  {
+   "id": "kortu-derinimas",
+   "title": "Kortų skaitymas kartu",
+   "lede": "Prasmingas skaitymas kyla ne iš atskirų kortų žodynėlio, o iš to, kaip kortos „kalbasi“ tarpusavyje.",
+   "sections": [
+    {
+     "h": "Dominuojanti mastis ir Didieji arkanai",
+     "p": [
+      "Pirmiausia apžvelkite visą išdėstymą. Jei dominuoja viena mastis, tai gali rodyti pagrindinę temą: daug Taurių – jausmai, daug Kardų – mintys ir sprendimai, daug Skeptrų – veiksmas, daug Monetų – darbas ir materialūs reikalai.",
+      "Daug Didžiųjų arkanų išdėstyme dažnai suprantama kaip svarbus gyvenimo etapas. Mažuosius arkanus galima skaityti kaip kasdienį kontekstą. Jei Didžiųjų arkanų beveik nėra, situacija gali būti labiau praktinė ir lengviau keičiama."
+     ]
+    },
+    {
+     "h": "Skaičiai, istorija ir srautas",
+     "p": [
+      "Atkreipkite dėmesį į pasikartojančius skaičius. Du ar trys penketai gali rodyti pasikartojantį iššūkį, keli šešetai – harmoniją ar perėjimą, keli tūzai – naujų pradžių gausą. Pažiūrėkite ir tai, ar kortos sudaro eigą: nuo Skeptrų penketo (nesutarimas) iki Skeptrų šešeto (pergalė) kelias ima atrodyti kaip istorija.",
+      "Skaitykite kaip pasakojimą: kas buvo, kas dabar, kur judama. Sakinys „X dėl Y, todėl Z“ dažnai veikia geriau nei kortų sąrašas. Pastebėkite ir žmonių figūras, žvilgsnių kryptis bei spalvas: jos padeda pajusti nuotaiką."
+     ]
+    },
+    {
+     "h": "Prieštaravimai",
+     "p": [
+      "Kartais kortos atrodo prieštaraujančios: viena kalba apie džiaugsmą, kita – apie sielvartą. Tai ne klaida. Dažnai prieštaravimas atspindi vidinį susiskaldymą: norite vieno, o bijote kito.",
+      "Tokiu atveju užduokite sau klausimą: kas čia konfliktuoja ir ką tai sako apie mano lūkesčius? Prieštaravimas dažnai yra naudingiausias skaitymo momentas.",
+      "Pamažu mokydamiesi skaityti, nepamirškite pagrindinės taisyklės: galutinė prasmė visada gimsta iš jūsų klausimo ir konteksto, o ne iš vienos kortos reikšmės."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Pažiūrėkite į visą išdėstymą, o ne vien į atskiras kortas.",
+    "Dominuojanti mastis rodo pagrindinę temą.",
+    "Daug Didžiųjų arkanų – svarbus gyvenimo etapas.",
+    "Pasikartojantys skaičiai pabrėžia bendrą etapą.",
+    "Prieštaravimai dažnai rodo vidinį konfliktą."
+   ],
+   "quiz": [
+    {
+     "q": "Ką gali reikšti, kai išdėstyme daug Taurių?",
+     "options": [
+      "Pagrindinė tema – jausmai ir santykiai",
+      "Reikia daugiau pinigų",
+      "Viskas bus gerai",
+      "Reikia skubėti"
+     ],
+     "answer": 0,
+     "explain": "Taurės siejamos su jausmais ir santykiais."
+    },
+    {
+     "q": "Ką dažniausiai rodo daug Didžiųjų arkanų?",
+     "options": [
+      "Smulkią kasdienę rutiną",
+      "Svarbų gyvenimo etapą",
+      "Kad skaitymas nepavyko",
+      "Kad reikia traukti iš naujo"
+     ],
+     "answer": 1,
+     "explain": "Didieji arkanai dažniausiai žymi svarbias gyvenimo temas."
+    },
+    {
+     "q": "Ką dažniausiai rodo keli penketai išdėstyme?",
+     "options": [
+      "Naują pradžią",
+      "Šventę",
+      "Pasikartojantį iššūkį ar įtampą",
+      "Užbaigimą"
+     ],
+     "answer": 2,
+     "explain": "Penketas siejamas su iššūkiu, tad keli penketai pabrėžia šią temą."
+    },
+    {
+     "q": "Kaip verta žiūrėti į prieštaraujančias kortas?",
+     "options": [
+      "Kaip į klaidą",
+      "Kaip į blogą ženklą",
+      "Kaip į poreikį ištraukti kortas iš naujo",
+      "Kaip į galimą vidinį susiskaldymą"
+     ],
+     "answer": 3,
+     "explain": "Prieštaravimas dažnai parodo vidinį konfliktą, vertą apmąstymo."
+    }
+   ]
+  },
+  {
+   "id": "etika",
+   "title": "Atsakingas skaitymas",
+   "lede": "Atsakingas skaitytojas gerbia kitą žmogų, jo ribas, privatumą ir pripažįsta, kad kortos neatstoja specialistų.",
+   "sections": [
+    {
+     "h": "Skaitymas kitiems",
+     "p": [
+      "Jei skaitote kortas draugui ar klientui, pirmiausia paklauskite, ar jis to nori. Niekada neskaitykite kortų žmogui, kuris to nežino ar nenori. Paaiškinkite, kad skaitymas yra pokalbis ir apmąstymas, o ne neginčijama tiesa.",
+      "Venkite kategoriškų frazių, pavyzdžiui, „jums tikrai nutiks...“. Geriau sakyti: „Korta gali rodyti, kad verta pagalvoti apie...“. Palikite žmogui teisę nesutikti ir pačiam nuspręsti, kas jam tinka."
+     ]
+    },
+    {
+     "h": "Jautrios temos",
+     "p": [
+      "Kai pokalbis pasisuka apie sunkią netektį, smurtą, savižudiškas mintis, sunkią ligą ar krizę, kortos nėra tinkama priemonė. Tokiais atvejais švelniai nukreipkite žmogų pas gydytoją, psichologą, krizių liniją ar kitą specialistą ir paskatinkite kreiptis pagalbos.",
+      "Taro negali pakeisti medicininės, psichologinės, teisinės ar finansinės pagalbos. Jo niekada nederėtų naudoti žmogui gąsdinti ar spausti priimti sprendimą. Jei kortos sukelia stiprų nerimą, geriau jas padėkite ir pasikalbėkite su artimu žmogumi ar specialistu."
+     ]
+    },
+    {
+     "h": "Privatumas ir sąžiningumas",
+     "p": [
+      "Tai, ką žmogus pasakė skaitymo metu, yra jo privati informacija. Nepasakokite jos kitiems be sutikimo. Šioje svetainėje taip pat saugokite savo duomenis: nerašykite į klausimo laukelį slaptos asmeninės informacijos.",
+      "Būkite sąžiningi dėl to, ką kortos gali ir ko negali. Neapgaudinėkite, nežadėkite rezultatų ir neimkite pinigų už „prakeiksmų nuėmimą“ ar panašius pažadus. Patikimas skaitytojas – tas, kuris padeda žmogui jaustis suprastam ir laisvam rinktis."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Skaitykite kitiems tik gavę sutikimą.",
+    "Kalbėkite atsargiai: „gali rodyti“, o ne „tikrai nutiks“.",
+    "Sunkiais atvejais nukreipkite pas specialistus.",
+    "Taro nepakeičia gydytojo, teisininko ar finansų patarėjo.",
+    "Saugokite žmogaus privatumą."
+   ],
+   "quiz": [
+    {
+     "q": "Ką pirmiausia reikėtų padaryti prieš skaitant kortas kitam žmogui?",
+     "options": [
+      "Paimti pinigus",
+      "Pasakyti, kas jam nutiks",
+      "Paslėpti kortas",
+      "Paklausti, ar jis to nori"
+     ],
+     "answer": 3,
+     "explain": "Skaitymas turi vykti tik su žmogaus sutikimu."
+    },
+    {
+     "q": "Ką daryti, jei žmogus kalba apie krizę ar savižudiškas mintis?",
+     "options": [
+      "Traukti kortas",
+      "Žadėti, kad viskas pasikeis",
+      "Nukreipti pas specialistą ar krizių pagalbą",
+      "Ignoruoti"
+     ],
+     "answer": 2,
+     "explain": "Tokiais atvejais reikia profesionalios pagalbos, o ne kortų."
+    },
+    {
+     "q": "Kuri frazė labiausiai atitinka atsakingą skaitymą?",
+     "options": [
+      "„Korta gali rodyti, kad verta pagalvoti apie...“",
+      "„Jums tikrai nutiks...“",
+      "„Neturite kito pasirinkimo“",
+      "„Turite tuoj pat nutraukti santykius“"
+     ],
+     "answer": 0,
+     "explain": "Atsargi formuluotė palieka žmogui laisvę rinktis."
+    },
+    {
+     "q": "Kaip elgtis su tuo, ką žmogus pasakė skaitymo metu?",
+     "options": [
+      "Skelbti socialiniuose tinkluose",
+      "Laikyti tai privačia informacija",
+      "Perduoti pažįstamiems",
+      "Parduoti"
+     ],
+     "answer": 1,
+     "explain": "Skaitymo metu pasakytas dalykas yra privatus ir negali būti platinamas be sutikimo."
+    }
+   ]
+  }
+ ]
+}

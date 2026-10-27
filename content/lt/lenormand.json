@@ -1,0 +1,635 @@
+{
+ "intro": [
+  "Lenormand (dažniausiai vadinama Petit Lenormand, „mažuoju Lenormand“) – 36 kortų kaladė, kurioje vaizduojami paprasti, kasdieniai dalykai: raitelis, laivas, namas, laiškas, raktas. Čia nėra didžiųjų ir mažųjų arkanų, simbolių sluoksnių ar dvasinio kelio etapų – kortos veikia kaip šiuolaikinės ezoterinės praktikos „žodžiai“, iš kurių skaitytojas sudeda sakinį.",
+  "Kaladė pavadinta prancūzų būrėjos Marie Anne Lenormand (1772–1843) vardu, tačiau dažniausiai nurodoma, kad ji išleista jau po jos mirties, todėl šio vardo ryšys su pačia būrėja menkas. Dažnai minima, kad kaladės pirmtakas – vokiečių kortų žaidimas „Das Spiel der Hoffnung“ („Vilties žaidimas“), kurį apie 1799 m. išleido Johannas Kasparas Hechtelis. Daugelyje kaladžių ant kiekvienos kortos matomas ir paprastų žaidimo kortų simbolis (pavyzdžiui, širdžių devynakė), kuris kai kuriose skaitymo tradicijose naudojamas kaip papildoma užuomina.",
+  "Nuo taro Lenormand skiriasi konkrečiais vaizdais ir skaitymo principu: kortos skaitomos ne pavienės, o derinyje, kai viena korta kaip būdvardis ar veiksmažodis keičia kaimynės reikšmę. Dažniausi išdėstymai – dviejų ar trijų kortų eilė ir Didysis paveikslas (Grand Tableau), kuriame išdėliojamos visos 36 kortos: keturios devynių kortų eilės arba keturios aštuonių kortų eilės ir dar keturios kortos atskirai. Tai simbolinė tradicija ir apmąstymo įrankis, o ne tikslus ateities pranašavimas."
+ ],
+ "methods": [
+  {
+   "name": "Dviejų kortų derinys",
+   "about": "Paprasčiausias būdas: ištraukiamos dvi kortos ir skaitomos kaip viena frazė. Pirmoji dažniausiai yra daiktavardis (tema), antroji – ją apibūdinantis žodis. „Laiškas + Saulė“ gali reikšti šiltą žinią, o „Saulė + Laiškas“ – žinią, kuri tiesiog aiškiai ir atvirai pasakyta. Verta pabandyti abi eilės tvarkas ir pastebėti, kaip keičiasi akcentas."
+  },
+  {
+   "name": "Trijų kortų eilė",
+   "about": "Trys kortos iš eilės skaitomos kaip trumpas sakinys: kas vyksta, kas jį paveikia ir kur tai veda. Galima skaityti iš kairės į dešinę arba laikyti vidurinę kortą sakinio ašimi, o kraštines – jos aplinka. Tinka klausimams apie vieną konkrečią situaciją, pavyzdžiui, apie pokalbį, planą ar sprendimą."
+  },
+  {
+   "name": "Didysis paveikslas (Grand Tableau)",
+   "about": "Visos 36 kortos išdėliojamos eilėmis, keturiomis devynių kortų eilėmis arba keturiomis aštuonių kortų eilėmis ir dar keturiomis kortomis atskirai. Kiekviena korta čia turi ir savo pozicijos reikšmę: paprastai žiūrima, kas yra šalia kortos, vaizduojančios klausiantįjį (Vyras ar Moteris), ir kokios kortos supa pasirinktą temą. Tai sudėtingiausias būdas, reikalaujantis kantrybės, todėl pradedantiesiems geriau pirmiausia pasitreniruoti su trumpesniais išdėstymais."
+  }
+ ],
+ "cards": [
+  {
+   "n": 1,
+   "name": "Raitelis",
+   "alt": "Cavalier / Rider",
+   "inset": "9 ♥ (širdžių devynakė)",
+   "keywords": [
+    "žinia",
+    "judėjimas",
+    "svečias",
+    "greitis",
+    "naujiena"
+   ],
+   "meaning": "Raitelis atneša naujieną ar įvykį, kuris greitai artėja. Tai energija, pradedanti judėti: aplankantis žmogus, pakvietimas, staigiai atsiradusi galimybė. Korta dažniausiai kalba apie dinamiką, o ne apie ilgalaikį rezultatą.",
+   "as_person": "Jaunas, judrus žmogus arba pasiuntinys; kas nors, kas atneša žinią.",
+   "in_combo": "Pagreitina šalia esančios kortos temą: ji ima judėti arba tampa aktuali čia ir dabar.",
+   "timing": "Dažnai siejama su artimiausiomis dienomis."
+  },
+  {
+   "n": 2,
+   "name": "Dobilas",
+   "alt": "Clover",
+   "inset": "6 ♦ (būgnų šeštakė)",
+   "keywords": [
+    "sėkmė",
+    "trumpas šansas",
+    "lengvumas",
+    "proga",
+    "pasitaikymas"
+   ],
+   "meaning": "Dobilas simbolizuoja nedidelį, bet malonų netikėtumą – progą, kuri trumpam pasirodo. Tai raginimas pastebėti smulkius džiaugsmus ir nepraleisti progos, kol ji atvira. Korta nežada ilgalaikės sėkmės, ji rodo laikiną palankų langą.",
+   "as_person": "",
+   "in_combo": "Lengvina šalia esančią kortą: sunkesnė tema atrodo ne tokia slegianti arba atsiranda išeitis.",
+   "timing": "Trumpas laikotarpis, dažnai kelios dienos."
+  },
+  {
+   "n": 3,
+   "name": "Laivas",
+   "alt": "Ship",
+   "inset": "10 ♠ (vynų dešimtakė)",
+   "keywords": [
+    "kelionė",
+    "atstumas",
+    "prekyba",
+    "pokytis",
+    "ilgesys"
+   ],
+   "meaning": "Laivas kalba apie judėjimą į tolį: kelionę, persikėlimą, ryšius su kitomis šalimis ar žmonėmis, esančiais toli. Gali žymėti ir vidinį siekį palikti įprastą krantą. Korta primena, kad kelias užtrunka ir reikalauja pasiruošimo.",
+   "as_person": "Žmogus iš toli, keliautojas, užsienyje gyvenantis artimasis.",
+   "in_combo": "Padidina šalia esančios kortos nuotolį: ji susijusi su kelione, atstumu ar platesniu horizontu.",
+   "timing": "Dažniau žymi savaites ar mėnesius, ne dienas."
+  },
+  {
+   "n": 4,
+   "name": "Namas",
+   "alt": "House",
+   "inset": "K ♥ (širdžių karalius)",
+   "keywords": [
+    "namai",
+    "šeima",
+    "stabilumas",
+    "pastogė",
+    "buitis"
+   ],
+   "meaning": "Namas simbolizuoja kasdienę aplinką, šeimą ir jaučiamą saugumą. Jis rodo tai, kas yra patikima ir sava, bet kartu gali rodyti užsidarymą savo ribose. Skaitant verta paklausti, kas jūsų namuose ar gyvenimo pamatuose šiuo metu reikalauja dėmesio.",
+   "as_person": "",
+   "in_combo": "Įžemina šalia esančią kortą: tema persikelia į namų, šeimos ar nuolatinės rutinos erdvę.",
+   "timing": ""
+  },
+  {
+   "n": 5,
+   "name": "Medis",
+   "alt": "Tree",
+   "inset": "7 ♥ (širdžių septynakė)",
+   "keywords": [
+    "šaknys",
+    "augimas",
+    "kantrybė",
+    "ilgalaikiškumas",
+    "gerovė"
+   ],
+   "meaning": "Medis tradiciškai siejamas su šaknimis, lėtu augimu ir bendra gerove. Jis kviečia žvelgti ilgesniu laiku: kas stiprėja palengva, kas reikalauja kantrybės ir nuoseklios priežiūros. Korta nediagnozuoja ir nieko nepasako apie sveikatą – tai tik simbolis, padedantis pamąstyti apie tai, kas jus palaiko.",
+   "as_person": "Kantrus, patikimas žmogus, šeimos ar kartų ryšys.",
+   "in_combo": "Pailgina šalia esančios kortos laiką: tema vystosi lėtai, bet turi gilų pagrindą.",
+   "timing": "Ilgi laikotarpiai, metai."
+  },
+  {
+   "n": 6,
+   "name": "Debesys",
+   "alt": "Clouds",
+   "inset": "K ♣ (kryžių karalius)",
+   "keywords": [
+    "neaiškumas",
+    "abejonė",
+    "painiava",
+    "nuotaikos",
+    "neapibrėžtumas"
+   ],
+   "meaning": "Debesys rodo situaciją, kurioje dar trūksta aiškumo. Tai gali būti sumaištis, nuotaikos svyravimai arba pernelyg daug nežinomųjų. Korta pataria nesiskubinti su sprendimais, kol vaizdas taps aiškesnis.",
+   "as_person": "",
+   "in_combo": "Aptemdo šalia esančią kortą: jos tema tampa neaiški, reikia daugiau informacijos.",
+   "timing": "Laikinas laikotarpis, kol debesys išsisklaidys."
+  },
+  {
+   "n": 7,
+   "name": "Gyvatė",
+   "alt": "Snake",
+   "inset": "Q ♣ (kryžių dama)",
+   "keywords": [
+    "vingis",
+    "gudrumas",
+    "aplinkkelis",
+    "sudėtingumas",
+    "pagunda"
+   ],
+   "meaning": "Gyvatė vaizduoja vingiuotą kelią, painų ryšį ar sudėtingą situaciją, kurioje tiesiai tikslo nepasieksite. Ji gali rodyti ir apdairumą bei išmintį, kai reikia vengti spąstų. Svarbu skaityti kontekste: dažniau tai kvietimas būti atidiems, o ne baimintis.",
+   "as_person": "Sudėtinga, išmintinga ar apskaičiuojanti moteris; konkurentė.",
+   "in_combo": "Supainioja šalia esančią kortą: jos tema eina ne tiesiai, atsiranda aplinkkelių.",
+   "timing": ""
+  },
+  {
+   "n": 8,
+   "name": "Karstas",
+   "alt": "Coffin",
+   "inset": "9 ♦ (būgnų devynakė)",
+   "keywords": [
+    "pabaiga",
+    "užbaigimas",
+    "pauzė",
+    "pertrauka",
+    "atsisveikinimas"
+   ],
+   "meaning": "Karstas simbolizuoja etapo pabaigą, uždarytą skyrių ar poilsio pauzę. Ji nieko nepranašauja apie mirtį ar ligą – tai vaizdas to, kas baigiasi ar sustoja, kad atsirastų vietos kam nors naujam. Korta ragina leisti užbaigtiems dalykams baigtis.",
+   "as_person": "",
+   "in_combo": "Užbaigia šalia esančią kortą: jos tema išsenka, sustoja arba pereina į kitą etapą.",
+   "timing": ""
+  },
+  {
+   "n": 9,
+   "name": "Puokštė",
+   "alt": "Bouquet",
+   "inset": "Q ♠ (vynų dama)",
+   "keywords": [
+    "dovana",
+    "malonumas",
+    "dėkingumas",
+    "grožis",
+    "kvietimas"
+   ],
+   "meaning": "Puokštė reiškia gražų gestą: dovaną, komplimentą, kvietimą ar šventę. Ji rodo, kas gyvenime džiugina ir kuo verta pasidalyti. Korta primena dėkingumą ir paprastų dalykų grožį.",
+   "as_person": "Malonus, dėmesingas žmogus; kas nors, kas rodo dėmesį.",
+   "in_combo": "Pagražina šalia esančią kortą: jos tema įgauna malonesnį, šiltesnį atspalvį.",
+   "timing": ""
+  },
+  {
+   "n": 10,
+   "name": "Dalgis",
+   "alt": "Scythe",
+   "inset": "J ♦ (būgnų valetas)",
+   "keywords": [
+    "staigus pjūvis",
+    "sprendimas",
+    "rizika",
+    "nutraukimas",
+    "derlius"
+   ],
+   "meaning": "Dalgis žymi staigų, ryžtingą veiksmą: sprendimą, kuris atskiria seną nuo naujo, arba netikėtą ribą tarp „prieš“ ir „po“. Ji nieko nepranašauja apie ligą ar netektį. Tai ir derliaus nuėmimo vaizdas – ką pasėjote, tą ir nuimsite. Korta ragina elgtis ryžtingai, bet nepasiduoti skubotumui.",
+   "as_person": "",
+   "in_combo": "Nupjauna šalia esančios kortos temą: ji staiga nutrūksta arba priimamas ryžtingas sprendimas.",
+   "timing": "Greitas, staigus pokytis."
+  },
+  {
+   "n": 11,
+   "name": "Rykštė",
+   "alt": "Whip / Birch rod",
+   "inset": "J ♣ (kryžių valetas)",
+   "keywords": [
+    "įtampa",
+    "ginčas",
+    "kartojimasis",
+    "energija",
+    "disciplina"
+   ],
+   "meaning": "Rykštė reiškia pasikartojančius judesius: ginčus, įtampą ar nuolatinį kartojimąsi. Ji gali žymėti ir fizinę veiklą, savidiscipliną. Korta kviečia pažvelgti, kuris pasikartojantis modelis jums nebetinka.",
+   "as_person": "",
+   "in_combo": "Sustiprina šalia esančios kortos įtampą arba parodo, kad jos tema kartojasi.",
+   "timing": ""
+  },
+  {
+   "n": 12,
+   "name": "Paukščiai",
+   "alt": "Birds",
+   "inset": "7 ♦ (būgnų septynakė)",
+   "keywords": [
+    "pokalbis",
+    "nerimas",
+    "čiauškėjimas",
+    "bendravimas",
+    "poros"
+   ],
+   "meaning": "Paukščiai simbolizuoja gyvą pokalbį, kalbas ir smulkų jaudulį. Tai gali būti malonus pasišnekėjimas arba nerimas dėl daugelio smulkmenų. Korta primena, kad ne viskas, apie ką kalbama, turi tapti rūpesčiu.",
+   "as_person": "Du žmonės pokalbyje, artimi draugai.",
+   "in_combo": "Paskatina šalia esančią kortą kalbėti: jos tema dažnai aptariama arba kelia nerimą.",
+   "timing": "Netrukus, dienų ribose."
+  },
+  {
+   "n": 13,
+   "name": "Vaikas",
+   "alt": "Child",
+   "inset": "J ♠ (vynų valetas)",
+   "keywords": [
+    "pradžia",
+    "naivumas",
+    "nauja",
+    "mažas",
+    "nekaltumas"
+   ],
+   "meaning": "Vaikas simbolizuoja naują pradžią, nedidelį ar jauną dalyką, atvirą ir nepatyrusį požiūrį. Jis kviečia pažvelgti į situaciją šviežiomis akimis. Korta gali reikšti ir tai, kas dar tik pradeda augti.",
+   "as_person": "Vaikas, jaunas žmogus arba asmuo, elgiantis atvirai ir nepatyrusiai.",
+   "in_combo": "Sumažina ir atnaujina šalia esančią kortą: jos tema dar tik prasideda arba yra nedidelė.",
+   "timing": ""
+  },
+  {
+   "n": 14,
+   "name": "Lapė",
+   "alt": "Fox",
+   "inset": "9 ♣ (kryžių devynakė)",
+   "keywords": [
+    "apdairumas",
+    "gudrumas",
+    "darbas",
+    "išlikimas",
+    "apgaulė"
+   ],
+   "meaning": "Lapė rodo išradingumą ir apdairumą, bet kartais ir nepatikimumą ar klastą. Dažnai ji siejama su darbu ir praktiniu sumanumu. Korta kviečia atidžiau pažvelgti, kas yra ne visai tai, kas atrodo.",
+   "as_person": "Sumanus, atsargus žmogus; kas nors darbe.",
+   "in_combo": "Priverčia suabejoti šalia esančia korta: jos temoje verta ieškoti paslėpto ketinimo arba praktiško sprendimo.",
+   "timing": ""
+  },
+  {
+   "n": 15,
+   "name": "Lokys",
+   "alt": "Bear",
+   "inset": "10 ♣ (kryžių dešimtakė)",
+   "keywords": [
+    "jėga",
+    "apsauga",
+    "vadovavimas",
+    "ištekliai",
+    "dominavimas"
+   ],
+   "meaning": "Lokys vaizduoja jėgą, apsaugą ir autoritetą. Tai gali būti globėjas, bet ir per daug valdingas žmogus. Korta kalba apie išteklius, ribas ir galios jausmą.",
+   "as_person": "Stiprus, apsaugantis ar valdingas asmuo, dažnai vyresnis giminaitis ar vadovas.",
+   "in_combo": "Sustiprina šalia esančią kortą: jos tema įgyja svorio, jėgos ar apsaugos.",
+   "timing": ""
+  },
+  {
+   "n": 16,
+   "name": "Žvaigždės",
+   "alt": "Stars",
+   "inset": "6 ♥ (širdžių šeštakė)",
+   "keywords": [
+    "viltis",
+    "orientyras",
+    "vizija",
+    "kūryba",
+    "aiškumas"
+   ],
+   "meaning": "Žvaigždės simbolizuoja viltį, kryptį ir aiškų tikslą. Jos primena apie vidinį orientyrą net tamsiu metu. Korta skatina kurti, svajoti ir pasitikėti savo kryptimi.",
+   "as_person": "",
+   "in_combo": "Apšviečia šalia esančią kortą: jos tema įgyja aiškumo, krypties ar įkvėpimo.",
+   "timing": ""
+  },
+  {
+   "n": 17,
+   "name": "Gandras",
+   "alt": "Stork",
+   "inset": "Q ♥ (širdžių dama)",
+   "keywords": [
+    "pokytis",
+    "pasikeitimas",
+    "atnaujinimas",
+    "persikėlimas",
+    "augimas"
+   ],
+   "meaning": "Gandras kalba apie švelnų, bet pastebimą pokytį: persikėlimą, atsinaujinimą ar naują etapą. Tradiciškai siejamas su atnešamomis naujienomis. Korta rodo, kad gyvenimas keičia kryptį, o jūs galite pasirinkti, kaip į tai reaguoti.",
+   "as_person": "",
+   "in_combo": "Perkeičia šalia esančią kortą: jos tema pasikeičia, atsinaujina arba keičia vietą.",
+   "timing": "Dažniausiai kelių mėnesių laikotarpis."
+  },
+  {
+   "n": 18,
+   "name": "Šuo",
+   "alt": "Dog",
+   "inset": "10 ♥ (širdžių dešimtakė)",
+   "keywords": [
+    "ištikimybė",
+    "draugas",
+    "pasitikėjimas",
+    "atsidavimas",
+    "pagalba"
+   ],
+   "meaning": "Šuo reiškia ištikimą bičiulį, patikimą atramą ir nuoširdų ryšį. Jis kviečia pagalvoti, kas jūsų gyvenime yra tikras palydovas. Korta kalba apie lojalumą ir pasitikėjimą.",
+   "as_person": "Artimas draugas, patikimas padėjėjas.",
+   "in_combo": "Sutvirtina šalia esančią kortą: jos tema paremta ištikimu, patikimu ryšiu.",
+   "timing": ""
+  },
+  {
+   "n": 19,
+   "name": "Bokštas",
+   "alt": "Tower",
+   "inset": "6 ♠ (vynų šeštakė)",
+   "keywords": [
+    "institucija",
+    "atskirtis",
+    "autoritetas",
+    "vienatvė",
+    "aukštis"
+   ],
+   "meaning": "Bokštas simbolizuoja didelę struktūrą, instituciją ar žmogų, pasitraukusį į save. Gali reikšti ir tvirtumą, ir atstumą, pasitraukimą ar vienatvę. Korta ragina paklausti, kas jus saugo ir kas jus izoliuoja.",
+   "as_person": "Valdžios atstovas arba užsidaręs asmuo.",
+   "in_combo": "Apgaubia šalia esančią kortą oficialumu arba atstumu: jos tema susijusi su taisyklėmis ar vienatve.",
+   "timing": ""
+  },
+  {
+   "n": 20,
+   "name": "Sodas",
+   "alt": "Garden",
+   "inset": "8 ♠ (vynų aštuonakė)",
+   "keywords": [
+    "visuomenė",
+    "susibūrimas",
+    "viešumas",
+    "renginys",
+    "bendruomenė"
+   ],
+   "meaning": "Sodas vaizduoja viešą erdvę: susitikimus, renginius, bendruomenę. Jis parodo, kaip jaučiatės tarp žmonių. Korta kviečia atsiverti bendrai aplinkai ir kurti ryšius.",
+   "as_person": "",
+   "in_combo": "Perkelia šalia esančią kortą į viešumą: jos tema susijusi su žmonėmis, susibūrimu ar socialine aplinka.",
+   "timing": ""
+  },
+  {
+   "n": 21,
+   "name": "Kalnas",
+   "alt": "Mountain",
+   "inset": "8 ♣ (kryžių aštuonakė)",
+   "keywords": [
+    "kliūtis",
+    "užtrukimas",
+    "iššūkis",
+    "stabilumas",
+    "atkaklumas"
+   ],
+   "meaning": "Kalnas simbolizuoja kliūtį, kurią reikia įveikti kantrybe ir atkaklumu. Jis gali reikšti ir sustojimą, kai kelias laikinai uždarytas. Korta primena, kad pasiruošimas ir nuoseklūs nedideli žingsniai dažnai padeda labiau nei skubėjimas.",
+   "as_person": "",
+   "in_combo": "Užtveria šalia esančią kortą: jos tema sulėtėja, atsiranda kliūtis arba reikia daugiau pastangų.",
+   "timing": "Lėtas, užtrunkantis laikotarpis."
+  },
+  {
+   "n": 22,
+   "name": "Kryžkelė",
+   "alt": "Crossroads",
+   "inset": "Q ♦ (būgnų dama)",
+   "keywords": [
+    "pasirinkimas",
+    "alternatyvos",
+    "krypties keitimas",
+    "sprendimas",
+    "galimybės"
+   ],
+   "meaning": "Kryžkelė rodo, kad atsiranda daugiau nei vienas kelias. Ji kviečia sąmoningai rinktis, o ne leistis nešamam. Korta primena, kad kiekvienas pasirinkimas turi savo kainą ir naudą.",
+   "as_person": "",
+   "in_combo": "Išskaido šalia esančios kortos temą į kelias galimybes: jos atžvilgiu reikia apsispręsti.",
+   "timing": ""
+  },
+  {
+   "n": 23,
+   "name": "Pelės",
+   "alt": "Mice",
+   "inset": "7 ♣ (kryžių septynakė)",
+   "keywords": [
+    "praradimas",
+    "nusidėvėjimas",
+    "nerimas",
+    "smulkūs nuostoliai",
+    "stresas"
+   ],
+   "meaning": "Pelės simbolizuoja tai, kas pamažu graužia: nerimą, smulkius nuostolius ar nusidėvėjimą. Jos rodo, kur nepastebimai nutekėja jūsų energija. Korta ragina atkreipti dėmesį į smulkmenas, kol jos netapo našta.",
+   "as_person": "",
+   "in_combo": "Apgraužia šalia esančią kortą: jos tema po truputį silpnėja arba kelia nerimą.",
+   "timing": ""
+  },
+  {
+   "n": 24,
+   "name": "Širdis",
+   "alt": "Heart",
+   "inset": "J ♥ (širdžių valetas)",
+   "keywords": [
+    "meilė",
+    "jausmai",
+    "šiluma",
+    "artumas",
+    "atjauta"
+   ],
+   "meaning": "Širdis kalba apie jausmus, šilumą ir artumą, taip pat apie tai, kas jums brangu. Tai kviečia atidžiau klausytis savo emocijų. Korta nežada konkrečių įvykių, ji nurodo jausminį atspalvį.",
+   "as_person": "",
+   "in_combo": "Įkvepia šalia esančią kortą jausmais: jos tema tampa artimesnė, asmeniškesnė.",
+   "timing": ""
+  },
+  {
+   "n": 25,
+   "name": "Žiedas",
+   "alt": "Ring",
+   "inset": "A ♣ (kryžių tūzas)",
+   "keywords": [
+    "įsipareigojimas",
+    "sutartis",
+    "ciklas",
+    "sąjunga",
+    "pažadas"
+   ],
+   "meaning": "Žiedas simbolizuoja ryšį, kuris sudaromas sąmoningai: sutartį, pažadą ar partnerystę. Jis taip pat reiškia užsidarantį ciklą. Korta kviečia pagalvoti, kokius įsipareigojimus norite prisiimti ir kodėl.",
+   "as_person": "",
+   "in_combo": "Susieja šalia esančią kortą: jos tema tampa sutartimi, įsipareigojimu ar nuolatiniu ryšiu.",
+   "timing": ""
+  },
+  {
+   "n": 26,
+   "name": "Knyga",
+   "alt": "Book",
+   "inset": "10 ♦ (būgnų dešimtakė)",
+   "keywords": [
+    "paslaptis",
+    "žinios",
+    "mokymasis",
+    "nežinomybė",
+    "studijos"
+   ],
+   "meaning": "Knyga reiškia dar neatskleistą ar mokomąją informaciją: paslaptį, studijas, kažką, ko dar nežinote. Ji kviečia mokytis ir tyrinėti. Korta dažnai kalba apie tai, kas laikoma paslaptyje, kol bus tinkamas metas.",
+   "as_person": "",
+   "in_combo": "Paslepia šalia esančios kortos tam tikrą dalį: jos tema turi neatskleistų detalių arba reikalauja mokymosi.",
+   "timing": ""
+  },
+  {
+   "n": 27,
+   "name": "Laiškas",
+   "alt": "Letter",
+   "inset": "7 ♠ (vynų septynakė)",
+   "keywords": [
+    "žinia",
+    "dokumentas",
+    "rašymas",
+    "pranešimas",
+    "korespondencija"
+   ],
+   "meaning": "Laiškas žymi rašytinę žinią: laiškui, dokumentui, žinutei. Jis rodo aiškų bendravimą ar svarbią informaciją. Korta ragina išreikšti mintis aiškiai ir užrašyti tai, kas svarbu.",
+   "as_person": "",
+   "in_combo": "Paverčia šalia esančią kortą žinia: jos tema bus aptarta raštu arba gaus oficialų patvirtinimą.",
+   "timing": "Netrukus, dažniausiai dienų ar savaičių ribose."
+  },
+  {
+   "n": 28,
+   "name": "Vyras",
+   "alt": "Man",
+   "inset": "A ♥ (širdžių tūzas)",
+   "keywords": [
+    "klausiantysis",
+    "vyriškas asmuo",
+    "partneris",
+    "vyras",
+    "pagrindinis veikėjas"
+   ],
+   "meaning": "Vyras žymi vyrą, kuris yra klausimo pagrindinis veikėjas, arba vyrišką energiją situacijoje. Jei klausiantysis yra vyras, ši korta atstovauja jam. Šalia esančios kortos parodo, kas su juo vyksta.",
+   "as_person": "Klausiantysis vyras arba svarbus vyriškas asmuo.",
+   "in_combo": "Parodo, kad šalia esančios kortos tema liečia šį asmenį arba vyrišką energiją.",
+   "timing": ""
+  },
+  {
+   "n": 29,
+   "name": "Moteris",
+   "alt": "Woman",
+   "inset": "A ♠ (vynų tūzas)",
+   "keywords": [
+    "klausiančioji",
+    "moteriškas asmuo",
+    "partnerė",
+    "moteris",
+    "pagrindinė veikėja"
+   ],
+   "meaning": "Moteris žymi moterį, kuri yra klausimo pagrindinė veikėja, arba moterišką energiją situacijoje. Jei klausiančioji yra moteris, ši korta atstovauja jai. Šalia esančios kortos parodo, kas su ja vyksta.",
+   "as_person": "Klausiančioji moteris arba svarbus moteriškas asmuo.",
+   "in_combo": "Parodo, kad šalia esančios kortos tema liečia šį asmenį arba moterišką energiją.",
+   "timing": ""
+  },
+  {
+   "n": 30,
+   "name": "Lelijos",
+   "alt": "Lilies",
+   "inset": "K ♠ (vynų karalius)",
+   "keywords": [
+    "ramybė",
+    "branda",
+    "tyla",
+    "santūrumas",
+    "harmonija"
+   ],
+   "meaning": "Lelijos simbolizuoja ramybę, brandą ir santūrumą. Jos susijusios su taikiu, ramiu tempu. Korta kviečia ieškoti vidinės tylos ir rimties bei vertinti nuosaikumą.",
+   "as_person": "Vyresnis, ramus ar santūrus žmogus.",
+   "in_combo": "Aprimina šalia esančią kortą: jos tema tampa ramesnė, subrendusi, arba pabrėžia santūrumą.",
+   "timing": "Dažnai siejama su ilgesniu, ramiu laikotarpiu."
+  },
+  {
+   "n": 31,
+   "name": "Saulė",
+   "alt": "Sun",
+   "inset": "A ♦ (būgnų tūzas)",
+   "keywords": [
+    "sėkmė",
+    "energija",
+    "aiškumas",
+    "šiluma",
+    "pergalė"
+   ],
+   "meaning": "Saulė yra viena šviesiausių kortų: ji simbolizuoja energiją, aiškumą, džiaugsmą ir pasisekimą. Ji kviečia pasinaudoti turimomis jėgomis ir šiluma. Korta rodo palankų foną, bet nepakeičia jūsų pačių veiksmų.",
+   "as_person": "",
+   "in_combo": "Apšviečia ir sustiprina šalia esančią kortą: jos tema tampa aiškesnė, teigiamesnė.",
+   "timing": ""
+  },
+  {
+   "n": 32,
+   "name": "Mėnulis",
+   "alt": "Moon",
+   "inset": "8 ♥ (širdžių aštuonakė)",
+   "keywords": [
+    "pripažinimas",
+    "emocijos",
+    "intuicija",
+    "kūryba",
+    "jautrumas"
+   ],
+   "meaning": "Mėnulis simbolizuoja emocinį pripažinimą, intuiciją ir kūrybą. Jis kalba apie tai, kaip jūsų darbas ar jausmai yra pastebimi. Korta kviečia atkreipti dėmesį į vidinius ritmus.",
+   "as_person": "",
+   "in_combo": "Suteikia šalia esančiai kortai emocinį atspalvį ir pripažinimo temą.",
+   "timing": "Dažnai siejamas su mėnesio ciklu."
+  },
+  {
+   "n": 33,
+   "name": "Raktas",
+   "alt": "Key",
+   "inset": "8 ♦ (būgnų aštuonakė)",
+   "keywords": [
+    "sprendimas",
+    "atsakymas",
+    "atradimas",
+    "prieiga",
+    "aiškus kelias"
+   ],
+   "meaning": "Raktas simbolizuoja atsakymą, atradimą ir atrakinimą. Jis rodo, kad tai, kas buvo uždaryta, tampa pasiekiama. Korta ragina drąsiai žengti pro duris, kurios dabar atsiveria.",
+   "as_person": "",
+   "in_combo": "Atrakina šalia esančią kortą: jos tema tampa aiški, pasiekiama ir išsprendžiama.",
+   "timing": ""
+  },
+  {
+   "n": 34,
+   "name": "Žuvys",
+   "alt": "Fish",
+   "inset": "K ♦ (būgnų karalius)",
+   "keywords": [
+    "pinigai",
+    "gausa",
+    "verslas",
+    "srautas",
+    "ištekliai"
+   ],
+   "meaning": "Žuvys tradiciškai atstovauja materialiems ištekliams, verslui ir gausai. Jos kalba apie srautus – pinigų, idėjų, galimybių. Korta primena apgalvotai tvarkyti tai, ką turite; ji nieko nežada ir nėra finansinis patarimas.",
+   "as_person": "Verslininkas ar žmogus, susijęs su pinigais.",
+   "in_combo": "Pagausina šalia esančią kortą: jos tema susijusi su ištekliais, srautu ar materialia puse.",
+   "timing": ""
+  },
+  {
+   "n": 35,
+   "name": "Inkaras",
+   "alt": "Anchor",
+   "inset": "9 ♠ (vynų devynakė)",
+   "keywords": [
+    "stabilumas",
+    "tvirtumas",
+    "tikslas",
+    "ištikimybė",
+    "pastovumas"
+   ],
+   "meaning": "Inkaras reiškia tvirtą pagrindą, ilgalaikį tikslą ir ištvermę. Jis rodo, kad kažkas įsitvirtina ar yra pasiekta. Korta kviečia pagalvoti, kur norite sustoti ir įsišaknyti.",
+   "as_person": "",
+   "in_combo": "Įtvirtina šalia esančią kortą: jos tema tampa stabili, ilgalaikė.",
+   "timing": "Ilgalaikis, pastovus laikotarpis."
+  },
+  {
+   "n": 36,
+   "name": "Kryžius",
+   "alt": "Cross",
+   "inset": "6 ♣ (kryžių šeštakė)",
+   "keywords": [
+    "našta",
+    "likimas",
+    "prasmė",
+    "kantrybė",
+    "išbandymas"
+   ],
+   "meaning": "Kryžius simbolizuoja naštą, kurią žmogus neša, arba didelę prasmę, kurią ieško. Jis gali žymėti ir reikalaujantį pastangų, bet reikšmingą etapą. Korta kviečia paklausti, ką verta toliau nešti, o ką galima padėti.",
+   "as_person": "",
+   "in_combo": "Pabrėžia šalia esančios kortos svarbą ir svorį: jos tema reikalauja kantrybės arba turi gilią prasmę.",
+   "timing": ""
+  }
+ ]
+}

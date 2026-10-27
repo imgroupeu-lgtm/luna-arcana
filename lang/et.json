@@ -1,0 +1,762 @@
+{
+ "ui": {
+  "langName": "Eesti",
+  "aiLanguage": "Estonian",
+  "eyebrow": "Prototüüp · Tarot",
+  "lede": "Esita küsimus, vali laotus ja tõmba kaardid. Kogu laotus kuvatakse korraga ning iga kaarti selgitatakse tema asukoha järgi.",
+  "questionPlaceholder": "Sinu küsimus, nt „Mida peaksin praegu oma töö kohta teadma?“",
+  "questionLabel": "Sinu küsimus",
+  "reversedToggle": "Tagurpidi kaardid",
+  "drawBtn": "Tõmba kaardid",
+  "flipAll": "Pööra kõik ümber",
+  "chooseSpread": "Vali laotus",
+  "meaningsTitle": "Tähendused",
+  "flipHint": "Kaartide ümberpööramiseks puuduta neid või vali „Pööra kõik ümber“.",
+  "questionPrefix": "Küsimus",
+  "reversedWord": "tagurpidi",
+  "reversedTag": "Tagurpidi",
+  "flipCard": "Pööra kaart {n} ümber",
+  "suitHint": "Mast {suit} – {theme}.",
+  "majorHint": "Suur arkaan: oluline eluteema.",
+  "yes": "Vastus: jah.",
+  "leanYes": "Vastus: pigem jah.",
+  "no": "Vastus: ei.",
+  "leanNo": "Vastus: pigem ei.",
+  "aiNote": "Allolevad tehisintellekti funktsioonid töötavad ainult siis, kui leht on avatud Claude'is.",
+  "premiumChip": "Premium · prototüüp",
+  "aiTitle": "Kogu laotuse tõlgendus",
+  "aiDesc": "Tehisintellekt loeb kaarte koos sinu küsimuse põhjal: peateema, kaart kaardi haaval, kuidas need omavahel seostuvad, ja nõuanne.",
+  "aiBtn": "Tõlgenda laotust",
+  "stop": "Peata",
+  "interpreting": "Tõlgendan kaarte …",
+  "aiHeads": [
+   "Peateema",
+   "Kaart kaardi haaval",
+   "Kuidas kaardid omavahel seostuvad",
+   "Nõuanne"
+  ],
+  "photoTitle": "Pildista oma laotus",
+  "photoDesc": "Lae üles pilt oma kaartidest, tehtud otse ülalt. Me tuvastame kaardid, sina kontrollid nimekirja ja seejärel saad tõlgenduse. Rider-Waite'i kaardipakk tuvastub kõige paremini.",
+  "dropLabel": "Vali või lohista pilt siia",
+  "spreadOnPhoto": "Milline laotus on pildil",
+  "freeSpread": "Vaba laotus (ei tea)",
+  "previewAlt": "Sinu üleslaaditud pilt",
+  "recBtn": "Tuvasta kaardid",
+  "photoInterp": "Tõlgenda seda laotust",
+  "photoReady": "Pilt on valmis.",
+  "looking": "Vaatan pilti …",
+  "found": "Leidsin {n} kaarti. Kontrolli nimekirja enne tõlgendamist.",
+  "noneFound": "Pildilt ei leitud ühtegi kaarti. Proovi teravamat pilti, mis on tehtud otse ülalt.",
+  "otherDeck": "Kaardipakk ei paista olevat Rider-Waite'i oma, seega kontrolli eriti hoolikalt.",
+  "chooseCard": "– vali kaart –",
+  "cardN": "Kaart {n}",
+  "confHigh": "kindel",
+  "confMedium": "üsna kindel",
+  "confLow": "ebakindel",
+  "notRecognized": "ei tuvastatud",
+  "footer": "Tarot sellel lehel on kultuur, mõtisklus ja meelelahutus. See ei ole meditsiiniline, õiguslik ega rahaline nõuanne ning mingeid tulemusi ei garanteerita. Kaardid tõmmatakse juhuslikult; sama kaart ei tule ühes laotuses kunagi kaks korda. Ülaltoodud näidislaotus tõmmati lehe avamisel. Tehisintellekti tõlgenduse on loonud tehisintellekt, mitte inimene.",
+  "errors": {
+   "not_granted": "Sa ei ole andnud lehele luba Claude'i kasutada.",
+   "sampling_disabled": "Tehisintellekt ei ole sellel kontol saadaval.",
+   "rate_limited": "Praegu on liiga palju päringuid. Proovi hetke pärast uuesti.",
+   "session_expired": "Pead uuesti sisse logima.",
+   "image_rejected": "Pilti ei õnnestunud lugeda. Proovi JPEG- või PNG-pilti.",
+   "images_unavailable": "Piltide üleslaadimine ei ole siin saadaval.",
+   "refused": "Sellele päringule ei saa vastata. Proovi teist küsimust.",
+   "invalid_json": "Vastust ei õnnestunud lugeda. Proovi uuesti.",
+   "empty_completion": "Vastust ei tulnud. Proovi uuesti.",
+   "generic": "Midagi läks valesti. Proovi uuesti."
+  },
+  "navRead": "Laota kaardid",
+  "navDaily": "Päeva kaart",
+  "navLearn": "Õpi tarot",
+  "navShop": "Pood",
+  "heroKicker": "Tarot kuu järgi",
+  "heroTitle": "Loe kaarte kuu valguses",
+  "heroLede": "Tõmba kaardid, näe kogu laotust koos ja saa see lahti seletatud. Või pildista oma kaardid ja lase need lugeda.",
+  "ctaRead": "Laota kaardid",
+  "ctaPhoto": "Pildista oma laotus",
+  "moonTitle": "Kuu täna",
+  "moonIllum": "{p} % valgustatud",
+  "moonAge": "Kuutsükli {d}. päev",
+  "moonNextFull": "Täiskuuni ca {d} p.",
+  "moonNextNew": "Noorkuuni ca {d} p.",
+  "moonPhases": [
+   "Noorkuu",
+   "Kasvav sirp",
+   "Esimene veerand",
+   "Kasvav kuu",
+   "Täiskuu",
+   "Kahanev kuu",
+   "Viimane veerand",
+   "Kahanev sirp"
+  ],
+  "moonAdvice": [
+   "Tarotitraditsioonis on noorkuu uute kavatsuste aeg. Tõmba üks kaart selle kohta, mida soovid alustada.",
+   "Noor kuu sobib väikesteks esimesteks sammudeks. Küsi kaartidelt, mis aitab alustada.",
+   "Esimene veerand on valikute ja vastupanu aeg. Kolme kaardi laotus näitab, mis on teel.",
+   "Kuu kasvab täiskuuks. Küsi, mida tasub hoolitseda ja millele rohkem aega anda.",
+   "Täiskuu valgustab varjatut. Aeg suureks laotuseks ja ausaks järelemõtlemiseks.",
+   "Kuu kahaneb. Küsi, millega oled valmis ja mille võid lahti lasta.",
+   "Viimane veerand on korrastamise aeg. Mis tuleks lõpetada enne uut tsüklit?",
+   "Vana kuu on puhkuse ja vaikuse aeg. Tõmba üks kaart järelemõtlemiseks."
+  ],
+  "moonCanvasLabel": "Tänase kuufaasi joonis",
+  "moonDisclaimer": "Arvutatud keskmise kuutsükli järgi; võib erineda mõne tunni võrra.",
+  "dailyNote": "Täna on kõigil sama kaart. Uus kaart keskööl.",
+  "readTitle": "Laota kaardid",
+  "readLede": "Vali laotus, esita küsimus ja tõmba. Puuduta kaarti, et see ümber pöörata.",
+  "learnTitle": "Õpi tarot",
+  "learnLede": "Kõigi 78 kaardi ja laotuste raamatukogu sinu keeles.",
+  "learnItems": [
+   [
+    "Suured arkaanad",
+    "22 kaarti elu suurte teemade kohta – Narrist Maailmani."
+   ],
+   [
+    "Väikesed arkaanad",
+    "56 kaarti neljas mastis: Kepid, Karikad, Mõõgad ja Mündid."
+   ],
+   [
+    "Kuidas laotust lugeda",
+    "Positsioonid, ümberpööratud kaardid ja see, kuidas kaardid omavahel räägivad."
+   ]
+  ],
+  "comingSoon": "Tulekul",
+  "shopTitle": "Poest",
+  "shopLede": "Küünlad, viiruk, kaardipakid ja altarilinad sinu enda praktika jaoks.",
+  "shopItems": [
+   "Küünlad",
+   "Viiruk ja ürdid",
+   "Kaardipakid",
+   "Altarilinad",
+   "Kristallid",
+   "Kinkekaardid"
+  ],
+  "deckNote": "Selle lehe kaardid on joonistatud Luna Arcana jaoks.",
+  "soundOn": "Meeleolu",
+  "navNum": "Numeroloogia",
+  "numTitle": "Sinu sünnikuupäeva numbrid",
+  "numLede": "Numeroloogia loeb sinu sünnikuupäeva numbritena. Siit leiad oma elutee numbri, käimasoleva aasta numbri ja sinu kuupäevale vastava tarotikaardi.",
+  "numDateLabel": "Sünnikuupäev",
+  "numBtn": "Arvuta",
+  "numPrivacy": "Kuupäev arvutatakse sinu brauseris ning seda ei salvestata ega saadeta mitte kuhugi.",
+  "numLifePath": "Elutee number",
+  "numPersonalYear": "Isiklik aasta {y}",
+  "numBirthCard": "Sünnikaart",
+  "numHow": "Nii see arvutatakse: kuupäeva kõik numbrid liidetakse kokku üheks numbriks. Meistrinumbrid 11, 22 ja 33 jäävad alles.",
+  "numCardHow": "Sünnikaart leitakse, liites kokku päeva, kuu ja aasta ning taandades arvuks 1–22; 22 on Narr.",
+  "numInvalid": "Sisesta kehtiv kuupäev.",
+  "numMeanings": {
+   "1": [
+    "Teerajaja",
+    "Iseseisvus, julgus ja tahe alustada midagi uut. Väljakutse on teisi kuulata."
+   ],
+   "2": [
+    "Sillaehitaja",
+    "Koostöö, tundlikkus ja oskus luua tasakaalu. Väljakutse on oma vajaduste eest seista."
+   ],
+   "3": [
+    "Looja",
+    "Eneseväljendus, rõõm ja loovus. Väljakutse on püsida fookuses ja asjad lõpuni viia."
+   ],
+   "4": [
+    "Ehitaja",
+    "Kord, visadus ja kindel alus. Väljakutse on muutusi taluda."
+   ],
+   "5": [
+    "Vaba hing",
+    "Vabadus, uudishimu ja muutus. Väljakutse on leida rahu ja pühendumus."
+   ],
+   "6": [
+    "Hooldaja",
+    "Vastutus, armastus ja hoolitsus kodu ja kogukonna eest. Väljakutse on mitte kanda kõike üksi."
+   ],
+   "7": [
+    "Otsija",
+    "Järelemõtlemine, tähelepanek ja tähenduse otsimine. Väljakutse on teisi enda juurde lasta."
+   ],
+   "8": [
+    "Juht",
+    "Teostusjõud, ambitsioon ja ressursside haldamine. Väljakutse on tasakaal võimu ja südame vahel."
+   ],
+   "9": [
+    "Tark",
+    "Kaastunne, lõpetamised ja tervikpilt. Väljakutse on lahti lasta."
+   ],
+   "11": [
+    "Meistrinumber 11 · Valguse kandja",
+    "Tugev intuitsioon ja inspiratsioon teistele. Vajab maandumist ja rahu."
+   ],
+   "22": [
+    "Meistrinumber 22 · Meisterehitaja",
+    "Suured visioonid muudetud praktiliseks. Vajab kannatlikkust enda vastu."
+   ],
+   "33": [
+    "Meistrinumber 33 · Õpetaja",
+    "Hoolivus ja tarkus, mida jagatakse. Vajab piire oma energiale."
+   ]
+  },
+  "numYearMeanings": {
+   "1": "Uute algustega ja esimeste sammude aasta.",
+   "2": "Koostöö, kannatlikkuse ja suhete aasta.",
+   "3": "Eneseväljenduse, rõõmu ja uute kontaktide aasta.",
+   "4": "Töö, struktuuri ja aluse aasta.",
+   "5": "Muutuse, reiside ja uute kogemuste aasta.",
+   "6": "Kodu, pere ja vastutuse aasta.",
+   "7": "Järelemõtlemise, õppimise ja sisetöö aasta.",
+   "8": "Tulemuste, vastutuse ja rahanduse aasta.",
+   "9": "Lõpetamiste ja uuele ruumi tegemise aasta."
+  },
+  "navRitual": "Rituaalikalender",
+  "moonIn": "Kuu märgis: {sign}",
+  "signs": [
+   "Jäär",
+   "Sõnn",
+   "Kaksikud",
+   "Vähk",
+   "Lõvi",
+   "Neitsi",
+   "Kaalud",
+   "Skorpion",
+   "Amburilaskja",
+   "Kaljukits",
+   "Veevalaja",
+   "Kalad"
+  ],
+  "planetDays": [
+   "Päikese päev",
+   "Kuu päev",
+   "Marsi päev",
+   "Merkuuri päev",
+   "Jupiteri päev",
+   "Veenuse päev",
+   "Saturni päev"
+  ],
+  "ritTitle": "Kui kuu ja tähed on õiges asendis",
+  "ritLede": "Rahvamaagia ja astroloogia traditsioonis valitakse aeg kolme asja järgi: kuufaas, sodiaagimärk, milles kuu asub, ja nädalapäeva valitsev planeet. Valige kavatsus ning leiame parimad päevad järgmiseks 30 ööpäevaks.",
+  "ritToday": "Täna",
+  "ritBest": "Parimad päevad tulevikus",
+  "ritScore": "{n} / 5",
+  "ritWhy": "Faas: {phase} · {moon} · {day}",
+  "ritMatchPhase": "sobiv faas",
+  "ritMatchSign": "sobiv märk",
+  "ritMatchDay": "sobiv nädalapäev",
+  "ritNoMatch": "ei sobi",
+  "ritRules": "Traditsioon ütleb",
+  "ritPremium": "Kogu rituaal koos sammude, materjalide ja sõnadega kuulub Premiumi.",
+  "ritDisclaimer": "Ajad järgivad traditsioonilisi vastavusi ning on mõeldud inspiratsiooniks ja järelemõtlemiseks. Tulemusi ei garanteerita. Kuu märk on arvutatud ligikaudu ja võib märgivahetuse lähedal erineda.",
+  "intents": [
+   {
+    "key": "money",
+    "name": "Avage rahavoog",
+    "text": "Rituaalid küllusele, tööle ja uuele sissetulekule.",
+    "rule": "Kasvav kuu, kuu maamärgis (Sõnn, Neitsi, Kaljukits) ning Jupiteri või Päikese päev."
+   },
+   {
+    "key": "love",
+    "name": "Armastus ja enda armastamine",
+    "text": "Rituaalid soojusele, külgetõmbele ja enda vastu lahkusele.",
+    "rule": "Kasvav kuu, kuu märgis: Sõnn, Kaalud või Vähk, ning Veenuse päev."
+   },
+   {
+    "key": "protect",
+    "name": "Kodu ja enda kaitse",
+    "text": "Rituaalid turvalisusele ja piiridele.",
+    "rule": "Täiskuu või kahanev kuu, kuu märgis: Kaljukits, Skorpion või Jäär, ning Saturni või Marsi päev."
+   },
+   {
+    "key": "cleanse",
+    "name": "Puhastumine ja lahtilaskmine",
+    "text": "Rituaalid korrastamiseks, lõpetamiseks ja raske lahtilaskmiseks.",
+    "rule": "Kahanev kuu, kuu märgis: Neitsi, Skorpion või Kalad, ning Saturni päev."
+   },
+   {
+    "key": "begin",
+    "name": "Uued algused",
+    "text": "Rituaalid kavatsustele ja esimestele sammudele.",
+    "rule": "Noorkuu või noor kasvav kuu, kuu tulemärgis (Jäär, Lõvi, Amburilaskja) ning Päikese või Kuu päev."
+   },
+   {
+    "key": "intuition",
+    "name": "Intuitsioon ja unenäod",
+    "text": "Rituaalid mõistmiseks, unenägudele ja tarokile.",
+    "rule": "Noorkuu või täiskuu, kuu veemärgis (Vähk, Skorpion, Kalad) ning Kuu päev."
+   }
+  ],
+  "navJournal": "Päevik",
+  "jTitle": "Sinu tarotipäevik",
+  "jLede": "Salvesta oma seisud ja vaata, millised kaardid aja jooksul korduvad. Päevik salvestatakse ainult sellesse brauserisse ega saadeta kuhugi.",
+  "jSave": "Salvesta päevikusse",
+  "jSaved": "Salvestatud päevikusse.",
+  "jEmpty": "Päevik on tühi. Tõmba kaardid, pööra need ümber ja salvesta seis.",
+  "jFrequent": "Korduvad kaardid",
+  "jTimes": "{n} korda",
+  "jDelete": "Kustuta",
+  "jEntries": "Salvestatud seisud",
+  "freeLeft": "Täna 1 tasuta AI-tõlgendus.",
+  "freeUsed": "Tänane tasuta AI-tõlgendus on kasutatud. Rohkem tõlgendusi tuleb Premiumiga."
+ },
+ "spreads": {
+  "dag": {
+   "label": "Päeva kaart",
+   "desc": "Üks kaart päeva teemaks.",
+   "pos": [
+    "Päeva teema"
+   ]
+  },
+  "tre": {
+   "label": "Minevik · Olevik · Tulevik",
+   "desc": "Kolm kaarti, mis näitavad asja arengut.",
+   "pos": [
+    "Minevik",
+    "Olevik",
+    "Tulevik"
+   ]
+  },
+  "situasjon": {
+   "label": "Olukord (5)",
+   "desc": "Põhjus, tuum, väljakutse, väljavaade ja võimalus. Võimaluse kaart tõmmatakse alati õigetpidi.",
+   "pos": [
+    "Põhjus",
+    "Olukord",
+    "Väljakutse",
+    "Väljavaade",
+    "Võimalus"
+   ]
+  },
+  "janei": {
+   "label": "Jah / Ei",
+   "desc": "Üks kaart. Õigetpidi kaldub jah poole, tagurpidi ei poole. Suured arkaanid annavad selgema vastuse.",
+   "pos": [
+    "Vastus"
+   ]
+  },
+  "kors": {
+   "label": "Keldi rist (10)",
+   "desc": "Klassikaline laotus põhjalikuks analüüsiks.",
+   "pos": [
+    "Praegu",
+    "Ristub",
+    "Alus",
+    "Minevik",
+    "Eesmärk",
+    "Lähitulevik",
+    "Sina ise",
+    "Ümbrus",
+    "Lootused ja hirmud",
+    "Tulemus"
+   ]
+  }
+ },
+ "suits": {
+  "staver": {
+   "name": "Kepid",
+   "theme": "tegutsemine ja kirg"
+  },
+  "begre": {
+   "name": "Karikad",
+   "theme": "tunded ja suhted"
+  },
+  "sverd": {
+   "name": "Mõõgad",
+   "theme": "mõtted ja konflikt"
+  },
+  "mynter": {
+   "name": "Mündid",
+   "theme": "raha, töö ja keha"
+  }
+ },
+ "cards": [
+  {
+   "name": "Narr",
+   "up": "Uus algus, spontaansus, usaldus tee vastu.",
+   "rev": "Ettevaatamatus, naiivsus, hüpe ettevalmistuseta."
+  },
+  {
+   "name": "Maag",
+   "up": "Tahe, oskused ja ressursid, et midagi nüüd luua.",
+   "rev": "Manipuleerimine, kasutamata talent, plaanid ilma tegudeta."
+  },
+  {
+   "name": "Ülempreestrinna",
+   "up": "Intuitsioon, varjatud teadmine, kuula iseennast.",
+   "rev": "Saladused, tähelepanuta jäetud sisetunne, segadus."
+  },
+  {
+   "name": "Keisrinna",
+   "up": "Küllus, hoolitsus, loovus ja kasv.",
+   "rev": "Sõltuvus, stagnatsioon, enda unustamine."
+  },
+  {
+   "name": "Keiser",
+   "up": "Struktuur, vastutus, stabiilsus ja juhtimine.",
+   "rev": "Kontrollivajadus, jäikus, võimu kuritarvitamine."
+  },
+  {
+   "name": "Ülempreester",
+   "up": "Traditsioon, õppimine, mentori juhendamine.",
+   "rev": "Mäss reeglite vastu, dogmad, mis enam ei sobi."
+  },
+  {
+   "name": "Armastajad",
+   "up": "Armastus, harmoonia ja oluline väärtusvalik.",
+   "rev": "Tasakaalutus suhtes, kahtlus, valik oma väärtuste vastu."
+  },
+  {
+   "name": "Vanker",
+   "up": "Tahtejõud, edasiliikumine, võit keskendumise kaudu.",
+   "rev": "Suunatuse puudumine, kontrolli kaotus, vastupanu."
+  },
+  {
+   "name": "Jõud",
+   "up": "Sisemine tugevus, kannatlikkus, leebus, mis võidab.",
+   "rev": "Enesekahtlus, kurnatus, tunded, mis võtavad võimust."
+  },
+  {
+   "name": "Erak",
+   "up": "Mõtisklus, üksindus, mis annab arusaama.",
+   "rev": "Isolatsioon, tagasitõmbumine, teiste välja lülitamine."
+  },
+  {
+   "name": "Saatuseratas",
+   "up": "Pöördepunkt, tsüklid, saatus on liikumas.",
+   "rev": "Vastutuul, vastupanu muutusele, vanad mustrid."
+  },
+  {
+   "name": "Õiglus",
+   "up": "Tõde, tasakaal, valikute tagajärjed.",
+   "rev": "Ebaõiglus, vastutusest kõrvalehoidmine, erapoolikus."
+  },
+  {
+   "name": "Poodud mees",
+   "up": "Paus, uus vaatenurk, lahtilaskmine.",
+   "rev": "Edasilükkamine, seisak, mõttetu ohver."
+  },
+  {
+   "name": "Surm",
+   "up": "Lõpp ja muutumine, miski vana lõpeb.",
+   "rev": "Vastupanu muutusele, kinnihoidmine sellest, mis on möödas."
+  },
+  {
+   "name": "Kasinus",
+   "up": "Tasakaal, kannatlikkus, kuldne kesktee.",
+   "rev": "Tasakaalutus, liialdamine, kannatamatus."
+  },
+  {
+   "name": "Kurat",
+   "up": "Sidemed, kiusatused, sõltuvus.",
+   "rev": "Vabanemine, mustri murdmine, uus selgus."
+  },
+  {
+   "name": "Torn",
+   "up": "Äkiline ümberkukutamine, tõde tuleb päevavalgele.",
+   "rev": "Hirm muutuse ees, edasilükatud kriis."
+  },
+  {
+   "name": "Täht",
+   "up": "Lootus, uuenemine, rahu pärast tormi.",
+   "rev": "Heitumus, kadunud usk, suuna kaotamine."
+  },
+  {
+   "name": "Kuu",
+   "up": "Illusioonid, ebakindlus, unenäod ja hirmud.",
+   "rev": "Selgus on tulemas, hirm lõdvendab haaret."
+  },
+  {
+   "name": "Päike",
+   "up": "Rõõm, edu, elujõud ja selgus.",
+   "rev": "Ajutine mõõnaperiood, liigne optimism."
+  },
+  {
+   "name": "Kohus",
+   "up": "Ärkamine, kutse, olukorra kokkuvõtmine.",
+   "rev": "Enesekriitika, kahtlus, kutse eiramine."
+  },
+  {
+   "name": "Maailm",
+   "up": "Täitumine, terviklikkus, tsükkel on lõppenud.",
+   "rev": "Lõpetamata asjad, viimane tükk puudu."
+  },
+  {
+   "name": "Kepide äss",
+   "up": "Uus inspiratsioon, jõuline idee.",
+   "rev": "Viivitused, tõukejõu puudumine."
+  },
+  {
+   "name": "Kepide kaks",
+   "up": "Planeerimine, edasivaatamine.",
+   "rev": "Hirm tundmatu ees, halb planeerimine."
+  },
+  {
+   "name": "Kepide kolm",
+   "up": "Laienemine, edasiminek, esimesed tulemused.",
+   "rev": "Takistused, pettunud ootused."
+  },
+  {
+   "name": "Kepide neli",
+   "up": "Pidustused, kodu, turvalisus.",
+   "rev": "Rahutus kodus, kogukonnatunde puudumine."
+  },
+  {
+   "name": "Kepide viis",
+   "up": "Konkurents, erimeelsused, hõõrdumine.",
+   "rev": "Konflikti vältimine, sisemine võitlus."
+  },
+  {
+   "name": "Kepide kuus",
+   "up": "Tunnustus, võit, enesekindlus.",
+   "rev": "Uhkus enne langemist, tunnustuse puudumine."
+  },
+  {
+   "name": "Kepide seitse",
+   "up": "Seisa oma seisukoha eest, kaitse positsiooni.",
+   "rev": "Ülekoormus, loobumine."
+  },
+  {
+   "name": "Kepide kaheksa",
+   "up": "Kiirus, uudised, asjad toimuvad kiiresti.",
+   "rev": "Viivitused, frustratsioon."
+  },
+  {
+   "name": "Kepide üheksa",
+   "up": "Visadus, viimane pingutus.",
+   "rev": "Läbipõlemine, usaldamatus."
+  },
+  {
+   "name": "Kepide kümme",
+   "up": "Raske koorem, liiga suur vastutus.",
+   "rev": "Koormate mahapanemine, delegeerimine."
+  },
+  {
+   "name": "Kepide poiss",
+   "up": "Entusiasm, head uudised, uudishimu.",
+   "rev": "Ebaküps innukus, edasi lükatud plaanid."
+  },
+  {
+   "name": "Kepide rüütel",
+   "up": "Seiklus, tegutsemine, impulsiivsus.",
+   "rev": "Kiirustamine, viha, ettearvamatus."
+  },
+  {
+   "name": "Kepide kuninganna",
+   "up": "Enesekindlus, soojus, sõltumatus.",
+   "rev": "Armukadedus, egoism, ebakindlus."
+  },
+  {
+   "name": "Kepide kuningas",
+   "up": "Visionäärne juhtimine, algatusvõime.",
+   "rev": "Üleolek, kiirustatud otsused."
+  },
+  {
+   "name": "Karikate äss",
+   "up": "Uus armastus, avanevad tunded.",
+   "rev": "Allasurutud tunded, tühjus."
+  },
+  {
+   "name": "Karikate kaks",
+   "up": "Partnerlus, vastastikune külgetõmme.",
+   "rev": "Tasakaalutus, side katkemine."
+  },
+  {
+   "name": "Karikate kolm",
+   "up": "Sõprus, pidustused, kogukond.",
+   "rev": "Kuulujutud, liiga palju pidutsemist, kõrvalejäämine."
+  },
+  {
+   "name": "Karikate neli",
+   "up": "Apaatia, pakkumise märkamata jätmine.",
+   "rev": "Uus huvi, uuesti jah-ütlemine."
+  },
+  {
+   "name": "Karikate viis",
+   "up": "Lein, kaotus, keskendumine sellele, mis läks valesti.",
+   "rev": "Aktsepteerimine, edasiminek."
+  },
+  {
+   "name": "Karikate kuus",
+   "up": "Mälestused, lapsepõlv, süütus.",
+   "rev": "Minevikku kinnijäämine."
+  },
+  {
+   "name": "Karikate seitse",
+   "up": "Palju valikuid, soovmõtlemine.",
+   "rev": "Selgus, realistliku valiku tegemine."
+  },
+  {
+   "name": "Karikate kaheksa",
+   "up": "Millestki loobumine, sügavama mõtte otsimine.",
+   "rev": "Hirm lahkuda, eesmärgita triivimine."
+  },
+  {
+   "name": "Karikate üheksa",
+   "up": "Soovide täitumine, rahulolu.",
+   "rev": "Ahnus, pealiskaudne õnn."
+  },
+  {
+   "name": "Karikate kümme",
+   "up": "Perekonnaõnn, harmoonia.",
+   "rev": "Lahkarvamused peres, purunenud ideaalid."
+  },
+  {
+   "name": "Karikate poiss",
+   "up": "Loov sõnum, tundlikkus.",
+   "rev": "Ebaküpsus, emotsionaalne tasakaalutus."
+  },
+  {
+   "name": "Karikate rüütel",
+   "up": "Romantika, pakkumine, võlu.",
+   "rev": "Meeleolu kõikumised, ebarealistlikud lubadused."
+  },
+  {
+   "name": "Karikate kuninganna",
+   "up": "Kaastunne, intuitsioon, hoolitsus.",
+   "rev": "Sõltuvus, emotsionaalne segadus."
+  },
+  {
+   "name": "Karikate kuningas",
+   "up": "Emotsionaalne tasakaal, diplomaatia.",
+   "rev": "Manipuleerimine, külmad tunded."
+  },
+  {
+   "name": "Mõõkade äss",
+   "up": "Selgus, läbimurre, tõde.",
+   "rev": "Segadus, vale otsus."
+  },
+  {
+   "name": "Mõõkade kaks",
+   "up": "Raske valik, ummikseis.",
+   "rev": "Info tuleb ilmsiks, otsustamatus."
+  },
+  {
+   "name": "Mõõkade kolm",
+   "up": "Südamevalu, valu, tõde, mis teeb haiget.",
+   "rev": "Paranemine, andestus."
+  },
+  {
+   "name": "Mõõkade neli",
+   "up": "Puhkus, taastumine, mõtisklus.",
+   "rev": "Rahutus, kurnatus."
+  },
+  {
+   "name": "Mõõkade viis",
+   "up": "Konflikt, võit hinnaga.",
+   "rev": "Leppimine, relvade mahapanemine."
+  },
+  {
+   "name": "Mõõkade kuus",
+   "up": "Üleminek, raskest lahkumine.",
+   "rev": "Lahendamata asjad, vastumeelsus edasi liikuda."
+  },
+  {
+   "name": "Mõõkade seitse",
+   "up": "Kavalus, strateegia, miski varjatakse.",
+   "rev": "Südametunnistus, tõde tuleb välja."
+  },
+  {
+   "name": "Mõõkade kaheksa",
+   "up": "Oma mõtetesse lõksu jäämine, piirangud.",
+   "rev": "Vabanemine, uus vaatenurk."
+  },
+  {
+   "name": "Mõõkade üheksa",
+   "up": "Mure, unetus, ärevus.",
+   "rev": "Lootus, hirm hajub."
+  },
+  {
+   "name": "Mõõkade kümme",
+   "up": "Valus lõpp, põhi on käes.",
+   "rev": "Taastamine, halvim on möödas."
+  },
+  {
+   "name": "Mõõkade poiss",
+   "up": "Uudishimu, valvsus, uued ideed.",
+   "rev": "Kuulujutud, mõtlematud sõnad."
+  },
+  {
+   "name": "Mõõkade rüütel",
+   "up": "Tegutsemine, ambitsioon, otse asja juurde.",
+   "rev": "Kiirustamine, agressiivsus."
+  },
+  {
+   "name": "Mõõkade kuninganna",
+   "up": "Selgenägemine, sõltumatus, ausus.",
+   "rev": "Külmus, kibedus, karmid sõnad."
+  },
+  {
+   "name": "Mõõkade kuningas",
+   "up": "Intellektuaalne autoriteet, õiglus.",
+   "rev": "Võimu kuritarvitamine, manipuleerimine."
+  },
+  {
+   "name": "Müntide äss",
+   "up": "Uus võimalus, rahaline algus.",
+   "rev": "Maha jäänud võimalus, halb planeerimine."
+  },
+  {
+   "name": "Müntide kaks",
+   "up": "Tasakaal, prioriteetidega žongleerimine.",
+   "rev": "Ülekoormus, segadus rahaasjades."
+  },
+  {
+   "name": "Müntide kolm",
+   "up": "Koostöö, käsitöö, õppimine.",
+   "rev": "Halb koostöö, keskpärasus."
+  },
+  {
+   "name": "Müntide neli",
+   "up": "Säästmine, turvalisus, kontroll.",
+   "rev": "Kitsidus, liiga kõvasti kinnihoidmine."
+  },
+  {
+   "name": "Müntide viis",
+   "up": "Puudus, rasked ajad.",
+   "rev": "Paranemine, abi on lähedal."
+  },
+  {
+   "name": "Müntide kuus",
+   "up": "Andmine ja saamine, helde meel.",
+   "rev": "Ebavõrdne jaotus, võlad."
+  },
+  {
+   "name": "Müntide seitse",
+   "up": "Kannatlikkus, pikaajaline investeering.",
+   "rev": "Kannatamatus, kehv tulu."
+  },
+  {
+   "name": "Müntide kaheksa",
+   "up": "Hoolsus, meisterlikkus, harjutamine.",
+   "rev": "Perfektsionism, igavus."
+  },
+  {
+   "name": "Müntide üheksa",
+   "up": "Iseseisvus, jõukus, naudingud.",
+   "rev": "Liigtarbimine, sõltuvus teistest."
+  },
+  {
+   "name": "Müntide kümme",
+   "up": "Pärand, perekonna varandus, püsiv turvalisus.",
+   "rev": "Rahaline kaotus, perekondlik konflikt."
+  },
+  {
+   "name": "Müntide poiss",
+   "up": "Uued õpingud, praktiline ambitsioon.",
+   "rev": "Edasiliikumise puudumine, laiskus."
+  },
+  {
+   "name": "Müntide rüütel",
+   "up": "Usaldusväärsus, rutiin, kõva töö.",
+   "rev": "Stagnatsioon, igavus."
+  },
+  {
+   "name": "Müntide kuninganna",
+   "up": "Praktiline hoolitsus, turvalisus, maalähedus.",
+   "rev": "Töönarkomaania, rahaline rahutus."
+  },
+  {
+   "name": "Müntide kuningas",
+   "up": "Jõukus, kindlus, ärivaist.",
+   "rev": "Ahnus, materialism."
+  }
+ ]
+}

@@ -1,0 +1,1655 @@
+{
+ "labels": {
+  "kwUp": "Raktažodžiai",
+  "kwRev": "Apversta",
+  "about": "Apie kortą",
+  "love": "Meilė",
+  "work": "Darbas",
+  "advice": "Patarimas",
+  "element": "Elementas",
+  "astro": "Astrologija",
+  "number": "Skaičius",
+  "open": "Skaityti daugiau apie kortą",
+  "close": "Uždaryti"
+ },
+ "cards": [
+  {
+   "kw_up": [
+    "nauja pradžia",
+    "spontaniškumas",
+    "pasitikėjimas",
+    "atvirumas"
+   ],
+   "kw_rev": [
+    "neatsargumas",
+    "naivumas",
+    "veikimas apgraibomis",
+    "skubėjimas"
+   ],
+   "about": "Jaunas keliautojas stovi prie skardžio krašto su mažu ryšulėliu ant peties, o šuo seka iš paskos ir saulė šviečia už nugaros. Kortos tema – pirmasis žingsnis ir gyvenimo sutikimas atviromis akimis bei lengva širdimi.",
+   "love": "Meilėje Kvailys gali rodyti naują, nenuspėjamą pradžią arba norą sutikti žmogų be lūkesčių. Jis taip pat gali priminti pasidairyti po kojomis.",
+   "work": "Darbe kalbama apie drąsą išbandyti kažką naujo ar pasirinkti neįprastą kelią. Verta uždegimą suderinti su paprastu planu.",
+   "advice": "Leiskite smalsumui jus vesti, bet pasiimkite tai, ką jau žinote.",
+   "element": "Oras",
+   "astro": "Oras (Golden Dawn)",
+   "number": "Nulis: neišnaudotas potencialas, tuštuma prieš pradžią"
+  },
+  {
+   "kw_up": [
+    "valia",
+    "veiksmas",
+    "įgūdžiai",
+    "susitelkimas"
+   ],
+   "kw_rev": [
+    "manipuliavimas",
+    "išsisklaidžiusi energija",
+    "nepanaudotas talentas",
+    "planai be veiksmų"
+   ],
+   "about": "Figūra stovi prie aukuro, viena ranka kelia lazdą į dangų, kita rodo į žemę, o prieš ją guli keturi masčių simboliai. Virš galvos sklando begalybės ženklas, primenantis, kad mintis ir veiksmas susiję.",
+   "love": "Santykiuose korta gali kalbėti apie gebėjimą aiškiai save pristatyti ir iniciatyvą pradėti sąžiningą pokalbį. Ji taip pat primena būti nuoširdiems, be kaukių.",
+   "work": "Darbe ji rodo, kad turite reikiamų įrankių ir kad gali būti atėjęs laikas jais pasinaudoti. Svarbiausia – susitelkimas.",
+   "advice": "Surinkite jėgas į vieną vietą ir pradėkite.",
+   "element": "Oras",
+   "astro": "Merkurijus",
+   "number": "Vienas: valia, pradžia ir sąmoninga kūrybinė jėga"
+  },
+  {
+   "kw_up": [
+    "intuicija",
+    "tyla",
+    "paslėptos žinios",
+    "vidinis klausymasis"
+   ],
+   "kw_rev": [
+    "paslaptys",
+    "ignoruojama nuojauta",
+    "sumaištis",
+    "atsitraukimas"
+   ],
+   "about": "Moteris sėdi tarp dviejų kolonų – šviesios ir tamsios, už nugaros turi šydą, o prie kojų – mėnulį. Rankose laiko ritinį, kurio tik dalis turinio matoma; korta kalba apie tai, kas slypi po paviršiumi.",
+   "love": "Meilėje korta kviečia klausytis to, kas neištariama, savyje ir kitame. Kantrybė gali suteikti daugiau aiškumo nei greiti atsakymai.",
+   "work": "Darbe gali būti metas stebėti, prieš apsisprendžiant. Ne viską reikia paaiškinti iš karto.",
+   "advice": "Pabūkite tyloje ir pastebėkite, ką iš tiesų žinote.",
+   "element": "Vanduo",
+   "astro": "Mėnulis",
+   "number": "Du: dvilypumas, pusiausvyra tarp matomo ir paslėpto"
+  },
+  {
+   "kw_up": [
+    "rūpestis",
+    "gausa",
+    "kūrybos džiaugsmas",
+    "juslingumas"
+   ],
+   "kw_rev": [
+    "priklausomumas nuo kitų",
+    "slegiantis rūpestis",
+    "sąstingis",
+    "savęs pamiršimas"
+   ],
+   "about": "Karūnuota moteris ilsisi žaliame kraštovaizdyje tarp kviečių varpų ir tekančio upelio, apsupta visiškai pražydusios gamtos. Korta simbolizuoja vaisingumą, malonumą ir tai, kas auga, kai yra puoselėjama.",
+   "love": "Meilėje kalbama apie šilumą, švelnumą, rūpesčio davimą ir priėmimą. Ji taip pat gali priminti pasirūpinti savimi.",
+   "work": "Darbe korta gali rodyti kūrybinius projektus, kuriems leidžiama augti savu tempu. Kokybė ir priežiūra dažnai duoda geresnių vaisių nei skubėjimas.",
+   "advice": "Maitinkite tai, kas turi augti, įskaitant save.",
+   "element": "Žemė",
+   "astro": "Venera",
+   "number": "Trys: augimas, kūrybinė jėga ir raiška"
+  },
+  {
+   "kw_up": [
+    "struktūra",
+    "stabilumas",
+    "autoritetas",
+    "atsakomybė"
+   ],
+   "kw_rev": [
+    "standumas",
+    "kontrolės poreikis",
+    "nelankstumas",
+    "piktnaudžiavimas valdžia"
+   ],
+   "about": "Karūnuotas vyras sėdi ant akmeninio sosto, papuošto avinų galvomis, rankose laiko skeptrą ir rutulį, o virš šarvų – raudonas apsiaustas. Jis simbolizuoja tvarką, ribas ir gebėjimą statyti tai, kas išliks.",
+   "love": "Meilėje korta gali kalbėti apie saugumą, ištikimybę ir aiškius rėmus. Ji taip pat gali paprašyti pažiūrėti, ar kontrolės poreikis neužima artumo vietos.",
+   "work": "Darbe kalbama apie vadovavimą, planavimą ir atsakomybės prisiėmimą. Geri rėmai gali išlaisvinti energiją, kol netampa narvu.",
+   "advice": "Kurkite struktūrą, kuri jus palaiko, o ne uždaro.",
+   "element": "Ugnis",
+   "astro": "Avinas",
+   "number": "Keturi: pamatas, tvarka ir stabilumas"
+  },
+  {
+   "kw_up": [
+    "tradicija",
+    "vadovavimas",
+    "bendruomenė",
+    "mokymasis"
+   ],
+   "kw_rev": [
+    "normų laužymas",
+    "dogmos",
+    "aklas sekimas minia",
+    "nepriklausomybė"
+   ],
+   "about": "Religinė figūra sėdi tarp dviejų kolonų ir pakelia ranką laiminimui, prieš ją klūpo du mokiniai, o prie kojų guli raktai. Korta kalba apie perduotą išmintį ir bendras vertybes, pagal kurias gyvename.",
+   "love": "Meilėje tai gali liesti įsipareigojimą, bendras vertybes ir galbūt ritualus, siejančius du žmones. Ji taip pat gali paklausti, kuo tikite patys.",
+   "work": "Darbe korta gali rodyti mentorius, mokymąsi ir nusistovėjusią tvarką. Gali būti naudinga mokytis iš tų, kurie tuo keliu jau ėjo.",
+   "advice": "Ieškokite patarimo iš žmogaus, kuriuo pasitikite, bet pasverkite jį pagal savo supratimą.",
+   "element": "Žemė",
+   "astro": "Jautis",
+   "number": "Penki: prasmės paieška, mokymasis ir tradicija"
+  },
+  {
+   "kw_up": [
+    "pasirinkimas",
+    "susivienijimas",
+    "vertybės",
+    "harmonija"
+   ],
+   "kw_rev": [
+    "neryžtingumas",
+    "pusiausvyros stoka",
+    "nesutarimas",
+    "neaiškios vertybės"
+   ],
+   "about": "Dvi nuogos figūros stovi po angelu, už kiekvienos po medį – vienas su vaisiais, kitas su liepsnomis. Korta kalba apie pasirinkimą iš širdies ir apie tai, kas įvyksta, kai susitinka dvi pusės.",
+   "love": "Meilėje tai apie gilų ryšį ir sąmoningą vienas kito pasirinkimą. Ji taip pat gali liesti pasirinkimą, kuriam reikia sąžiningumo.",
+   "work": "Darbe korta rodo kryžkelę, kurioje turėtų svarų žodį jūsų vertybės. Bendradarbiavimas gali tapti stiprybe.",
+   "advice": "Rinkitės tai, kas dera su tuo, kas iš tikrųjų esate.",
+   "element": "Oras",
+   "astro": "Dvyniai",
+   "number": "Šeši: harmonija, pasirinkimas ir abipusiškumas"
+  },
+  {
+   "kw_up": [
+    "varomoji jėga",
+    "pergalė",
+    "savitvarda",
+    "kryptis"
+   ],
+   "kw_rev": [
+    "krypties stoka",
+    "agresija",
+    "prarasta kontrolė",
+    "kliūtys"
+   ],
+   "about": "Jaunas karys stovi vežime, kurį traukia du sfinksai, šviesus ir tamsus, po žvaigždėtu baldakimu. Vadelių nesimato, nes kelionę valdo valia.",
+   "love": "Meilėje korta gali rodyti tikslingas pastangas ir gebėjimą išlaikyti kryptį sunkiu laikotarpiu. Ji taip pat primena klausytis, o ne tik stumti į priekį.",
+   "work": "Darbe kalbama apie pažangą, susikaupimą ir priešingų jėgų sutelkimą bendram tikslui.",
+   "advice": "Laikykite abi jėgas rankose ir pasirinkite kryptį.",
+   "element": "Vanduo",
+   "astro": "Vėžys",
+   "number": "Septyni: valios stiprybė, judėjimas pirmyn ir meistriškumas"
+  },
+  {
+   "kw_up": [
+    "drąsa",
+    "kantrybė",
+    "švelni jėga",
+    "pasitikėjimas savimi"
+   ],
+   "kw_rev": [
+    "abejonė savimi",
+    "šiurkšti jėga",
+    "nekantrumas",
+    "pažeidžiamumas"
+   ],
+   "about": "Moteris atsargiai užveria liūtui nasrus, o virš jos galvos sklando begalybės ženklas. Korta rodo, kad tikroji stiprybė dažnai švelni, rami ir ištverminga.",
+   "love": "Meilėje kalbama apie švelnumą ir kantrybę bei apie šilumą sutinkant savo ir kito pažeidžiamas puses.",
+   "work": "Darbe korta gali kalbėti apie gebėjimą su ramybe ir tolygia jėga atlaikyti spaudimą. Ištvermė dažnai nugali sąmyšį.",
+   "advice": "Sutikite tai, kas jus gąsdina, su švelnumu ir tvirta ranka.",
+   "element": "Ugnis",
+   "astro": "Liūtas",
+   "number": "Aštuoni: vidinė stiprybė, ištvermė ir pusiausvyra"
+  },
+  {
+   "kw_up": [
+    "įžvalga",
+    "vienatvė",
+    "paieška",
+    "vidinė kryptis"
+   ],
+   "kw_rev": [
+    "užsisklendimas",
+    "atsitraukimas",
+    "vienišumas",
+    "vengimas kitų"
+   ],
+   "about": "Senas vyras stovi ant sniegu padengtos kalno viršūnės, žibintas apšviečia mažą žvaigždę, o kitoje rankoje jis laiko lazdą. Korta rodo tylią savo tiesos paiešką.",
+   "love": "Meilėje korta gali reikšti, kad jums reikia laiko vienumoje, kad suprastumėte, ko norite. Ji taip pat primena, kad artumui reikia savęs pažinimo.",
+   "work": "Darbe tai gali būti gilinimasis, studijos ar pertrauka nuo triukšmo, kad aiškiai mąstytumėte.",
+   "advice": "Skirkite laiko tylai ir leiskite žibintui šviesti sau.",
+   "element": "Žemė",
+   "astro": "Mergelė",
+   "number": "Devyni: užbaigimas, apmąstymas ir vidinis vadovavimas"
+  },
+  {
+   "kw_up": [
+    "ciklas",
+    "pokytis",
+    "likimo posūkiai",
+    "pažanga"
+   ],
+   "kw_rev": [
+    "nesėkmės",
+    "pasipriešinimas pokyčiams",
+    "nekontroliuojami posūkiai",
+    "pasikartojimai"
+   ],
+   "about": "Didelis ratas su simboliais ir raidėmis sklando danguje, o šalia jo matyti sfinksas, gyvatė ir kita būtybė, o kampuose – keturios sparnuotos figūros. Korta primena, kad viskas vyksta ciklais ir niekas neišlieka ta pačia forma.",
+   "love": "Meilėje korta gali žymėti posūkį – naują etapą arba seno modelio nutrūkimą. Ji ragina eiti kartu su judėjimu.",
+   "work": "Darbe ji rodo pokytį ir atsiveriančias galimybes bei prisitaikymą prie naujų aplinkybių.",
+   "advice": "Išlikite judrūs, nes ratas ir toliau sukasi.",
+   "element": "Ugnis",
+   "astro": "Jupiteris",
+   "number": "Dešimt: pilnas ciklas, prasidedantis naujas lygmuo"
+  },
+  {
+   "kw_up": [
+    "pusiausvyra",
+    "tiesa",
+    "atsakomybė",
+    "priežastis ir pasekmė"
+   ],
+   "kw_rev": [
+    "neteisybė",
+    "disbalansas",
+    "išsisukinėjimas",
+    "atsakomybės atsisakymas"
+   ],
+   "about": "Figūra sėdi soste, vienoje rankoje laiko kardą, kitoje svarstykles, tarp dviejų kolonų, o už nugaros turi šydą. Korta kalba apie sąžiningumą ir sprendimų pasekmes.",
+   "love": "Meilėje tai apie teisingumą, atvirą bendravimą ir abipusę pagarbą. Laikykitės žodžio ir būkite aiškūs.",
+   "work": "Darbe korta gali rodyti susitarimus, vertinimus ir sprendimus, kuriems reikia objektyvumo ir aiškių faktų.",
+   "advice": "Būkite sąžiningi, taip pat su savimi, ir viską pasverkite.",
+   "element": "Oras",
+   "astro": "Svarstyklės",
+   "number": "Vienuolika: pusiausvyra, svarstymas ir atsakomybė"
+  },
+  {
+   "kw_up": [
+    "pauzė",
+    "naujas požiūris",
+    "pasidavimas",
+    "kantrybė"
+   ],
+   "kw_rev": [
+    "atidėliojimas",
+    "sąstingis",
+    "pasipriešinimas",
+    "nereikalinga auka"
+   ],
+   "about": "Vyras kabo aukštyn kojomis medyje, viena koja pririšta, bet veidas ramus ir apsuptas šviesos. Korta kalba apie paleidimą, laukimą ir pasaulio matymą iš kito kampo.",
+   "love": "Meilėje korta gali kalbėti apie leidimą dalykams subręsti arba situacijos pamatymą iš kito žmogaus pusės. Spaudimas retai veda į priekį.",
+   "work": "Darbe tai gali reikšti pauzę, aplinkkelį arba būtiną kantrybę prieš kitą žingsnį.",
+   "advice": "Akimirką paleiskite ir pažiūrėkite, kas keičiasi.",
+   "element": "Vanduo",
+   "astro": "Vanduo",
+   "number": "Dvylika: pasidavimas ir pakitęs žvilgsnis"
+  },
+  {
+   "kw_up": [
+    "pabaiga",
+    "transformacija",
+    "paleidimas",
+    "naujas skyrius"
+   ],
+   "kw_rev": [
+    "pasipriešinimas pokyčiams",
+    "įstrigimas",
+    "neužbaigta",
+    "baimė dėl pabaigos"
+   ],
+   "about": "Skeletas ant balto žirgo neša juodą vėliavą su balta rože, o prieš jį stovi įvairaus amžiaus žmonės. Korta retai kalba apie tiesioginę mirtį, o apie pabaigas, kurios palieka vietos naujam.",
+   "love": "Meilėje korta gali žymėti, kad etapas baigėsi ir metas paleisti. Tai taip pat gali atverti gilesnį sąžiningumą.",
+   "work": "Darbe tai gali būti baigiamas projektas ar vaidmuo. Tai atlaisvina vietos kam nors kitam.",
+   "advice": "Leiskite tam, kas baigta, būti baigtam.",
+   "element": "Vanduo",
+   "astro": "Skorpionas",
+   "number": "Trylika: pabaiga ir transformacija"
+  },
+  {
+   "kw_up": [
+    "pusiausvyra",
+    "saikas",
+    "kantrybė",
+    "harmonija"
+   ],
+   "kw_rev": [
+    "pusiausvyros stoka",
+    "kraštutinumai",
+    "skubėjimas",
+    "nuoseklumo trūkumas"
+   ],
+   "about": "Angelas viena koja stovi vandenyje, kita ant sausumos ir pila skystį pirmyn atgal tarp dviejų taurių. Korta kalba apie maišymą, ritmą ir aukso vidurio radimą.",
+   "love": "Meilėje tai apie tolygaus ritmo radimą ir skirtingų poreikių švelnų derinimą.",
+   "work": "Darbe korta gali rodyti subalansuotą tempą ir bendradarbiavimą, kuriame skirtingos stiprybės papildo viena kitą.",
+   "advice": "Raskite savo vidurį ir leiskite dalykams maišytis ramiu tempu.",
+   "element": "Ugnis",
+   "astro": "Šaulys",
+   "number": "Keturiolika: prisitaikymas, maišymas ir pusiausvyra"
+  },
+  {
+   "kw_up": [
+    "saitai",
+    "pagunda",
+    "šešėlis",
+    "materializmas"
+   ],
+   "kw_rev": [
+    "išsilaisvinimas",
+    "įpročių laužymas",
+    "susigrąžinta jėga",
+    "įžvalga"
+   ],
+   "about": "Raguota figūra sėdi ant pjedestalo, o prie jo laisvomis grandinėmis pririštos dvi nuogos figūros. Korta rodo įpročius ir saitus, kuriuos susikūrėme patys, dažnai jų nematydami.",
+   "love": "Meilėje korta gali rodyti trauką, priklausomybę ar elgesio modelius, kurie mus laiko. Ji kviečia juos aiškiai pamatyti.",
+   "work": "Darbe tai gali būti įpročiai ar ambicijos, kurie atima daugiau nei duoda, ir klausimas, kas iš tikrųjų jus valdo.",
+   "advice": "Pažiūrėkite, kas jus riša, nes grandinės dažnai laisvesnės, nei atrodo.",
+   "element": "Žemė",
+   "astro": "Ožiaragis",
+   "number": "Penkiolika: šešėlis, troškimas ir saitai"
+  },
+  {
+   "kw_up": [
+    "sukrėtimas",
+    "atskleidimas",
+    "šokas",
+    "pabudimas"
+   ],
+   "kw_rev": [
+    "katastrofos vengimas",
+    "baimė pokyčių",
+    "atidėtas žlugimas",
+    "laipsniškas pasikeitimas"
+   ],
+   "about": "Į bokštą ant uolos trenkia žaibas, iš jo veržiasi liepsnos, krenta karūna, o dvi figūros krinta žemyn. Korta rodo, kad netikros struktūros gali sugriūti, kad būtų galima pastatyti tikresnę.",
+   "love": "Meilėje korta gali žymėti staigią įžvalgą arba pokytį, drebinantį saugų pagrindą. Jis gali palikti vietos sąžiningesniems santykiams.",
+   "work": "Darbe tai gali rodyti staigius pokyčius ar tai, kad kažkas netvaraus tampa aišku, ir poreikį statyti iš naujo.",
+   "advice": "Žvelkite į tai, kas griūva, kaip į atsivėrimą ir statykite ant tvirto pagrindo.",
+   "element": "Ugnis",
+   "astro": "Marsas",
+   "number": "Šešiolika: sukrėtimas ir proveržis"
+  },
+  {
+   "kw_up": [
+    "viltis",
+    "atsinaujinimas",
+    "įkvėpimas",
+    "ramybė"
+   ],
+   "kw_rev": [
+    "nusivylimas",
+    "tikėjimo stoka",
+    "išsekimas",
+    "atsiribojimas"
+   ],
+   "about": "Nuoga moteris pila vandenį iš dviejų ąsočių, vieną į tvenkinį, kitą ant žemės, po didele žvaigžde, apsupta mažesnių. Korta simbolizuoja tylią viltį, atgaivinantį poilsį ir pasitikėjimą, kad šviesa sugrįš.",
+   "love": "Meilėje tai apie atvirumą, pasitikėjimą ir dalijimąsi tuo, ką nešate. Tai susitaikinimo ramybės korta.",
+   "work": "Darbe ji rodo kelią į priekį po sunkaus laikotarpio ir idėjas, kurios ateina savaime, kai ramiai kvėpuojate.",
+   "advice": "Laikykitės vilties ir leiskite jai pabūti tyloje.",
+   "element": "Oras",
+   "astro": "Vandenis",
+   "number": "Septyniolika: viltis, įkvėpimas ir aiškumas"
+  },
+  {
+   "kw_up": [
+    "sapnai",
+    "intuicija",
+    "iliuzija",
+    "pasąmonė"
+   ],
+   "kw_rev": [
+    "išsisklaidanti sumaištis",
+    "baimė",
+    "aiškumas",
+    "tiesa išeina į dienos šviesą"
+   ],
+   "about": "Mėnulis šviečia virš tako tarp dviejų bokštų, šuo ir vilkas kaukia, o iš tvenkinio ropoja vėžys. Korta kalba apie prieblandą, sapnus ir jausmus, kurių dar nesuprantame.",
+   "love": "Meilėje korta gali rodyti netikrumą ir stiprius jausmus, kurių negalima iš karto paaiškinti. Duokite tam laiko ir užduokite sąžiningus klausimus.",
+   "work": "Darbe dalykai gali būti neaiškūs, todėl verta palaukti su dideliais sprendimais, kol vaizdas taps aiškesnis.",
+   "advice": "Eikite lėtai ir pasitikėkite tuo, ką jaučiate, bet patikrinkite tai dienos šviesoje.",
+   "element": "Vanduo",
+   "astro": "Žuvys",
+   "number": "Aštuoniolika: pasąmonė, sapnai ir iliuzija"
+  },
+  {
+   "kw_up": [
+    "džiaugsmas",
+    "gyvybingumas",
+    "aiškumas",
+    "sėkmė"
+   ],
+   "kw_rev": [
+    "laikinas šešėlis",
+    "pernelyg didelis optimizmas",
+    "atidėtas džiaugsmas",
+    "perdegimas"
+   ],
+   "about": "Nuogas vaikas joja ant balto žirgo po didele saule, už mūro auga saulėgrąžos, o rankoje jis laiko raudoną vėliavą. Korta simbolizuoja šilumą, aiškumą ir paprastą buvimo džiaugsmą.",
+   "love": "Meilėje tai apie atvirumą, žaismingumą ir džiaugsmą vienas kitu. Sąžiningumas įneša šviesos.",
+   "work": "Darbe korta gali kalbėti apie pažangą ir energiją bei apie natūralų matomumą.",
+   "advice": "Semkitės jėgų iš to, kas teikia džiaugsmą, ir leiskite tam matytis.",
+   "element": "Ugnis",
+   "astro": "Saulė",
+   "number": "Devyniolika: gyvybingumas, džiaugsmas ir aiškumas"
+  },
+  {
+   "kw_up": [
+    "pabudimas",
+    "pašaukimas",
+    "atsinaujinimas",
+    "apmąstymas"
+   ],
+   "kw_rev": [
+    "savikritika",
+    "pašaukimo ignoravimas",
+    "abejonė",
+    "neaptarti klausimai"
+   ],
+   "about": "Angelas pučia trimitą virš jūros, o žmonės kyla iš kapų ištiesę rankas. Korta kalba apie pabudimą, atsiskaitymą su savimi ir atsiliepimą į vidinį pašaukimą.",
+   "love": "Meilėje korta gali žymėti naują supratimą ir atleidimą sau bei kitiems.",
+   "work": "Darbe ji rodo iki šiol nueito kelio įvertinimą ir galimą pokytį, kuris atrodo teisingas.",
+   "advice": "Paklausykite pašaukimo ir pažvelkite į savo kelią su švelnumu.",
+   "element": "Ugnis",
+   "astro": "Ugnis",
+   "number": "Dvidešimt: pabudimas ir atsinaujinimas"
+  },
+  {
+   "kw_up": [
+    "užbaigimas",
+    "visuma",
+    "pasiekimas",
+    "integracija"
+   ],
+   "kw_rev": [
+    "nebaigta",
+    "trūksta paskutinio žingsnio",
+    "atidėliojimas",
+    "sąstingis"
+   ],
+   "about": "Šokėja sklando lapų vainike, o kampuose matyti keturios figūros: angelas, erelis, jautis ir liūtas. Korta žymi užsidarantį ratą ir naują, kuris gali atsiverti.",
+   "love": "Meilėje tai apie visumą ir pasitenkinimą bei apie tai, kad du gyvenimo keliai gali rasti bendrą ritmą.",
+   "work": "Darbe korta žymi etapo užbaigimą ir pasiekto įvertinimą prieš kitą skyrių.",
+   "advice": "Skirkite laiko švęsti tai, ką užbaigėte.",
+   "element": "Žemė",
+   "astro": "Saturnas",
+   "number": "Dvidešimt vienas: pilnatvė ir visuma"
+  },
+  {
+   "kw_up": [
+    "nauja inspiracija",
+    "kibirkštis",
+    "varomoji jėga",
+    "galimybė"
+   ],
+   "kw_rev": [
+    "vėlavimas",
+    "varomosios jėgos trūkumas",
+    "prarasta kibirkštis",
+    "atidėta pradžia"
+   ],
+   "about": "Ranka iš debesies ištiesia žaliuojančią lazdą virš kalnų ir upės kraštovaizdžio. Korta – grynos energijos kibirkštis, idėjos sėkla, laukianti uždegimo.",
+   "love": "Meilėje tai gali būti nauja aistra, kibirkštis arba noras imtis iniciatyvos.",
+   "work": "Darbe tai gali reikšti naują idėją ar projektą, turintį jėgos.",
+   "advice": "Pagaukite kibirkštį, kol ji karšta.",
+   "element": "Ugnis",
+   "astro": "Ugnies šaknis: grynoji elemento jėga",
+   "number": "Vienas: sėkla ir pradžia"
+  },
+  {
+   "kw_up": [
+    "planavimas",
+    "pasirinkimas",
+    "apžvalga",
+    "drąsa"
+   ],
+   "kw_rev": [
+    "nežinomybės baimė",
+    "prastas planavimas",
+    "dvejojimas",
+    "pasilikimas prie pažįstamo"
+   ],
+   "about": "Vyras stovi ant pilies sienos su stikliniu rutuliu rankoje ir lazda šalia, žvelgdamas į jūrą. Korta kalba apie tolesnio tikslo pasirinkimą ir žvilgsnį toliau nei šiandien.",
+   "love": "Meilėje korta gali paklausti, ko norite ateityje, ir pakviesti pasidalyti savo planais.",
+   "work": "Darbe kalbama apie planavimą, alternatyvų svarstymą ir drąsą siekti toliau.",
+   "advice": "Žiūrėkite į priekį ir pasirinkite kryptį.",
+   "element": "Ugnis",
+   "astro": "Marsas Avine",
+   "number": "Du: pasirinkimas ir dvilypumas"
+  },
+  {
+   "kw_up": [
+    "plėtra",
+    "pažanga",
+    "perspektyva",
+    "pirmieji rezultatai"
+   ],
+   "kw_rev": [
+    "kliūtys",
+    "vėlavimai",
+    "nepasiteisinę lūkesčiai",
+    "reikia kantrybės"
+   ],
+   "about": "Vyras stovi ant uolos nugara į žiūrovą ir žvelgia į jūrą, kur išplaukia laivai, remiasi lazda, o šalia įsmeigtos dar dvi. Korta rodo, kad ankstesnės pastangos pradeda duoti pirmuosius vaisius.",
+   "love": "Meilėje tai gali reikšti žvilgsnį į kažką didesnio kartu arba ryšio augimo laukimą.",
+   "work": "Darbe korta rodo plėtrą, bendradarbiavimą skirtingose srityse arba tai, kad ankstesnės pastangos pradeda duoti vaisių.",
+   "advice": "Dairykitės ir pasitikėkite tuo, ką pasėjote.",
+   "element": "Ugnis",
+   "astro": "Saulė Avine",
+   "number": "Trys: augimas ir raiška"
+  },
+  {
+   "kw_up": [
+    "šventė",
+    "namai",
+    "saugumas",
+    "bendruomenė"
+   ],
+   "kw_rev": [
+    "nerimas namuose",
+    "bendruomeniškumo stoka",
+    "iširimas",
+    "netikrumas"
+   ],
+   "about": "Keturios lazdos laiko gėlių girliandą, o priešais fone matomą pilį švenčia žmonės. Korta kalba apie saugų uostą ir džiaugsmą pasiekus pirmąją atramą.",
+   "love": "Meilėje tai apie saugumą, šventę ir priklausymo namams jausmą.",
+   "work": "Darbe korta gali rodyti pasiektą etapą ir gerą bendradarbiavimo atmosferą.",
+   "advice": "Sustokite ir pažymėkite tai, kas pastatyta.",
+   "element": "Ugnis",
+   "astro": "Venera Avine",
+   "number": "Keturi: stabilumas ir pamatas"
+  },
+  {
+   "kw_up": [
+    "konkurencija",
+    "nesutarimas",
+    "netvarka",
+    "išbandymas"
+   ],
+   "kw_rev": [
+    "konflikto vengimas",
+    "susitarimas",
+    "baigtas ginčas",
+    "vidinė įtampa"
+   ],
+   "about": "Penki jauni vyrai kryžiuoja lazdas chaotiškame, energingame žaidime. Korta kalba apie trintį, lenktynes ir susiduriančias skirtingas nuomones.",
+   "love": "Meilėje korta gali rodyti nesutarimus ar skirtingus poreikius. Konstruktyvus dialogas gali viską pakeisti.",
+   "work": "Darbe tai gali būti konkurencija ar skirtingos idėjos, kurias reikia suvaldyti.",
+   "advice": "Leiskite skirtumams jus užgrūdinti, o ne atskirti.",
+   "element": "Ugnis",
+   "astro": "Saturnas Liūte",
+   "number": "Penki: iššūkis ir nestabilumas"
+  },
+  {
+   "kw_up": [
+    "pergalė",
+    "pripažinimas",
+    "pasitikėjimas savimi",
+    "pažanga"
+   ],
+   "kw_rev": [
+    "abejonė savimi",
+    "nepripažinimas",
+    "nuopuolis",
+    "pažeminimas"
+   ],
+   "about": "Raitelis ant balto žirgo ant lazdos laiko laurų vainiką, o aplink džiūgauja žmonės. Korta rodo pasididžiavimą pavykus ir džiaugsmą būti pastebėtam.",
+   "love": "Meilėje tai gali liesti pasitikėjimą savimi ir pripažinimą bei džiaugsmo dėl pasiekto dalijimąsi.",
+   "work": "Darbe korta gali rodyti sėkmę ar gerą rezultatą, kuris yra pastebimas.",
+   "advice": "Priimkite pripažinimą, bet išlikite kojomis ant žemės.",
+   "element": "Ugnis",
+   "astro": "Jupiteris Liūte",
+   "number": "Šeši: harmonija ir pripažinimas"
+  },
+  {
+   "kw_up": [
+    "gynyba",
+    "ištvermė",
+    "pozicija",
+    "drąsa"
+   ],
+   "kw_rev": [
+    "priblokštumas",
+    "pasidavimas",
+    "atsitraukimas",
+    "išsekimas"
+   ],
+   "about": "Vyras stovi ant kalvos ir gina save lazda nuo šešių kitų, lipančių iš apačios. Korta kalba apie tvirtą laikymąsi to, kuo tikite.",
+   "love": "Meilėje tai apie savo ribų ir vertybių gynimą.",
+   "work": "Darbe korta gali rodyti spaudimą iš išorės ir poreikį laikytis savo pozicijos.",
+   "advice": "Ginkite tai, ko laikotės, neišeikvodami visos jėgos kovai.",
+   "element": "Ugnis",
+   "astro": "Marsas Liūte",
+   "number": "Septyni: išbandymas ir tvirtumas"
+  },
+  {
+   "kw_up": [
+    "greitis",
+    "pagreitis",
+    "greitas veiksmas",
+    "naujienos"
+   ],
+   "kw_rev": [
+    "vėlavimai",
+    "skubėjimas",
+    "nusivylimas",
+    "sustojimas"
+   ],
+   "about": "Aštuonios lazdos skrieja oru virš kraštovaizdžio be žmonių. Korta kalba apie greitį, judėjimą ir greitai vykstančius dalykus.",
+   "love": "Meilėje tai gali reikšti greitą kontaktą arba įsibėgėjančią raidą ir poreikį pasitikrinti, ar jausmai neatsilieka.",
+   "work": "Darbe korta gali kalbėti apie naujienas, keliones ar projektus, kurie staiga įsibėgėja.",
+   "advice": "Pasinaudokite greičiu, bet nepraraskite bendro vaizdo.",
+   "element": "Ugnis",
+   "astro": "Merkurijus Šaulyje",
+   "number": "Aštuoni: judėjimas ir pažanga"
+  },
+  {
+   "kw_up": [
+    "ištvermė",
+    "atsparumas",
+    "budrumas",
+    "paskutinės pastangos"
+   ],
+   "kw_rev": [
+    "išsekimas",
+    "įtarumas",
+    "pasidavimas",
+    "pažeidžiamumas"
+   ],
+   "about": "Galva aprištas vyras remiasi lazda, o už jo nugaros it siena stovi aštuonios kitos lazdos. Korta kalba apie atsilaikymą po ilgos kovos ir paskutinių jėgų sutelkimą.",
+   "love": "Meilėje tai gali rodyti atsargumą po ankstesnių žaizdų ir kantrų pasitikėjimą.",
+   "work": "Darbe kalbama apie ištvermę ir užbaigimą, nors esate pavargę.",
+   "advice": "Pakentėkite dar šiek tiek ir nepamirškite pailsėti.",
+   "element": "Ugnis",
+   "astro": "Mėnulis Šaulyje",
+   "number": "Devyni: artėjanti pabaiga, ištvermė"
+  },
+  {
+   "kw_up": [
+    "našta",
+    "atsakomybė",
+    "vargas",
+    "užbaigimas"
+   ],
+   "kw_rev": [
+    "naštos padėjimas",
+    "delegavimas",
+    "žlugimas",
+    "perkrova"
+   ],
+   "about": "Vyras glėbyje neša dešimt lazdų link tolimo miesto, palinkęs po svoriu. Korta kalba apie atsakomybę, kuri tapo sunki, ir apie tai, ką imamės.",
+   "love": "Meilėje korta gali rodyti, kad per daug nešate vieni ir kad pasidalijimas palengvintų naštą.",
+   "work": "Darbe kalbama apie darbo krūvį ir poreikį nustatyti prioritetus ar prašyti pagalbos.",
+   "advice": "Pažiūrėkite, ką galite padėti į šalį arba perduoti kitiems.",
+   "element": "Ugnis",
+   "astro": "Saturnas Šaulyje",
+   "number": "Dešimt: perkrova ir užbaigimas"
+  },
+  {
+   "kw_up": [
+    "smalsumas",
+    "entuziazmas",
+    "naujienos",
+    "tyrinėjimas"
+   ],
+   "kw_rev": [
+    "nekantrumas",
+    "išsibarstymas",
+    "naujienų nėra",
+    "skubėjimas"
+   ],
+   "about": "Jaunas pasiuntinys stovi dykumoje su žydinčia lazda ir į ją žiūri. Korta simbolizuoja jauną kibirkštį, žaismingumą ir smalsumą.",
+   "love": "Meilėje tai gali būti entuziazmas, flirtas ar naujos galimybės.",
+   "work": "Darbe tai gali būti nauja idėja ar mokymasis, suteikiantis energijos.",
+   "advice": "Padarykite ką nors žaismingo ir būkite atviri naujovei.",
+   "element": "Ugnis",
+   "astro": "Žemė Ugnyje (elementų tradicija)",
+   "number": "Pažas: pasiuntinys ir pradedantysis"
+  },
+  {
+   "kw_up": [
+    "nuotykių troškimas",
+    "ryžtingumas",
+    "charizma",
+    "greitis"
+   ],
+   "kw_rev": [
+    "karštakošiškumas",
+    "neramumas",
+    "nekantrumas",
+    "permainingumas"
+   ],
+   "about": "Riteris ant šuoliuojančio žirgo laiko lazdą dykumos kraštovaizdyje. Korta simbolizuoja drąsią energiją, kelionių troškimą ir užsidegimą užkariauti naujus tikslus.",
+   "love": "Meilėje tai gali būti aistra ir jaudulys, bet kartu ir poreikis išlaikyti kursą.",
+   "work": "Darbe kalbama apie ryžtą ir greitį, dažnai reikalaujančius ištvermės.",
+   "advice": "Nukreipkite užsidegimą viena kryptimi.",
+   "element": "Ugnis",
+   "astro": "Ugnis Ugnyje (elementų tradicija)",
+   "number": "Riteris: judėjimas ir veiksmas"
+  },
+  {
+   "kw_up": [
+    "pasitikėjimas savimi",
+    "šiluma",
+    "charizma",
+    "nepriklausomybė"
+   ],
+   "kw_rev": [
+    "pavydas",
+    "reiklumas",
+    "nenuspėjamumas",
+    "netikrumas"
+   ],
+   "about": "Karūnuota moteris sėdi soste su saulėgrąža ir juoda kate prie kojų, rankoje laiko lazdą. Korta simbolizuoja šiltą pasitikėjimą savimi ir kūrybinę jėgą.",
+   "love": "Meilėje korta gali reikšti dosnią šilumą ir norą būti pamatytiems tokiais, kokie esate.",
+   "work": "Darbe kalbama apie charizmą, vadovavimą ir kitų įkvėpimą.",
+   "advice": "Būkite savimi su šiluma ir leiskite kitiems tai matyti.",
+   "element": "Ugnis",
+   "astro": "Vanduo Ugnyje (elementų tradicija)",
+   "number": "Karalienė: brandumas ir vidinė jėga"
+  },
+  {
+   "kw_up": [
+    "vizija",
+    "vadovavimas",
+    "drąsa",
+    "įkvėpimas"
+   ],
+   "kw_rev": [
+    "dominavimas",
+    "karštakošiškumas",
+    "nerealistiškumas",
+    "egocentrizmas"
+   ],
+   "about": "Karūnuotas vyras sėdi soste, papuoštame liūtais ir salamandromis, rankoje laiko žydinčią lazdą. Korta simbolizuoja vadovą su uždegimu ir ilgalaikėmis vizijomis.",
+   "love": "Meilėje tai gali reikšti saugų, šiltą partnerį arba tai, kad vadovo vaidmenį prisiimate jūs patys.",
+   "work": "Darbe kalbama apie didelių linijų matymą ir kitų įkvėpimą.",
+   "advice": "Vadovaukite su vizija ir leiskite kitiems augti.",
+   "element": "Ugnis",
+   "astro": "Oras Ugnyje (elementų tradicija)",
+   "number": "Karalius: meistriškumas ir atsakomybė"
+  },
+  {
+   "kw_up": [
+    "nauja meilė",
+    "jausmai",
+    "užuojauta",
+    "atvirumas"
+   ],
+   "kw_rev": [
+    "emocinis blokavimas",
+    "nuslopinti jausmai",
+    "tuštuma",
+    "užsidarymas"
+   ],
+   "about": "Ranka iš debesies ištiesia perpildytą taurę, balandis meta plotkelę, o vanduo teka į tvenkinį su lelijomis. Korta kalba apie jausmų srautą ir vietos jiems padarymą.",
+   "love": "Meilėje tai gali būti nauja pradžia, gilesnis širdžių ryšys ar naujas supratimas.",
+   "work": "Darbe tai gali būti prasmingas darbas ir emocinis įsitraukimas.",
+   "advice": "Atverkite širdį ir leiskite jai tekėti.",
+   "element": "Vanduo",
+   "astro": "Vandens šaknis: grynoji elemento jėga",
+   "number": "Vienas: sėkla ir pradžia"
+  },
+  {
+   "kw_up": [
+    "susivienijimas",
+    "abipusiškumas",
+    "trauka",
+    "partnerystė"
+   ],
+   "kw_rev": [
+    "nutrūkimas",
+    "disbalansas",
+    "nesutarimas",
+    "nesusipratimai"
+   ],
+   "about": "Pora keičiasi taurėmis, virš jų – sparnuotas liūtas, o tarp jų – gyvačių apvyta lazda. Korta kalba apie abipusę pagarbą ir meilę tarp dviejų.",
+   "love": "Meilėje tai viena svarbiausių abipusiškumo ir lygiaverčio susitikimo kortų.",
+   "work": "Darbe ji gali rodyti gerą bendradarbiavimą arba susitarimą tarp lygiaverčių.",
+   "advice": "Sutikite kitą su atvirumu ir pagarba.",
+   "element": "Vanduo",
+   "astro": "Venera Vėžyje",
+   "number": "Du: susivienijimas ir partnerystė"
+  },
+  {
+   "kw_up": [
+    "draugystė",
+    "šventė",
+    "džiaugsmas",
+    "bendruomenė"
+   ],
+   "kw_rev": [
+    "perdėjimas",
+    "apkalbos",
+    "izoliacija",
+    "atstumtumas"
+   ],
+   "about": "Trys moterys šoka pakėlusios taures, o prie jų kojų guli vaisiai. Korta kalba apie džiaugsmą ir bendrą šventę.",
+   "love": "Meilėje tai apie draugystę, žaismą ir bendruomenę.",
+   "work": "Darbe korta gali rodyti gerą komandos darbą ir nuotaiką.",
+   "advice": "Pasidalykite džiaugsmu su tais, kuriuos mylite.",
+   "element": "Vanduo",
+   "astro": "Merkurijus Vėžyje",
+   "number": "Trys: augimas ir raiška"
+  },
+  {
+   "kw_up": [
+    "apatija",
+    "apmąstymas",
+    "nepasitenkinimas",
+    "pauzė"
+   ],
+   "kw_rev": [
+    "naujos galimybės",
+    "motyvacija",
+    "pabudimas",
+    "pasiūlymo pamatymas"
+   ],
+   "about": "Vyras sėdi po medžiu sukryžiavęs rankas ir žiūri į tris taures, o ranka iš debesies siūlo ketvirtą. Korta kalba apie tai, kad nepastebime to, kas siūloma, nes gilinamės į mintis.",
+   "love": "Meilėje tai gali rodyti nuobodulį ar neatsakytą ilgesį ir poreikį pažiūrėti, ko iš tiesų norite.",
+   "work": "Darbe tai gali liesti varomosios jėgos stoką ir laiką viską apsvarstyti.",
+   "advice": "Pakelkite žvilgsnį ir pamatykite, kas iš tikrųjų siūloma.",
+   "element": "Vanduo",
+   "astro": "Mėnulis Vėžyje",
+   "number": "Keturi: sąstingis ir įvertinimas"
+  },
+  {
+   "kw_up": [
+    "sielvartas",
+    "netektis",
+    "apgailestavimas",
+    "emocinis atsiskaitymas"
+   ],
+   "kw_rev": [
+    "atleidimas",
+    "judėjimas pirmyn",
+    "susitaikymas",
+    "gijimas"
+   ],
+   "about": "Apsiaustu apsigaubusi figūra žiūri į tris apvirtusias taures, o dvi stovi stačios už jos nugaros. Korta kalba apie sielvartą ir apie tai, kad nepamirštume to, kas dar stovi.",
+   "love": "Meilėje tai gali rodyti liūdesį ar nusivylimą ir tai, kas vis dar išliko.",
+   "work": "Darbe kalbama apie nesėkmių įveikimą ir naujo kelio paiešką.",
+   "advice": "Leiskite sielvartui būti ir pamatykite taip pat tai, kas liko.",
+   "element": "Vanduo",
+   "astro": "Marsas Skorpione",
+   "number": "Penki: netektis ir iššūkis"
+  },
+  {
+   "kw_up": [
+    "nostalgija",
+    "vaikystė",
+    "malonumas",
+    "susitikimas po ilgo laiko"
+   ],
+   "kw_rev": [
+    "įstrigimas praeityje",
+    "idealizuoti prisiminimai",
+    "brendimas",
+    "judėjimas pirmyn"
+   ],
+   "about": "Du vaikai dalijasi gėlėmis senoje sodyboje, pilnoje taurių. Korta kalba apie prisiminimus ir nekaltą malonumą.",
+   "love": "Meilėje tai gali būti susitikimas po ilgo laiko, švelnumas ar atgimstantys seni saitai.",
+   "work": "Darbe tai gali liesti bendradarbiavimą su pažįstamais ar sugrįžimą prie gerai žinomo.",
+   "advice": "Semkitės šilumos iš prisiminimų, bet gyvenkite dabartyje.",
+   "element": "Vanduo",
+   "astro": "Saulė Skorpione",
+   "number": "Šeši: harmonija ir abipusė dovana"
+  },
+  {
+   "kw_up": [
+    "vaizduotė",
+    "pasirinkimas",
+    "svajonės",
+    "iliuzijos"
+   ],
+   "kw_rev": [
+    "aiškumas",
+    "apsisprendimas",
+    "realizmas",
+    "ryžtingas pasirinkimas"
+   ],
+   "about": "Figūra stebi septynias taures, pripildytas įvairių simbolių, sklandančias debesyse. Korta kalba apie vaizduotę ir daugybę galimybių, kurias reikia išrūšiuoti.",
+   "love": "Meilėje tai gali liesti svajones arba daug alternatyvų ir poreikį aiškiai pamatyti, ko norite.",
+   "work": "Darbe kalbama apie pasirinkimą iš kelių galimybių ir svajonės atskyrimą nuo plano.",
+   "advice": "Atskirkite svajonę nuo plano ir pasirinkite vieną.",
+   "element": "Vanduo",
+   "astro": "Venera Skorpione",
+   "number": "Septyni: pasirinkimo galimybės ir vaizduotė"
+  },
+  {
+   "kw_up": [
+    "išsiskyrimas",
+    "eiti toliau",
+    "paieška",
+    "gilesnė prasmė"
+   ],
+   "kw_rev": [
+    "pasilikimas",
+    "baimė išeiti",
+    "tęsimas pažįstamame",
+    "priklausomybė"
+   ],
+   "about": "Figūra eina nuo aštuonių išrikiuotų taurių link kalnų po mėnuliu. Korta kalba apie tai, kad paliekamas dalykas, kuris nebetenkina, ir apie gilesnę paiešką.",
+   "love": "Meilėje tai gali būti suvokimas, kad kažkas nebeteikia jėgų.",
+   "work": "Darbe kalbama apie krypties keitimą ieškant daugiau prasmės.",
+   "advice": "Drįskite eiti link to, kas turi daugiau prasmės.",
+   "element": "Vanduo",
+   "astro": "Saturnas Žuvyse",
+   "number": "Aštuoni: pokytis ir paieška"
+  },
+  {
+   "kw_up": [
+    "pasitenkinimas",
+    "malonumas",
+    "dėkingumas",
+    "išsipildymas"
+   ],
+   "kw_rev": [
+    "godumas",
+    "pasitenkinimas savimi",
+    "paviršutiniškumas",
+    "neišsipildymas"
+   ],
+   "about": "Vyras sėdi patenkintas sukryžiavęs rankas prieš devynias taures lentynoje. Korta žinoma kaip norų korta ir kalba apie džiaugsmą tuo, ką turi.",
+   "love": "Meilėje tai apie pasitenkinimą ir džiaugsmą tuo, kas yra.",
+   "work": "Darbe korta gali rodyti gerus rezultatus ir pasitenkinimą pastangomis.",
+   "advice": "Mėgaukitės tuo, ką turite, ir būkite dėkingi.",
+   "element": "Vanduo",
+   "astro": "Jupiteris Žuvyse",
+   "number": "Devyni: išsipildymas ir malonumas"
+  },
+  {
+   "kw_up": [
+    "šeimos džiaugsmas",
+    "harmonija",
+    "priklausymas",
+    "išsipildymas"
+   ],
+   "kw_rev": [
+    "neramumas šeimoje",
+    "nutrūkę santykiai",
+    "nesutarimas",
+    "nerealūs idealai"
+   ],
+   "about": "Pora stovi iškėlusi rankas link dešimties taurių vaivorykštės, o vaikai žaidžia prieš namus. Korta kalba apie laimę bendruomenėje ir priklausymą.",
+   "love": "Meilėje tai apie harmoniją, saugumą ir bendras vertybes.",
+   "work": "Darbe korta gali rodyti gerą darbo aplinką ir bendrus tikslus.",
+   "advice": "Vertinkite bendruomenę, kurios dalis esate.",
+   "element": "Vanduo",
+   "astro": "Marsas Žuvyse",
+   "number": "Dešimt: išsipildymas ir harmonija"
+  },
+  {
+   "kw_up": [
+    "jautrumas",
+    "kūrybiškumas",
+    "atvirumas",
+    "svajonės"
+   ],
+   "kw_rev": [
+    "nebrandumas",
+    "emocinis nestabilumas",
+    "eskapizmas",
+    "pažeidžiamumas"
+   ],
+   "about": "Jaunas žmogus stovi prie jūros ir žiūri į žuvį, išnirusią iš taurės. Korta simbolizuoja švelnią sielą ir kūrybinius impulsus.",
+   "love": "Meilėje tai gali būti naujas jausmas, romantiška žinutė ar atsargus atvirumas.",
+   "work": "Darbe tai gali būti kūrybinės idėjos ar intuityvūs sumanymai.",
+   "advice": "Priimkite naują jausmą su smalsumu.",
+   "element": "Vanduo",
+   "astro": "Žemė Vandenyje (elementų tradicija)",
+   "number": "Pažas: pasiuntinys ir pradedantysis"
+  },
+  {
+   "kw_up": [
+    "romantika",
+    "žavesys",
+    "pasiūlymas",
+    "idealai"
+   ],
+   "kw_rev": [
+    "nuotaikų svyravimai",
+    "nerealūs lūkesčiai",
+    "nusivylimas",
+    "paviršutiniškumas"
+   ],
+   "about": "Riteris ant ramaus balto žirgo neša taurę per ramų kraštovaizdį. Korta simbolizuoja romantišką sielą, einančią paskui širdį.",
+   "love": "Meilėje tai apie atvirumą, pasiūlymus ir žodžių pavertimą veiksmais.",
+   "work": "Darbe tai gali būti pasiūlymas, kvietimas ar idealistinis projektas.",
+   "advice": "Sekite širdimi, bet pasirūpinkite, kad ji kur nors nuvestų.",
+   "element": "Vanduo",
+   "astro": "Ugnis Vandenyje (elementų tradicija)",
+   "number": "Riteris: judėjimas ir veiksmas"
+  },
+  {
+   "kw_up": [
+    "empatija",
+    "intuicija",
+    "rūpestis",
+    "gilumas"
+   ],
+   "kw_rev": [
+    "emocinis priblokštumas",
+    "priklausomybė",
+    "atsitraukimas",
+    "netikrumas"
+   ],
+   "about": "Karūnuota moteris sėdi prie jūros ir stebi dailiai išpuoštą taurę. Korta simbolizuoja emocinį gilumą ir supratimą.",
+   "love": "Meilėje tai apie rūpestį, intuiciją ir jausmų klausymąsi.",
+   "work": "Darbe tai gali liesti jautrumą kolegoms, mentorystę ar globos profesijas.",
+   "advice": "Klausykitės savo jausmų, nepaskęsdami juose.",
+   "element": "Vanduo",
+   "astro": "Vanduo vandens elemente (elementų tradicija)",
+   "number": "Karalienė: brandumas ir vidinė jėga"
+  },
+  {
+   "kw_up": [
+    "emocinė pusiausvyra",
+    "užuojauta",
+    "išmintis",
+    "diplomatija"
+   ],
+   "kw_rev": [
+    "nuotaikų svyravimai",
+    "šaltumas",
+    "manipuliavimas",
+    "slopinimas"
+   ],
+   "about": "Karūnuotas vyras sėdi soste neramios jūros viduryje ir laiko taurę. Korta simbolizuoja vadovą, išlaikantį jausmus ramius.",
+   "love": "Meilėje tai apie brandumą, paramą ir emocinį saugumą.",
+   "work": "Darbe tai gali liesti patarimus, vadovavimą su empatija ir diplomatiją.",
+   "advice": "Išlaikykite ramybę bangų viduryje.",
+   "element": "Vanduo",
+   "astro": "Oras Vandenyje (elementų tradicija)",
+   "number": "Karalius: meistriškumas ir atsakomybė"
+  },
+  {
+   "kw_up": [
+    "aiškumas",
+    "tiesa",
+    "proveržis",
+    "nauja įžvalga"
+   ],
+   "kw_rev": [
+    "sumaištis",
+    "neaiškumas",
+    "kietumas",
+    "protinis blokas"
+   ],
+   "about": "Ranka iš debesies ištiesia vainiku apjuostą kardą virš stačių kalnų. Korta kalba apie minties jėgą ir aiškumą, praskrodžiantį rūką.",
+   "love": "Meilėje tai gali reikšti sąžiningą pokalbį ir naują įžvalgą apie santykius.",
+   "work": "Darbe tai gali būti proveržio idėja ar aiški pozicija.",
+   "advice": "Leiskite tiesai išeiti į dienos šviesą švelniai.",
+   "element": "Oras",
+   "astro": "Oro šaknis: grynoji elemento jėga",
+   "number": "Vienas: sėkla ir pradžia"
+  },
+  {
+   "kw_up": [
+    "dilema",
+    "pauzė",
+    "pusiausvyra",
+    "sprendimo vengimas"
+   ],
+   "kw_rev": [
+    "sumaištis",
+    "informacijos atskleidimas",
+    "neryžtingumas",
+    "įtampa"
+   ],
+   "about": "Moteris užrištomis akimis sėdi sukryžiavusi du kardus prieš ramią jūrą. Korta kalba apie sunkų sprendimą ir nenorą matyti.",
+   "love": "Meilėje tai gali rodyti aklavietę, kai jausmai ir mintys prieštarauja.",
+   "work": "Darbe kalbama apie pasirinkimą, kuriam reikia daugiau informacijos ar drąsos.",
+   "advice": "Nusiimkite raištį, kai būsite pasiruošę.",
+   "element": "Oras",
+   "astro": "Mėnulis Svarstyklėse",
+   "number": "Du: pasirinkimas ir dvilypumas"
+  },
+  {
+   "kw_up": [
+    "sielvartas",
+    "širdies skausmas",
+    "skaudi netektis",
+    "tiesa"
+   ],
+   "kw_rev": [
+    "gijimas",
+    "atleidimas",
+    "skausmo paleidimas",
+    "laipsniškas pagerėjimas"
+   ],
+   "about": "Trys kardai perveria raudoną širdį po lietumi ir debesimis. Korta kalba apie skaudžią tiesą ir su ja ateinantį praradimą.",
+   "love": "Meilėje tai gali rodyti liūdesį ir išsiskyrimą bei tai, kad leistina jausti.",
+   "work": "Darbe kalbama apie nusivylimus ir griežtą grįžtamąjį ryšį, kuris gali ko nors išmokyti.",
+   "advice": "Leiskite sau pajusti tai, kas skauda.",
+   "element": "Oras",
+   "astro": "Saturnas Svarstyklėse",
+   "number": "Trys: augimas ir raiška, čia – per skausmą"
+  },
+  {
+   "kw_up": [
+    "poilsis",
+    "ramybė",
+    "atsigavimas",
+    "apmąstymas"
+   ],
+   "kw_rev": [
+    "neramumas",
+    "išsekimas",
+    "sugrįžimas į veiklą",
+    "nerimastingumas"
+   ],
+   "about": "Riteris guli ant kapo, trys kardai kabo ant sienos, vienas guli po juo. Korta kalba apie pauzę ir atsigavimą po sunkaus laiko.",
+   "love": "Meilėje tai gali rodyti tylos ir atstumo poreikį, kad atsigautumėte.",
+   "work": "Darbe kalbama apie poilsį, kad galėtumėte aiškiai mąstyti.",
+   "advice": "Leiskite sau pailsėti.",
+   "element": "Oras",
+   "astro": "Jupiteris Svarstyklėse",
+   "number": "Keturi: stabilumas ir poilsis"
+  },
+  {
+   "kw_up": [
+    "konfliktas",
+    "pralaimėjimas",
+    "pergalė su kaina",
+    "egoizmas"
+   ],
+   "kw_rev": [
+    "susitaikymas",
+    "apgailestavimas",
+    "senas konfliktas",
+    "paleidimas"
+   ],
+   "about": "Vyras renka kardus, o du kiti nueina nuleidę galvas. Korta kalba apie konfliktą, kurio pergalė gali kainuoti daugiau, nei verta.",
+   "love": "Meilėje tai gali rodyti konfliktą, kuriame gali pralaimėti abi pusės, ir klausimą, kas iš tikrųjų verta kovos.",
+   "work": "Darbe tai gali būti nesutarimas ir klausimas, ar verta laimėti tokia kaina.",
+   "advice": "Rinkitės savo kovas atidžiai.",
+   "element": "Oras",
+   "astro": "Venera Vandenyje",
+   "number": "Penki: iššūkis ir nerimas"
+  },
+  {
+   "kw_up": [
+    "perėjimas",
+    "judėjimas pirmyn",
+    "ramybė po audros",
+    "kelionė"
+   ],
+   "kw_rev": [
+    "sąstingis",
+    "nenoras eiti",
+    "neišspręsti dalykai",
+    "sugrįžimas"
+   ],
+   "about": "Moteris su vaiku plaukia valtimi, kurioje stovi šeši kardai, į ramesnius vandenis. Korta kalba apie sunkių vandenų palikimą.",
+   "love": "Meilėje tai gali būti perėjimas į ramesnį etapą, kai dalį praeities pasiimate su savimi.",
+   "work": "Darbe kalbama apie pokytį, persikėlimą ar išėjimą iš sunkaus etapo.",
+   "advice": "Judėkite ramesnių vandenų link savo tempu.",
+   "element": "Oras",
+   "astro": "Merkurijus Vandenyje",
+   "number": "Šeši: harmonija ir perėjimas"
+  },
+  {
+   "kw_up": [
+    "gudrumas",
+    "strategija",
+    "paslaptis",
+    "vengimas"
+   ],
+   "kw_rev": [
+    "būti atrastam",
+    "sąžiningumas",
+    "sąžinė",
+    "prisipažinimas"
+   ],
+   "about": "Vyras sėlina iš stovyklos su penkiais kardais, du palieka. Korta kalba apie atsargų elgesį ir tai, ko vengiame pasakyti.",
+   "love": "Meilėje korta gali priminti sąžiningumą ir pažiūrėti, ar nėra paslapčių.",
+   "work": "Darbe tai gali būti taktika ar savarankiškas veikimas ir klausimas, kas yra teisinga.",
+   "advice": "Būkite atviri dėl to, ką darote.",
+   "element": "Oras",
+   "astro": "Mėnulis Vandenyje",
+   "number": "Septyni: vertinimas ir gudrumas"
+  },
+  {
+   "kw_up": [
+    "apribojimas",
+    "įstrigimas",
+    "baimė",
+    "pačių nusistatytos ribos"
+   ],
+   "kw_rev": [
+    "išsilaisvinimas",
+    "nauji požiūriai",
+    "išėjimo kelio pamatymas",
+    "drąsa"
+   ],
+   "about": "Moteris stovi surišta ir užrištomis akimis, apsupta aštuonių kardų vandenyje. Korta kalba apie jausmą, kad esi įkalintas, nors išėjimo kelias dažnai atviresnis, nei atrodo.",
+   "love": "Meilėje tai gali rodyti apribojančias mintis apie save ar santykius.",
+   "work": "Darbe kalbama apie galimybių matymą, net kai jaučiatės užrakinti.",
+   "advice": "Pažiūrėkite, ar ribos tokios tvirtos, kaip atrodo.",
+   "element": "Oras",
+   "astro": "Jupiteris Dvyniuose",
+   "number": "Aštuoni: apribojimas ir judėjimas"
+  },
+  {
+   "kw_up": [
+    "rūpestis",
+    "nerimas",
+    "nemiga",
+    "besisukančios mintys"
+   ],
+   "kw_rev": [
+    "palengvėjimas",
+    "naštos pasidalijimas",
+    "viltis",
+    "pagalbos ieškojimas"
+   ],
+   "about": "Žmogus sėdi lovoje užsidengęs veidą rankomis, už nugaros ant sienos devyni kardai. Korta kalba apie sunkias mintis vidury nakties.",
+   "love": "Meilėje tai gali būti tyloje augantys rūpesčiai ir poreikis apie juos pakalbėti.",
+   "work": "Darbe kalbama apie stresą ir besisukančias mintis bei paramos prašymą.",
+   "advice": "Pasidalykite rūpesčiais su tuo, kuo pasitikite.",
+   "element": "Oras",
+   "astro": "Marsas Dvyniuose",
+   "number": "Devyni: rūpestis ir intensyvumas"
+  },
+  {
+   "kw_up": [
+    "dugnas",
+    "pabaiga",
+    "galas",
+    "nauja šviesa"
+   ],
+   "kw_rev": [
+    "atsikėlimas",
+    "atsigavimas",
+    "nenoras baigti",
+    "dramatiškumas"
+   ],
+   "about": "Figūra guli su dešimčia kardų nugaroje, o saulėtekis nušviečia jūrą. Korta kalba apie skausmingą pabaigą ir rytą, kuris vis tiek ateina.",
+   "love": "Meilėje tai gali būti pabaiga, sukurianti vietos kam nors naujam.",
+   "work": "Darbe tai gali rodyti sunkaus laikotarpio pabaigą.",
+   "advice": "Blogiausias momentas gali būti jau praeityje, o šviesa dažnai sugrįžta.",
+   "element": "Oras",
+   "astro": "Saulė Dvyniuose",
+   "number": "Dešimt: užbaigimas ir dugnas"
+  },
+  {
+   "kw_up": [
+    "smalsumas",
+    "stebėjimas",
+    "idėjos",
+    "mokymasis"
+   ],
+   "kw_rev": [
+    "apkalbos",
+    "aštrus liežuvis",
+    "paviršutiniškumas",
+    "impulsyvumas"
+   ],
+   "about": "Jaunas žmogus stovi su pakeltu kardu vėjyje ir po debesimis. Korta simbolizuoja aštrius klausimus ir norą mokytis.",
+   "love": "Meilėje tai gali būti pokalbiai ir smalsumas vienas kitu.",
+   "work": "Darbe tai gali liesti mokymąsi, informaciją ir naujus požiūrius.",
+   "advice": "Klauskite ir klausykitės.",
+   "element": "Oras",
+   "astro": "Žemė Ore (elementų tradicija)",
+   "number": "Pažas: pasiuntinys ir pradedantysis"
+  },
+  {
+   "kw_up": [
+    "greitis",
+    "drąsa",
+    "ryžtingumas",
+    "ambicija"
+   ],
+   "kw_rev": [
+    "skubėjimas",
+    "kritika",
+    "nekantrumas",
+    "neatsargumas"
+   ],
+   "about": "Riteris šuoliuoja prieš vėją su pakeltu kardu. Korta simbolizuoja greitą mintį ir ryžtą.",
+   "love": "Meilėje tai gali būti tiesioginis bendravimas ir poreikis suprasti abi puses.",
+   "work": "Darbe kalbama apie ambiciją ir veiksmingumą.",
+   "advice": "Pagalvokite, prieš smogdami.",
+   "element": "Oras",
+   "astro": "Ugnis Ore (elementų tradicija)",
+   "number": "Riteris: judėjimas ir veiksmas"
+  },
+  {
+   "kw_up": [
+    "aiškumas",
+    "nepriklausomybė",
+    "sąžiningumas",
+    "patirtis"
+   ],
+   "kw_rev": [
+    "šalta kritika",
+    "kartėlis",
+    "izoliacija",
+    "kietumas"
+   ],
+   "about": "Karūnuota moteris sėdi viena soste su kardu ir ištiesta ranka. Korta simbolizuoja aiškų matymą ir aiškų bendravimą.",
+   "love": "Meilėje tai apie sąžiningumą ir aiškias ribas.",
+   "work": "Darbe tai gali liesti analitinį sprendimą ir aiškią kalbą.",
+   "advice": "Būkite aiškūs ir sąžiningi, bet su šiluma.",
+   "element": "Oras",
+   "astro": "Vanduo Ore (elementų tradicija)",
+   "number": "Karalienė: brandumas ir vidinė jėga"
+  },
+  {
+   "kw_up": [
+    "intelektas",
+    "teisingumas",
+    "autoritetas",
+    "aiškus mąstymas"
+   ],
+   "kw_rev": [
+    "šalta valdžia",
+    "manipuliavimas",
+    "kietumas",
+    "neteisybė"
+   ],
+   "about": "Karūnuotas vyras sėdi soste su pakeltu kardu po vėjuotu, debesuotu dangumi. Korta simbolizuoja mintį, įstatymą ir teisingumą.",
+   "love": "Meilėje tai apie aiškų bendravimą ir teisingą elgesį.",
+   "work": "Darbe tai gali liesti profesinį svorį ir vertinimus.",
+   "advice": "Leiskite protui tarnauti teisingumui.",
+   "element": "Oras",
+   "astro": "Oras Ore (elementų tradicija)",
+   "number": "Karalius: meistriškumas ir atsakomybė"
+  },
+  {
+   "kw_up": [
+    "nauja galimybė",
+    "saugumas",
+    "sėkla",
+    "materiali pradžia"
+   ],
+   "kw_rev": [
+    "prarasta galimybė",
+    "prastas planavimas",
+    "netikrumas",
+    "atidėta"
+   ],
+   "about": "Ranka iš debesies ištiesia auksinę monetą virš sodo su gėlių arka. Korta kalba apie konkrečią sėklą to, kas gali augti.",
+   "love": "Meilėje tai gali būti nauja, žemiška pradžia, kuri atrodo saugi.",
+   "work": "Darbe tai gali būti naujas darbas, idėja ar konkreti galimybė, galinti įleisti šaknis.",
+   "advice": "Pasodinkite sėklą ir ja pasirūpinkite.",
+   "element": "Žemė",
+   "astro": "Žemės šaknis: grynoji elemento jėga",
+   "number": "Vienas: sėkla ir pradžia"
+  },
+  {
+   "kw_up": [
+    "pusiausvyra",
+    "prisitaikymas",
+    "lankstumas",
+    "prioritetų nustatymas"
+   ],
+   "kw_rev": [
+    "disbalansas",
+    "perkrova",
+    "neorganizuotumas",
+    "apžvalgos praradimas"
+   ],
+   "about": "Vyras žongliruoja dviem monetomis, sujungtomis begalybės ženklu, o už nugaros bangose siūbuoja laivai. Korta kalba apie kelių dalykų judėjimo išlaikymą.",
+   "love": "Meilėje tai apie laiko ir energijos balansavimą.",
+   "work": "Darbe kalbama apie lankstumą ir prioritetų nustatymą.",
+   "advice": "Raskite ritmą ir nustatykite prioritetus.",
+   "element": "Žemė",
+   "astro": "Jupiteris Ožiaragyje",
+   "number": "Du: pusiausvyra ir dvilypumas"
+  },
+  {
+   "kw_up": [
+    "bendradarbiavimas",
+    "amatas",
+    "mokymasis",
+    "komandos darbas"
+   ],
+   "kw_rev": [
+    "nesutarimas",
+    "prastas bendradarbiavimas",
+    "nebaigta",
+    "aplaidumas"
+   ],
+   "about": "Amatininkas dirba bažnyčioje, o du kiti žiūri į brėžinį. Korta kalba apie bendradarbiavimą ir kokybę.",
+   "love": "Meilėje tai gali rodyti ką nors statant kartu, žingsnis po žingsnio.",
+   "work": "Darbe kalbama apie sumanumą, bendradarbiavimą ir grįžtamąjį ryšį.",
+   "advice": "Statykite kartu ir klausykitės tų, kurie žino daugiau.",
+   "element": "Žemė",
+   "astro": "Marsas Ožiaragyje",
+   "number": "Trys: augimas ir raiška"
+  },
+  {
+   "kw_up": [
+    "saugumas",
+    "taupumas",
+    "kontrolė",
+    "stabilumas"
+   ],
+   "kw_rev": [
+    "godumas",
+    "kaupimas",
+    "paleidimas",
+    "išsilaisvinimas"
+   ],
+   "about": "Vyras sėdi su monetomis po kojomis ir viena ant galvos, laiko monetą prie krūtinės. Korta kalba apie saugumą ir kontrolę.",
+   "love": "Meilėje tai gali rodyti kontrolės ir saugumo poreikį bei atsivėrimą.",
+   "work": "Darbe kalbama apie stabilumą ir taupumą.",
+   "advice": "Laikykitės to, kas teikia saugumą, neužsidarydami.",
+   "element": "Žemė",
+   "astro": "Saulė Ožiaragyje",
+   "number": "Keturi: pamatas ir stabilumas"
+  },
+  {
+   "kw_up": [
+    "vargas",
+    "atstumtumas",
+    "rūpestis",
+    "stoka"
+   ],
+   "kw_rev": [
+    "pagerėjimas",
+    "pagalba",
+    "išeitis",
+    "parama"
+   ],
+   "about": "Dvi figūros eina per sniegą pro apšviestą bažnyčios langą. Korta kalba apie šaltą laikotarpį, kai pagalba gali būti arčiau, nei manote.",
+   "love": "Meilėje tai gali rodyti vienišumą ar atstumtumo jausmą ir tai, kad leistina prašyti paramos.",
+   "work": "Darbe kalbama apie sunkų laikotarpį ir paramos poreikį.",
+   "advice": "Paprašykite pagalbos, ji gali būti netoli.",
+   "element": "Žemė",
+   "astro": "Merkurijus Jautyje",
+   "number": "Penki: iššūkis ir stoka"
+  },
+  {
+   "kw_up": [
+    "dosnumas",
+    "dalijimasis",
+    "teisingumas",
+    "parama"
+   ],
+   "kw_rev": [
+    "skola",
+    "nelygybė",
+    "egoizmas",
+    "disbalansas"
+   ],
+   "about": "Turtingas pirklys dalija monetas, laikydamas svarstykles, o du prašo pagalbos. Korta kalba apie davimą ir gavimą pusiausvyroje.",
+   "love": "Meilėje tai apie abipusiškumą duodant ir imant.",
+   "work": "Darbe kalbama apie atlyginimą, teisingą dalijimąsi ir paramą.",
+   "advice": "Duokite ir priimkite sąžiningai ir su saiku.",
+   "element": "Žemė",
+   "astro": "Mėnulis Jautyje",
+   "number": "Šeši: harmonija ir mainai"
+  },
+  {
+   "kw_up": [
+    "kantrybė",
+    "įvertinimas",
+    "ilgalaikiškumas",
+    "derlius"
+   ],
+   "kw_rev": [
+    "nekantrumas",
+    "bloga investicija",
+    "atlygio trūkumas",
+    "nusivylimas"
+   ],
+   "about": "Vyras remiasi į kauptuką ir žiūri į krūmą su septyniomis monetomis. Korta kalba apie laukimą ir darbo vaisių įvertinimą.",
+   "love": "Meilėje tai apie leidimą ryšiui augti be spaudimo.",
+   "work": "Darbe kalbama apie ilgalaikes pastangas ir rezultatų vertinimą.",
+   "advice": "Duokite tam laiko ir pažiūrėkite, ką pasėjote.",
+   "element": "Žemė",
+   "astro": "Saturnas Jautyje",
+   "number": "Septyni: vertinimas ir kantrybė"
+  },
+  {
+   "kw_up": [
+    "amatas",
+    "praktika",
+    "susitelkimas",
+    "sumanumas"
+   ],
+   "kw_rev": [
+    "perfekcionizmas",
+    "nerangumas",
+    "kartojimas",
+    "susitelkimo stoka"
+   ],
+   "about": "Amatininkas prie darbastalio kala monetą, o šalia jo jau paruoštos septynios monetos. Korta kalba apie uolumą ir praktiką.",
+   "love": "Meilėje tai apie pastangas ir rūpestį smulkmenose.",
+   "work": "Darbe kalbama apie įgūdžių ugdymą ir gilinimąsi.",
+   "advice": "Praktikuokitės ir leiskite kokybei augti.",
+   "element": "Žemė",
+   "astro": "Saulė Mergelėje",
+   "number": "Aštuoni: meistriškumas ir tobulėjimas"
+  },
+  {
+   "kw_up": [
+    "savarankiškumas",
+    "gausa",
+    "rafinuotumas",
+    "saugumas"
+   ],
+   "kw_rev": [
+    "priklausomybė",
+    "pernelyg didelė kontrolė",
+    "vienišumas",
+    "saugumo praradimas"
+   ],
+   "about": "Moteris stovi vynuogyne su sakalu ant rankos, aplink ją monetos. Korta kalba apie savarankiškumą ir savo pastangų vaisius.",
+   "love": "Meilėje tai apie savarankiškumą ir pasitikėjimą savimi.",
+   "work": "Darbe korta gali rodyti saugią poziciją ir pripažintas pastangas.",
+   "advice": "Mėgaukitės savo darbo vaisiais.",
+   "element": "Žemė",
+   "astro": "Venera Mergelėje",
+   "number": "Devyni: beveik užbaigta ir savarankiškumas"
+  },
+  {
+   "kw_up": [
+    "paveldas",
+    "šeima",
+    "ilgalaikis saugumas",
+    "bendruomenė"
+   ],
+   "kw_rev": [
+    "šeimos konfliktas",
+    "nestabilumas",
+    "šaknų praradimas",
+    "paveldėjimo nesutarimas"
+   ],
+   "about": "Senas vyras sėdi su šunimi, o pora su vaiku po vartais su dešimčia monetų. Korta kalba apie giminę, namus ir tai, kas perduodama.",
+   "love": "Meilėje tai apie ilgalaikį saugumą ir bendrą gyvenimą.",
+   "work": "Darbe kalbama apie stabilumą, tradiciją ir ilgalaikį kūrimą.",
+   "advice": "Kurkite tiems, kurie ateis po jūsų.",
+   "element": "Žemė",
+   "astro": "Merkurijus Mergelėje",
+   "number": "Dešimt: užbaigimas ir paveldas"
+  },
+  {
+   "kw_up": [
+    "studijos",
+    "žemiškumas",
+    "smalsumas",
+    "potencialas"
+   ],
+   "kw_rev": [
+    "neatidumas",
+    "atidėliojimas",
+    "neaiškūs tikslai",
+    "ambicijų stoka"
+   ],
+   "about": "Jaunas žmogus stovi žaliame lauke ir rankose nagrinėja monetą. Korta simbolizuoja mokymosi troškimą ir žemišką sėklą.",
+   "love": "Meilėje tai gali būti rami ir nuoširdi pradžia.",
+   "work": "Darbe kalbama apie mokymąsi ir praktinius žingsnius.",
+   "advice": "Žengkite po vieną praktinį žingsnį.",
+   "element": "Žemė",
+   "astro": "Žemė Žemėje (elementų tradicija)",
+   "number": "Pažas: pasiuntinys ir pradedantysis"
+  },
+  {
+   "kw_up": [
+    "patikimumas",
+    "darbštumas",
+    "kantrybė",
+    "rutina"
+   ],
+   "kw_rev": [
+    "nuobodulys",
+    "užsispyrimas",
+    "lėtumas",
+    "perfekcionizmas"
+   ],
+   "about": "Riteris laiko monetą, sėdėdamas ant ramaus juodo žirgo suartame lauke. Korta simbolizuoja pastovias ir kruopščias pastangas.",
+   "love": "Meilėje tai apie ištikimybę ir reguliarų rūpestį.",
+   "work": "Darbe kalbama apie kruopštumą ir patikimumą.",
+   "advice": "Išlaikykite tolygų tempą ir dirbkite kruopščiai.",
+   "element": "Žemė",
+   "astro": "Ugnis Žemėje (elementų tradicija)",
+   "number": "Riteris: judėjimas ir veiksmas"
+  },
+  {
+   "kw_up": [
+    "rūpestis",
+    "praktiškumas",
+    "dosnumas",
+    "saugumas"
+   ],
+   "kw_rev": [
+    "nerimas",
+    "materializmas",
+    "persidirbimas",
+    "savęs apleidimas"
+   ],
+   "about": "Karūnuota moteris sėdi žydinčiame sode su moneta ant kelių ir kiškiu netoliese. Korta simbolizuoja praktišką rūpestį ir šilumą.",
+   "love": "Meilėje tai apie rūpestį ir namų jaukumo kūrimą.",
+   "work": "Darbe kalbama apie išteklių ir žmonių saugojimą.",
+   "advice": "Pasirūpinkite savimi ir aplinkiniais.",
+   "element": "Žemė",
+   "astro": "Vanduo Žemėje (elementų tradicija)",
+   "number": "Karalienė: brandumas ir vidinė jėga"
+  },
+  {
+   "kw_up": [
+    "stabilumas",
+    "ištekliai",
+    "patirtis",
+    "patikimas vadovavimas"
+   ],
+   "kw_rev": [
+    "užsispyrimas",
+    "šykštumas",
+    "materializmas",
+    "standumas"
+   ],
+   "about": "Karūnuotas vyras sėdi soste, papuoštame jaučiais, su moneta ir skeptru vynuogėmis apaugusiame sode. Korta simbolizuoja gerai išvystytą saugumą ir tvirtą vadovavimą.",
+   "love": "Meilėje tai apie saugumą, patikimumą ir praktinę paramą.",
+   "work": "Darbe kalbama apie stabilumą, patirtį ir gebėjimą kurti.",
+   "advice": "Statykite tvirtai ir dalinkitės pertekliumi.",
+   "element": "Žemė",
+   "astro": "Oras Žemėje (elementų tradicija)",
+   "number": "Karalius: meistriškumas ir atsakomybė"
+  }
+ ]
+}

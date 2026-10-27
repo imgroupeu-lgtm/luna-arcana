@@ -1,0 +1,894 @@
+{
+ "cards": [
+  {
+   "id": 22,
+   "symbols": [
+    {
+     "s": "Ranka, išnirusi iš debesies",
+     "m": "Dovana iš nematomo šaltinio; pradžia, kuri ateina ne tik iš mūsų valios."
+    },
+    {
+     "s": "Žaliuojanti lazda, kurios šakelės sprogsta lapais",
+     "m": "Gyvybinė jėga, kuri dar tik bunda; idėja, galinti išaugti į daugiau."
+    },
+    {
+     "s": "Krintantys lapeliai ar kibirkštys aplink lazdą",
+     "m": "Energijos perteklius, kuris sklinda į aplinką ir ieško, kur nusileisti."
+    },
+    {
+     "s": "Tolimoje kalvoje stovinti pilis ir vingiuojanti upė",
+     "m": "Kelias priekyje: tikslas jau matomas, bet dar nepasiektas."
+    }
+   ],
+   "story": [
+    "Tūzai tarote laikomi paties elemento sėkla, dar neturinčia formos ir krypties. Skeptrų tūzas yra ugnies pradžia: ne planas, o jausmas „noriu to“, kuris užplūsta staiga ir dar nežino, kur nuves. Vienišą ranką iš debesies galima skaityti kaip priminimą, kad įkvėpimas dažnai ateina nekviestas, o mūsų užduotis – jį pastebėti ir pagauti.",
+    "Skeptrų istorijoje tai pirmas žingsnis, prieš kurį nėra nei abejonių, nei patirties. Žalia lazda dar gyva ir nenudegusi, todėl korta kalba apie potencialą, o ne apie garantuotą rezultatą. Svarbiausias klausimas čia ne „ar pavyks?“, o „ar esu pasirengęs paimti tai, kas man ištiesta?“. Kibirkštis gali užgesti, jei jai neduosime nei medžiagos, nei dėmesio."
+   ],
+   "reversed": "Apversta korta dažniausiai kalba apie kibirkštį, kuri yra, bet nesidega: idėją be pradžios, entuziazmą, kurį prislopino nuovargis ar baimė. Tai gali būti ir atidėta pradžia, kai laukiate „tinkamos akimirkos“, nors ji jau seniai čia. Paklauskite, kas gesina jūsų užsidegimą: aplinkybės, kitų nuomonė ar jūsų pačių perfekcionizmas?",
+   "positions": {
+    "past": "Anksčiau gimė mintis ar troškimas, kuris dar neturėjo pavadinimo. Iki šiol jis galėjo likti netartas.",
+    "present": "Dabar jaučiate naują impulsą, norą pradėti kitaip. Verta jį užrašyti, kol dar šiltas.",
+    "future": "Netrukus gali atsirasti galimybė, kviečianti veikti. Ji dažnai ateina nelaukta ir ne visai patogiu laiku.",
+    "obstacle": "Kliūtis gali būti ne aplinkybės, o delsimas: laukimas, kol viskas bus tobula. Kibirkštis ilgai nelaukia.",
+    "advice": "Padarykite mažą, konkretų pirmą žingsnį šiandien. Nereikia visos kelionės plano.",
+    "outcome": "Rezultatas atviras: korta žada pradžią, o ne pabaigą. Kuo ji taps, priklausys nuo jūsų pastangų."
+   },
+   "feelings": "Jei klausiate apie žmogų, ši korta dažnai rodo susidomėjimą ar naują, gaivų jausmą, kuris dar nespėjo nusistovėti. Tai gali būti entuziazmas, kurio kryptis dar neaiški. Tikrasis atsakymas slypi ne kortoje, o žmogaus žodžiuose ir poelgiuose, tad geriausia jo paklausti tiesiai.",
+   "money": "Finansų srityje korta kalba apie naują pajamų idėją ar projekto pradžią. Tai tema, o ne prognozė: svarbu, ką su kibirkštimi darysite toliau.",
+   "friendship": "Draugystėje tai gali būti naujas bendras užsiėmimas, spontaniškas pasiūlymas ar pažintis, atnešanti gaivos. Pamėginkite pirmi pasiūlyti ką nors naujo.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia pradėti iš naujo: nauja rutina, nauja knyga ar tyli akimirka su savo troškimais. Pradžia gali būti labai maža.",
+   "combos": [
+    {
+     "with": 1,
+     "text": "Magas parodo, kaip kibirkštį paversti veiksmu: valia ir priemonės jau jūsų rankose."
+    },
+    {
+     "with": 0,
+     "text": "Kvailys ir Skeptrų tūzas kartu kalba apie drąsų šuolį be žemėlapio, su atvira širdimi."
+    },
+    {
+     "with": 36,
+     "text": "Taurių tūzas prideda jausmą prie idėjos: ne tik noras veikti, bet ir širdies pritarimas."
+    },
+    {
+     "with": 64,
+     "text": "Monetų tūzas suteikia kibirkščiai žemę, kurioje ji gali įsišaknyti."
+    },
+    {
+     "with": 19,
+     "text": "Saulė rodo, kad pradžia gali pasisekti ir būti džiaugsminga."
+    }
+   ],
+   "questions": [
+    "Kas manyje dabar nori prasidėti, nors dar nežinau kaip?",
+    "Ką darau ar nedarau todėl, kad laukiu tobulo momento?",
+    "Koks vienas mažas žingsnis šią savaitę parodytų, kad tai rimtai?"
+   ]
+  },
+  {
+   "id": 23,
+   "symbols": [
+    {
+     "s": "Vyras su gaubliu rankoje",
+     "m": "Pasaulis, kurį jau turite, ir klausimas, ar jo užtenka."
+    },
+    {
+     "s": "Lazda, įtvirtinta sienoje, ir kita jo rankoje",
+     "m": "Pasirinkimas tarp to, kas saugu ir kas dar ateis."
+    },
+    {
+     "s": "Pilies sienos kraštas ir jūra už jos",
+     "m": "Saugi vieta ir plati nežinomybė, į kurią žvelgiama."
+    }
+   ],
+   "story": [
+    "Dvejetas tarote paprastai reiškia pasirinkimą arba dvilypumą. Skeptrų dvejetas yra stabtelėjimas po pirmojo užsidegimo: kibirkštis jau virto planu, bet dar nepasirinkta, kuria kryptimi jį vesti. Vyras stovi saugioje vietoje, turi viską, ko reikia, ir vis tiek žvelgia toli. Tai ne netikrumo, o brandaus nerimo paveikslas, kai suprantama, kad dabartinės ribos tapo per ankštos.",
+    "Skeptrų istorijoje čia svarbiausias klausimas: ar likti prie to, kas pažįstama ir jau pavyko, ar žengti į platesnį pasaulį. Jokia korta neduos atsakymo, bet ji primena, kad pasirinkimas be žvilgsnio į ateitį virsta tiesiog inercija. Gaublys rankoje rodo, kad idėja jau turi mastą, o dvi lazdos žada, kad ne viskas turi būti paaukota dėl vieno kelio."
+   ],
+   "reversed": "Apverstas dvejetas kalba apie sąstingį prie slenksčio: planai, kurie niekada nepakyla nuo popieriaus, arba baimė palikti pažįstamą aplinką. Kartais tai ir priešingas polinkis, kai ryžtamasi greitai, bet nepagalvojus. Paklauskite savęs, ar tikrai trūksta informacijos, ar tiesiog trūksta drąsos pasirinkti.",
+   "positions": {
+    "past": "Anksčiau radote saugią vietą ir joje pastatėte tai, kas dabar jus laiko. Ji vis dar svarbi, bet galbūt jau per maža.",
+    "present": "Šiuo metu esate kryžkelėje tarp pažįstamo ir platesnio. Svarstyti prasminga, tik neužsitęskite.",
+    "future": "Netrukus gali tekti pasirinkti kryptį. Pasiruošimas dabar padės tuomet rinktis ramiau.",
+    "obstacle": "Kliūtis gali būti baimė prarasti tai, ką jau turite, arba nesugebėjimas apsispręsti, ko iš tiesų norite.",
+    "advice": "Užrašykite, ko norite per penkerius metus, ir pažiūrėkite, kuris pasirinkimas artimesnis tam paveikslui.",
+    "outcome": "Rezultatas priklauso nuo to, ar žvilgsnį paversite sprendimu. Kelias atsivers, kai žengsite."
+   },
+   "feelings": "Šioje padėtyje korta nebūtinai kalba apie jausmus jums. Dažniau ji rodo, kad žmogus galvoja apie savo kelią ir apie tai, kur gyvens ar veiks toliau. Jei dalijatės kasdienybe, verta pasikalbėti apie bendrus planus, užuot spėliojant.",
+   "money": "Pinigų klausimais tai tema apie planavimą ir pasirinkimą tarp saugios dabarties ir platesnių galimybių. Svarbiau suprasti savo tikslus nei skubėti.",
+   "friendship": "Draugystėje korta gali rodyti, kad jūsų keliai ima skirtis arba kad kažkas planuoja persikelti ar pasikeisti. Atvira kalba apie lūkesčius padeda išsaugoti ryšį.",
+   "spiritual": "Dvasiniu požiūriu tai kvietimas pažvelgti į savo praktiką iš šalies: ar ji vis dar tarnauja jūsų augimui, ar jau tapo įpročiu.",
+   "combos": [
+    {
+     "with": 7,
+     "text": "Vežimas parodo, kas laukia, kai apsisprendimas jau padarytas: judėjimas ir valia."
+    },
+    {
+     "with": 2,
+     "text": "Žynė kviečia klausytis vidinio balso prieš rinkantis kryptį."
+    },
+    {
+     "with": 9,
+     "text": "Atsiskyrėlis kalba apie tylų apmąstymą, be kurio sprendimas netaptų tikras."
+    },
+    {
+     "with": 24,
+     "text": "Skeptrų trejetas rodo, kaip atrodo pasirinktas kelias, kai laivai jau išplaukę."
+    },
+    {
+     "with": 49,
+     "text": "Taurių karalius primena, kad sprendimui reikia ir širdies, ir proto."
+    }
+   ],
+   "questions": [
+    "Ko aš iš tiesų noriu, jei niekas manęs nevertintų?",
+    "Kuo mano dabartinė saugi vieta tampa ankšta?",
+    "Kokios informacijos man dar trūksta ir ar ji tikrai būtina?"
+   ]
+  },
+  {
+   "id": 24,
+   "symbols": [
+    {
+     "s": "Vyras, stovintis nugara į žiūrovą",
+     "m": "Jis žiūri į priekį, o ne į mus: dėmesys nukreiptas į tai, kas ateina."
+    },
+    {
+     "s": "Trys lazdos, iš kurių viena jo rankoje",
+     "m": "Pastangos, jau įsišaknijusios ir duodančios atramą."
+    },
+    {
+     "s": "Laivai jūroje",
+     "m": "Anksčiau pradėti darbai, grįžtantys ar išplaukiantys su rezultatu."
+    },
+    {
+     "s": "Uola ir tolimi kalnai",
+     "m": "Aukštesnė vieta, iš kurios matosi platesnis vaizdas."
+    }
+   ],
+   "story": [
+    "Trejetas tarote paprastai reiškia pirmuosius vaisius: kas buvo pradėta ir pasirinkta, dabar auga. Skeptrų trejetas rodo žmogų, kuris jau padarė savo dalį ir dabar stebi, kaip jo pastangos keliauja pasauliu. Jis nebeskuba, bet ir nesustoja; iš uolos jis mato toliau nei anksčiau.",
+    "Skeptrų istorijoje tai pirmasis tikras išsiplėtimas: iš vienos idėjos atsiranda ryšiai, galimybės, kryptys. Korta primena, kad kai kuriuos dalykus galime tik paleisti ir palaukti: laivai išplaukė, ir jų kelio nebevaldome. Todėl tai ne tik pažangos, bet ir pasitikėjimo korta, nes kantri viltis čia svarbesnė už nuolatinę kontrolę."
+   ],
+   "reversed": "Apverstas trejetas rodo laivus, kurie vėluoja arba grįžta tuščiomis: planai, nesukėlę laukto atgarsio. Tai gali būti ir nekantrumas, kai norime rezultato per anksti, ar plėtra, kuriai trūksta pagrindo. Verta peržiūrėti, ar pasirinkta kryptis vis dar jūsų, ir leisti sau kantriai pakoreguoti kursą.",
+   "positions": {
+    "past": "Anksčiau pradėjote kažką, kas dabar pradeda augti. Tos pastangos nebuvo veltui.",
+    "present": "Šiuo metu esate stebėjimo ir laukimo etape. Darbas atliktas, belieka matyti, kur jis nuves.",
+    "future": "Netrukus gali ateiti pirmieji atsakymai, pasiūlymai ar naujienos iš toli.",
+    "obstacle": "Kliūtis gali būti nekantrumas arba nuolatinis tikrinimas, ar jau kas nors atsitiko.",
+    "advice": "Pažiūrėkite į platesnį vaizdą ir pagalvokite, ką dar galite išplėsti, nepersitempdami.",
+    "outcome": "Rezultatas linkęs į plėtrą, jei išlaikysite kantrybę ir atvirumą bendradarbiavimui."
+   },
+   "feelings": "Ši korta dažnai rodo žmogų, kuris žvelgia į ateitį ir mato jus savo planuose arba bent atvirai laukia, kaip viskas išsivystys. Tai gali būti kantrus, nespaudžiantis susidomėjimas. Jei jaučiatės nesaugiai, geriausia tiesiai paklausti, kaip jis mato kitus žingsnius.",
+   "money": "Pinigų klausimu korta kalba apie ankstesnių pastangų vaisius ir apie plėtrą, kuri reikalauja laiko. Tai laukimo ir pasitikėjimo tema, o ne prognozė.",
+   "friendship": "Draugystėje tai gali būti bendrystė, išplitusi į naujas sritis, ar draugas, gyvenantis toli, bet vis dar artimas. Paskambinkite ar parašykite, nelaukdami progos.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia pasitikėti procesu: sėjote ir dabar galite ramiai stebėti. Gera akimirka padėkoti už jau nueitą kelią.",
+   "combos": [
+    {
+     "with": 7,
+     "text": "Vežimas rodo, kad pažanga nesustos, jei išlaikysite kryptį."
+    },
+    {
+     "with": 10,
+     "text": "Likimo ratas primena, kad dalis rezultato priklauso nuo aplinkybių, kurių nekontroliuojame."
+    },
+    {
+     "with": 23,
+     "text": "Skeptrų dvejetas rodo prieš tai buvusį pasirinkimą, kuris atvedė iki šio taško."
+    },
+    {
+     "with": 42,
+     "text": "Taurių septynetas įspėja nesiblaškyti tarp begalės galimybių, kai laivai jau išplaukę."
+    },
+    {
+     "with": 21,
+     "text": "Pasaulis kalba apie užbaigtą ciklą ir platų, net tarptautinį užmojį."
+    }
+   ],
+   "questions": [
+    "Kokias pastangas jau atlikau, bet vis dar nepakankamai vertinu?",
+    "Ar sugebu palikti dalį proceso ramybei ir laikui?",
+    "Kur galiu praplėsti savo ratą, neprarandant esmės?"
+   ]
+  },
+  {
+   "id": 25,
+   "symbols": [
+    {
+     "s": "Keturios lazdos, tarp kurių pakabinta gėlių girlianda",
+     "m": "Pastatytas pamatas, po kuriuo galima šventė ir saugumas."
+    },
+    {
+     "s": "Gėlių girlianda tarp lazdų",
+     "m": "Džiaugsmas ir pagarba tam, kas sukurta."
+    },
+    {
+     "s": "Dvi figūros, aukštai iškėlusios gėlių puokštes",
+     "m": "Bendras džiaugsmas, pripažinimas ir sutarimas."
+    },
+    {
+     "s": "Pilis ar dvaras fone ir susirinkusių žmonių grupė",
+     "m": "Bendruomenė, namai, priklausymas."
+    }
+   ],
+   "story": [
+    "Ketvertas tarote dažniausiai reiškia stabilumą, pamatą, atramą. Skeptrų ketvertas yra džiaugsmas, kurį galima sau leisti, kai kažkas pastatyta: ne atsainus poilsis, o sąmoninga šventė. Čia ugnis nebėra laukinė, ji šildo židinį. Tai viena iš tų kortų, kurios primena, kad pasiekimų nepakanka pasiekti – juos reikia ir pajusti, ir su kuo nors pasidalyti.",
+    "Skeptrų istorijoje tai pirmoji stotelė po nuolatinio judėjimo. Pamatas, kurį padėjo tūzas, dvejetas ir trejetas, dabar tampa vieta, kur galima atsikvėpti. Tačiau ketvertas nėra galutinė stotelė: iš šios saugios vietos kelias vėl pasuks pirmyn, tik jau su patirtimi ir bendraminčiais. Kortos išmintis tokia: kad galėtum toliau eiti, kartais reikia sustoti ir švęsti."
+   ],
+   "reversed": "Apverstas ketvertas dažniausiai kalba apie šventę, kuri neįvyksta, arba apie namus be ramybės: pamatas yra, bet jame nėra šilumos. Tai gali būti ir pereinamasis laikas, kai bendrystė dar formuojasi. Verta paklausti, ko trūksta, kad pasijustumėte priklausantys, ir ar galite tai sukurti patys.",
+   "positions": {
+    "past": "Anksčiau pasiekėte etapą, kuris sukūrė saugumo pagrindą. Jis tebėra vertingas.",
+    "present": "Šiuo metu verta sustoti, pasidžiaugti ir būti su artimais. Šventė gali būti visai nedidelė.",
+    "future": "Netrukus gali ateiti proga susitikti, atšvęsti ar apsigyventi pastoviau.",
+    "obstacle": "Kliūtis gali būti nesugebėjimas pripažinti savo pasiekimų arba skubėjimas eiti toliau.",
+    "advice": "Sukurkite nedidelę tradiciją, pažymėkite tai, kas pasisekė, ir pakvieskite kitus.",
+    "outcome": "Rezultatas linkęs į stabilumą ir bendrystę, jei dalysitės džiaugsmu."
+   },
+   "feelings": "Ši korta dažnai rodo šiltą, saugų požiūrį į jus. Žmogus gali norėti būti kartu artimoje aplinkoje, dalytis kasdienybe ar šeimos reikalais. Tikrasis atsakymas slypi ne vien kortoje, o ir tame, ar žmogus kviečia jus į savo pasaulį.",
+   "money": "Pinigų klausimu korta kalba apie stabilumo pojūtį, namų ar bendro turto temą. Tai ne patarimas, o apmąstymų pagrindas.",
+   "friendship": "Draugystėje tai šventės, susibūrimai, bendri namai ar bendruomenė. Pakvieskite artimus kartu atšvęsti net ir mažą pasiekimą.",
+   "spiritual": "Dvasinėje praktikoje korta primena apie šventes, ritualus ir sezonines tradicijas, kurios sujungia mus su kitais ir su gyvenimo ritmu.",
+   "combos": [
+    {
+     "with": 3,
+     "text": "Imperatorė stiprina namų ir gausos temą: pastatytas pamatas augina šilumą."
+    },
+    {
+     "with": 19,
+     "text": "Saulė prideda džiaugsmo ir atvirumo šiai šventei."
+    },
+    {
+     "with": 41,
+     "text": "Taurių šešetas rodo prisiminimus ir artimus ryšius, kuriuos pažymi ši šventė."
+    },
+    {
+     "with": 31,
+     "text": "Skeptrų dešimtukas perspėja, kad šventė neturėtų virsti dar viena našta."
+    },
+    {
+     "with": 5,
+     "text": "Šventikas kalba apie tradicijas, kurios laiko bendruomenę kartu."
+    }
+   ],
+   "questions": [
+    "Ką savo gyvenime jau pastačiau ir vertinu per mažai?",
+    "Kas man suteikia saugumo pojūtį ir kaip galiu tai puoselėti?",
+    "Su kuo noriu pasidalyti savo džiaugsmu?"
+   ]
+  },
+  {
+   "id": 26,
+   "symbols": [
+    {
+     "s": "Penki jauni vyrai su lazdomis",
+     "m": "Skirtingi ketinimai, kurie susiduria vienoje erdvėje."
+    },
+    {
+     "s": "Skirtingi drabužiai ir judesiai",
+     "m": "Savitumas, kuris be bendros tvarkos virsta triukšmu."
+    },
+    {
+     "s": "Lazdos, susikryžiavusios ore",
+     "m": "Trintis, kuri gali būti ir kova, ir žaidimas."
+    }
+   ],
+   "story": [
+    "Penketai tarote žymi sutrikimą, kai pamatas susvyruoja. Skeptrų penketas yra ne apie karą, o apie netvarką: kiekvienas kažko nori, bet niekas nesiklauso. Paveikslas mažiau grėsmingas nei Kardų penketas, nes čia veikia daugiau energijos nei pykčio. Tai konkurencija, kurioje galima ir augti, jei tik pavyksta išlaikyti žaidimo dvasią.",
+    "Skeptrų istorijoje korta rodo, kad po pirmųjų sėkmių ir saugios stotelės ateina išbandymas: idėjos susiduria su kitų idėjomis. Ji klausia, ar mokate ginti savo nuomonę, nesugriaudami bendro darbo. Daug kas čia priklauso nuo požiūrio: jei kovojate tik tam, kad laimėtumėte, gausite nuovargį; jei tam, kad gerintumėte rezultatą, gausite tobulesnį darbą."
+   ],
+   "reversed": "Apverstas penketas gali reikšti, kad įtampa nurimsta arba kad konfliktas slopinamas. Kitu atveju tai vidinė kova, kurios nematyti išorėje. Pasvarstykite, ar vengiate pokalbio, kurį reikia pasakyti, ar pasiektas susitarimas tikrai pagrįstas abiejų pusių sutikimu.",
+   "positions": {
+    "past": "Anksčiau patyrėte kūrybingą ar nelengvą trintį, kuri paliko pėdsaką tam, kaip dabar bendraujate.",
+    "present": "Dabar aplink jus daug skirtingų nuomonių ar konkurencijos. Tai gali ir uždegti, ir išvarginti.",
+    "future": "Netrukus gali ateiti diskusija ar varžybos, kuriose reikės aiškiai pasakyti savo poziciją.",
+    "obstacle": "Kliūtis gali būti noras laimėti bet kokia kaina arba nesugebėjimas išklausyti kitų.",
+    "advice": "Aptarkite bendras taisykles ir tikslus, kad skirtumai taptų stiprybe.",
+    "outcome": "Rezultatas priklauso nuo to, ar sugebėsite paversti konfliktą kūrybingu bendradarbiavimu."
+   },
+   "feelings": "Šioje padėtyje korta gali rodyti, kad ryšyje yra įtampos ar skirtingų lūkesčių. Žmogus gali jausti spaudimą, nesutarimą ar energiją, kuriai nežino, kur dėti. Verta ramiai, be kaltinimų, aptarti tai, kas kelia trintį.",
+   "money": "Pinigų temoje tai konkurencija, skirtingi interesai ar nesutarimai dėl bendrų išlaidų. Tai tema, o ne konkrečios prognozės.",
+   "friendship": "Draugystėje korta gali rodyti ginčus, bet ir sveiką varžymąsi bei bendrus iššūkius. Žaismingas požiūris padeda neįsiplieskti skaudiems ginčams.",
+   "spiritual": "Dvasinėje praktikoje korta primena, kad vidinis neramumas dažnai yra augimo ženklas. Pamėginkite įsiklausyti, kuri jūsų dalis dabar garsiausiai šaukia.",
+   "combos": [
+    {
+     "with": 16,
+     "text": "Bokštas rodo, kad nesutarimas gali peraugti į staigų lūžį, jei jo nevaldoma."
+    },
+    {
+     "with": 11,
+     "text": "Teisingumas padeda surasti sąžiningą sprendimą šiame ginče."
+    },
+    {
+     "with": 28,
+     "text": "Skeptrų septynetas prideda ryžto ginti savo poziciją."
+    },
+    {
+     "with": 52,
+     "text": "Kardų trejetas įspėja apie žaizdas, kurios atsiranda per aštrius žodžius."
+    },
+    {
+     "with": 14,
+     "text": "Nuosaikumas moko suderinti skirtingas energijas."
+    }
+   ],
+   "questions": [
+    "Ar noriu laimėti, ar noriu išspręsti?",
+    "Kokios skirtingos nuomonės mane supa ir ką iš jų galiu išmokti?",
+    "Kur mano energija sklaidosi, o ne kuria?"
+   ]
+  },
+  {
+   "id": 27,
+   "symbols": [
+    {
+     "s": "Raitelis ant balto žirgo",
+     "m": "Pergalė, kurią visi mato; sėkmė su viešu pripažinimu."
+    },
+    {
+     "s": "Laurų vainikas ant lazdos ir ant raitelio galvos",
+     "m": "Tradicinis garbės ir nugalėjimo ženklas."
+    },
+    {
+     "s": "Minia pėsčiųjų su lazdomis",
+     "m": "Žmonės, kurie palaiko ir stebi kelionę."
+    }
+   ],
+   "story": [
+    "Šešetas tarote dažnai reiškia harmoniją po sunkumų. Skeptrų šešetas rodo pergalės akimirką: ne kovą, o kelią po jos, kai kiti pripažįsta jūsų pastangas. Raitelis jojo ne atsiskyręs, o tarp žmonių, todėl tai korta apie pripažinimą ir bendrą džiaugsmą, ne vien asmeninį triumfą.",
+    "Skeptrų istorijoje tai atokvėpis po penketo triukšmo: pasirinkus kryptį ir ištvėrus išbandymą, atsiranda matomas rezultatas. Bet pergalė turi savo spąstus: priklausomybė nuo plojimų. Korta primena, kad pasitikėjimas savimi turi remtis darbu, o ne tik kitų nuomone, nes minia gali ir nusigręžti. Tikra pergalė ta, kurią galite sąžiningai priimti."
+   ],
+   "reversed": "Apverstas šešetas dažnai kalba apie nepripažinimą arba pripažinimą, kuris nesuteikia tikro pasitenkinimo. Gali būti ir puikybė, gyrimasis, o gal baimė kritikos po ankstesnio nuopuolio. Paklauskite, kam jums reikia pripažinimo ir ar galite jį sau suteikti patys.",
+   "positions": {
+    "past": "Anksčiau patyrėte sėkmę ar pripažinimą, kurie vis dar formuoja jūsų pasitikėjimą.",
+    "present": "Dabar esate pastebimi arba artėjate prie gero rezultato. Leiskite sau pajusti džiaugsmą.",
+    "future": "Netrukus gali atsirasti gera žinia, apdovanojimas ar pagyrimas už atliktą darbą.",
+    "obstacle": "Kliūtis gali būti perdėta priklausomybė nuo kitų nuomonės arba nepasitikėjimas savo laimėjimais.",
+    "advice": "Priimkite pripažinimą kukliai, bet nenuvertinkite savo darbo.",
+    "outcome": "Rezultatas palankus, jei išliksite kuklūs ir dėkingi tiems, kurie padėjo."
+   },
+   "feelings": "Ši korta gali rodyti žmogų, kuris jumis žavisi arba didžiuojasi, o gal siekia padaryti jums įspūdį. Tai gali būti pagarba ir noras būti šalia sėkmės. Pažiūrėkite, ar tas dėmesys nuoširdus ir ar jis lieka, kai nėra vertinimo.",
+   "money": "Pinigų klausimu korta kalba apie pripažinimą už darbą, galimą užmokesčio ar reputacijos temą. Tai apmąstymų pagrindas, o ne prognozė.",
+   "friendship": "Draugystėje tai šventė dėl bendro laimėjimo ir draugų palaikymas. Būkite tuo, kuris pirmas pasidžiaugia kito sėkme.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia pripažinti savo pažangą be puikybės ir padėkoti už pagalbą, kurią gavote kelyje.",
+   "combos": [
+    {
+     "with": 7,
+     "text": "Vežimas dar labiau pabrėžia pergalės ir pasiryžimo temą."
+    },
+    {
+     "with": 19,
+     "text": "Saulė rodo atvirą, nuoširdų džiaugsmą ir pripažinimą."
+    },
+    {
+     "with": 20,
+     "text": "Nuosprendis kviečia sąžiningai įvertinti, ką iš tiesų nuveikėte."
+    },
+    {
+     "with": 30,
+     "text": "Skeptrų devynetas primena, kad po pergalės dar gali tekti išlaikyti tai, ką pasiekėte."
+    },
+    {
+     "with": 48,
+     "text": "Taurių karalienė prideda jautrumo ir nuoširdumo šiai sėkmei."
+    }
+   ],
+   "questions": [
+    "Ką savo pasiekimuose vertinu aš pats, o ne kiti?",
+    "Ar sugebu džiaugtis ir dalytis sėkme?",
+    "Ko bijau, jei pripažinimas dingtų?"
+   ]
+  },
+  {
+   "id": 28,
+   "symbols": [
+    {
+     "s": "Vyras ant kalvos viršūnės",
+     "m": "Išskirtinė pozicija, kurią reikia ginti."
+    },
+    {
+     "s": "Šešios lazdos, kylančios iš apačios",
+     "m": "Iššūkiai ir varžovai, artėjantys vienu metu."
+    },
+    {
+     "s": "Nesutampantys batai",
+     "m": "Skubotas pasirengimas: ginti tenka net tada, kai nesi visiškai pasiruošęs."
+    }
+   ],
+   "story": [
+    "Septynetas tarote paprastai reiškia išbandymą ar apmąstymą. Skeptrų septynetas parodo žmogų, kuris turi aukštesnę poziciją ir negali jos atiduoti be kovos. Tai ne puolimas, o to, kas jau vertinga, gynyba. Korta kalba apie drąsą išlikti savimi, kai aplinka spaudžia keistis.",
+    "Skeptrų istorijoje čia ateina antras didelis išbandymas, jau ne tarp lygiaverčių, kaip penkete, o prieš daugumą. Šis kovotojas nėra tobulai pasirengęs: batai nesutampa, ir tai primena, kad drąsa nereiškia pasirengimo viskam. Svarbu ne nugalėti visus, o išlaikyti vietą, kurią pasirinkote sąmoningai. Verta paklausti, ar ginate savo vertybes, ar vien įprotį."
+   ],
+   "reversed": "Apverstas septynetas rodo išsekimą, kai gynyba atrodo per sunki. Tai gali būti pasidavimas arba, priešingai, per daug ginklo kovoje, kurios nereikia. Pasvarstykite, kurios ribos jums tikrai svarbios, o kurių galima atsisakyti, kad išlaikytumėte jėgas.",
+   "positions": {
+    "past": "Anksčiau teko ginti savo poziciją ar vertybes, ir tai paliko jus tvirtesniais.",
+    "present": "Dabar jaučiate spaudimą iš kelių pusių. Pagalvokite, ką būtent iš tiesų norite išsaugoti.",
+    "future": "Netrukus gali tekti pasakyti „ne“ arba aiškiai apsibrėžti ribas.",
+    "obstacle": "Kliūtis gali būti jausmas, kad esate vienas prieš visus, ir nenoras prašyti pagalbos.",
+    "advice": "Aiškiai apibrėžkite, ko nesutinkate atiduoti, ir leiskite sau paleisti kitus dalykus.",
+    "outcome": "Rezultatas priklauso nuo to, ar išlaikysite pusiausvyrą tarp tvirtumo ir lankstumo."
+   },
+   "feelings": "Ši korta gali rodyti žmogų, kuris jaučiasi spaudžiamas, ginasi arba saugo savo erdvę. Jo elgesys gali atrodyti gynybiškas, bet ne priešiškas jums. Dažnai tai prašymas gerbti jo ribas, tad pasiteiraukite, ko jam reikia.",
+   "money": "Pinigų temoje tai savo pozicijos išlaikymas konkurencingoje aplinkoje. Tai ribų tema, o ne patarimas.",
+   "friendship": "Draugystėje korta gali rodyti, kad ginate draugą, savo nuomonę arba jaučiate, kad jus kritikuoja. Pagalvokite, ar ginate asmenį, ar tik savo teisumą.",
+   "spiritual": "Dvasinėje praktikoje tai kvietimas apsibrėžti ribas, laikytis savo kelio ir neleisti kitiems nustatyti, kaip jums tikėti ar praktikuoti.",
+   "combos": [
+    {
+     "with": 8,
+     "text": "Stiprybė rodo, kad tvirtumas gali būti ramus, be agresijos."
+    },
+    {
+     "with": 11,
+     "text": "Teisingumas padeda atskirti, kur ginama tiesa, o kur vien išdidumas."
+    },
+    {
+     "with": 26,
+     "text": "Skeptrų penketas atskleidžia kovos pradžią, iš kurios kyla ši gynyba."
+    },
+    {
+     "with": 54,
+     "text": "Kardų penketas perspėja apie pergalę, kuri palieka tuštumą."
+    },
+    {
+     "with": 7,
+     "text": "Vežimas prideda ryžto ne tik gintis, bet ir judėti į priekį."
+    }
+   ],
+   "questions": [
+    "Ką šiuo metu ginu ir kodėl tai man svarbu?",
+    "Ar kovoju dėl principo, ar dėl įpročio?",
+    "Kas galėtų man padėti, jei išdrįsčiau paprašyti?"
+   ]
+  },
+  {
+   "id": 29,
+   "symbols": [
+    {
+     "s": "Aštuonios lazdos, skriejančios oru",
+     "m": "Greitis, žinios, veiksmas be sustojimo."
+    },
+    {
+     "s": "Giedras dangus",
+     "m": "Aiškumas, kliūčių nėra, kelias laisvas."
+    },
+    {
+     "s": "Upė ir žalios kalvos po lazdomis",
+     "m": "Gyvenimas, tekantis savo tempu, kol energija skrieja virš jo."
+    },
+    {
+     "s": "Žmonių nebuvimas paveiksle",
+     "m": "Veiksmas, ne asmenys; viskas vyksta savaime."
+    }
+   ],
+   "story": [
+    "Aštuonetas tarote dažnai reiškia judėjimą, darbą ir pokyčius. Skeptrų aštuonetas yra vienintelė Skeptrų korta be žmonių, išskyrus tūzą: lazdos tiesiog skrenda, ir niekas jų nevaldo. Tai greitis, kuris ateina po užstrigimo, kai pagaliau pasitraukia kliūtys ir viskas ima judėti beveik savaime.",
+    "Skeptrų istorijoje korta rodo perėjimą nuo pozicijos laikymo prie naujo šuolio. Po penketo, šešeto ir septyneto išbandymų energija vėl atsipalaiduoja ir skrieja pirmyn. Tačiau greitis turi savo kainą: jei per daug skubate, galite nepastebėti, kur žengiate. Korta kviečia pasinaudoti pagreičiu, bet išlikti sąmoningiems, kad nepamirštumėte to, kas svarbu."
+   ],
+   "reversed": "Apverstas aštuonetas kalba apie vėlavimus, sustojusius procesus ar žinias, kurios niekaip neateina. Gali būti ir atvirkščiai: per didelis skubėjimas, dėl kurio pradedate daryti klaidas. Paklauskite, ar sulėtėjimas nėra ženklas peržiūrėti kryptį, o ne vien kliūtis.",
+   "positions": {
+    "past": "Anksčiau viskas judėjo greitai arba, priešingai, ilgai stovėjo vietoje ir pagaliau pajudėjo.",
+    "present": "Dabar viskas vyksta sparčiai. Gali tekti greitai priimti sprendimus ir reaguoti į naujienas.",
+    "future": "Netrukus galite sulaukti žinių, kvietimų ar kelionės, kuri pakeis tempą.",
+    "obstacle": "Kliūtis gali būti skubėjimas, kuris atima galimybę aiškiai pagalvoti.",
+    "advice": "Naudokitės pagreičiu, bet kartkartėmis sustokite paklausti, ar vis dar einate į norimą pusę.",
+    "outcome": "Rezultatas greitas, tačiau jo kokybė priklauso nuo jūsų dėmesio kelyje."
+   },
+   "feelings": "Ši korta dažnai rodo greitą susidomėjimą, žinutes ar norą susisiekti. Žmogus gali būti aktyvus ir entuziastingas, bet ne visada pastovus. Jei esate nežinioje, aiškiai paklauskite, kaip jis mato tolesnį bendravimą.",
+   "money": "Pinigų klausimu korta kalba apie greitus darbus, žinutes ar sprendimus. Tai greičio tema, o ne rezultato prognozė.",
+   "friendship": "Draugystėje tai gali būti dažnas bendravimas, spontaniški planai ar žinutės po ilgos pertraukos. Atsakykite, kol energija gyva.",
+   "spiritual": "Dvasinėje praktikoje korta primena, kad kartais svarbiausia ne lėtumas, o srautas, kai veiksmas ir tikslas susilieja. Nepamirškite kvėpuoti.",
+   "combos": [
+    {
+     "with": 0,
+     "text": "Kvailys prideda spontaniškumo ir drąsos, bet ir įspėja žiūrėti, kur žengiate."
+    },
+    {
+     "with": 1,
+     "text": "Magas rodo, kad greitis turi tikslą ir jūs jį valdote."
+    },
+    {
+     "with": 7,
+     "text": "Vežimas patvirtina, kad judate ryžtingai ir tikslingai."
+    },
+    {
+     "with": 50,
+     "text": "Kardų tūzas prideda greičiui aiškumo ir protingos krypties."
+    },
+    {
+     "with": 57,
+     "text": "Kardų aštuonetas kalba apie jausmą, kad judėjimas sustabdytas, nors viskas turėtų skrieti."
+    }
+   ],
+   "questions": [
+    "Kur mano gyvenime viskas pagaliau pajudėjo ir ar aš spėju kartu?",
+    "Kada greitis man naudingas, o kada tampa pabėgimu?",
+    "Kokios žinios ar sprendimai manęs laukia?"
+   ]
+  },
+  {
+   "id": 30,
+   "symbols": [
+    {
+     "s": "Vyras su galvos tvarsčiu",
+     "m": "Žaizdos ir nuovargis, bet ir atsilaikymas."
+    },
+    {
+     "s": "Lazda, ant kurios jis remiasi",
+     "m": "Paskutinė atrama, kurią reikia išlaikyti."
+    },
+    {
+     "s": "Aštuonios lazdos tarsi tvora už nugaros",
+     "m": "Anksčiau įveiktos kovos arba apsauga, kurią sukūrėte."
+    },
+    {
+     "s": "Budrus žvilgsnis į šoną",
+     "m": "Pasirengimas, kad iššūkis gali sugrįžti."
+    }
+   ],
+   "story": [
+    "Devynetas tarote reiškia beveik užbaigimą, paskutinis etapas prieš dešimtuką. Skeptrų devynetas rodo žmogų, patyrusį daug, bet vis dar stovintį. Jo tvarstis liudija, kad kova nebuvo lengva, o budrus žvilgsnis – kad jis išmoko saugotis. Tai atsparumo korta, bet ir klausimas, ar tas atsargumas nepaverčia žmogaus pernelyg įtariu.",
+    "Skeptrų istorijoje tai paskutinė patikra prieš didįjį užbaigimą. Aštuonios lazdos už nugaros primena, kiek jau įveikta, o ne tai, kiek dar liko. Korta kviečia pripažinti savo nuovargį ir kartu savo ištvermę: jūs nuėjote toli. Kartais reikia ne dar labiau kovoti, o leisti sau pailsėti ir pasitikėti tuo, ką jau pasiekėte."
+   ],
+   "reversed": "Apverstas devynetas dažniausiai kalba apie išsekimą arba atvirkščiai: pernelyg įsisenėjusį įtarumą, kai kiekviena nauja situacija laikoma grėsme. Gali būti ir noras pasiduoti prieš pat finišą. Paklauskite, kas jums dabar reikalinga labiausiai: poilsis, pagalba ar nauja perspektyva.",
+   "positions": {
+    "past": "Anksčiau teko ilgai kovoti ar laukti, ir tai paliko randų, bet kartu ir stiprybės.",
+    "present": "Dabar esate nuvargę, bet dar stovite. Verta pripažinti tiek nuovargį, tiek jau pasiektą.",
+    "future": "Netrukus artėja etapo pabaiga. Dar vienas nedidelis žingsnis gali būti lemiamas.",
+    "obstacle": "Kliūtis gali būti nepasitikėjimas ir nuolatinis laukimas sunkumų, kurių jau nėra.",
+    "advice": "Pasirūpinkite savimi: pailsėkite ir paprašykite pagalbos, kol dar nesate palūžę.",
+    "outcome": "Rezultatas linkęs į užbaigimą, jei išlaikysite jėgas ir neišeikvosite savęs."
+   },
+   "feelings": "Ši korta gali rodyti žmogų, kuris po ankstesnės patirties atsargiai atsiveria. Jis gali norėti artumo, bet saugotis. Čia reikia kantrybės ir aiškumo, o ne spaudimo; leiskite pasitikėjimui augti savo tempu.",
+   "money": "Pinigų klausimu korta kalba apie ilgą pastangų etapą ir poreikį išlaikyti atsargumą bei atsargas. Tai tema apmąstymui, o ne finansų patarimas.",
+   "friendship": "Draugystėje tai gali būti draugas, kuris buvo šalia sunkiu metu, arba jūsų pačių poreikis pabūti vienam. Paprašykite pagalbos arba pasiūlykite ją.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia pagerbti savo kelią, įskaitant randus, ir leisti sau pailsėti prieš paskutinį etapą.",
+   "combos": [
+    {
+     "with": 9,
+     "text": "Atsiskyrėlis rodo poreikį pasitraukti ir atgauti jėgas."
+    },
+    {
+     "with": 8,
+     "text": "Stiprybė primena, kad tikroji ištvermė yra švelni ir kantri."
+    },
+    {
+     "with": 31,
+     "text": "Skeptrų dešimtukas rodo, kas laukia, jei nesustosite pailsėti."
+    },
+    {
+     "with": 55,
+     "text": "Kardų šešetas siūlo lengvesnį perėjimą į ramesnius vandenis."
+    },
+    {
+     "with": 21,
+     "text": "Pasaulis žada užbaigimą ir įvertinimą po ilgo kelio."
+    }
+   ],
+   "questions": [
+    "Ką jau įveikiau, o apie tai pamirštu?",
+    "Kur mano atsargumas man tarnauja, o kur trukdo?",
+    "Kas man padėtų pailsėti iš tikrųjų?"
+   ]
+  },
+  {
+   "id": 31,
+   "symbols": [
+    {
+     "s": "Vyras, palinkęs po dešimties lazdų glėbiu",
+     "m": "Našta, kurią patys prisiėmėte ir kuri tapo per didelė."
+    },
+    {
+     "s": "Nugara į žiūrovą ir nuleista galva",
+     "m": "Susitelkimas į tikslą, kuris atima jėgas ir žvilgsnį aplink."
+    },
+    {
+     "s": "Miestas ar kaimas tolumoje",
+     "m": "Tikslas ir poilsis jau netoli, bet dar ne čia."
+    },
+    {
+     "s": "Dešimt lazdų viename glėbyje",
+     "m": "Užbaigiamas ciklas, kai viskas, kas surinkta, tampa vienu svoriu."
+    }
+   ],
+   "story": [
+    "Dešimtukas tarote žymi ciklo viršūnę, kartais ir jo perteklius. Skeptrų dešimtukas yra paskutinė Skeptrų skaitinė korta prieš dvaro kortas: tai, kas prasidėjo kaip kibirkštis, dabar yra krūva įsipareigojimų. Ši korta ne smerkia atsakomybę, o klausia, ar visa ši krūva tikrai jūsų ir ar ją reikia nešti vienam.",
+    "Skeptrų istorijoje čia matome entuziazmo kainą: kiekvienas „taip“ virto užduotimi. Tačiau žmogus jau netoli namų, tad korta kalba ir apie artėjantį užbaigimą. Svarbiausia čia – išmokti atskirti, kas būtina, o kas tik įprotis. Kartais pakanka perduoti vieną lazdą, kad žingsnis taptų lengvesnis."
+   ],
+   "reversed": "Apverstas dešimtukas kalba apie naštos padėjimą, delegavimą ir palengvėjimą, bet kartais ir apie lūžį, kai nebegalima daugiau. Tai klausimas, ar patys nusprendžiate, ką paleisti, ar tai nutinka dėl perkrovos. Pasirinkite sąmoningai, kol dar turite jėgų.",
+   "positions": {
+    "past": "Anksčiau prisiėmėte daugiau, nei buvo būtina, ir tai tapo įpročiu.",
+    "present": "Dabar jaučiate krūvį, atsakomybę ir nuovargį. Padėti dalį šalin nėra silpnumas.",
+    "future": "Netrukus artėja užbaigimas, bet gali prireikti dar nemažai pastangų.",
+    "obstacle": "Kliūtis gali būti nenoras prašyti pagalbos arba įsitikinimas, kad tik jūs galite tai padaryti.",
+    "advice": "Surašykite visus įsipareigojimus ir pažymėkite, kuriuos galima perduoti, atidėti ar atsisakyti.",
+    "outcome": "Rezultatas priklauso nuo to, ar išmoksite dalytis, nepraradę prasmės."
+   },
+   "feelings": "Ši korta gali rodyti žmogų, kuris dabar yra perkrautas ir turi mažai vietos jausmams. Tai nebūtinai abejingumas jums – dažniau nuovargis. Pasiūlykite pagalbą ir būkite kantrūs, bet neimkite jo naštos ant savo pečių.",
+   "money": "Pinigų klausimu korta kalba apie finansinius įsipareigojimus ir jų svorį. Tai tema, o ne patarimas.",
+   "friendship": "Draugystėje tai gali būti draugas, nešantis per daug, arba jūsų pačių poreikis, kad kas nors paklaustų, kaip sekasi. Pasiūlykite ranką, nelaukdami prašymo.",
+   "spiritual": "Dvasinėje praktikoje korta primena, kad ir pareiga gali tapti pasirinkimu. Pasirinkite, ką iš tikrųjų norite nešti, ir leiskite kitiems dalytis svoriu.",
+   "combos": [
+    {
+     "with": 9,
+     "text": "Atsiskyrėlis kviečia sustoti ir persvarstyti, ką iš tiesų verta nešti."
+    },
+    {
+     "with": 14,
+     "text": "Nuosaikumas moko paskirstyti jėgas, kad jos užtektų ilgam."
+    },
+    {
+     "with": 30,
+     "text": "Skeptrų devynetas rodo nuovargį, pasiekiantį viršūnę."
+    },
+    {
+     "with": 33,
+     "text": "Skeptrų riteris rodo skubėjimą, kuris, perkrautas pažadų, anksčiau ar vėliau sustoja."
+    },
+    {
+     "with": 12,
+     "text": "Pakabintasis siūlo pažvelgti į padėtį naujai, paleidus kontrolę."
+    }
+   ],
+   "questions": [
+    "Ką šiuo metu nešu ir ar tikrai tai mano?",
+    "Kam galėčiau perduoti dalį darbo?",
+    "Kas atsitiktų, jei padėčiau vieną lazdą ant žemės?"
+   ]
+  },
+  {
+   "id": 32,
+   "symbols": [
+    {
+     "s": "Jaunuolis, stovintis dykumoje",
+     "m": "Naujas kelias, kurio dar nepažįstate."
+    },
+    {
+     "s": "Žaliuojanti lazda, į kurią jis žvelgia",
+     "m": "Smalsumas ir pagarba idėjai, kuri dar tik auga."
+    },
+    {
+     "s": "Tunika su salamandromis",
+     "m": "Ugnies simbolis: gyvybingumas, kuris nesudega."
+    },
+    {
+     "s": "Piramidės tolumoje",
+     "m": "Tolimi tikslai ir daug erdvės, kuria dar reikia pereiti."
+    }
+   ],
+   "story": [
+    "Pažai tarote dažnai laikomi pasiuntiniais: jie neša naujienas, mokosi, tyrinėja. Skeptrų pažas yra jaunas smalsuolis, žiūrintis į savo lazdą taip, tarsi ji būtų žinia. Tai asmenybės tipas: žmogus, kurį užkrečia nauja idėja, kuris mėgsta pradėti, klausinėti, bandyti. Jis ne visada žino, kur eina, bet jaučia, kad kažkas laukia.",
+    "Skeptrų istorijoje pažas yra naujo ciklo pradžia po dešimtuko naštos: grįžta lengvumas. Kartu jis primena, kad entuziazmas dar nėra patirtis; nuoširdumas ir žaismingumas čia yra jo stiprybės, o nekantrumas ir išsisklaidymas – silpnybės. Kaip pasiuntinys jis gali reikšti ir žinią: nelauktą kvietimą, pasiūlymą ar mintį, kurią verta išklausyti."
+   ],
+   "reversed": "Apverstas pažas rodo entuziazmą, kuris išblėsta, vos susidūręs su pirmais sunkumais, arba pradėtus ir neužbaigtus darbus. Tai gali reikšti ir žinias, kurios vėluoja. Paklauskite, ar jūsų susidomėjimas gilus, ar vien trumpalaikis susižavėjimas naujove.",
+   "positions": {
+    "past": "Anksčiau jus pagavo naujas susidomėjimas ar idėja, kuri dar gali sugrįžti.",
+    "present": "Dabar esate smalsūs ir atviri. Leiskite sau mokytis ir bandyti be perfekcionizmo.",
+    "future": "Netrukus gali ateiti žinia, pasiūlymas ar nauja pažintis, kuri sužadins entuziazmą.",
+    "obstacle": "Kliūtis gali būti išsibarstymas ir polinkis mesti, vos tik prarandamas pirmasis džiaugsmas.",
+    "advice": "Išbandykite ką nors naujo mažu mastu ir stebėkite, kas sužadina jūsų energiją.",
+    "outcome": "Rezultatas atviras, bet palankus mokymuisi ir naujoms pažintims."
+   },
+   "feelings": "Kaip žmogus, ši korta dažnai atspindi smalsų, žaismingą asmenį, kuris gali domėtis jumis arba tik jūsų idėja. Jo jausmai gali būti nuoširdūs, bet dar nevisiškai nusistovėję. Duokite laiko ir stebėkite, ar susidomėjimas išlieka.",
+   "money": "Pinigų klausimu korta kalba apie naujas idėjas ar mokymąsi, galintį atnešti galimybių. Tai tema, o ne prognozė.",
+   "friendship": "Draugystėje tai gali būti jaunas ar jaunatviškos dvasios žmogus, naujas pomėgis ar žaismingas bendravimas. Pakvieskite ką nors kartu išbandyti ką nors naujo.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia pradedančiojo požiūrį: be išankstinių nuostatų klausti, tyrinėti ir pasitikėti savo smalsumu.",
+   "combos": [
+    {
+     "with": 0,
+     "text": "Kvailys sustiprina pradžios, laisvės ir drąsos temą."
+    },
+    {
+     "with": 22,
+     "text": "Skeptrų tūzas rodo kibirkštį, iš kurios gimsta pažo susidomėjimas."
+    },
+    {
+     "with": 1,
+     "text": "Magas padeda smalsumui virsti realiais gebėjimais."
+    },
+    {
+     "with": 33,
+     "text": "Skeptrų riteris rodo, kaip pažo užsidegimas virsta veiksmu."
+    },
+    {
+     "with": 60,
+     "text": "Kardų pažas prideda klausimų ir žvalumo proto lygmenyje."
+    }
+   ],
+   "questions": [
+    "Kas mane dabar tikrai domina, be kitų lūkesčių?",
+    "Ką noriu išbandyti, nors bijau suklysti?",
+    "Kokią žinią šiuo metu nešiojuosi ir ar ją pasakau?"
+   ]
+  },
+  {
+   "id": 33,
+   "symbols": [
+    {
+     "s": "Riteris ant pasistojusio žirgo",
+     "m": "Veiksmas, greitis, nepakantumas delsimui."
+    },
+    {
+     "s": "Šarvai ir plunksnų kuokštas",
+     "m": "Pasirengimas kovai ir ryžtas, bet kartu ir vaizdingumas."
+    },
+    {
+     "s": "Tunika su salamandromis",
+     "m": "Ugnies simbolis ir nepaliaujama energija."
+    },
+    {
+     "s": "Dykuma ir piramidės fone",
+     "m": "Platūs, atviri tikslai ir mažai prieglobsčio kelyje."
+    }
+   ],
+   "story": [
+    "Riteriai tarote yra judėjimas ir veikimas: kiekvienas skirtingai įkūnija savo elementą. Skeptrų riteris yra ugnis ugnyje – karštakošis, drąsus, charizmatiškas. Tai žmogus, kuris veikia pirmas ir galvoja vėliau, mėgsta nuotykius, yra atviras kelionėms ir naujovėms. Jo žirgas veržiasi nežinia kur, bet visada su užsidegimu.",
+    "Skeptrų istorijoje riteris yra pažo smalsumo virsmas veiksmu. Šis etapas nesibaimina iššūkių, bet dažnai nesuvokia jų kainos. Jo stiprybė – iniciatyva ir užkrečiantis energingumas; silpnybė – nekantrumas, polinkis mesti pusiaukelėje ir ieškoti naujo azarto. Korta klausia, ar jūsų užsidegimas turi kryptį, ar tai tik bėgimas nuo nuobodulio."
+   ],
+   "reversed": "Apverstas riteris rodo išsiblaškiusią energiją: skubėjimą, pyktį, nenuspėjamumą arba atvirkščiai – sustojimą ir atidėliojimą. Tai gali būti ir sprendimai, priimti per greitai. Pasvarstykite, kur jūsų užsidegimas pernelyg skuba ir ar galite jį nukreipti viena kryptimi.",
+   "positions": {
+    "past": "Anksčiau buvote labai impulsyvūs ar sutikote nuotykių ištroškusį žmogų, o gal tai buvo visas gyvenimo etapas.",
+    "present": "Dabar jūsų gyvenime arba aplink jus daug veiksmo, judėjimo ir aistros. Venkite skubotų sprendimų.",
+    "future": "Netrukus gali pasirodyti nuotykis, kelionė ar staigus pokytis.",
+    "obstacle": "Kliūtis gali būti nekantrumas ir nenoras mąstyti apie pasekmes.",
+    "advice": "Nukreipkite energiją į vieną tikslą ir užbaikite tai, ką pradėjote.",
+    "outcome": "Rezultatas labai priklauso nuo kryptingumo: be jo greitis išsisklaido."
+   },
+   "feelings": "Kaip žmogus, tai gali būti aistringas, spontaniškas, bet ne visada pastovus asmuo. Jo jausmai gali būti stiprūs ir greiti, bet ilgesniam ryšiui reikia nuoseklumo. Stebėkite, ar jo elgesys išlieka vienodas ne tik pirmojo susižavėjimo metu.",
+   "money": "Pinigų klausimu korta kalba apie drąsą rizikuoti ir impulsyvų elgesį. Tai tema, o ne patarimas.",
+   "friendship": "Draugystėje tai nuotykių ieškotojas, kuris traukia į naujus užsiėmimus. Su tokiu žmogumi smagu, bet dėl planų susitarkite iš anksto.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia nukreipti jėgas į nuoseklų darbą, o ne bėgti nuo vidinės tylos link naujo susižavėjimo.",
+   "combos": [
+    {
+     "with": 7,
+     "text": "Vežimas duoda krypties riterio energijai."
+    },
+    {
+     "with": 0,
+     "text": "Kvailys atspindi tą patį nuotykių polėkį, bet su atviresne širdimi."
+    },
+    {
+     "with": 29,
+     "text": "Skeptrų aštuonetas rodo, kaip greitai viskas gali pajudėti."
+    },
+    {
+     "with": 16,
+     "text": "Bokštas įspėja apie staigų sustabdymą po skubotų žingsnių."
+    },
+    {
+     "with": 63,
+     "text": "Kardų karalius suteikia riteriui aiškų protą ir strategiją."
+    }
+   ],
+   "questions": [
+    "Ar mano greitis tarnauja tikslui, ar bėgimui nuo kažko?",
+    "Ką dažniausiai pradedu ir nebaigiu?",
+    "Kaip galiu išlaikyti aistrą ilgesniam laikui?"
+   ]
+  },
+  {
+   "id": 34,
+   "symbols": [
+    {
+     "s": "Karūnuota moteris soste",
+     "m": "Savarankiškumas ir autoritetas, išaugęs iš vidaus."
+    },
+    {
+     "s": "Saulėgrąža rankoje",
+     "m": "Šiluma, gyvybingumas, trauka šviesai."
+    },
+    {
+     "s": "Juoda katė prie kojų",
+     "m": "Intuicija, nepriklausomybė, paslaptis."
+    },
+    {
+     "s": "Liūtai soste ir lazda rankoje",
+     "m": "Drąsa ir sugebėjimas vadovauti."
+    }
+   ],
+   "story": [
+    "Karalienės tarote įkūnija vidinį elemento valdymą. Skeptrų karalienė yra šilta, patraukli, pasitikinti savimi: žmogus, kuris žino, ko nori, ir sugeba aplink save sukurti gyvybingą aplinką. Ji ne dominuoja, o traukia, ir žmonės nori būti šalia jos. Toks asmuo dažnai yra vadovas, kūrėjas ar organizatorius, kuris įkvepia pavyzdžiu.",
+    "Skeptrų istorijoje ji reiškia ugnį, kurią pavyko suvaldyti iš vidaus: jau nebe pažo smalsumas ir ne riterio skubėjimas, o branda ir savo energijos supratimas. Tačiau šiluma gali virsti pavydu ar reiklumu, jei jaučiasi nesaugi. Korta kviečia būti savimi iki galo, bet nepamiršti, kad ir kiti turi teisę spindėti."
+   ],
+   "reversed": "Apversta karalienė kalba apie šilumą, praradusią pasitikėjimą savimi: pavydą, reiklumą, nenuspėjamą nuotaiką ar norą kontroliuoti. Kartais tai ir pavargusi ugnis, kuri slepiasi nuo kitų. Paklauskite, kur jūsų pasitikėjimas remiasi kitų pripažinimu ir ar galite jį sugrąžinti sau.",
+   "positions": {
+    "past": "Anksčiau sutikote šiltą, charizmatišką asmenybę, kuri paliko pėdsaką, o gal tokie buvote patys.",
+    "present": "Dabar esate šviesos centre arba jums reikia grįžti prie savo šilumos ir pasitikėjimo.",
+    "future": "Netrukus galite įgauti didesnį pasitikėjimą arba sutikti žmogų, kuris įkvėps.",
+    "obstacle": "Kliūtis gali būti pavydas, reiklumas ar baimė likti nepastebėtam.",
+    "advice": "Veikite iš savo vidinės šilumos ir leiskite kitiems matyti jūsų tikrąjį veidą.",
+    "outcome": "Rezultatas palankus, jei išliksite autentiški ir dosnūs kitiems."
+   },
+   "feelings": "Kaip žmogus, tai šiltas, stiprus, nepriklausomas asmuo, kuris gali būti dosnus meilėje, bet nori būti pastebėtas ir gerbiamas. Jo jausmai dažniausiai matomi aiškiai. Vertinkite šilumą ir gerbkite nepriklausomybę.",
+   "money": "Pinigų klausimu korta kalba apie savarankiškumą, kūrybinį verslumą ir pasitikėjimą savo verte. Tai tema, o ne patarimas.",
+   "friendship": "Draugystėje tai žmogus, kuris suburia aplink save kitus ir teikia gyvybės. Būkite atviri ir dėkingi.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia pasitikėti savo vidine šviesa ir savo intuicija, kuri nebijo būti matoma.",
+   "combos": [
+    {
+     "with": 8,
+     "text": "Stiprybė pabrėžia šilumą ir ramų vidinį tvirtumą."
+    },
+    {
+     "with": 3,
+     "text": "Imperatorė prideda augimo, kūrybos ir gausos."
+    },
+    {
+     "with": 19,
+     "text": "Saulė spinduliuoja tą patį pasitikėjimą ir džiaugsmą."
+    },
+    {
+     "with": 2,
+     "text": "Žynė rodo, kad už šilumos slypi gili intuicija."
+    },
+    {
+     "with": 48,
+     "text": "Taurių karalienė suderina ugnies stiprybę su gilesniu jausmų pasauliu."
+    }
+   ],
+   "questions": [
+    "Kur šiuo metu spinduliuoju, o kur slepiuosi?",
+    "Ar mano pasitikėjimas remiasi vidumi, ar pritarimu?",
+    "Ką galiu padaryti, kad kiti šalia manęs jaustųsi saugūs ir pastebėti?"
+   ]
+  },
+  {
+   "id": 35,
+   "symbols": [
+    {
+     "s": "Karalius soste su liūtais",
+     "m": "Valdžia, paremta drąsa ir pasitikėjimu."
+    },
+    {
+     "s": "Salamandros ant sosto ir apsiausto",
+     "m": "Ugnies dvasia, kurią karalius sugeba valdyti."
+    },
+    {
+     "s": "Žydinti lazda rankoje",
+     "m": "Gyva vizija: valdžia, kuri žaliuoja, o ne tik įsako."
+    }
+   ],
+   "story": [
+    "Karaliai tarote yra elemento meistrai, sugebantys nukreipti jo jėgą. Skeptrų karalius yra vizionierius: žmogus, kuris mato didelį paveikslą ir sugeba kitus užkrėsti savo tikslu. Jis ryžtingas, charizmatiškas, ir dažnai pats pirmasis imasi to, ko prašo iš kitų. Tai verslininko, menininko, vadovo ar mentoriaus tipas.",
+    "Skeptrų istorijoje karalius yra ciklo apvainikavimas: iš kibirkšties gimusi ugnis tapo kryptinga ir atsakinga. Jame nebėra pažo naivumo ar riterio skubėjimo, tik patirtis ir noras ją perduoti. Bet jo kritiška vieta – išdidumas: vizija be klausymosi lengvai tampa dominavimu. Tikra karaliaus galia yra leisti kitiems augti šalia."
+   ],
+   "reversed": "Apverstas karalius rodo vizijas, kurioms trūksta pagrindo, arba vadovavimą, kuris virto dominavimu. Gali būti ir karštakošiškumas, skubūs sprendimai ar, priešingai, prarastas tikslas. Paklauskite, ar jūsų užsidegimas vis dar tarnauja kitiems, ar jau tik jums patiems.",
+   "positions": {
+    "past": "Anksčiau sutikote vizionierių, kuris pakeitė jūsų požiūrį, o gal tokie buvote patys.",
+    "present": "Dabar prisiimate vadovo vaidmenį arba jus veikia stiprus lyderis. Svarbu pasitikėti, bet ir klausti.",
+    "future": "Netrukus galite gauti galimybę vadovauti ar įgyvendinti didesnį planą.",
+    "obstacle": "Kliūtis gali būti išdidumas ir nenoras klausytis kitų nuomonės.",
+    "advice": "Dalinkitės savo vizija, bet suteikite vietos kitų indėliui.",
+    "outcome": "Rezultatas palankus, jei vizija derės su atsakomybe ir dėmesiu kitiems."
+   },
+   "feelings": "Kaip žmogus, tai pasitikintis, tvirtas, drąsus asmuo, kuris nori daryti įtaką ir gali būti dosnus tiems, kuriuos gerbia. Jis gali būti ir dominuojantis, tad gerbkite jo energiją, bet nepamirškite savo balso.",
+   "money": "Pinigų klausimu korta kalba apie verslumą, iniciatyvą ir vadovavimą savo projektui. Tai tema, o ne finansų patarimas.",
+   "friendship": "Draugystėje tai draugas, kuris įkvepia ir veda į priekį, bet kartais gali užgožti. Pasidalinkite savo nuomone ramiai ir aiškiai.",
+   "spiritual": "Dvasinėje praktikoje korta kviečia prisiimti atsakomybę už savo kelią ir dalytis savo patirtimi su tais, kurie to nori.",
+   "combos": [
+    {
+     "with": 4,
+     "text": "Imperatorius suteikia struktūros ir pastovumo vizijai."
+    },
+    {
+     "with": 5,
+     "text": "Šventikas prideda mokymo ir tradicijos dimensiją."
+    },
+    {
+     "with": 1,
+     "text": "Magas rodo, kad vizija turi virsti realiais veiksmais."
+    },
+    {
+     "with": 11,
+     "text": "Teisingumas primena, kad vadovavimas reikalauja sąžiningumo."
+    },
+    {
+     "with": 34,
+     "text": "Skeptrų karalienė šalia karaliaus rodo pusiausvyrą tarp šilumos ir vizijos."
+    }
+   ],
+   "questions": [
+    "Kokią viziją tikrai noriu įgyvendinti?",
+    "Kaip aš elgiuosi, kai kas nors su manimi nesutinka?",
+    "Ką galiu perduoti kitiems, kad jie augtų šalia manęs?"
+   ]
+  }
+ ]
+}

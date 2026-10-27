@@ -1,0 +1,1655 @@
+{
+  "labels": {
+    "kwUp": "Atslēgvārdi",
+    "kwRev": "Apgriezta",
+    "about": "Par kārti",
+    "love": "Mīlestība",
+    "work": "Darbs",
+    "advice": "Padoms",
+    "element": "Elements",
+    "astro": "Astroloģija",
+    "number": "Skaitlis",
+    "open": "Lasīt vairāk par kārti",
+    "close": "Aizvērt"
+  },
+  "cards": [
+    {
+      "kw_up": [
+        "jauns sākums",
+        "spontanitāte",
+        "uzticēšanās",
+        "atvērtība"
+      ],
+      "kw_rev": [
+        "neuzmanība",
+        "naivums",
+        "taustīšanās",
+        "steiga"
+      ],
+      "about": "Jauns ceļinieks stāv pie krauja malas ar mazu mezglu uz pleca, suns seko pa pēdām, un aiz muguras spīd saule. Kārts runā par pirmo soli un par dzīves sagaidīšanu ar atvērtām acīm un vieglu sirdi.",
+      "love": "Mīlestībā Muļķis var norādīt uz jaunu un neparedzamu sākumu vai vēlmi satikt kādu bez cerībām. Tas var arī atgādināt paskatīties zem kājām.",
+      "work": "Darbā tas var runāt par drosmi izmēģināt ko jaunu vai izvēlēties neierastu ceļu. Ir prātīgi līdzsvarot degsmi ar vienkāršu plānu.",
+      "advice": "Ļauj ziņkārei sevi vadīt, bet ņem līdzi to, ko jau zini.",
+      "element": "Gaiss",
+      "astro": "Gaiss (Golden Dawn)",
+      "number": "Nulle: potenciāls, tukšums pirms visa sākuma"
+    },
+    {
+      "kw_up": [
+        "griba",
+        "rīcība",
+        "prasmes",
+        "fokuss"
+      ],
+      "kw_rev": [
+        "manipulācija",
+        "izkliedēta enerģija",
+        "neizmantots talants",
+        "plāni bez rīcības"
+      ],
+      "about": "Figūra stāv pie altāra, viena roka ar nūju pacelta pret debesīm, otra rāda uz zemi, un priekšā ir visi četri simboli. Virs galvas lido bezgalības zīme kā attēls tam, ka doma un rīcība ir saistītas.",
+      "love": "Attiecībās kārts var runāt par sevis skaidru parādīšanu un iniciatīvu godīgai sarunai. Tā atgādina arī būt patiesam, bez maskām.",
+      "work": "Darbā tā norāda, ka tev ir nepieciešamie instrumenti un varbūt pienācis laiks tos lietot. Fokuss ir atslēga.",
+      "advice": "Savāc spēkus vienā vietā un sāc.",
+      "element": "Gaiss",
+      "astro": "Merkurs",
+      "number": "Viens: griba, sākums un apzināts radošais spēks"
+    },
+    {
+      "kw_up": [
+        "intuīcija",
+        "klusums",
+        "apslēptas zināšanas",
+        "iekšēja ieklausīšanās"
+      ],
+      "kw_rev": [
+        "noslēpumi",
+        "ignorēta iekšējā balss",
+        "apjukums",
+        "atrāvšanās"
+      ],
+      "about": "Sieviete sēž starp gaišu un tumšu kolonnu, aiz viņas plīvurs, pie kājām mēness. Rokās viņai ritulis, kura saturs redzams tikai pa pusei; kārts runā par to, kas slēpjas zem virsmas.",
+      "love": "Mīlestībā kārts aicina ieklausīties tajā, kas netiek teikts, gan sevī, gan otrā. Pacietība var dot vairāk skaidrības nekā ātras atbildes.",
+      "work": "Darbā var būt laiks novērot, pirms lemj. Ne visu vajag paskaidrot uzreiz.",
+      "advice": "Pabūdi klusumā un pamani, ko tu patiesībā zini.",
+      "element": "Ūdens",
+      "astro": "Mēness",
+      "number": "Divi: duālisms, līdzsvars starp redzamo un apslēpto"
+    },
+    {
+      "kw_up": [
+        "gādība",
+        "pārpilnība",
+        "radošs prieks",
+        "jutekliskums"
+      ],
+      "kw_rev": [
+        "atkarība",
+        "smacējoša gādība",
+        "stagnācija",
+        "sevis aizmirsšana"
+      ],
+      "about": "Kronēta sieviete atpūšas zaļā ainavā ar labības vārpām un tekošu strautu, ieskauta pilnā ziedā plaukstošas dabas. Kārts simbolizē auglību, baudu un to, kas aug, kad saņem barību.",
+      "love": "Mīlestībā tā runā par siltumu, maigumu un gādības došanu un saņemšanu. Tā var arī atgādināt parūpēties par sevi.",
+      "work": "Darbā tā var norādīt uz radošiem projektiem, kas aug savā tempā. Kvalitāte un kopšana bieži dod labākus augļus nekā steiga.",
+      "advice": "Baro to, kam gribi izaugt, arī sevi.",
+      "element": "Ūdens",
+      "astro": "Venera",
+      "number": "Trīs: izaugsme, radošais spēks un izpausme"
+    },
+    {
+      "kw_up": [
+        "struktūra",
+        "stabilitāte",
+        "autoritāte",
+        "atbildība"
+      ],
+      "kw_rev": [
+        "stingrība",
+        "kontroles vajadzība",
+        "nelokāmība",
+        "varas ļaunprātīga izmantošana"
+      ],
+      "about": "Kronēts vīrietis sēž akmens tronī, kas rotāts ar aunu galvām, rokās sceptris un lode, virs bruņām sarkans apmetnis. Viņš simbolizē kārtību, robežas un spēju celt to, kas pastāvēs.",
+      "love": "Mīlestībā kārts var runāt par drošību, uzticību un skaidriem rāmjiem. Tā var arī lūgt paskatīties, vai kontroles vajadzība neieņem tuvības vietu.",
+      "work": "Darbā tas ir par vadību, plānošanu un atbildības uzņemšanos. Labi rāmji var atbrīvot enerģiju, kamēr tie nekļūst par būri.",
+      "advice": "Rado struktūru, kas tevi atbalsta, nevis ieslēdz.",
+      "element": "Uguns",
+      "astro": "Auns",
+      "number": "Četri: pamats, kārtība un stabilitāte"
+    },
+    {
+      "kw_up": [
+        "tradīcija",
+        "vadība",
+        "kopiena",
+        "mācīšanās"
+      ],
+      "kw_rev": [
+        "normu laušana",
+        "dogmas",
+        "aklā sekošana citiem",
+        "neatkarība"
+      ],
+      "about": "Reliģiska figūra sēž starp divām kolonnām un paceļ roku svētībai, priekšā ceļos nometušies divi mācekļi, pie kājām atslēgas. Kārts runā par nodoto gudrību un kopīgajām vērtībām, pēc kurām dzīvojam.",
+      "love": "Mīlestībā tas var attiekties uz apņemšanos, kopīgām vērtībām un varbūt rituāliem, kas saista divus cilvēkus. Tas var arī pajautāt, kam tici pats.",
+      "work": "Darbā kārts var norādīt uz mentoriem, izglītību un pastāvīgu kārtību. Var būt noderīgi mācīties no tiem, kas ceļu jau gājuši.",
+      "advice": "Meklē padomu pie kāda, kam uzticies, bet pārbaudi to ar savu izpratni.",
+      "element": "Zeme",
+      "astro": "Vērsis",
+      "number": "Pieci: jēgas meklējumi, mācīšanās un tradīcija"
+    },
+    {
+      "kw_up": [
+        "izvēle",
+        "apvienošanās",
+        "vērtības",
+        "harmonija"
+      ],
+      "kw_rev": [
+        "neizlēmība",
+        "nelīdzsvars",
+        "nesaskaņas",
+        "neskaidras vērtības"
+      ],
+      "about": "Divas kailas figūras stāv zem eņģeļa, aiz katras koks, viens ar augļiem, otrs ar liesmām. Kārts runā par izvēli no sirds un par to, kas notiek, kad satiekas divas puses.",
+      "love": "Mīlestībā tas ir par dziļu saikni un apzinātu viens otra izvēli. Tas var attiekties arī uz izvēli, kurai vajadzīgs godīgums.",
+      "work": "Darbā tā norāda uz krustcelēm, kur tavām vērtībām jābūt svarīgām. Sadarbība var kļūt par stiprumu.",
+      "advice": "Izvēlies to, kas atbilst tam, kas tu patiesībā esi.",
+      "element": "Gaiss",
+      "astro": "Dvīņi",
+      "number": "Seši: harmonija, izvēle un savstarpīgums"
+    },
+    {
+      "kw_up": [
+        "dzinējspēks",
+        "uzvara",
+        "paškontrole",
+        "virziens"
+      ],
+      "kw_rev": [
+        "virziena trūkums",
+        "agresija",
+        "zaudēta kontrole",
+        "šķēršļi"
+      ],
+      "about": "Jauns karotājs stāv ratos, ko velk divi sfinksi, gaišs un tumšs, zem zvaigžņota baldahīna. Groži nav redzami, jo ceļojumu vada griba.",
+      "love": "Mīlestībā kārts var norādīt uz mērķtiecīgām pūlēm un spēju noturēt kursu grūtā periodā. Tā atgādina arī ieklausīties, ne tikai dzīt uz priekšu.",
+      "work": "Darbā tas ir par virzību, koncentrēšanos un pretējo spēku savākšanu kopīgam mērķim.",
+      "advice": "Tur abus spēkus rokās un izvēlies virzienu.",
+      "element": "Ūdens",
+      "astro": "Vēzis",
+      "number": "Septiņi: gribasspēks, virzība uz priekšu un meistarība"
+    },
+    {
+      "kw_up": [
+        "drosme",
+        "pacietība",
+        "maigs spēks",
+        "pašpārliecība"
+      ],
+      "kw_rev": [
+        "šaubas par sevi",
+        "rupjš spēks",
+        "nepacietība",
+        "neaizsargātība"
+      ],
+      "about": "Sieviete uzmanīgi aizver lauvai žokļus, un virs viņas galvas lido bezgalības zīme. Kārts rāda, ka īsts spēks bieži ir maigs, mierīgs un neatlaidīgs.",
+      "love": "Mīlestībā tas ir par maigumu un pacietību, un par savu un otra ievainojamo pušu sagaidīšanu ar siltumu.",
+      "work": "Darbā tas var runāt par spēju tikt galā ar spiedienu mierīgi un ar vienmērīgu spēku. Izturība bieži uzvar kņadu.",
+      "advice": "Sagaidi to, kas tevi biedē, ar maigumu un stabilu roku.",
+      "element": "Uguns",
+      "astro": "Lauva",
+      "number": "Astoņi: iekšējais spēks, izturība un līdzsvars"
+    },
+    {
+      "kw_up": [
+        "ieskats",
+        "vientulība",
+        "meklējumi",
+        "vadība"
+      ],
+      "kw_rev": [
+        "izolācija",
+        "atrāvšanās",
+        "vientulība",
+        "izvairīšanās no citiem"
+      ],
+      "about": "Vecs vīrs stāv sniegotā kalna virsotnē ar lukturi, kas apgaismo mazu zvaigzni, otrā rokā spieķis. Kārts rāda klusos meklējumus pēc savas patiesības.",
+      "love": "Mīlestībā kārts var nozīmēt, ka tev vajag laiku vienatnē, lai saprastu, ko vēlies. Tā atgādina arī, ka tuvībai vajag sevis pazīšanu.",
+      "work": "Darbā tas var attiekties uz iedziļināšanos, studijām vai pārtraukumu no trokšņa, lai skaidri domātu.",
+      "advice": "Atvēli laiku klusumam un ļauj lukturim spīdēt sev.",
+      "element": "Zeme",
+      "astro": "Jaunava",
+      "number": "Deviņi: pabeigtība, pārdomas un iekšēja vadība"
+    },
+    {
+      "kw_up": [
+        "cikls",
+        "pārmaiņas",
+        "likteņa pavērsieni",
+        "progress"
+      ],
+      "kw_rev": [
+        "neveiksmes",
+        "pretošanās pārmaiņām",
+        "neveiksme",
+        "atkārtošanās"
+      ],
+      "about": "Liels ritenis ar simboliem un burtiem lido debesīs, ap to spārni, sfinkss, čūska un dzīvnieks katrā stūrī. Kārts atgādina, ka viss notiek cikliski un nekas nepaliek vienā veidā.",
+      "love": "Mīlestībā kārts var iezīmēt pavērsienu, jaunu posmu vai vecā modeļa lūšanu. Tā aicina iet līdzi kustībai.",
+      "work": "Darbā tā norāda uz pārmaiņām un iespējām, kas atveras, un uz pielāgošanos jauniem apstākļiem.",
+      "advice": "Paliec kustīgs, jo ritenis turpina griezties.",
+      "element": "Uguns",
+      "astro": "Jupiters",
+      "number": "Desmit: pilns cikls, sākas jauns līmenis"
+    },
+    {
+      "kw_up": [
+        "līdzsvars",
+        "patiesība",
+        "atbildība",
+        "cēlonis un sekas"
+      ],
+      "kw_rev": [
+        "netaisnība",
+        "nelīdzsvars",
+        "izvairīšanās",
+        "atbildības noraidīšana"
+      ],
+      "about": "Figūra sēž tronī ar zobenu vienā rokā un svariem otrā, starp divām kolonnām, aiz muguras plīvurs. Kārts runā par godīgumu un lēmumu sekām.",
+      "love": "Mīlestībā tas ir par taisnīgumu, atklātu komunikāciju un savstarpēju cieņu. Turi vārdu un esi skaidrs.",
+      "work": "Darbā kārts var norādīt uz vienošanos, vērtējumiem un lēmumiem, kam vajadzīga objektivitāte un skaidri fakti.",
+      "advice": "Esi godīgs, arī pret sevi, un nosver to.",
+      "element": "Gaiss",
+      "astro": "Svari",
+      "number": "Vienpadsmit: līdzsvars, izvērtēšana un atbildība"
+    },
+    {
+      "kw_up": [
+        "pauze",
+        "jauns skatījums",
+        "atdošanās",
+        "pacietība"
+      ],
+      "kw_rev": [
+        "atlikšana",
+        "stagnācija",
+        "pretestība",
+        "nevajadzīga upurēšana"
+      ],
+      "about": "Vīrietis karājas otrādi kokā, viena kāja piesieta, bet seja mierīga un gaismas ieskauta. Kārts runā par atlaišanu, gaidīšanu un pasaules redzēšanu no cita leņķa.",
+      "love": "Mīlestībā kārts var runāt par ļaušanu lietām nogatavoties vai situācijas aplūkošanu no otra puses. Spiediens reti ved uz priekšu.",
+      "work": "Darbā tas var nozīmēt pauzi, līkumu vai nepieciešamo pacietību pirms nākamā soļa.",
+      "advice": "Uz brīdi atlaid un paskaties, kas mainās.",
+      "element": "Ūdens",
+      "astro": "Ūdens",
+      "number": "Divpadsmit: atdošanās un mainīts skatījums"
+    },
+    {
+      "kw_up": [
+        "beigas",
+        "pārveidošanās",
+        "atlaišana",
+        "jauna nodaļa"
+      ],
+      "kw_rev": [
+        "pretošanās pārmaiņām",
+        "iestrēgšana",
+        "nepabeigts",
+        "bailes no beigām"
+      ],
+      "about": "Skeleta jātnieks uz balta zirga nes melnu karogu ar baltu rozi, priekšā stāv dažādu dzīves posmu cilvēki. Kārts reti runā par burtisku nāvi, bet par beigām, kas atstāj vietu jaunam.",
+      "love": "Mīlestībā kārts var iezīmēt, ka posms ir beidzies un jāatlaiž. Tas var arī atvērt dziļāku godīgumu.",
+      "work": "Darbā tas var attiekties uz projektu vai lomu, kas beidzas. Tas atbrīvo vietu citam.",
+      "advice": "Ļauj tam, kas ir beidzies, būt beigtam.",
+      "element": "Ūdens",
+      "astro": "Skorpions",
+      "number": "Trīspadsmit: beigas un pārveidošanās"
+    },
+    {
+      "kw_up": [
+        "līdzsvars",
+        "mērenība",
+        "pacietība",
+        "harmonija"
+      ],
+      "kw_rev": [
+        "nelīdzsvars",
+        "galējības",
+        "steiga",
+        "saskaņas trūkums"
+      ],
+      "about": "Eņģelis stāv ar vienu kāju ūdenī, otru uz sauszemes un lej šķidrumu turp un atpakaļ starp diviem kausiem. Kārts runā par sajaukšanu, ritmu un zelta vidusceļa atrašanu.",
+      "love": "Mīlestībā tas ir par vienmērīga ritma atrašanu un dažādu vajadzību saudzīgu sajaukšanu.",
+      "work": "Darbā kārts var norādīt uz līdzsvarotu tempu un sadarbību, kur dažādi stiprumi papildina viens otru.",
+      "advice": "Atrodi savu vidu un ļauj lietām sajaukties mierīgā tempā.",
+      "element": "Uguns",
+      "astro": "Strēlnieks",
+      "number": "Četrpadsmit: pielāgošanās, sajaukšana un līdzsvars"
+    },
+    {
+      "kw_up": [
+        "saites",
+        "kārdinājums",
+        "ēna",
+        "materiālisms"
+      ],
+      "kw_rev": [
+        "atbrīvošanās",
+        "ieradumu laušana",
+        "atgūts spēks",
+        "ieskats"
+      ],
+      "about": "Ragaina figūra sēž uz pjedestāla, un pie tā ar vaļīgām važām piesaistītas divas kailas figūras. Kārts rāda ieradumus un saites, ko esam radījuši paši, bieži to neredzot.",
+      "love": "Mīlestībā kārts var norādīt uz pievilkšanos, atkarību vai modeļiem, kas mūs notur. Tā aicina tos skaidri redzēt.",
+      "work": "Darbā tie var būt ieradumi vai ambīcijas, kas ņem vairāk, nekā dod, un jautājums, kas tevi patiesībā vada.",
+      "advice": "Paskaties, kas tevi saista, jo važas bieži ir vaļīgākas, nekā šķiet.",
+      "element": "Zeme",
+      "astro": "Mežāzis",
+      "number": "Piecpadsmit: ēna, kāre un saistība"
+    },
+    {
+      "kw_up": [
+        "apvērsums",
+        "atklāsme",
+        "šoks",
+        "pamošanās"
+      ],
+      "kw_rev": [
+        "katastrofas izvairīšanās",
+        "bailes no pārmaiņām",
+        "aizkavēta sabrukšana",
+        "pakāpeniska pārmaiņa"
+      ],
+      "about": "Torni uz klints sit zibens, liesmas un krīt kronis, bet divas figūras lec laukā. Kārts rāda, ka maldīgas struktūras var sabrukt, lai varētu uzcelt patiesāku.",
+      "love": "Mīlestībā kārts var iezīmēt pēkšņu ieskatu vai pārmaiņu, kas satricina drošo. Tas var atstāt vietu godīgākām attiecībām.",
+      "work": "Darbā tā var norādīt uz pēkšņām pārmaiņām vai to, ka kaut kas neilgtspējīgs kļūst skaidrs, un nepieciešamību celt no jauna.",
+      "advice": "Skaties uz krītošo kā uz atvērumu un būvē uz stabila pamata.",
+      "element": "Uguns",
+      "astro": "Marss",
+      "number": "Sešpadsmit: apvērsums un izrāviens"
+    },
+    {
+      "kw_up": [
+        "cerība",
+        "atjaunošanās",
+        "iedvesma",
+        "miers"
+      ],
+      "kw_rev": [
+        "neapmierinātība",
+        "ticības trūkums",
+        "izsīkums",
+        "atslēgšanās"
+      ],
+      "about": "Kaila sieviete lej ūdeni no divām krūzēm, vienu dīķī, otru uz zemes, zem lielas zvaigznes, ko ieskauj mazākas. Kārts simbolizē klusu cerību, dziedinošu atpūtu un uzticēšanos, ka gaisma atgriezīsies.",
+      "love": "Mīlestībā tas ir par atvērtību, uzticēšanos un dalīšanos ar to, ko nes. Tā ir samierinoša miera kārts.",
+      "work": "Darbā tā norāda uz ceļu uz priekšu pēc smaga perioda un idejām, kas nāk pašas, kad mierīgi elpo.",
+      "advice": "Turies pie cerības un ļauj tai būt mazliet klusai.",
+      "element": "Gaiss",
+      "astro": "Ūdensvīrs",
+      "number": "Septiņpadsmit: cerība, iedvesma un skaidrība"
+    },
+    {
+      "kw_up": [
+        "sapņi",
+        "intuīcija",
+        "ilūzija",
+        "zemapziņa"
+      ],
+      "kw_rev": [
+        "izklīstošs apjukums",
+        "bailes",
+        "skaidrība",
+        "patiesība nāk gaismā"
+      ],
+      "about": "Mēness spīd virs ceļa starp diviem torņiem, suns un vilks gaudo, un no dīķa rāpjas vēzis. Kārts runā par krēslu, sapņiem un jūtām, ko pilnībā nesaprotam.",
+      "love": "Mīlestībā kārts var norādīt uz nedrošību un spēcīgām jūtām, ko nevar uzreiz izskaidrot. Dod tam laiku un uzdod godīgus jautājumus.",
+      "work": "Darbā lietas var būt neskaidras, un var būt prātīgi gaidīt ar lieliem lēmumiem, līdz aina kļūst skaidrāka.",
+      "advice": "Ej lēnām un uzticies tam, ko jūti, bet pārbaudi to dienas gaismā.",
+      "element": "Ūdens",
+      "astro": "Zivis",
+      "number": "Astoņpadsmit: zemapziņa, sapņi un ilūzija"
+    },
+    {
+      "kw_up": [
+        "prieks",
+        "dzīvotspēja",
+        "skaidrība",
+        "panākumi"
+      ],
+      "kw_rev": [
+        "pagaidu ēna",
+        "pārmērīgs optimisms",
+        "aizkavēts prieks",
+        "izdegšana"
+      ],
+      "about": "Kails bērns jāj uz balta zirga zem lielas saules, aiz mūra saulespuķes, rokā sarkans karogs. Kārts simbolizē siltumu, skaidrību un vienkāršu prieku par pastāvēšanu.",
+      "love": "Mīlestībā tas ir par atvērtību, rotaļīgumu un prieku viens par otru. Godīgums dod gaismu.",
+      "work": "Darbā tas var runāt par progresu un enerģiju, un par dabisku redzamību.",
+      "advice": "Uzlādējies tajā, kas dod prieku, un ļauj to redzēt.",
+      "element": "Uguns",
+      "astro": "Saule",
+      "number": "Deviņpadsmit: dzīvotspēja, prieks un skaidrība"
+    },
+    {
+      "kw_up": [
+        "pamošanās",
+        "aicinājums",
+        "atjaunošanās",
+        "pārdomas"
+      ],
+      "kw_rev": [
+        "paškritika",
+        "aicinājuma ignorēšana",
+        "šaubas",
+        "neatrisināti jautājumi"
+      ],
+      "about": "Eņģelis pūš taurē virs jūras, un cilvēki ceļas no kapiem ar izstieptām rokām. Kārts runā par pamošanos, bilances izdarīšanu un atbildi uz iekšēju aicinājumu.",
+      "love": "Mīlestībā kārts var iezīmēt jaunu izpratni un piedošanu sev un citiem.",
+      "work": "Darbā tā norāda uz līdz šim noietā ceļa izvērtēšanu un iespējamu pārmaiņu, kas šķiet pareiza.",
+      "advice": "Ieklausies aicinājumā un izdari bilanci ar maigumu.",
+      "element": "Uguns",
+      "astro": "Uguns",
+      "number": "Divdesmit: pamošanās un atjaunošanās"
+    },
+    {
+      "kw_up": [
+        "pabeigtība",
+        "veselums",
+        "sasniegums",
+        "integrācija"
+      ],
+      "kw_rev": [
+        "nepabeigts",
+        "trūkst pēdējā soļa",
+        "atlikšana",
+        "stagnācija"
+      ],
+      "about": "Dejotāja lido lapu vainagā, ko ieskauj figūras no četriem stūriem: eņģelis, ērglis, vērsis un lauva. Kārts iezīmē apli, kas aizveras, un jaunu, kas var atvērties.",
+      "love": "Mīlestībā tas ir par veselumu un apmierinātību, un to, ka divi dzīves ceļi var atrast kopīgu ritmu.",
+      "work": "Darbā kārts iezīmē posma pabeigšanu un sasniegtā novērtējumu pirms nākamās nodaļas.",
+      "advice": "Atvēli laiku nosvinēt to, ko esi pabeidzis.",
+      "element": "Zeme",
+      "astro": "Saturns",
+      "number": "Divdesmit viens: piepildījums un veselums"
+    },
+    {
+      "kw_up": [
+        "jauna iedvesma",
+        "dzirkstele",
+        "dzinējspēks",
+        "iespēja"
+      ],
+      "kw_rev": [
+        "kavēšanās",
+        "dzinējspēka trūkums",
+        "zaudēta dzirkstele",
+        "atlikts sākums"
+      ],
+      "about": "Roka no mākoņa pastiepj zaļojošu nūju virs kalnu un upes ainavas. Kārts ir tīras enerģijas dzirkstele, idejas sēkla, kas gaida aizdegšanos.",
+      "love": "Mīlestībā tā var būt jauna kaisle, dzirkstele vai vēlme uzņemties iniciatīvu.",
+      "work": "Darbā tas var nozīmēt jaunu ideju vai projektu ar spēku.",
+      "advice": "Satver dzirksteli, kamēr tā ir karsta.",
+      "element": "Uguns",
+      "astro": "Uguns sakne: elementa tīrais spēks",
+      "number": "Viens: sēkla un sākums"
+    },
+    {
+      "kw_up": [
+        "plānošana",
+        "izvēle",
+        "pārskats",
+        "drosme"
+      ],
+      "kw_rev": [
+        "bailes no nezināmā",
+        "slikta plānošana",
+        "svārstīšanās",
+        "palikšana pie pazīstamā"
+      ],
+      "about": "Vīrietis stāv uz pils mūra ar stikla lodi rokā un nūju blakus, skatoties jūrā. Kārts runā par nākamā mērķa izvēli un skatīšanos tālāk par šodienu.",
+      "love": "Mīlestībā kārts var pajautāt, ko vēlies nākotnē, un aicināt dalīties plānos.",
+      "work": "Darbā tas ir par plānošanu, alternatīvu izvērtēšanu un drosmi tēmēt tālāk.",
+      "advice": "Skaties uz priekšu un izvēlies virzienu.",
+      "element": "Uguns",
+      "astro": "Marss Aunā",
+      "number": "Divi: izvēle un duālisms"
+    },
+    {
+      "kw_up": [
+        "paplašināšanās",
+        "progress",
+        "skats",
+        "pirmie rezultāti"
+      ],
+      "kw_rev": [
+        "šķēršļi",
+        "kavējumi",
+        "vilšanās cerībās",
+        "nepieciešama pacietība"
+      ],
+      "about": "Vīrietis stāv uz klints ar muguru pret skatītāju un skatās jūrā, kur kuģi dodas projām, balstās uz nūju, blakus iesprausti vēl divi. Kārts rāda, ka agrākās pūles sāk nest pirmos augļus.",
+      "love": "Mīlestībā tas var nozīmēt skatīšanos uz kaut ko lielāku kopā vai saiknes augšanas gaidīšanu.",
+      "work": "Darbā kārts norāda uz paplašināšanos, sadarbību starp jomām vai to, ka agrākās pūles sāk nest augļus.",
+      "advice": "Skaties tālumā un uzticies tam, ko esi sējis.",
+      "element": "Uguns",
+      "astro": "Saule Aunā",
+      "number": "Trīs: izaugsme un izpausme"
+    },
+    {
+      "kw_up": [
+        "svinības",
+        "mājas",
+        "drošība",
+        "kopiena"
+      ],
+      "kw_rev": [
+        "nemiers mājās",
+        "kopienas trūkums",
+        "sabrukums",
+        "nenoteiktība"
+      ],
+      "about": "Četras nūjas veido ziedošu velvi ar vainagu virsū, un priekšplānā pie pils svin cilvēki. Kārts runā par drošu ostu un prieku par pirmā enkura punkta sasniegšanu.",
+      "love": "Mīlestībā tas ir par drošību, svinībām un piederību mājām.",
+      "work": "Darbā kārts var norādīt uz atskaites punktu vai labu sadarbības gaisotni.",
+      "advice": "Apstājies un nosvini uzbūvēto.",
+      "element": "Uguns",
+      "astro": "Venera Aunā",
+      "number": "Četri: stabilitāte un pamats"
+    },
+    {
+      "kw_up": [
+        "sacensība",
+        "nesaskaņas",
+        "nekārtība",
+        "pārbaudījums"
+      ],
+      "kw_rev": [
+        "konflikta izvairīšanās",
+        "vienošanās",
+        "beigts strīds",
+        "iekšēja spriedze"
+      ],
+      "about": "Pieci jauni vīrieši vicina nūjas viens pret otru haotiskā un enerģiskā spēlē. Kārts runā par berzi, sacīkstēm un atšķirīgiem viedokļiem, kas sadursmē.",
+      "love": "Mīlestībā kārts var norādīt uz nesaskaņām vai atšķirīgām vajadzībām. Konstruktīvs dialogs var visu mainīt.",
+      "work": "Darbā tā var būt konkurence vai atšķirīgas idejas, kas jāapvalda.",
+      "advice": "Ļauj atšķirībām tevi norūdīt, nevis šķirt.",
+      "element": "Uguns",
+      "astro": "Saturns Lauvā",
+      "number": "Pieci: izaicinājums un nestabilitāte"
+    },
+    {
+      "kw_up": [
+        "uzvara",
+        "atzinība",
+        "pašpārliecība",
+        "progress"
+      ],
+      "kw_rev": [
+        "šaubas par sevi",
+        "atzinības trūkums",
+        "kritiens",
+        "pazemojums"
+      ],
+      "about": "Jātnieks uz balta zirga uz savas nūjas nes lauru vainagu, apkārt gavilē cilvēki. Kārts rāda lepnumu pēc veiksmes un prieku par to, ka tevi pamana.",
+      "love": "Mīlestībā tas var attiekties uz pašpārliecību un atzinību, un prieka par sasniegto dalīšanu.",
+      "work": "Darbā kārts var norādīt uz panākumiem vai labu rezultātu, ko pamana.",
+      "advice": "Pieņem atzinību, bet paliec ar kājām uz zemes.",
+      "element": "Uguns",
+      "astro": "Jupiters Lauvā",
+      "number": "Seši: harmonija un atzinība"
+    },
+    {
+      "kw_up": [
+        "aizsardzība",
+        "izturība",
+        "nostāja",
+        "drosme"
+      ],
+      "kw_rev": [
+        "pārņemtība",
+        "padošanās",
+        "atrāvšanās",
+        "izsīkums"
+      ],
+      "about": "Vīrietis stāv uz pakalna un ar nūju aizstāvas pret sešiem citiem, kas nāk no apakšas. Kārts runā par pastāvēšanu par to, kam tici.",
+      "love": "Mīlestībā tas ir par savu robežu un vērtību aizstāvēšanu.",
+      "work": "Darbā kārts var rādīt spiedienu no ārpuses un nepieciešamību turēties pie savas pozīcijas.",
+      "advice": "Aizstāvi savu uzskatu, neiztērējot visu spēku cīņai.",
+      "element": "Uguns",
+      "astro": "Marss Lauvā",
+      "number": "Septiņi: pārbaudījums un nelokāmība"
+    },
+    {
+      "kw_up": [
+        "ātrums",
+        "paātrinājums",
+        "ātra rīcība",
+        "ziņas"
+      ],
+      "kw_rev": [
+        "kavējumi",
+        "steiga",
+        "vilšanās",
+        "apstāšanās"
+      ],
+      "about": "Astoņas nūjas lido pa gaisu virs ainavas bez cilvēkiem. Kārts runā par ātrumu, kustību un lietām, kas notiek strauji.",
+      "love": "Mīlestībā tas var nozīmēt ātru kontaktu vai attīstību, kas uzņem apgriezienus, un vajadzību pārbaudīt, vai jūtas tiek līdzi.",
+      "work": "Darbā kārts var runāt par ziņām, ceļojumiem vai projektiem, kas pēkšņi paātrinās.",
+      "advice": "Izmanto ātrumu, bet saglabā pārskatu.",
+      "element": "Uguns",
+      "astro": "Merkurs Strēlniekā",
+      "number": "Astoņi: kustība un virzība uz priekšu"
+    },
+    {
+      "kw_up": [
+        "izturība",
+        "noturība",
+        "modrība",
+        "pēdējās pūles"
+      ],
+      "kw_rev": [
+        "izsīkums",
+        "paranoja",
+        "padošanās",
+        "neaizsargātība"
+      ],
+      "about": "Pārsiets vīrietis balstās uz nūju astoņu citu priekšā, kas stāv kā mūris aiz viņa. Kārts runā par pretošanos pēc ilgas cīņas un pēdējo spēku savākšanu.",
+      "love": "Mīlestībā tas var rādīt piesardzību pēc agrākām brūcēm un pacietīgu uzticēšanos.",
+      "work": "Darbā tas ir par izturību un pabeigšanu, kaut arī esi noguris.",
+      "advice": "Izturi vēl mazliet un neaizmirsti atpūsties.",
+      "element": "Uguns",
+      "astro": "Mēness Strēlniekā",
+      "number": "Deviņi: gandrīz pabeigts, izturība"
+    },
+    {
+      "kw_up": [
+        "nasta",
+        "atbildība",
+        "smags darbs",
+        "pabeigšana"
+      ],
+      "kw_rev": [
+        "nastas nolikšana",
+        "deleģēšana",
+        "sabrukums",
+        "pārslodze"
+      ],
+      "about": "Vīrietis uz rokām nes desmit nūjas uz tālu pilsētu, saliecies zem svara. Kārts runā par atbildību, kas kļuvusi smaga, un par to, ko uzņemamies.",
+      "love": "Mīlestībā kārts var norādīt, ka nes pārāk daudz viens pats un ka dalīšanās atvieglotu nastu.",
+      "work": "Darbā tas ir par darba apjomu un vajadzību noteikt prioritātes vai lūgt palīdzību.",
+      "advice": "Paskaties, ko vari nolikt vai dalīt.",
+      "element": "Uguns",
+      "astro": "Saturns Strēlniekā",
+      "number": "Desmit: pārslodze un pabeigšana"
+    },
+    {
+      "kw_up": [
+        "ziņkāre",
+        "entuziasms",
+        "ziņas",
+        "izpēte"
+      ],
+      "kw_rev": [
+        "nepacietība",
+        "izkaisītība",
+        "ziņu nav",
+        "steiga"
+      ],
+      "about": "Jauns vēstnesis stāv tuksnesī ar ziedošu nūju un skatās uz to. Kārts simbolizē jaunu dzirksteli, rotaļīgumu un ziņkāri.",
+      "love": "Mīlestībā tas var būt entuziasms, flirts vai jaunas iespējas.",
+      "work": "Darbā tā var būt jauna ideja vai mācīšanās, kas dod enerģiju.",
+      "advice": "Dari ko rotaļīgu un esi atvērts jaunajam.",
+      "element": "Uguns",
+      "astro": "Zeme Uguni (elementu tradīcija)",
+      "number": "Pāžs: vēstnesis un iesācējs"
+    },
+    {
+      "kw_up": [
+        "piedzīvojumu kāre",
+        "rīcības spēks",
+        "harisma",
+        "ātrums"
+      ],
+      "kw_rev": [
+        "ātrs raksturs",
+        "nemiers",
+        "nepacietība",
+        "mainīgums"
+      ],
+      "about": "Bruņinieks uz auļojoša zirga tur nūju tuksnesim līdzīgā ainā. Kārts simbolizē drosmīgu enerģiju, ceļošanas kāri un degsmi iekarot jaunus mērķus.",
+      "love": "Mīlestībā tā var būt kaisle un uzbudinājums, bet arī vajadzība noturēt kursu.",
+      "work": "Darbā tas ir par sparu un ātrumu, kam bieži vajadzīga izturība.",
+      "advice": "Virzi degsmi vienā virzienā.",
+      "element": "Uguns",
+      "astro": "Uguns Uguni (elementu tradīcija)",
+      "number": "Bruņinieks: kustība un rīcība"
+    },
+    {
+      "kw_up": [
+        "pašpārliecība",
+        "siltums",
+        "harisma",
+        "neatkarība"
+      ],
+      "kw_rev": [
+        "greizsirdība",
+        "prasīgums",
+        "neparedzamība",
+        "nedrošība"
+      ],
+      "about": "Kronēta sieviete sēž tronī ar saulespuķi un melnu kaķi pie kājām, rokā tur nūju. Kārts simbolizē siltu pašpārliecību un radošo spēku.",
+      "love": "Mīlestībā kārts var attiekties uz devīgu siltumu un vēlmi, lai tevi redz tādu, kāds esi.",
+      "work": "Darbā tas ir par harismu, vadību un citu iedvesmošanu.",
+      "advice": "Esi pats ar siltumu un ļauj citiem to redzēt.",
+      "element": "Uguns",
+      "astro": "Ūdens Uguni (elementu tradīcija)",
+      "number": "Karaliene: briedums un iekšējais spēks"
+    },
+    {
+      "kw_up": [
+        "vīzija",
+        "vadība",
+        "drosme",
+        "iedvesma"
+      ],
+      "kw_rev": [
+        "dominance",
+        "ātrs raksturs",
+        "nereālisms",
+        "egocentrisms"
+      ],
+      "about": "Kronēts vīrietis sēž tronī, kas rotāts ar lauvām un salamandrām, rokā ziedoša nūja. Kārts simbolizē vadītāju ar degsmi un ilgtermiņa vīzijām.",
+      "love": "Mīlestībā tas var nozīmēt drošu un siltu partneri vai to, ka vadītāja lomu uzņemies tu pats.",
+      "work": "Darbā tas ir par lielo līniju saskatīšanu un citu iedvesmošanu.",
+      "advice": "Vadi ar vīziju un ļauj citiem augt.",
+      "element": "Uguns",
+      "astro": "Gaiss Uguni (elementu tradīcija)",
+      "number": "Karalis: meistarība un atbildība"
+    },
+    {
+      "kw_up": [
+        "jauna mīlestība",
+        "jūtas",
+        "līdzjūtība",
+        "atvērtība"
+      ],
+      "kw_rev": [
+        "emocionāls bloks",
+        "apspiestas jūtas",
+        "tukšums",
+        "noslēgtība"
+      ],
+      "about": "Roka no mākoņa pastiepj pārpildītu biķeri, balodis nolaiž oblāti, un ūdens plūst uz dīķi ar lilijām. Kārts runā par jūtu plūsmu un vietas radīšanu tām.",
+      "love": "Mīlestībā tas var būt jauns sākums, dziļāks sirds kontakts vai jauna izpratne.",
+      "work": "Darbā tas var būt darbs, kam ir jēga, un emocionāla iesaiste.",
+      "advice": "Atver sirdi un ļauj tai plūst.",
+      "element": "Ūdens",
+      "astro": "Ūdens sakne: elementa tīrais spēks",
+      "number": "Viens: sēkla un sākums"
+    },
+    {
+      "kw_up": [
+        "apvienošanās",
+        "savstarpīgums",
+        "pievilkšanās",
+        "partnerība"
+      ],
+      "kw_rev": [
+        "šķiršanās",
+        "nelīdzsvars",
+        "nesaskaņas",
+        "pārpratumi"
+      ],
+      "about": "Pāris apmainās ar biķeriem, virs viņiem spārnota lauva, bet aiz muguras čūska ap nūju. Kārts runā par savstarpēju cieņu un mīlestību starp diviem.",
+      "love": "Mīlestībā tā ir viena no savstarpīguma un tikšanās vienādos apstākļos kārtīm.",
+      "work": "Darbā tā var norādīt uz labu sadarbību vai vienošanos starp līdzvērtīgiem.",
+      "advice": "Sagaidi otru ar atvērtību un cieņu.",
+      "element": "Ūdens",
+      "astro": "Venera Vēzī",
+      "number": "Divi: apvienošanās un partnerība"
+    },
+    {
+      "kw_up": [
+        "draudzība",
+        "svinības",
+        "prieks",
+        "kopiena"
+      ],
+      "kw_rev": [
+        "pārspīlēšana",
+        "tenkas",
+        "izolācija",
+        "atstumtība"
+      ],
+      "about": "Trīs sievietes dejā paceļ biķerus, pie kājām augļi. Kārts runā par prieku un kopīgām svinībām.",
+      "love": "Mīlestībā tas ir par draudzību, rotaļām un kopību.",
+      "work": "Darbā kārts var norādīt uz labu komandas darbu un noskaņojumu.",
+      "advice": "Dalies priekā ar tiem, kurus mīli.",
+      "element": "Ūdens",
+      "astro": "Merkurs Vēzī",
+      "number": "Trīs: izaugsme un izpausme"
+    },
+    {
+      "kw_up": [
+        "apātija",
+        "pārdomas",
+        "neapmierinātība",
+        "pauze"
+      ],
+      "kw_rev": [
+        "jaunas iespējas",
+        "motivācija",
+        "pamošanās",
+        "piedāvājuma ieraudzīšana"
+      ],
+      "about": "Vīrietis sēž zem koka ar sakrustotām rokām un skatās uz trim biķeriem, kamēr roka no mākoņa piedāvā ceturto. Kārts runā par to, ka nepamani piedāvāto, jo iegrimsti domās.",
+      "love": "Mīlestībā tas var rādīt garlaicību vai neatbildētu ilgošanos un vajadzību paskatīties, ko tu patiesībā vēlies.",
+      "work": "Darbā tas var attiekties uz dzinējspēka trūkumu un laiku izvērtēšanai.",
+      "advice": "Pacel skatienu un ieraugi, kas patiesībā tiek piedāvāts.",
+      "element": "Ūdens",
+      "astro": "Mēness Vēzī",
+      "number": "Četri: stagnācija un izvērtēšana"
+    },
+    {
+      "kw_up": [
+        "bēdas",
+        "zaudējums",
+        "nožēla",
+        "emocionāla izrēķināšanās"
+      ],
+      "kw_rev": [
+        "piedošana",
+        "virzīšanās uz priekšu",
+        "pieņemšana",
+        "dziedināšana"
+      ],
+      "about": "Apmetnī tērpta figūra skatās uz trim apgāztiem biķeriem, bet divi stāv taisni aiz tās. Kārts runā par bēdām un par to, lai neaizmirstu to, kas vēl stāv.",
+      "love": "Mīlestībā tas var rādīt bēdas vai vilšanos un to, kas vēl ir palicis.",
+      "work": "Darbā tas ir par neveiksmju pārvarēšanu un jauna ceļa atrašanu.",
+      "advice": "Dod bēdām vietu un ieraugi arī to, kas palicis.",
+      "element": "Ūdens",
+      "astro": "Marss Skorpionā",
+      "number": "Pieci: zaudējums un izaicinājums"
+    },
+    {
+      "kw_up": [
+        "nostalģija",
+        "bērnība",
+        "laipnība",
+        "atkalredzēšanās"
+      ],
+      "kw_rev": [
+        "iestrēgšana pagātnē",
+        "nereāli atmiņu tēli",
+        "nobriešana",
+        "virzīšanās tālāk"
+      ],
+      "about": "Divi bērni dala ziedus vecā pagalmā, pilnā ar biķeriem. Kārts runā par atmiņām un nevainīgu laipnību.",
+      "love": "Mīlestībā tā var būt atkalredzēšanās, maigums vai vecas saites, kas atmostas.",
+      "work": "Darbā tas var attiekties uz sadarbību ar pazīstamiem vai atgriešanos pie kaut kā zināma.",
+      "advice": "Smelies siltumu no atmiņām, bet dzīvo tagadnē.",
+      "element": "Ūdens",
+      "astro": "Saule Skorpionā",
+      "number": "Seši: harmonija un savstarpēja dāvana"
+    },
+    {
+      "kw_up": [
+        "iztēle",
+        "izvēle",
+        "sapņi",
+        "ilūzijas"
+      ],
+      "kw_rev": [
+        "skaidrība",
+        "lēmums",
+        "reālisms",
+        "izvēlēšanās"
+      ],
+      "about": "Figūra raugās uz septiņiem biķeriem, pilniem ar dažādiem simboliem, kas lido mākoņos. Kārts runā par iztēli un daudzām iespējām, kas jāsakārto.",
+      "love": "Mīlestībā tas var attiekties uz sapņošanu vai daudzām alternatīvām un vajadzību skaidri redzēt, ko vēlies.",
+      "work": "Darbā tas ir par izvēli starp vairākām iespējām un sapņa atšķiršanu no plāna.",
+      "advice": "Atšķir sapni no plāna un izvēlies vienu.",
+      "element": "Ūdens",
+      "astro": "Venera Skorpionā",
+      "number": "Septiņi: izvēles iespējas un iztēle"
+    },
+    {
+      "kw_up": [
+        "atvadas",
+        "iešana tālāk",
+        "meklējumi",
+        "dziļāka jēga"
+      ],
+      "kw_rev": [
+        "palikšana",
+        "bailes iet prom",
+        "turpināšana pazīstamajā",
+        "atkarība"
+      ],
+      "about": "Figūra iet prom no astoņiem sarindotiem biķeriem uz kalniem zem mēness. Kārts runā par pietiekami labā atstāšanu un dziļāku meklēšanu.",
+      "love": "Mīlestībā tā var būt apzināšanās, ka kaut kas vairs nebaro.",
+      "work": "Darbā tas ir par virziena maiņu, lai atrastu vairāk jēgas.",
+      "advice": "Uzdrīksties iet pretī tam, kas ir jēgpilnāks.",
+      "element": "Ūdens",
+      "astro": "Saturns Zivīs",
+      "number": "Astoņi: pārmaiņas un meklējumi"
+    },
+    {
+      "kw_up": [
+        "apmierinātība",
+        "bauda",
+        "pateicība",
+        "piepildījums"
+      ],
+      "kw_rev": [
+        "alkatība",
+        "pašapmierinātība",
+        "virspusējība",
+        "nepiepildīts"
+      ],
+      "about": "Vīrietis apmierināts sēž ar sakrustotām rokām pretī deviņiem biķeriem uz plaukta. Kārts ir zināma kā vēlmju kārts un runā par prieku par to, kas ir.",
+      "love": "Mīlestībā tas ir par apmierinātību un prieku par esošo.",
+      "work": "Darbā kārts var norādīt uz labiem rezultātiem un apmierinātību ar ieguldīto.",
+      "advice": "Bauda to, kas tev ir, un esi pateicīgs.",
+      "element": "Ūdens",
+      "astro": "Jupiters Zivīs",
+      "number": "Deviņi: piepildījums un bauda"
+    },
+    {
+      "kw_up": [
+        "ģimenes prieks",
+        "harmonija",
+        "piederība",
+        "piepildījums"
+      ],
+      "kw_rev": [
+        "nemiers ģimenē",
+        "sabrukušas attiecības",
+        "nesaskaņas",
+        "nereāli ideāli"
+      ],
+      "about": "Pāris stāv ar paceltām rokām pret desmit biķeru varavīksni, bērni spēlējas pie mājas. Kārts runā par laimi kopībā un piederību.",
+      "love": "Mīlestībā tas ir par harmoniju, drošību un kopīgām vērtībām.",
+      "work": "Darbā kārts var norādīt uz labu darba vidi un kopīgiem mērķiem.",
+      "advice": "Novērtē kopienu, kuras daļa tu esi.",
+      "element": "Ūdens",
+      "astro": "Marss Zivīs",
+      "number": "Desmit: piepildījums un harmonija"
+    },
+    {
+      "kw_up": [
+        "jutīgums",
+        "radošums",
+        "atvērtība",
+        "sapņi"
+      ],
+      "kw_rev": [
+        "nenobriedums",
+        "emocionāla nestabilitāte",
+        "bēgšana no realitātes",
+        "neaizsargātība"
+      ],
+      "about": "Jauns cilvēks stāv pie jūras un skatās uz zivi, kas izbāzusi galvu no biķera. Kārts simbolizē maigu prātu un radošus impulsus.",
+      "love": "Mīlestībā tā var būt jauna sajūta, romantiska ziņa vai piesardzīga atvērtība.",
+      "work": "Darbā tās var būt radošas idejas vai intuitīvi ieskati.",
+      "advice": "Pieņem jaunu sajūtu ar ziņkāri.",
+      "element": "Ūdens",
+      "astro": "Zeme Ūdenī (elementu tradīcija)",
+      "number": "Pāžs: vēstnesis un iesācējs"
+    },
+    {
+      "kw_up": [
+        "romantika",
+        "šarms",
+        "piedāvājums",
+        "ideāli"
+      ],
+      "kw_rev": [
+        "garastāvokļa svārstības",
+        "nereālas cerības",
+        "pievilšanās",
+        "virspusējība"
+      ],
+      "about": "Bruņinieks uz mierīga balta zirga nes biķeri uz mierīgu ainavu. Kārts simbolizē romantisku dvēseli, kas seko sirdij.",
+      "love": "Mīlestībā tas ir par atvērtību un piedāvājumiem, un vārdu pavadīšanu ar darbiem.",
+      "work": "Darbā tas var būt piedāvājums, uzaicinājums vai ideālistisks projekts.",
+      "advice": "Seko sirdij, bet parūpējies, lai tā kaut kur nonāk.",
+      "element": "Ūdens",
+      "astro": "Uguns Ūdenī (elementu tradīcija)",
+      "number": "Bruņinieks: kustība un rīcība"
+    },
+    {
+      "kw_up": [
+        "empātija",
+        "intuīcija",
+        "gādība",
+        "dziļums"
+      ],
+      "kw_rev": [
+        "emocionāla pārņemtība",
+        "atkarība",
+        "atrāvšanās",
+        "nedrošība"
+      ],
+      "about": "Kronēta sieviete sēž pie jūras un aplūko greznu biķeri. Kārts simbolizē emocionālu dziļumu un izpratni.",
+      "love": "Mīlestībā tas ir par gādību, intuīciju un ieklausīšanos jūtās.",
+      "work": "Darbā tas var attiekties uz jutīgumu pret kolēģiem, mentorēšanu vai aprūpes profesijām.",
+      "advice": "Ieklausies savās jūtās, nenoslīkstot tajās.",
+      "element": "Ūdens",
+      "astro": "Ūdens Ūdenī (elementu tradīcija)",
+      "number": "Karaliene: briedums un iekšējais spēks"
+    },
+    {
+      "kw_up": [
+        "emocionāls līdzsvars",
+        "līdzjūtība",
+        "gudrība",
+        "diplomātija"
+      ],
+      "kw_rev": [
+        "garastāvokļa svārstības",
+        "vēsums",
+        "manipulācija",
+        "apspiešana"
+      ],
+      "about": "Kronēts vīrietis sēž tronī nemierīgas jūras vidū un tur biķeri. Kārts simbolizē vadītāju, kas tur jūtas mierā.",
+      "love": "Mīlestībā tas ir par briedumu, atbalstu un emocionālu drošību.",
+      "work": "Darbā tas var attiekties uz konsultēšanu, empātisku vadību un diplomātiju.",
+      "advice": "Saglabā mieru viļņu vidū.",
+      "element": "Ūdens",
+      "astro": "Gaiss Ūdenī (elementu tradīcija)",
+      "number": "Karalis: meistarība un atbildība"
+    },
+    {
+      "kw_up": [
+        "skaidrība",
+        "patiesība",
+        "izrāviens",
+        "jauns ieskats"
+      ],
+      "kw_rev": [
+        "apjukums",
+        "neskaidrība",
+        "cietsirdība",
+        "mentāls bloks"
+      ],
+      "about": "Roka no mākoņa pastiepj ar vainagu kronētu zobenu virs stāvām kalniem. Kārts runā par domas spēku un skaidrību, kas pārgriež miglu.",
+      "love": "Mīlestībā tas var nozīmēt godīgu sarunu un jaunu ieskatu attiecībās.",
+      "work": "Darbā tā var būt izrāviena ideja vai skaidra nostāja.",
+      "advice": "Ļauj patiesībai nākt gaismā laipni.",
+      "element": "Gaiss",
+      "astro": "Gaisa sakne: elementa tīrais spēks",
+      "number": "Viens: sēkla un sākums"
+    },
+    {
+      "kw_up": [
+        "dilemma",
+        "pauze",
+        "līdzsvars",
+        "izvairīšanās no lēmuma"
+      ],
+      "kw_rev": [
+        "apjukums",
+        "informācijas atklāšana",
+        "neizlēmība",
+        "spriedze"
+      ],
+      "about": "Sieviete ar aizsietām acīm sēž ar diviem sakrustotiem zobeniem mierīgas jūras priekšā. Kārts runā par sarežģītu lēmumu un nevēlēšanos redzēt.",
+      "love": "Mīlestībā tā var rādīt strupceļu, kur jūtas un domas ir pretrunā.",
+      "work": "Darbā tas ir par izvēli, kurai vajag vairāk informācijas vai drosmes.",
+      "advice": "Noņem saiti, kad esi gatavs.",
+      "element": "Gaiss",
+      "astro": "Mēness Svaros",
+      "number": "Divi: izvēle un duālisms"
+    },
+    {
+      "kw_up": [
+        "bēdas",
+        "sirdssāpes",
+        "sāpes",
+        "patiesība"
+      ],
+      "kw_rev": [
+        "dzīšana",
+        "piedošana",
+        "sāpju atlaišana",
+        "pakāpeniska uzlabošanās"
+      ],
+      "about": "Trīs zobeni caurdur sarkanu sirdi zem lietus un mākoņiem. Kārts runā par sāpīgu patiesību un zaudējumu, kas nāk līdzi.",
+      "love": "Mīlestībā tas var rādīt bēdas un šķiršanos un to, ka drīkst just.",
+      "work": "Darbā tas ir par vilšanos un skarbu atgriezenisko saiti, no kuras var kaut ko iemācīties.",
+      "advice": "Atļauj sev just to, kas sāp.",
+      "element": "Gaiss",
+      "astro": "Saturns Svaros",
+      "number": "Trīs: izaugsme un izpausme, šeit caur sāpēm"
+    },
+    {
+      "kw_up": [
+        "atpūta",
+        "miers",
+        "atjaunošanās",
+        "pārdomas"
+      ],
+      "kw_rev": [
+        "nemiers",
+        "izsīkums",
+        "atgriešanās aktivitātē",
+        "nemierīgums"
+      ],
+      "about": "Bruņinieks atpūšas uz kapa, trīs zobeni pie sienas un viens zem viņa. Kārts runā par pauzi un spēku atgūšanu pēc grūta laika.",
+      "love": "Mīlestībā tas var rādīt klusuma un distances vajadzību, lai atjaunotos.",
+      "work": "Darbā tas ir par atpūtu, lai varētu skaidri domāt.",
+      "advice": "Atļauj sev atpūsties.",
+      "element": "Gaiss",
+      "astro": "Jupiters Svaros",
+      "number": "Četri: stabilitāte un atpūta"
+    },
+    {
+      "kw_up": [
+        "konflikts",
+        "sakāve",
+        "uzvara ar cenu",
+        "egoisms"
+      ],
+      "kw_rev": [
+        "samierināšanās",
+        "nožēla",
+        "vecs konflikts",
+        "atlaišana"
+      ],
+      "about": "Vīrietis savāc zobenus, kamēr divi citi dodas prom kaunā. Kārts runā par konfliktu, kurā uzvara var izmaksāt vairāk, nekā ir vērta.",
+      "love": "Mīlestībā tas var rādīt konfliktu, kurā var zaudēt abas puses, un jautājumu, kas patiesībā ir cīņas vērts.",
+      "work": "Darbā tas var būt strīds un jautājums, kurš uzvar un par kādu cenu.",
+      "advice": "Izvēlies savas cīņas apdomīgi.",
+      "element": "Gaiss",
+      "astro": "Venera Ūdensvīrā",
+      "number": "Pieci: izaicinājums un nemiers"
+    },
+    {
+      "kw_up": [
+        "pāreja",
+        "virzīšanās tālāk",
+        "miers pēc vētras",
+        "ceļojums"
+      ],
+      "kw_rev": [
+        "stagnācija",
+        "pretošanās iešanai",
+        "neatrisinātas lietas",
+        "atgriešanās"
+      ],
+      "about": "Sieviete ar bērnu šķērso ūdeni laivā ar sešiem zobeniem uz mierīgākiem ūdeņiem. Kārts runā par grūtu ūdeņu atstāšanu.",
+      "love": "Mīlestībā tā var būt pāreja uz mierīgāku posmu, ņemot kaut ko līdzi.",
+      "work": "Darbā tas ir par pārmaiņām, pārcelšanos vai iziešanu no prasīga posma.",
+      "advice": "Virzies uz mierīgākiem ūdeņiem savā tempā.",
+      "element": "Gaiss",
+      "astro": "Merkurs Ūdensvīrā",
+      "number": "Seši: harmonija un pāreja"
+    },
+    {
+      "kw_up": [
+        "viltība",
+        "stratēģija",
+        "noslēpums",
+        "izvairīšanās"
+      ],
+      "kw_rev": [
+        "tikt atklātam",
+        "godīgums",
+        "sirdsapziņa",
+        "atzīšanās"
+      ],
+      "about": "Vīrietis ložņā prom no nometnes ar pieciem zobeniem, divus atstājot. Kārts runā par uzmanīgu rīcību un to, ko izvairāmies pateikt.",
+      "love": "Mīlestībā kārts var atgādināt par godīgumu un paskatīties, vai nav noslēpumu.",
+      "work": "Darbā tā var būt taktika vai savs ceļš un jautājums, kas ir pareizi.",
+      "advice": "Esi atklāts par to, ko dari.",
+      "element": "Gaiss",
+      "astro": "Mēness Ūdensvīrā",
+      "number": "Septiņi: izvērtēšana un viltība"
+    },
+    {
+      "kw_up": [
+        "ierobežojums",
+        "iestrēgšana",
+        "bailes",
+        "pašu uzliktas robežas"
+      ],
+      "kw_rev": [
+        "atbrīvošanās",
+        "jauni skatījumi",
+        "izejas ieraudzīšana",
+        "drosme"
+      ],
+      "about": "Sieviete stāv sasieta un ar aizsietām acīm, apņemta ar astoņiem zobeniem ūdenī. Kārts runā par sajūtu, ka esi sagūstīts, kaut arī izeja bieži ir atvērtāka, nekā šķiet.",
+      "love": "Mīlestībā tas var rādīt ierobežojošas domas par sevi vai attiecībām.",
+      "work": "Darbā tas ir par iespēju saskatīšanu, pat ja jūties ieslēgts.",
+      "advice": "Paskaties, vai robežas ir tik stingras, kā šķiet.",
+      "element": "Gaiss",
+      "astro": "Jupiters Dvīņos",
+      "number": "Astoņi: ierobežojums un kustība"
+    },
+    {
+      "kw_up": [
+        "raizes",
+        "trauksme",
+        "bezmiegs",
+        "pārdomu spirāle"
+      ],
+      "kw_rev": [
+        "atvieglojums",
+        "nastas dalīšana",
+        "cerība",
+        "palīdzības meklēšana"
+      ],
+      "about": "Cilvēks sēž gultā ar rokām pār seju, aiz muguras uz sienas deviņi zobeni. Kārts runā par smagām domām nakts vidū.",
+      "love": "Mīlestībā tās var būt raizes, kas aug klusumā, un vajadzība par tām runāt.",
+      "work": "Darbā tas ir par stresu un domām, kas griežas, un atbalsta lūgšanu.",
+      "advice": "Dalies raizēs ar kādu, kam uzticies.",
+      "element": "Gaiss",
+      "astro": "Marss Dvīņos",
+      "number": "Deviņi: raizes un intensitāte"
+    },
+    {
+      "kw_up": [
+        "zemākais punkts",
+        "noslēgums",
+        "gals",
+        "jauna gaisma"
+      ],
+      "kw_rev": [
+        "piecelšanās",
+        "atveseļošanās",
+        "pretošanās beigām",
+        "dramatisms"
+      ],
+      "about": "Figūra guļ ar desmit zobeniem mugurā, bet saullēkts apgaismo jūru. Kārts runā par sāpīgām beigām un rītu, kas tomēr nāk.",
+      "love": "Mīlestībā tās var būt beigas, kas rada vietu jaunam.",
+      "work": "Darbā tas var rādīt smaga perioda beigas.",
+      "advice": "Ļaunākais ir aiz muguras, un gaisma atgriežas.",
+      "element": "Gaiss",
+      "astro": "Saule Dvīņos",
+      "number": "Desmit: pabeigšana un zemākais punkts"
+    },
+    {
+      "kw_up": [
+        "ziņkāre",
+        "novērošana",
+        "idejas",
+        "mācīšanās"
+      ],
+      "kw_rev": [
+        "tenkas",
+        "ass mēle",
+        "virspusējība",
+        "impulsivitāte"
+      ],
+      "about": "Jauns cilvēks stāv ar paceltu zobenu vējā un zem mākoņiem. Kārts simbolizē asus jautājumus un tieksmi mācīties.",
+      "love": "Mīlestībā tās var būt sarunas un ziņkāre viens par otru.",
+      "work": "Darbā tas var attiekties uz mācīšanos, informāciju un jauniem skatījumiem.",
+      "advice": "Uzdod jautājumus un klausies.",
+      "element": "Gaiss",
+      "astro": "Zeme Gaisā (elementu tradīcija)",
+      "number": "Pāžs: vēstnesis un iesācējs"
+    },
+    {
+      "kw_up": [
+        "ātrums",
+        "drosme",
+        "rīcības spēks",
+        "ambīcijas"
+      ],
+      "kw_rev": [
+        "steiga",
+        "kritika",
+        "nepacietība",
+        "neuzmanība"
+      ],
+      "about": "Bruņinieks auļo pret vēju ar paceltu zobenu. Kārts simbolizē ātru domu un rīcības spēku.",
+      "love": "Mīlestībā tā var būt tieša komunikācija un vajadzība saprast abas puses.",
+      "work": "Darbā tas ir par ambīcijām un efektivitāti.",
+      "advice": "Padomā, pirms sit.",
+      "element": "Gaiss",
+      "astro": "Uguns Gaisā (elementu tradīcija)",
+      "number": "Bruņinieks: kustība un rīcība"
+    },
+    {
+      "kw_up": [
+        "skaidrība",
+        "neatkarība",
+        "godīgums",
+        "pieredze"
+      ],
+      "kw_rev": [
+        "auksta kritika",
+        "rūgtums",
+        "izolācija",
+        "cietsirdība"
+      ],
+      "about": "Kronēta sieviete sēž viena tronī ar zobenu un izstieptu roku. Kārts simbolizē skaidru redzējumu un skaidru komunikāciju.",
+      "love": "Mīlestībā tas ir par godīgumu un skaidrām robežām.",
+      "work": "Darbā tas var attiekties uz analītisku spriestspēju un skaidru runu.",
+      "advice": "Esi skaidrs un godīgs, bet ar siltumu.",
+      "element": "Gaiss",
+      "astro": "Ūdens Gaisā (elementu tradīcija)",
+      "number": "Karaliene: briedums un iekšējais spēks"
+    },
+    {
+      "kw_up": [
+        "intelekts",
+        "taisnīgums",
+        "autoritāte",
+        "skaidra domāšana"
+      ],
+      "kw_rev": [
+        "auksta vara",
+        "manipulācija",
+        "cietsirdība",
+        "netaisnība"
+      ],
+      "about": "Kronēts vīrietis sēž tronī ar paceltu zobenu zem debesīm ar mākoņiem un vējiem. Kārts simbolizē domu, likumu un taisnīgumu.",
+      "love": "Mīlestībā tas ir par skaidru komunikāciju un taisnīgu attieksmi.",
+      "work": "Darbā tas var attiekties uz profesionālo svaru un vērtējumiem.",
+      "advice": "Lieto domu, lai radītu taisnīgumu.",
+      "element": "Gaiss",
+      "astro": "Gaiss Gaisā (elementu tradīcija)",
+      "number": "Karalis: meistarība un atbildība"
+    },
+    {
+      "kw_up": [
+        "jauna iespēja",
+        "drošība",
+        "sēkla",
+        "materiāls sākums"
+      ],
+      "kw_rev": [
+        "zaudēta iespēja",
+        "slikta plānošana",
+        "nedrošība",
+        "atlikts"
+      ],
+      "about": "Roka no mākoņa pastiepj zelta monētu virs dārza ar ziedu velvi. Kārts runā par konkrētu sēklu tam, kas var augt.",
+      "love": "Mīlestībā tas var būt jauns, zemisks sākums, kas šķiet drošs.",
+      "work": "Darbā tas var būt jauns darbs, ideja vai konkrēta iespēja, kas var iesakņoties.",
+      "advice": "Iesēj sēklu un parūpējies par to.",
+      "element": "Zeme",
+      "astro": "Zemes sakne: elementa tīrais spēks",
+      "number": "Viens: sēkla un sākums"
+    },
+    {
+      "kw_up": [
+        "līdzsvars",
+        "pielāgošanās",
+        "elastība",
+        "prioritāšu noteikšana"
+      ],
+      "kw_rev": [
+        "nelīdzsvars",
+        "pārslodze",
+        "neorganizētība",
+        "pārskata zaudēšana"
+      ],
+      "about": "Vīrietis žonglē ar divām monētām, ko savieno bezgalības zīme, bet aiz viņa uz viļņiem šūpojas kuģi. Kārts runā par vairāku lietu kustībā noturēšanu.",
+      "love": "Mīlestībā tas ir par laika un enerģijas līdzsvarošanu.",
+      "work": "Darbā tas ir par elastību un prioritāšu noteikšanu.",
+      "advice": "Atrodi ritmu un nosaki prioritātes.",
+      "element": "Zeme",
+      "astro": "Jupiters Mežāzī",
+      "number": "Divi: līdzsvars un duālisms"
+    },
+    {
+      "kw_up": [
+        "sadarbība",
+        "amats",
+        "mācīšanās",
+        "komandas darbs"
+      ],
+      "kw_rev": [
+        "nesaskaņas",
+        "vāja sadarbība",
+        "nepabeigts",
+        "nolaidība"
+      ],
+      "about": "Amatnieks strādā baznīcā, bet divi citi aplūko zīmējumu. Kārts runā par sadarbību un kvalitāti.",
+      "love": "Mīlestībā tas var rādīt kaut ko, ko būvē kopā soli pa solim.",
+      "work": "Darbā tas ir par prasmi, sadarbību un atgriezenisko saiti.",
+      "advice": "Būvē kopā un ieklausies tajos, kas zina vairāk.",
+      "element": "Zeme",
+      "astro": "Marss Mežāzī",
+      "number": "Trīs: izaugsme un izpausme"
+    },
+    {
+      "kw_up": [
+        "drošība",
+        "taupība",
+        "kontrole",
+        "stabilitāte"
+      ],
+      "kw_rev": [
+        "alkatība",
+        "uzkrāšana",
+        "atlaišana",
+        "atbrīvošanās"
+      ],
+      "about": "Vīrietis sēž ar monētām zem kājām un vienu uz galvas, tur monētu pie krūtīm. Kārts runā par drošību un kontroli.",
+      "love": "Mīlestībā tas var rādīt kontroles un drošības vajadzību un atvēršanos.",
+      "work": "Darbā tas ir par stabilitāti un taupību.",
+      "advice": "Turies pie tā, kas dod drošību, neieslēdzoties.",
+      "element": "Zeme",
+      "astro": "Saule Mežāzī",
+      "number": "Četri: pamats un stabilitāte"
+    },
+    {
+      "kw_up": [
+        "grūtības",
+        "atstumtība",
+        "raizes",
+        "trūkums"
+      ],
+      "kw_rev": [
+        "uzlabošanās",
+        "palīdzība",
+        "izeja",
+        "atbalsts"
+      ],
+      "about": "Divas figūras iet pa sniegu garām apgaismotam baznīcas logam. Kārts runā par aukstu periodu, kad palīdzība var būt tuvāk, nekā domā.",
+      "love": "Mīlestībā tas var rādīt vientulību vai atstumtības sajūtu un to, ka drīkst lūgt atbalstu.",
+      "work": "Darbā tas ir par grūtu periodu un atbalsta vajadzību.",
+      "advice": "Lūdz palīdzību, tā var būt tuvu.",
+      "element": "Zeme",
+      "astro": "Merkurs Vērsī",
+      "number": "Pieci: izaicinājums un trūkums"
+    },
+    {
+      "kw_up": [
+        "devība",
+        "dalīšanās",
+        "taisnīgums",
+        "atbalsts"
+      ],
+      "kw_rev": [
+        "parāds",
+        "nevienlīdzība",
+        "egoisms",
+        "nelīdzsvars"
+      ],
+      "about": "Tirgotājs dala monētas, turot svarus, un divi lūdz palīdzību. Kārts runā par došanu un saņemšanu līdzsvarā.",
+      "love": "Mīlestībā tas ir par savstarpīgumu tajā, kas tiek dots un ņemts.",
+      "work": "Darbā tas ir par algu, taisnīgu dalīšanu un atbalstu.",
+      "advice": "Dod un pieņem ar vienādām rokām.",
+      "element": "Zeme",
+      "astro": "Mēness Vērsī",
+      "number": "Seši: harmonija un apmaiņa"
+    },
+    {
+      "kw_up": [
+        "pacietība",
+        "izvērtēšana",
+        "ilgtermiņš",
+        "ražas novākšana"
+      ],
+      "kw_rev": [
+        "nepacietība",
+        "slikts ieguldījums",
+        "atlīdzības trūkums",
+        "vilšanās"
+      ],
+      "about": "Vīrietis balstās uz kapli un skatās uz krūmu ar septiņām monētām. Kārts runā par gaidīšanu un darba augļu izvērtēšanu.",
+      "love": "Mīlestībā tas ir par ļaušanu kam augt un nespiešanu.",
+      "work": "Darbā tas ir par ilgtermiņa pūlēm un rezultātu izvērtēšanu.",
+      "advice": "Dod tam laiku un paskaties, ko esi sējis.",
+      "element": "Zeme",
+      "astro": "Saturns Vērsī",
+      "number": "Septiņi: izvērtēšana un pacietība"
+    },
+    {
+      "kw_up": [
+        "amats",
+        "vingrināšanās",
+        "fokuss",
+        "prasme"
+      ],
+      "kw_rev": [
+        "perfekcionisms",
+        "neveiklība",
+        "atkārtošanās",
+        "fokusa trūkums"
+      ],
+      "about": "Amatnieks kaļ monētu uz nūjas, blakus septiņas gatavas monētas. Kārts runā par centību un vingrināšanos.",
+      "love": "Mīlestībā tas ir par pūlēm un gādību sīkumos.",
+      "work": "Darbā tas ir par prasmju attīstīšanu un iedziļināšanos.",
+      "advice": "Vingrinies un ļauj kvalitātei augt.",
+      "element": "Zeme",
+      "astro": "Saule Jaunavā",
+      "number": "Astoņi: meistarība un attīstība"
+    },
+    {
+      "kw_up": [
+        "patstāvība",
+        "pārpilnība",
+        "izsmalcinātība",
+        "drošība"
+      ],
+      "kw_rev": [
+        "atkarība",
+        "pārmērīga kontrole",
+        "vientulība",
+        "drošības zaudēšana"
+      ],
+      "about": "Sieviete stāv vīnadārzā ar vanagu uz rokas un monētām apkārt. Kārts runā par patstāvību un paša pūļu augļiem.",
+      "love": "Mīlestībā tas ir par patstāvību un drošību sevī.",
+      "work": "Darbā kārts var norādīt uz drošu pozīciju un atzītām pūlēm.",
+      "advice": "Bauda sava darba augļus.",
+      "element": "Zeme",
+      "astro": "Venera Jaunavā",
+      "number": "Deviņi: gandrīz pabeigts un patstāvība"
+    },
+    {
+      "kw_up": [
+        "mantojums",
+        "ģimene",
+        "ilgtermiņa drošība",
+        "kopiena"
+      ],
+      "kw_rev": [
+        "ģimenes konflikts",
+        "nestabilitāte",
+        "sakņu zaudēšana",
+        "mantojuma nesaskaņas"
+      ],
+      "about": "Vecs vīrs sēž ar suni, bet pāris ar bērnu zem vārtiem ar desmit monētām. Kārts runā par dzimtu, mājām un to, kas tiek nodots tālāk.",
+      "love": "Mīlestībā tas ir par ilgstošu drošību un kopīgu dzīvi.",
+      "work": "Darbā tas ir par stabilitāti, tradīciju un ilgtermiņa būvēšanu.",
+      "advice": "Būvē tiem, kas nāks pēc tevis.",
+      "element": "Zeme",
+      "astro": "Merkurs Jaunavā",
+      "number": "Desmit: pabeigšana un mantojums"
+    },
+    {
+      "kw_up": [
+        "studijas",
+        "zemiskums",
+        "ziņkāre",
+        "potenciāls"
+      ],
+      "kw_rev": [
+        "neuzmanība",
+        "atlikšana",
+        "neskaidri mērķi",
+        "ambīciju trūkums"
+      ],
+      "about": "Jauns cilvēks stāv zaļā pļavā un pēta monētu rokās. Kārts simbolizē tieksmi mācīties un zemisku sēklu.",
+      "love": "Mīlestībā tas var būt mierīgs un patiess sākums.",
+      "work": "Darbā tas ir par mācīšanos un praktiskiem soļiem.",
+      "advice": "Sper vienu praktisku soli reizē.",
+      "element": "Zeme",
+      "astro": "Zeme Zemē (elementu tradīcija)",
+      "number": "Pāžs: vēstnesis un iesācējs"
+    },
+    {
+      "kw_up": [
+        "uzticamība",
+        "čaklums",
+        "pacietība",
+        "rutīna"
+      ],
+      "kw_rev": [
+        "garlaicība",
+        "stūrgalvība",
+        "gausums",
+        "perfekcionisms"
+      ],
+      "about": "Bruņinieks tur monētu, sēžot uz mierīga melna zirga uzartā laukā. Kārts simbolizē stabilas un rūpīgas pūles.",
+      "love": "Mīlestībā tas ir par uzticību un regulāru gādību.",
+      "work": "Darbā tas ir par rūpību un uzticamību.",
+      "advice": "Turi vienmērīgu tempu un dari rūpīgi.",
+      "element": "Zeme",
+      "astro": "Uguns Zemē (elementu tradīcija)",
+      "number": "Bruņinieks: kustība un rīcība"
+    },
+    {
+      "kw_up": [
+        "gādība",
+        "praktiskums",
+        "devība",
+        "drošība"
+      ],
+      "kw_rev": [
+        "raizes",
+        "materiālisms",
+        "pārstrādāšanās",
+        "sevis nolaidība"
+      ],
+      "about": "Kronēta sieviete sēž ziedošā dārzā ar monētu klēpī un zaķi tuvumā. Kārts simbolizē praktisku gādību un siltumu.",
+      "love": "Mīlestībā tas ir par gādību un mājīguma radīšanu.",
+      "work": "Darbā tas ir par resursu un cilvēku saudzēšanu.",
+      "advice": "Parūpējies par sevi un apkārtējiem.",
+      "element": "Zeme",
+      "astro": "Ūdens Zemē (elementu tradīcija)",
+      "number": "Karaliene: briedums un iekšējais spēks"
+    },
+    {
+      "kw_up": [
+        "stabilitāte",
+        "resursi",
+        "pieredze",
+        "uzticama vadība"
+      ],
+      "kw_rev": [
+        "stūrgalvība",
+        "skopums",
+        "materiālisms",
+        "stingrība"
+      ],
+      "about": "Kronēts vīrietis sēž tronī, kas rotāts ar vēršiem, ar monētu un sceptri vīnogu pilnā dārzā. Kārts simbolizē labi attīstītu drošību un stabilu vadību.",
+      "love": "Mīlestībā tas ir par drošību, uzticamību un praktisku atbalstu.",
+      "work": "Darbā tas ir par stabilitāti, pieredzi un spēju būvēt.",
+      "advice": "Būvē stabili un dalies pārpalikumā.",
+      "element": "Zeme",
+      "astro": "Gaiss Zemē (elementu tradīcija)",
+      "number": "Karalis: meistarība un atbildība"
+    }
+  ]
+}

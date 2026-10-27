@@ -1,0 +1,360 @@
+{
+ "intro": [
+  "Vakarų tropinė astrologija yra kultūrinė ir simbolinė tradicija, kurios šaknys siekia Babilono ir helenistinio laikotarpio dangaus stebėjimus. Ji dangaus kūnų – Saulės, Mėnulio ir planetų – padėtį skaito kaip simbolinę kalbą, kuria žmonės aprašo charakterius, ciklus ir laiko kokybę. Tai ne mokslas: nėra įrodymų, kad žvaigždės lemia likimą ar asmenybę, todėl astrologiją verta vertinti kaip pasakojimą ir savistabos įrankį, o ne kaip prognozę.",
+  "Zodiako ženklai ir žvaigždynai nėra tas pats. Tropinis zodiakas susietas ne su žvaigždėmis, o su metų laikais: nulinis Avino taškas yra ten, kur Saulė atsiduria per pavasario lygiadienį, o ratas padalytas į dvylika 30 laipsnių dalių. Dėl precesijos – lėto Žemės ašies svyravimo, kurio ciklas trunka maždaug 26 000 metų – lygiadienio taškas per amžius pasislinko, todėl ženklai šiandien nebesutampa su žvaigždynais, kuriais pavadinti. Pavyzdžiui, pavasario lygiadienį Saulė dabar matoma Žuvų žvaigždyne. Be to, žvaigždynai nevienodo dydžio, o ekliptika kerta ne dvylika, o trylika žvaigždynų."
+ ],
+ "signs": [
+  {
+   "i": 0,
+   "name": "Avinas",
+   "dates": "kovo 21 – balandžio 19 d. (apytiksliai)",
+   "element": "Ugnis",
+   "modality": "Kardinalinis",
+   "ruler": "Marsas",
+   "symbol": "Avinas (♈)",
+   "keywords": [
+    "iniciatyva",
+    "drąsa",
+    "tiesumas",
+    "energija",
+    "nekantrumas"
+   ],
+   "about": [
+    "Avinas atidaro zodiako ratą: tropinis metų ratas prasideda nuo pavasario lygiadienio, todėl šis ženklas tradiciškai siejamas su pradžia, impulsu ir pirmuoju žingsniu. Jį valdo Marsas, o astrologijos tradicija Avino įvaizdį piešia kaip atvirą, tiesų ir greitai užsidegantį – tą, kuris pirmas ryžtasi, kai kiti dar svarsto. Senojoje tradicijoje ženklas dažnai pasakojamas per ugnies ir pavasario vaizdinius: tai pirmoji kibirkštis, kai po žiemos vėl norisi judėti.",
+    "Šešėlinė pusė, anot tradicijos, – nekantrumas, karštakošiškumas, polinkis pradėti daugiau, nei pavyksta užbaigti. Todėl Avinui dažnai patariama išmokti sustoti, išklausyti ir drąsą derinti su kantrybe. Tai simbolinis portretas, o ne nuosprendis: kiekvienas gali jame atpažinti save arba ne. Šiuolaikiniai astrologai pabrėžia ir šviesiąją pusę: Avino ryžtas gali padėti pradėti tai, ko kiti vis nedrįsta."
+   ],
+   "love": "Meilėje Avinas tradiciškai laikomas aistringu ir tiesmuku: mėgsta užkariauti ir greitai parodo, ką jaučia. Jam ypač svarbu išmokti neskubinti tempo ir palikti kitam erdvės.",
+   "work": "Darbe jis siejamas su lyderyste, noru pradėti naujus projektus ir greitu apsisprendimu. Rutina ir ilgas laukimas, sakoma, jam sunkiausi.",
+   "tarot": "Auksinės Aušros ordino sistemoje Avinas siejamas su Imperatoriumi: abu simbolizuoja valią, iniciatyvą ir norą nustatyti savo kryptį.",
+   "moon": "Kai Mėnulis praeina per Aviną, tradiciškai sakoma, kad nuotaika tampa gyvesnė, greitesnė ir nekantresnė – lengviau užsidegti, bet lengviau ir suirzti. Tai dienos, kurios palankios pradėti ką nors naujo, sportuoti, judėti, priimti drąsų sprendimą. Verta saugotis skubotų žodžių ir didelių sprendimų, padarytų per greitai."
+  },
+  {
+   "i": 1,
+   "name": "Jautis",
+   "dates": "balandžio 20 – gegužės 20 d. (apytiksliai)",
+   "element": "Žemė",
+   "modality": "Fiksuotas",
+   "ruler": "Venera",
+   "symbol": "Jautis (♉)",
+   "keywords": [
+    "pastovumas",
+    "juslumas",
+    "kantrybė",
+    "komfortas",
+    "užsispyrimas"
+   ],
+   "about": [
+    "Jautis yra pirmasis žemės ženklas, o jį valdo Venera. Tradiciškai jis siejamas su stabilumu, juslumu ir meile apčiuopiamiems dalykams: geram maistui, gamtai, muzikai, jaukiems namams. Astrologijoje Jaučio įvaizdis – žmogus, kuris neskuba, bet žengia tvirtai ir patikimai. Su Jaučiu dažnai siejami pavasario pabaigos vaizdiniai – sužaliavę laukai, žemė, kuri maitina ir saugo.",
+    "Stipriosios pusės, anot tradicijos, – ištikimybė, kantrybė ir praktiškas požiūris. Šešėlinė pusė – užsispyrimas, nenoras keistis, prisirišimas prie turimo. Kai aplinkui viskas keičiasi, Jautis, sakoma, mokosi lankstumo. Šie aprašymai – simbolinė kalba, kuria žmonės jau šimtmečius pasakoja apie charakterio tipus. Šiuolaikiniai astrologai pabrėžia, kad Jaučio kantrybė yra ne tik uždarumas, bet ir gebėjimas kurti tai, kas išlieka."
+   ],
+   "love": "Meilėje Jautis tradiciškai vertinamas už ištikimybę, šilumą ir juslumą. Jam svarbu saugumas, o iššūkis – nepasiduoti pavydui ar įpročiui.",
+   "work": "Darbe jis siejamas su kantrybe, atkaklumu ir pagarba kokybei. Staigios permainos, sakoma, nėra jo stiprioji pusė.",
+   "tarot": "Auksinės Aušros sistemoje Jautis siejamas su Šventiku (Hierofantu): abu simbolizuoja tradiciją, pastovumą ir patikrintas vertybes.",
+   "moon": "Kai Mėnulis keliauja per Jautį, tradiciškai sakoma, kad nuotaika nusiramina ir pasidaro žemiškesnė – norisi komforto, skanaus maisto, gamtos. Tai tinkamos dienos pailsėti, pasirūpinti namais, sodu ar finansų tvarka. Naujovės ir skubėjimas šiomis dienomis, sakoma, vyksta sunkiau."
+  },
+  {
+   "i": 2,
+   "name": "Dvyniai",
+   "dates": "gegužės 21 – birželio 20 d. (apytiksliai)",
+   "element": "Oras",
+   "modality": "Kintamas",
+   "ruler": "Merkurijus",
+   "symbol": "Dvyniai (♊)",
+   "keywords": [
+    "smalsumas",
+    "žodis",
+    "lankstumas",
+    "bendravimas",
+    "nenuoseklumas"
+   ],
+   "about": [
+    "Dvyniai yra oro ženklas, kurį valdo Merkurijus – žodžio, kelionių ir idėjų planeta. Tradiciškai jie siejami su smalsumu, kalba, mokymusi ir gebėjimu matyti dalykus iš kelių pusių. Pats ženklo simbolis – du dvyniai – primena dvilypumą ir dialogą. Pavasario pabaigoje atsirandantis ženklas dažnai pasakojamas kaip žmonių, žinių ir žodžių sankryža – jis mėgsta mainus ir naujienas.",
+    "Stipriosios pusės, anot tradicijos, – guvumas, humoras, gebėjimas greitai prisitaikyti. Šešėlinė pusė – paviršutiniškumas, išsibarstymas, nuolatinis perėjimas nuo vieno prie kito. Dvyniams dažnai patariama rasti vieną giją, kuri sujungtų daugybę jų pomėgių. Tai simbolinis portretas, o ne tikslus žmogaus aprašymas. Šiuolaikiniai astrologai pabrėžia, kad Dvynių lankstumas gali tapti tiltu tarp skirtingų pasaulių ir nuomonių."
+   ],
+   "love": "Meilėje Dvyniai tradiciškai ieško pašnekovo ir žaismingumo: jiems svarbu, kad su partneriu niekada nenusibostų kalbėtis. Iššūkis – gilumas ir pastovumas, kai užgęsta pradinis smalsumas.",
+   "work": "Darbe jie siejami su komunikacija, rašymu, mokymu, prekyba ir visa, kur reikia greitos orientacijos. Monotonija, sakoma, juos greitai išvargina.",
+   "tarot": "Auksinės Aušros sistemoje Dvyniai siejami su Mylimaisiais: kortos tema – pasirinkimas, dvi pusės ir ryšys, artima Dvynių dvilypumui.",
+   "moon": "Kai Mėnulis praeina per Dvynius, tradiciškai sakoma, kad mintys tampa judrios, norisi kalbėtis, rašyti, mokytis, susitikti su žmonėmis. Tai geros dienos susirašinėjimui, trumpoms kelionėms ir naujų žinių ieškojimui. Nuotaika gali šokinėti, todėl verta nepersikrauti informacijos."
+  },
+  {
+   "i": 3,
+   "name": "Vėžys",
+   "dates": "birželio 21 – liepos 22 d. (apytiksliai)",
+   "element": "Vanduo",
+   "modality": "Kardinalinis",
+   "ruler": "Mėnulis",
+   "symbol": "Vėžys (♋)",
+   "keywords": [
+    "jautrumas",
+    "namai",
+    "rūpestis",
+    "atmintis",
+    "uždarumas"
+   ],
+   "about": [
+    "Vėžys – pirmasis vandens ženklas, o jį valdo Mėnulis. Su juo siejami namai, šeima, atmintis ir emocinis saugumas. Vėžio kiautas primena, kad jautri vidinė pusė dažnai slepiama po tvirtu šarvu. Ženklas pasirodo vasaros pradžioje ir tradiciškai pasakojamas per namų, šeimos ir šaknų vaizdinius – tai vieta, į kurią norisi grįžti.",
+    "Stipriosios pusės, anot tradicijos, – rūpestingumas, intuicija ir ištikimybė artimiesiems. Šešėlinė pusė – nuotaikų svyravimai, užsisklendimas, polinkis ilgai nešioti nuoskaudas. Vėžiui dažnai patariama išmokti saugoti save nenutraukiant ryšio su kitais. Tai simbolinė kalba, o ne tiesioginis charakterio apibūdinimas. Šiuolaikiniai astrologai pabrėžia, kad Vėžio jautrumas gali tapti stipria empatija ir gebėjimu rūpintis."
+   ],
+   "love": "Meilėje Vėžys tradiciškai siekia artumo, globos ir emocinio saugumo, mėgsta kurti bendrus namus. Iššūkis – nepasislėpti kiaute, kai pasidaro skaudu.",
+   "work": "Darbe jis siejamas su rūpesčiu žmonėmis, intuityviu supratimu ir ištverme. Geriausiai jaučiasi šilto, saugaus kolektyvo aplinkoje.",
+   "tarot": "Auksinės Aušros sistemoje Vėžys siejamas su Vežimu: abi temos kalba apie apsaugą, kryptį ir vidinio pasaulio saugojimą po tvirtu apvalkalu.",
+   "moon": "Kai Mėnulis yra Vėžyje, tradiciškai sakoma, kad jis ilsisi „savuose namuose“, todėl jausmai tampa ryškesni, o ilgesys namams – stipresnis. Tai tinkamas laikas jaukumui, artimiems pokalbiams, šeimos prisiminimams, namų tvarkymui. Gali norėtis užsisklęsti, tad verta pasirūpinti savimi."
+  },
+  {
+   "i": 4,
+   "name": "Liūtas",
+   "dates": "liepos 23 – rugpjūčio 22 d. (apytiksliai)",
+   "element": "Ugnis",
+   "modality": "Fiksuotas",
+   "ruler": "Saulė",
+   "symbol": "Liūtas (♌)",
+   "keywords": [
+    "šiluma",
+    "išraiška",
+    "dosnumas",
+    "pasididžiavimas",
+    "kūrybiškumas"
+   ],
+   "about": [
+    "Liūtą valdo Saulė, todėl šis ženklas tradiciškai siejamas su šiluma, kūrybine saviraiška ir noru būti matomam. Astrologijoje Liūto įvaizdis – dosnus, entuziastingas, nuoširdus žmogus, kuris mėgsta dalytis džiaugsmu ir pripažinimu. Ženklas pasirodo vasaros įkarštyje, todėl jo vaizdiniai – šviesa, šventė ir dosnumas.",
+    "Stipriosios pusės, anot tradicijos, – kilnumas, ištikimybė ir gebėjimas įkvėpti kitus. Šešėlinė pusė – išdidumas, poreikis dėmesio, jautrumas kritikai. Liūtui dažnai patariama atrasti, kad tikroji šiluma nereikalauja nuolatinių plojimų. Tai simbolinis portretas, kuriame žmonės gali atpažinti kai kurias savo puses. Šiuolaikiniai astrologai pabrėžia, kad Liūto šiluma gali ne tik švytėti pati, bet ir padėti švytėti kitiems."
+   ],
+   "love": "Meilėje Liūtas tradiciškai romantiškas, dosnus ir atsidavęs, bet nori jausti, kad yra vertinamas. Iššūkis – dalytis scena ir išklausyti partnerį.",
+   "work": "Darbe jis siejamas su vadovavimu, kūrybiniais projektais ir gebėjimu motyvuoti kolektyvą. Pripažinimas jam, sakoma, svarbus kaip kuras.",
+   "tarot": "Auksinės Aušros sistemoje Liūtas siejamas su Stiprybe: kortoje pavaizduota moteris, švelniai ramdanti liūtą, o tai atitinka drąsos ir kilnumo temą.",
+   "moon": "Kai Mėnulis keliauja per Liūtą, tradiciškai sakoma, kad nuotaika šviesesnė, norisi būti aktyviam, kurti, džiaugtis ir būti matomam. Tai geros dienos pasirodymams, žaidimams, kūrybai ir dosniam gestui artimam žmogui. Verta saugotis išdidumo ar nuoskaudos dėl menko dėmesio."
+  },
+  {
+   "i": 5,
+   "name": "Mergelė",
+   "dates": "rugpjūčio 23 – rugsėjo 22 d. (apytiksliai)",
+   "element": "Žemė",
+   "modality": "Kintamas",
+   "ruler": "Merkurijus",
+   "symbol": "Mergelė (♍)",
+   "keywords": [
+    "tvarka",
+    "detalės",
+    "paslaugumas",
+    "analizė",
+    "savikritika"
+   ],
+   "about": [
+    "Mergelė yra žemės ženklas, kurį, kaip ir Dvynius, valdo Merkurijus, tik čia jis siejamas ne su judrumu, o su tikslumu ir analize. Tradiciškai Mergelė – tvarkos, amato, darbštumo ir rūpesčio smulkmenomis ženklas. Ženklas pasirodo vasaros pabaigoje, derliaus metu, todėl tradiciškai siejamas su rinkimu, rūšiavimu ir kruopščiu darbu.",
+    "Stipriosios pusės, anot tradicijos, – patikimumas, kruopštumas ir noras būti naudingam. Šešėlinė pusė – perfekcionizmas, savikritika, polinkis nerimauti dėl smulkmenų. Mergelei dažnai patariama išmokti priimti netobulumą. Tai simbolinė kalba, kuria apie charakterio tipus pasakojama jau daugelį amžių, o ne tiksli žmogaus charakteristika. Šiuolaikiniai astrologai pabrėžia, kad Mergelės dėmesingumas detalėms yra rūpesčio forma, jei jis nevirsta savigrauža."
+   ],
+   "love": "Meilėje Mergelė tradiciškai rodo meilę darbais ir rūpesčiu, o ne dideliais gestais. Iššūkis – netaikyti sau ir partneriui per aukštų standartų.",
+   "work": "Darbe ji siejama su kruopštumu, organizavimu, analize ir amatu. Gerai jaučiasi, kai gali tobulinti procesus ir matyti konkretų rezultatą.",
+   "tarot": "Auksinės Aušros sistemoje Mergelė siejama su Atsiskyrėliu: abi temos kalba apie susitelkimą, apdairumą ir dėmesį detalėms.",
+   "moon": "Kai Mėnulis yra Mergelėje, tradiciškai sakoma, kad mintys tampa praktiškos ir kruopščios – norisi tvarkytis, planuoti, tobulinti. Tai tinkamos dienos spintoms ir dokumentams sutvarkyti, kasdienybės įpročiams peržiūrėti. Gali atsirasti polinkis būti per griežtam sau, tad verta palikti vietos švelnumui."
+  },
+  {
+   "i": 6,
+   "name": "Svarstyklės",
+   "dates": "rugsėjo 23 – spalio 22 d. (apytiksliai)",
+   "element": "Oras",
+   "modality": "Kardinalinis",
+   "ruler": "Venera",
+   "symbol": "Svarstyklės (♎)",
+   "keywords": [
+    "harmonija",
+    "teisingumas",
+    "diplomatija",
+    "estetika",
+    "dvejojimas"
+   ],
+   "about": [
+    "Svarstyklės prasideda nuo rudens lygiadienio, kai diena ir naktis trumpam susilygina, todėl šis ženklas tradiciškai siejamas su pusiausvyra. Jį valdo Venera, o jo simbolis – vienintelis negyvas daiktas zodiake. Tai santykių, derybų, grožio ir sąžiningumo ženklas. Todėl jis dažnai vaizduojamas kaip tarpininkas tarp priešybių.",
+    "Stipriosios pusės, anot tradicijos, – diplomatija, geras skonis ir gebėjimas išklausyti abi puses. Šešėlinė pusė – dvejojimas, noras visiems įtikti, vengimas konfliktų. Svarstyklėms dažnai patariama išmokti pasirinkti net tada, kai nėra tobulo atsakymo. Tai simbolinis portretas, o ne išsamus žmogaus apibūdinimas. Šiuolaikiniai astrologai pabrėžia, kad Svarstyklių siekis darnos gali būti tikra dovana, jei jis neužgožia savo paties balso."
+   ],
+   "love": "Meilėje Svarstyklės tradiciškai siekia partnerystės, romantikos ir lygiavertiškumo. Iššūkis – nenusileisti taikos vardan tiek, kad būtų pamirštos savo reikmės.",
+   "work": "Darbe jos siejamos su derybomis, estetika, teise ir bendradarbiavimu. Jos mėgsta dirbti poroje ar komandoje ir kurti darnią aplinką.",
+   "tarot": "Auksinės Aušros sistemoje Svarstyklės siejamos su Teisingumu: kortoje pavaizduotos svarstyklės ir kardas atitinka pusiausvyros ir sprendimo temą.",
+   "moon": "Kai Mėnulis praeina per Svarstykles, tradiciškai sakoma, kad norisi darnos, grožio ir malonaus bendravimo. Tai geros dienos susitikimams, derybų pradžiai, meno apžiūrai, aplinkos sutvarkymui. Sprendimus gali būti sunkiau priimti, todėl verta užsirašyti argumentus už ir prieš."
+  },
+  {
+   "i": 7,
+   "name": "Skorpionas",
+   "dates": "spalio 23 – lapkričio 21 d. (apytiksliai)",
+   "element": "Vanduo",
+   "modality": "Fiksuotas",
+   "ruler": "Marsas (tradiciškai) ir Plutonas (šiuolaikiškai)",
+   "symbol": "Skorpionas (♏)",
+   "keywords": [
+    "gilumas",
+    "intensyvumas",
+    "transformacija",
+    "paslaptis",
+    "užsispyrimas"
+   ],
+   "about": [
+    "Skorpionas yra fiksuotas vandens ženklas. Tradiciškai jį valdo Marsas, o šiuolaikinė astrologija pridėjo Plutoną. Su juo siejamos gelmės, paslaptys, stiprūs jausmai, krizės ir atsinaujinimas. Tai ženklas, kurio įvaizdis – tylus, atidus, ištvermingas žmogus. Ženklas pasirodo, kai gamta rudenį nurimsta ir tamsėja, todėl jo vaizdiniai – gelmė, tyla ir slaptas atsinaujinimas.",
+    "Stipriosios pusės, anot tradicijos, – ryžtas, ištikimybė ir gebėjimas žvelgti į tai, ko kiti vengia. Šešėlinė pusė – nepasitikėjimas, užsispyrimas, polinkis ilgai nešioti nuoskaudas. Skorpionui dažnai patariama atrasti, kad atvirumas gali būti ne silpnybė, o jėga. Tai simbolinis portretas, o ne tikslus žmogaus aprašymas. Šiuolaikiniai astrologai pabrėžia, kad Skorpiono intensyvumas gali tapti ištverme ir gebėjimu pereiti sunkius laikotarpius."
+   ],
+   "love": "Meilėje Skorpionas tradiciškai ieško gilaus, intensyvaus ryšio ir ištikimybės. Iššūkis – pasitikėjimas ir gebėjimas atleisti.",
+   "work": "Darbe jis siejamas su tyrimu, gilinimusi, strategija ir gebėjimu išlikti ramiam krizės metu. Geriausiai dirba ten, kur gali pasinerti į temą.",
+   "tarot": "Auksinės Aušros sistemoje Skorpionas siejamas su Mirtimi, bet šioje tradicijoje kortos reikšmė simbolinė: pabaiga, transformacija ir atsinaujinimas, artimi Skorpiono temai.",
+   "moon": "Kai Mėnulis keliauja per Skorpioną, tradiciškai sakoma, kad jausmai pasidaro gilesni, intensyvesni, o mintys krypsta į paslaptis ir vidines tiesas. Tai dienos apmąstymams, dienoraščiui, senų įpročių peržiūrai ir tam, kas reikalauja susikaupimo. Verta nepulti į kraštutinumus ir neįsižeisti dėl menkniekių."
+  },
+  {
+   "i": 8,
+   "name": "Šaulys",
+   "dates": "lapkričio 22 – gruodžio 21 d. (apytiksliai)",
+   "element": "Ugnis",
+   "modality": "Kintamas",
+   "ruler": "Jupiteris",
+   "symbol": "Šaulys (♐)",
+   "keywords": [
+    "laisvė",
+    "optimizmas",
+    "kelionės",
+    "filosofija",
+    "atvirumas"
+   ],
+   "about": [
+    "Šaulį valdo Jupiteris, plėtros ir prasmės planeta, todėl šis ženklas tradiciškai siejamas su kelionėmis, mokymusi, filosofija ir gyvenimo prasmės paieškomis. Jo simbolis – lanką su strėle laikantis kentauras, žvelgiantis į tolį. Ženklas pasirodo vėlyvą rudenį ir tradiciškai pasakojamas per tolimų kelių, mokymosi ir tikėjimo vaizdinius.",
+    "Stipriosios pusės, anot tradicijos, – optimizmas, atvirumas ir dosnumas. Šešėlinė pusė – tiesmukiškumas, nesusivaldymas, nenoras įsipareigoti. Šauliui dažnai patariama rasti pusiausvyrą tarp laisvės ir atsakomybės. Tai simbolinė kalba, kuria žmonės šimtmečius aprašė charakterius, o ne tiksli žmogaus charakteristika. Šiuolaikiniai astrologai pabrėžia, kad Šaulio atvirumas gali padėti jungti skirtingas kultūras ir idėjas."
+   ],
+   "love": "Meilėje Šaulys tradiciškai vertina laisvę, nuotykius ir bendrą smalsumą pasauliui. Iššūkis – rasti vietos artumui ir įsipareigojimui.",
+   "work": "Darbe jis siejamas su mokymu, kelionėmis, leidyba, tarptautiniu bendradarbiavimu. Griežti rėmai ir smulkmeniška kontrolė jam, sakoma, slegia.",
+   "tarot": "Auksinės Aušros sistemoje Šaulys siejamas su Nuosaikumu: kortoje atsispindi harmonija ir kelias, o tai atitinka Šaulio ieškojimą ir vidinę pusiausvyrą.",
+   "moon": "Kai Mėnulis yra Šaulyje, tradiciškai sakoma, kad nuotaika optimistiška, norisi judėti, mokytis, keliauti ar bent pasiūlyti sau naują žvilgsnį. Tai geros dienos pasivaikščiojimams gamtoje, planų plėtimui, mokymuisi. Verta saugotis perdėto optimizmo ir neapgalvotų pažadų."
+  },
+  {
+   "i": 9,
+   "name": "Ožiaragis",
+   "dates": "gruodžio 22 – sausio 19 d. (apytiksliai)",
+   "element": "Žemė",
+   "modality": "Kardinalinis",
+   "ruler": "Saturnas",
+   "symbol": "Ožiaragis (♑)",
+   "keywords": [
+    "ištvermė",
+    "atsakomybė",
+    "ambicija",
+    "disciplina",
+    "santūrumas"
+   ],
+   "about": [
+    "Ožiaragis prasideda nuo žiemos saulėgrįžos ir tradiciškai siejamas su struktūra, atsakomybe ir ilgalaikiu siekiu. Jį valdo Saturnas, laiko ir ribų planeta. Ženklo įvaizdis – kantrus kopėjas, žingsnis po žingsnio judantis į viršukalnę. Ženklas pasirodo žiemos pradžioje, kai naktis pati ilgiausia, todėl jo vaizdiniai – kalnas, laikas ir kantrus kilimas.",
+    "Stipriosios pusės, anot tradicijos, – disciplina, patikimumas ir praktiškas protas. Šešėlinė pusė – santūrumas, pesimizmas, polinkis per daug dirbti ir viską kontroliuoti. Ožiaragiui dažnai patariama išmokti ilsėtis ir džiaugtis dabartimi. Tai simbolinis portretas, kuriame ne kiekvienas atpažins save. Šiuolaikiniai astrologai pabrėžia, kad Ožiaragio atsakomybė gali tapti tikru pasitikėjimu savo darbu."
+   ],
+   "love": "Meilėje Ožiaragis tradiciškai santūrus, bet ištikimas, ryšius kuria lėtai ir atsakingai. Iššūkis – leisti sau jausti ir parodyti švelnumą.",
+   "work": "Darbe jis siejamas su vadyba, organizavimu, strateginiu planavimu ir ilgalaike karjera. Sunkus darbas jam natūralus, bet svarbu nepamiršti poilsio.",
+   "tarot": "Auksinės Aušros sistemoje Ožiaragis siejamas su Velniu: kortoje simbolizuojami apribojimai ir materialieji ryšiai, atitinkantys Saturno valdomo ženklo temą.",
+   "moon": "Kai Mėnulis keliauja per Ožiaragį, tradiciškai sakoma, kad nuotaika rimtesnė, praktiškesnė, susitelkusi į užduotis ir tikslus. Tai geros dienos planavimui, tvarkai finansuose ir darbotvarkėje, ilgalaikių tikslų peržiūrai. Gali pasirodyti santūrumas ar nuovargis, tad verta palikti laiko poilsiui."
+  },
+  {
+   "i": 10,
+   "name": "Vandenis",
+   "dates": "sausio 20 – vasario 18 d. (apytiksliai)",
+   "element": "Oras",
+   "modality": "Fiksuotas",
+   "ruler": "Saturnas (tradiciškai) ir Uranas (šiuolaikiškai)",
+   "symbol": "Vandenis (♒)",
+   "keywords": [
+    "originalumas",
+    "nepriklausomybė",
+    "idealai",
+    "bendruomenė",
+    "atsiribojimas"
+   ],
+   "about": [
+    "Vandenis yra oro ženklas. Tradiciškai jį valdo Saturnas, o po Urano atradimo 1781 m. šiuolaikinė astrologija pridėjo ir jį. Su Vandeniu siejamos idėjos, naujovės, draugystė, bendruomenė ir nepriklausomas mąstymas. Nepaisant pavadinimo, tai ne vandens, o oro ženklas. Ženklas pasirodo žiemos gelmėje, o jo vaizdiniai – idėjos, ateities vizijos ir bendruomenė, didesnė už vieną žmogų.",
+    "Stipriosios pusės, anot tradicijos, – originalumas, humanizmas ir gebėjimas pažvelgti iš šalies. Šešėlinė pusė – atsiribojimas, užsispyrimas, polinkis būti kitokiam vien dėl kitoniškumo. Vandeniui dažnai patariama sujungti idealus su artimu žmonišku šiltumu. Tai simbolinė kalba, o ne tikslus žmogaus aprašymas. Šiuolaikiniai astrologai pabrėžia, kad Vandenio nepriklausomybė gali tapti drąsa mąstyti kitaip ir kviesti kitus drauge."
+   ],
+   "love": "Meilėje Vandenis tradiciškai vertina draugystę, nepriklausomybę ir intelektinį ryšį. Iššūkis – leisti sau emocinį artumą.",
+   "work": "Darbe jis siejamas su inovacijomis, technologijomis, bendruomeniniais projektais ir netradiciniais sprendimais. Laisvė ir gebėjimas veikti savaip jam svarbūs.",
+   "tarot": "Auksinės Aušros sistemoje Vandenis siejamas su Žvaigžde: kortoje atsispindi viltis ir atsinaujinimas, o vandens ir dangaus simbolika dera su ženklo vaizdiniu ir idealizmu.",
+   "moon": "Kai Mėnulis praeina per Vandenį, tradiciškai sakoma, kad mintys tampa laisvesnės ir originalesnės, norisi bendrauti su draugais, planuoti ateitį. Tai geros dienos naujoms idėjoms, bendriems projektams ir nestandartiniams sprendimams. Gali norėtis atsitraukti nuo emocijų, tad verta nenutraukti ryšio su artimaisiais."
+  },
+  {
+   "i": 11,
+   "name": "Žuvys",
+   "dates": "vasario 19 – kovo 20 d. (apytiksliai)",
+   "element": "Vanduo",
+   "modality": "Kintamas",
+   "ruler": "Jupiteris (tradiciškai) ir Neptūnas (šiuolaikiškai)",
+   "symbol": "Žuvys (♓)",
+   "keywords": [
+    "empatija",
+    "vaizduotė",
+    "jautrumas",
+    "svajingumas",
+    "ribų neaiškumas"
+   ],
+   "about": [
+    "Žuvys užbaigia zodiako ratą, todėl tradiciškai siejamos su pabaiga, išsisklaidymu ir naujo ciklo laukimu. Jas valdė Jupiteris, o po Neptūno atradimo 1846 m. šiuolaikinė astrologija pridėjo ir šią planetą. Su Žuvimis siejamos vaizduotė, empatija, menas ir dvasingumas. Ženklas pasirodo žiemos pabaigoje, kai viskas ima tirpti, todėl jo vaizdiniai – vanduo, sapnai ir slenkstis į naują pradžią.",
+    "Stipriosios pusės, anot tradicijos, – jautrumas, atjauta ir kūrybiškumas. Šešėlinė pusė – polinkis bėgti nuo realybės, ribų neaiškumas, lengvas prisiėmimas kitų jausmų. Žuvims dažnai patariama rasti ryšį tarp svajonių ir kasdienybės. Tai simbolinis portretas, kuriame žmonės gali atpažinti kai kurias savo puses. Šiuolaikiniai astrologai pabrėžia, kad Žuvų empatija gali tapti kūrybos ir atjautos šaltiniu, jei jos neišsenka."
+   ],
+   "love": "Meilėje Žuvys tradiciškai romantiškos, atjaučiančios ir pasiaukojančios. Iššūkis – saugoti savo ribas ir neidealizuoti kito.",
+   "work": "Darbe jos siejamos su menu, muzika, pagalba kitiems ir kūrybinėmis profesijomis. Joms svarbu prasmė, o ne vien rezultatas.",
+   "tarot": "Auksinės Aušros sistemoje Žuvys siejamos su Mėnuliu: kortoje atsispindi sapnų, intuicijos ir pasąmonės vandenys, artimi Žuvų ženklo simbolikai.",
+   "moon": "Kai Mėnulis yra Žuvyse, tradiciškai sakoma, kad jausmai švelnūs, jautrūs, vaizduotė ryški, o sapnai – įsimintini. Tai dienos poilsiui, muzikai, piešimui, meditacijai ar tylai prie vandens. Gali būti sunkiau susikaupti praktiniams dalykams, tad nereikia savęs per daug spausti."
+  }
+ ],
+ "planets": [
+  {
+   "name": "Saulė",
+   "rules": "Liūtas.",
+   "about": "Saulė astrologijoje simbolizuoja pagrindinę tapatybę, gyvybingumą ir tai, kuo žmogus nori tapti. Tradiciškai ji laikoma centrine šviesa, aplink kurią sukasi kiti simboliai. Astronomiškai Saulė yra žvaigždė, tačiau astrologijoje ji kartu su Mėnuliu vadinama šviesuliu."
+  },
+  {
+   "name": "Mėnulis",
+   "rules": "Vėžys.",
+   "about": "Mėnulis simbolizuoja jausmus, nuotaikas, instinktus ir namų jaukumą. Jo kelionė per visą zodiaką trunka apie 27 dienas, o kiekviename ženkle jis užtrunka maždaug 2–2,5 paros, todėl tradiciškai laikomas greičiausiai judančiu astrologijos šviesuliu."
+  },
+  {
+   "name": "Merkurijus",
+   "rules": "Dvyniai ir Mergelė.",
+   "about": "Merkurijus astrologijoje siejamas su mąstymu, kalba, mokymusi, prekyba ir kelionėmis. Tai artimiausia Saulei planeta, kuri judėdama greitai keičia ženklus."
+  },
+  {
+   "name": "Venera",
+   "rules": "Jautis ir Svarstyklės.",
+   "about": "Venera tradiciškai simbolizuoja meilę, grožį, malonumą ir vertybes. Ji siejama su tuo, kas mums patinka ir prie ko norime artėti."
+  },
+  {
+   "name": "Marsas",
+   "rules": "Avinas ir (tradiciškai) Skorpionas.",
+   "about": "Marsas siejamas su energija, veiksmu, drąsa ir ginčais. Astrologijoje jis simbolizuoja, kaip žmogus siekia savo tikslų ir kaip reaguoja į kliūtis."
+  },
+  {
+   "name": "Jupiteris",
+   "rules": "Šaulys ir (tradiciškai) Žuvys.",
+   "about": "Jupiteris – didžiausia Saulės sistemos planeta, o astrologijoje – plėtros, optimizmo ir prasmės simbolis. Tradiciškai jis siejamas su dosnumu, mokymusi ir tikėjimu."
+  },
+  {
+   "name": "Saturnas",
+   "rules": "Ožiaragis ir (tradiciškai) Vandenis.",
+   "about": "Saturnas tradiciškai simbolizuoja ribas, laiką, atsakomybę ir pamokas. Senojoje astrologijoje jis buvo tolimiausia plika akimi matoma planeta."
+  },
+  {
+   "name": "Uranas",
+   "rules": "Vandenis (šiuolaikinė astrologija).",
+   "about": "Uraną 1781 m. atrado Williamas Herschelis, todėl jis priklauso šiuolaikinei astrologijos pusei. Jis simbolizuoja netikėtumus, išsilaisvinimą ir naujoves."
+  },
+  {
+   "name": "Neptūnas",
+   "rules": "Žuvys (šiuolaikinė astrologija).",
+   "about": "Neptūnas buvo atrastas 1846 m. ir astrologijoje siejamas su vaizduote, svajonėmis, dvasingumu ir miglotumu. Jis nematomas plika akimi."
+  },
+  {
+   "name": "Plutonas",
+   "rules": "Skorpionas (šiuolaikinė astrologija).",
+   "about": "Plutonas buvo atrastas 1930 m., o 2006 m. astronomai jį priskyrė nykštukinių planetų grupei. Astrologijoje jis tebėra simbolinis transformacijos, galios ir gilių pokyčių vaizdinys."
+  }
+ ],
+ "retro": {
+  "title": "Retrogradinis Merkurijus",
+  "about": [
+   "Astronomiškai retrogradinis judėjimas yra regimasis reiškinys: žiūrint iš Žemės, planeta tarsi trumpam sustoja ir pajuda atgal tarp žvaigždžių. Iš tikrųjų Merkurijus negrįžta atgal. Būdamas arčiau Saulės, jis juda greičiau už Žemę ir ją aplenkia – panašiai kaip greitesnis automobilis, lenkdamas kitą, sukuria įspūdį, kad lėčiau važiuojantis automobilis trumpam slenka atgal. Merkurijus retrogradiniu laikomas maždaug tris kartus per metus, kiekvieną kartą apie tris savaites.",
+   "Astrologijoje šis laikotarpis tradiciškai siejamas su Merkurijaus sritimis – bendravimu, susirašinėjimu, kelionėmis, technika ir susitarimais. Sakoma, kad tai metas ne pradėti, o peržiūrėti: pergalvoti, pataisyti, sugrįžti prie to, kas liko neužbaigta, ir susisiekti su senais pažįstamais. Nėra įrodymų, kad šis laikotarpis tikrai sukelia gedimų ar nesusipratimų, todėl jį galima priimti ramiai – kaip pretekstą sulėtinti tempą, dar kartą perskaityti svarbų laišką ir pasidaryti atsargines failų kopijas."
+  ]
+ },
+ "eclipses": {
+  "about": [
+   "Saulės užtemimas įvyksta jaunaties metu, kai Mėnulis atsiduria tarp Žemės ir Saulės ir uždengia jos šviesą, o Mėnulio užtemimas – pilnaties metu, kai Žemės šešėlis krinta ant Mėnulio. Užtemimai vyksta „sezonais“ maždaug kas šešis mėnesius, nes Mėnulio orbita šiek tiek pakrypusi Žemės orbitos atžvilgiu, ir Saulė, Žemė bei Mėnulis susirikiuoja tik tam tikrais laikotarpiais. Astrologijos tradicijoje užtemimai laikomi lūžio ir posūkio ženklais – laiku užbaigti seną ir pradėti naują, nors tai simbolinis aiškinimas, o ne patvirtintas poveikis. Niekada nežiūrėkite į Saulę be specialių užtemimo akinių su saulės filtru, nes net trumpas žvilgsnis gali negrįžtamai pakenkti akims; paprasti saulės akiniai netinka."
+  ]
+ }
+}

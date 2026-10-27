@@ -1,0 +1,846 @@
+{
+ "rituals": [
+  {
+   "id": "metai-grabnyciu-sviesa",
+   "intent": "begin",
+   "group": "season",
+   "date": "vasario 2 d.",
+   "month": 2,
+   "title": "Grabnyčių šviesa",
+   "teaser": "Vasario pradžios vakaras, skirtas grįžtančiai šviesai: viena žvakė ir ramus žvilgsnis į tai, kas jūsų gyvenime jau pradeda šviesėti.",
+   "intro": [
+    "Vasario 2-oji Lietuvoje žinoma kaip Grabnyčios – tai šventė, kurioje ypatingą vietą užima žvakės. Kalendoriuje ji patenka į pačią žiemos gilumą, kai diena jau juntamai ilgesnė nei prieš mėnesį, nors šalčiai dar tvyro.",
+    "Tai ne orų spėjimas ir ne pažadas. Tai tylus vakaras, kai užsidegate vieną žvakę ir atsakote sau: kas mano gyvenime jau pradeda šviesėti, nors dar nėra aišku, kaip tai bus pavadinta? Žvakė čia – vienas paprasčiausių ir seniausių šviesos ženklų.",
+    "Ritualas tinka, jei žiema jums sunki, jei norite švelniai pradėti metų darbus arba tiesiog pasimėgauti ramybe be skubos."
+   ],
+   "symbolism": [
+    "Žvakė – daugelyje Europos tradicijų šviesos ir vilties ženklas, o Grabnyčių šventėje ji ypač svarbi",
+    "Vasaris – metų lūžis, kai šviesos jau daugiau, bet žiema dar neatsitraukusi",
+    "Langas – riba tarp vidaus ir lauko, vieta, kur žvelgiama į ateinančią šviesą",
+    "Užrašytas mažas ženklas – tai, kas jūsų gyvenime pradeda šviesėti"
+   ],
+   "timing": {
+    "phase": "nepriklauso nuo Mėnulio",
+    "sign": "nepriklauso nuo Mėnulio",
+    "day": "Vasario 2 d., pagal tradiciją – Grabnyčios",
+    "hour": "Sutemus, kai lauke jau tamsu"
+   },
+   "duration": "apie 20 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Viena balta ar natūralios spalvos žvakė stabiliame laikiklyje",
+    "Lapelis ir rašiklis",
+    "Degtukai arba žiebtuvėlis",
+    "Karščiui atsparus padėklas",
+    "Šilta antklodė ar pledas, jei norisi atsisėsti prie lango"
+   ],
+   "prep": [
+    "Prieš pradėdami prigesinkite ryškias lempas, kad liktų tik prietema.",
+    "Pagalvokite, kuo šią žiemą buvote sau atrama, – net jei tai tik maža smulkmena."
+   ],
+   "steps": [
+    {
+     "title": "Pastatykite žvakę",
+     "text": "Padėkite žvakę ant padėklo, ant stabilaus paviršiaus, netoli lango, bet toliau nuo užuolaidų."
+    },
+    {
+     "title": "Nurimkite",
+     "text": "Trumpam atsisėskite, lėtai įkvėpkite ir iškvėpkite penkis kartus. Pajuskite, kaip kūnas sunkėja ir lėtėja."
+    },
+    {
+     "title": "Uždekite žvakę",
+     "text": "Uždegę žvakę, ištarkite: „Šviesa grįžta.“ Kelias minutes tiesiog žiūrėkite į liepsną."
+    },
+    {
+     "title": "Užrašykite tris ženklus",
+     "text": "Lapelyje trumpai parašykite tris dalykus, kurie jūsų gyvenime jau pradeda šviesėti: tai gali būti mintis, žmogus, įprotis ar ilgėjanti diena."
+    },
+    {
+     "title": "Pasirinkite vieną",
+     "text": "Iš trijų pasirinkite tą, kuriam norėtumėte šiemet skirti daugiau dėmesio. Perskaitykite jį garsiai."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite sau už šį vakarą ir užgesinkite žvakę žvakių gesintuvu ar sudrėkintais pirštais, o ne pūsdami. Įsitikinkite, kad nebesidaro dūmelio."
+    }
+   ],
+   "words": "Žiema dar čia, bet šviesa jau grįžta.\nLeidžiu sau žengti į naują laiką be skubos.\nTai, kas manyje šviesėja, tegul auga.",
+   "after": [
+    "Lapelį padėkite ten, kur jį pamatysite per ateinančias savaites, pavyzdžiui, prie lovos ar darbo stalo.",
+    "Per ateinančią savaitę nueikite į lauką pasitikti dienos šviesos bent dešimčiai minučių."
+   ],
+   "safety": "Žvakė turi degti tik ant karščiui atsparaus, stabilaus paviršiaus, atokiau nuo užuolaidų ir popieriaus, ir niekada likti be priežiūros, ypač šalia vaikų ar gyvūnų. Ritualas yra ramybės ir apmąstymo praktika; jis nežada rezultatų ir nepakeičia pagalbos, jei žiemą jaučiate sunkią nuotaiką."
+  },
+  {
+   "id": "metai-uzgavenes-ziemos-atsisveikinimas",
+   "intent": "cleanse",
+   "group": "season",
+   "date": "prieš Pelenų dieną, data kinta",
+   "month": 2,
+   "title": "Žiemos atsisveikinimas Užgavėnių proga",
+   "teaser": "Popierinis simbolis visam, ko norite palikti už žiemos slenksčio, ir blynai pasimėgavimui. Be ugnies ir be šurmulio – tik jūs ir namai.",
+   "intro": [
+    "Užgavėnės Lietuvoje – triukšminga šventė prieš gavėnią: kaukės, persirengėliai, blynai, o viešose šventėse – Morės deginimas, simboliškai išvarantis žiemą. Šiame ritualyje to namuose atkartoti nereikia.",
+    "Namų variantas ramesnis. Ant popieriaus užrašote, su kuo norite atsisveikinti – užsitęsusio nuovargio, nuolatinio atidėliojimo, seno nusivylimo, – o paskui lapelį suplėšote ir atiduodate perdirbti. Simbolis pasitraukia, o jūs liekate su blynų kvapu virtuvėje.",
+    "Ritualas tinka bet kam, kam žiemos pabaigoje norisi pailsinti galvą ir lengviau žvelgti į pavasarį."
+   ],
+   "symbolism": [
+    "Kaukė – Užgavėnių šventės ženklas, leidžiantis šiek tiek pažaisti kitu veidu",
+    "Blynas – apvalus, šiltas ir sotus; kartais siejamas su saule",
+    "Popieriaus simbolis – vietoj liepsnos, saugus ženklas to, ką paleidžiate",
+    "Perdirbimas – daiktas, grįžtantis į apyvartą kaip kažkas nauja"
+   ],
+   "timing": {
+    "phase": "nepriklauso nuo Mėnulio",
+    "sign": "nepriklauso nuo Mėnulio",
+    "day": "Užgavėnių diena (paskutinė diena prieš Pelenų dieną; data kasmet kinta)",
+    "hour": "Dieną ar vakare, kai namuose gaminami blynai"
+   },
+   "duration": "apie 30 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Nenaudojamo popieriaus lapas",
+    "Rašiklis",
+    "Žirklės (nebūtina)",
+    "Stalo vieta",
+    "Blynų gaminimo priemonės (ritualui nebūtinos)"
+   ],
+   "prep": [
+    "Paruoškite tvarkingą vietą ir ramų pusvalandį.",
+    "Pagalvokite, su kuo iš tiesų norite atsisveikinti – jokių žmonių vardų, tik situacijos ar jausmai."
+   ],
+   "steps": [
+    {
+     "title": "Nupieškite žiemą",
+     "text": "Ant popieriaus lapo nupieškite arba parašykite žodį „Žiema“. Dailės įgūdžiai nesvarbūs."
+    },
+    {
+     "title": "Užrašykite, ko atsisveikinate",
+     "text": "Aplink simbolį parašykite 3–5 dalykus, kurių nebenorite nešti į pavasarį: pavyzdžiui, „nuovargis“, „atidėliojimas“, „kaltė dėl nepadaryto“."
+    },
+    {
+     "title": "Išsakykite garsiai",
+     "text": "Perskaitykite sąrašą garsiai, ramiu ir aiškiu balsu."
+    },
+    {
+     "title": "Suplėškite",
+     "text": "Suplėškite lapą į dalis. Tai simbolinis žingsnis – paleidžiate tai, ką laikėte per tvirtai."
+    },
+    {
+     "title": "Atiduokite perdirbti",
+     "text": "Popieriaus likučius įmeskite į makulatūros dėžę. Sąmoningai pasakykite: „Atiduodu.“"
+    },
+    {
+     "title": "Baikite ritualą",
+     "text": "Ritualas baigtas. Jei norite, pagaminkite blynų ir valgykite juos kaip įprastą maistą, nesiedami su ritualu."
+    }
+   ],
+   "words": "Žiema, ačiū, kad buvai.\nDabar leidžiu sau eiti toliau.\nPavasaris artėja, o aš einu jam pasitikti.",
+   "after": [
+    "Jei po ritualo kyla apmąstymų, užsirašykite juos ir sugrįžkite po kelių dienų.",
+    "Pasirinkite vieną mažą veiksmą, kuris padėtų jums jaustis lengviau: pavyzdžiui, išvėdinti kambarį ar sutvarkyti vieną lentyną."
+   ],
+   "safety": "Namuose nieko deginti nereikia, o popierinį simbolį tiesiog suplėšykite. Jei gaminate blynus, laikykitės įprastų virtuvės saugumo taisyklių. Ritualas yra simbolinė praktika ir nepakeičia pagalbos sunkiais emociniais laikotarpiais."
+  },
+  {
+   "id": "metai-pavasario-lygiadienis-sejos",
+   "intent": "begin",
+   "group": "season",
+   "date": "apie kovo 20 d.",
+   "month": 3,
+   "title": "Pavasario lygiadienio sėjos",
+   "teaser": "Kai diena ir naktis susilygina, pasėkite vazone keletą sėklų ir kartu pasėkite ketinimus, kuriems norite leisti augti.",
+   "intro": [
+    "Pavasario lygiadienį diena ir naktis trunka beveik vienodai. Daugeliui šis laikas tampa natūraliu momentu pagalvoti apie pusiausvyrą: kiek jėgų skiriame darbui, kiek poilsiui, kiek kitiems ir kiek sau.",
+    "Ritualas paprastas: į vazoną pasėjate sėklas ir prie kiekvienos pasakote vieną ketinimą. Sėja čia – ne magija, o pratimas rūpintis kuo nors nuo pat pradžių: reikia laistyti, laukti ir žiūrėti, kas išdygs.",
+    "Tinka tiems, kurie nori pradėti naują dalyką be didingų pažadų, su kantrybe ir praktiniu rūpesčiu."
+   ],
+   "symbolism": [
+    "Sėkla – mažas pažadas, kuriam reikia laiko, vandens ir šviesos",
+    "Lygiadienis – diena ir naktis susilygina, tinkamas laikas pagalvoti apie pusiausvyrą",
+    "Žemė – tradiciškai siejama su pastovumu ir kantrybe",
+    "Vazonas – ribotas, bet pakankamas laukas, kuriame ketinimai gali augti"
+   ],
+   "timing": {
+    "phase": "nepriklauso nuo Mėnulio",
+    "sign": "nepriklauso nuo Mėnulio",
+    "day": "Apie kovo 20 d. (pavasario lygiadienis)",
+    "hour": "Dieną, kai į langą krenta šviesa"
+   },
+   "duration": "apie 30 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Vazonas su drenažo skylutėmis ir padėklu",
+    "Sėjai skirta žemė",
+    "Sėklos (žolelių, daržovių ar gėlių, pavyzdžiui, baziliko, medetkų ar kalendros)",
+    "Lapeliai ar etiketės ir rašiklis",
+    "Laistytuvas su drungnu vandeniu"
+   ],
+   "prep": [
+    "Parinkite sėklas, kurios gerai auga ant palangės, ir perskaitykite ant pakuotės nurodytą sėjos laiką.",
+    "Pagalvokite apie 2–3 ketinimus, susijusius su pavasariu."
+   ],
+   "steps": [
+    {
+     "title": "Paruoškite vazoną",
+     "text": "Užpilkite žemės, lengvai ją paspauskite ir sudrėkinkite."
+    },
+    {
+     "title": "Pagalvokite apie pusiausvyrą",
+     "text": "Trumpai pastovėkite ir atsakykite sau: kam šią savaitę skiriu per daug, o kam per mažai?"
+    },
+    {
+     "title": "Išsirinkite ketinimus",
+     "text": "Parašykite ant lapelių po vieną ketinimą, pavyzdžiui, „daugiau poilsio“, „aiškus planas“, „kantrybė“."
+    },
+    {
+     "title": "Pasėkite",
+     "text": "Kiekvieną sėklą sėkite pagal pakuotės nurodymus, tardami savo ketinimą. Lapelį įkiškite šalia kaip žymeklį."
+    },
+    {
+     "title": "Palaistykite",
+     "text": "Lengvai palaistykite ir pastatykite vazoną į šviesią vietą."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite sau už šią akimirką ir atsigręžkite į langą, pro kurį ateina šviesa."
+    }
+   ],
+   "words": "Diena ir naktis susilygina, ir aš randu savo pusiausvyrą.\nSėju su kantrybe ir rūpesčiu.\nTegul auga tai, ko man reikia.",
+   "after": [
+    "Laistykite pagal sėklų poreikius ir stebėkite, kas išdygsta, – kiekvieną daigą galite susieti su savo ketinimu.",
+    "Po mėnesio peržiūrėkite lapelius ir pažiūrėkite, ką jau nuveikėte savo ketinimų link."
+   ],
+   "safety": "Jei namuose yra vaikų ar gyvūnų, auginkite tik jiems saugius augalus. Augalai čia yra simbolis; nieko iš vazono nevalgykite ir nenaudokite ritualo tikslais."
+  },
+  {
+   "id": "metai-velyku-margutis",
+   "intent": "begin",
+   "group": "season",
+   "date": "pavasarį, data kinta",
+   "month": 4,
+   "title": "Margutis su ketinimu",
+   "teaser": "Margutis kaip naujos pradžios ženklas: papuoškite vieną kiaušinį savo ketinimu ir palikite jį namuose ant stalo kaip pavasario simbolį.",
+   "intro": [
+    "Lietuvoje Velykų papročių širdyje – margučiai: dažyti, raižyti, vašku marginti kiaušiniai. Daugelyje Europos kultūrų kiaušinis tapo naujos gyvybės ir pradžios ženklu.",
+    "Šis ritualas paprastas: papuošiate vieną margutį savo asmeniniu ketinimu – spalva, raštu ar mažu simboliu. Kiti kiaušiniai, kaip įprasta, gali būti valgomi per šventinį stalą kaip maistas; ritualinis margutis lieka tik grožiui ir simbolikai.",
+    "Tinka tiems, kurie nori pasitikti Velykas ir pavasarį ne tik per šventinį stalą, bet ir per kūrybą bei ramybę."
+   ],
+   "symbolism": [
+    "Kiaušinis – daugelyje Europos tradicijų naujos gyvybės ir pradžios simbolis",
+    "Spalvos – džiaugsmo, šviesos ir gamtos grįžimo ženklai",
+    "Raštas – ranka sukurtas ženklas, kuris primena, kam skirtas margutis",
+    "Velykos – krikščioniška prisikėlimo šventė, Lietuvoje glaudžiai susijusi su pavasario sutiktuvėmis"
+   ],
+   "timing": {
+    "phase": "nepriklauso nuo Mėnulio",
+    "sign": "nepriklauso nuo Mėnulio",
+    "day": "Velykų sekmadienis ar Didysis šeštadienis (data kasmet kinta)",
+    "hour": "Ryte ar dienos pradžioje"
+   },
+   "duration": "apie 40 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Vienas išvirtas arba išpūstas kiaušinis",
+    "Maistui saugūs dažai ar spalvoti žymekliai",
+    "Vaško pieštukas raštui (nebūtina)",
+    "Mažas dubenėlis ar kiaušinių stovelis",
+    "Švarios šluostės ar servetėlės"
+   ],
+   "prep": [
+    "Pasirinkite, kuriam ketinimui skirsite šį margutį.",
+    "Paruoškite darbo vietą, užtiesę stalą."
+   ],
+   "steps": [
+    {
+     "title": "Pasirinkite ketinimą",
+     "text": "Mintyse suformuluokite trumpą ketinimą, pavyzdžiui, „daugiau lengvumo“ arba „drąsa pradėti“."
+    },
+    {
+     "title": "Pasirinkite spalvas",
+     "text": "Pagalvokite, kokios spalvos atitinka jūsų ketinimą, ir išsirinkite jas."
+    },
+    {
+     "title": "Papuoškite",
+     "text": "Ant kiaušinio pieškite raštą, simbolį ar žodį. Dirbkite lėtai, be skubėjimo."
+    },
+    {
+     "title": "Leiskite nudžiūti",
+     "text": "Padėkite margutį į dubenėlį ar stovelį, kad išdžiūtų."
+    },
+    {
+     "title": "Pasakykite ketinimą",
+     "text": "Paėmę margutį į rankas, ramiai pasakykite savo ketinimą."
+    },
+    {
+     "title": "Padėkite matomoje vietoje",
+     "text": "Padėkite margutį ten, kur jį matysite pavasario savaites."
+    }
+   ],
+   "words": "Kaip kiaušinyje slypi nauja pradžia, taip ir aš nešu savo naują ketinimą.\nPavasaris prasideda manyje.",
+   "after": [
+    "Margutį laikykite namuose, kol pajusite, kad ketinimas jau tapo jūsų savastimi; tada margutį galite išsaugoti kaip papuošalą (išpūstą) arba tiesiog išmesti.",
+    "Papildomus Velykų kiaušinius valgykite kaip įprastai, be jokių ritualinių žodžių."
+   ],
+   "safety": "Ritualiniam margučiui liepsnos nereikia. Ritualinio margučio nevalgykite – jis skirtas tik grožiui ir simbolikai. Kitus šventinius kiaušinius valgykite kaip įprastą maistą."
+  },
+  {
+   "id": "metai-rasos-joninese",
+   "intent": "intuition",
+   "group": "season",
+   "date": "birželio 23–24 d.",
+   "month": 6,
+   "title": "Rasos ir Joninių vainikas",
+   "teaser": "Trumpiausios nakties vakaras: gėlių vainikas, žvakė ir paparčio žiedo pasakojimas kaip istorija apie tai, ko ieškome.",
+   "intro": [
+    "Rasos, arba Joninės, – birželio 23–24 d. – viena mylimiausių Lietuvos švenčių. Su ja siejami gėlių ir žolių vainikai, laužai, dainos ir pasakojimas apie paparčio žiedą, kurio, sakoma, ieškoma Joninių naktį.",
+    "Namų variantas ramesnis: nupinate nedidelį vainiką iš gėlių ar žolių, uždegate žvakę vietoje laužo ir prisimenate paparčio žiedo istoriją kaip pasaką apie tai, ko ieškote šiais metais. Laužas čia nereikalingas.",
+    "Ritualas tinka tiems, kurie nori gyvai patirti vasaros pradžią be šurmulio."
+   ],
+   "symbolism": [
+    "Vainikas – gėlių ar žolių ratas, Joninių papročių ženklas",
+    "Paparčio žiedas – legenda, kurią pasakojame kaip istoriją, o ne faktą",
+    "Rasa – ryto vandens lašai, vasaros šviežumo vaizdinys",
+    "Žvakė – ramus laužo atitikmuo namuose"
+   ],
+   "timing": {
+    "phase": "nepriklauso nuo Mėnulio",
+    "sign": "nepriklauso nuo Mėnulio",
+    "day": "Birželio 23–24 d., Rasos ir Joninės",
+    "hour": "Vakare po saulėlydžio"
+   },
+   "duration": "apie 45 min.",
+   "level": "Vidutinis",
+   "materials": [
+    "Gėlės ar žolės vainikui (pievų gėlės, žolės, lapai)",
+    "Siūlas, virvelė ar florista viela",
+    "Žvakė stabiliame laikiklyje",
+    "Karščiui atsparus padėklas",
+    "Lapelis ir rašiklis"
+   ],
+   "prep": [
+    "Gėles rinkite tik ten, kur tai leidžiama, ir imkite saikingai, nekenkdami gamtai.",
+    "Paskirkite ramų vakarą ir vietą stalo kampe."
+   ],
+   "steps": [
+    {
+     "title": "Supinkite vainiką",
+     "text": "Iš gėlių ir žolių supinkite nedidelį ratą. Dirbdami pagalvokite apie praėjusį pusmetį."
+    },
+    {
+     "title": "Uždekite žvakę",
+     "text": "Pastatykite žvakę ant karščiui atsparaus paviršiaus, atokiau nuo vainiko ir žolių, ir uždekite ją kaip laužo atitikmenį."
+    },
+    {
+     "title": "Papasakokite istoriją",
+     "text": "Garsiai ar mintyse prisiminkite paparčio žiedo pasakojimą: pasakojama, kad jis sužydi tik Joninių naktį, o jį radusį lydi laimė. Tai pasakojimas, o ne faktas."
+    },
+    {
+     "title": "Užrašykite savo „žiedą“",
+     "text": "Parašykite, ko ieškote šią vasarą: patirties, ramybės, kūrybos ar ryšio."
+    },
+    {
+     "title": "Padėkite vainiką",
+     "text": "Padėkite vainiką atokiau nuo žvakės (kad neužsidegtų) arba užsidėkite ant galvos, jei patinka, ir pabūkite tyloje."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite vakarui ir užgesinkite žvakę žvakių gesintuvu ar sudrėkintais pirštais."
+    }
+   ],
+   "words": "Trumpiausia naktis leidžia man ieškoti.\nTegul mano žiedas bus ramybė ir džiaugsmas.",
+   "after": [
+    "Vainiką palikite džiūti namuose arba grąžinkite gamtai kaip kompostą.",
+    "Pasivaikščiokite ryte, kai ant žolės dar yra rasos, ir pažvelkite, kaip atrodo vasaros pradžia."
+   ],
+   "safety": "Žvakė turi degti tik ant karščiui atsparaus, stabilaus paviršiaus, atokiau nuo užuolaidų ir popieriaus, ir niekada likti be priežiūros, ypač šalia vaikų ar gyvūnų. Vainiką ir sausas žoles laikykite atokiau nuo liepsnos. Laužo kurti nereikia; namuose pakanka žvakės. Augalų nevalgykite ir negerkite jų, nerinkite saugomų rūšių."
+  },
+  {
+   "id": "metai-zolines-puokste",
+   "intent": "protect",
+   "group": "season",
+   "date": "rugpjūčio 15 d.",
+   "month": 8,
+   "title": "Žolinės puokštė namams",
+   "teaser": "Rugpjūčio vidurio puokštė iš žolių ir gėlių, kurią džiovinsite ir statysite namuose kaip vasaros ir saugumo simbolį.",
+   "intro": [
+    "Žolinė, rugpjūčio 15 d., Lietuvoje tradiciškai siejama su žolynų ir gėlių šventinimu. Žmonės renka puokštes iš pievų gėlių, žolių ir javų, nešasi jas į bažnyčią ir laiko namuose.",
+    "Šis ritualas yra namų variantas be religinių apeigų: surenkate nedidelę puokštę, susiejate ją ir sukabinate džiūti. Žolės čia – tik simbolis: vasaros pilnatvės, namų šilumos ir saugumo.",
+    "Tinka tiems, kam brangūs žolynų kvapai ir norisi vasarą išsaugoti namuose."
+   ],
+   "symbolism": [
+    "Žolių puokštė – vasaros pilnatvės ir namų šilumos ženklas",
+    "Javai – tradiciškai derliaus ir sotumo simbolis",
+    "Džiovinimas – vasaros prisiminimas, kuris išlieka žiemai",
+    "Raištis – ryšys tarp skirtingų augalų, kaip tarp namiškių"
+   ],
+   "timing": {
+    "phase": "nepriklauso nuo Mėnulio",
+    "sign": "nepriklauso nuo Mėnulio",
+    "day": "Rugpjūčio 15 d., Žolinė",
+    "hour": "Dieną ar po pietų, kai žolės jau sausos"
+   },
+   "duration": "apie 40 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Pievų gėlės, žolės, javų varpos",
+    "Siūlas ar virvelė",
+    "Žirklės",
+    "Pakabinimo vieta sausoje, vėdinamoje vietoje",
+    "Lapelis su ketinimu (nebūtina)"
+   ],
+   "prep": [
+    "Rinkite tik tas gėles, kurias leidžiama skinti, ir saikingai. Venkite saugomų ir jums nepažįstamų augalų.",
+    "Pagalvokite, ką norite pasiimti iš vasaros į rudenį."
+   ],
+   "steps": [
+    {
+     "title": "Surinkite augalus",
+     "text": "Pasivaikščiokite ir pasirinkite augalus, kurie jums gražūs."
+    },
+    {
+     "title": "Sutvarkykite puokštę",
+     "text": "Nuskinkite apatinius lapus ir sudėkite augalus į puokštę."
+    },
+    {
+     "title": "Suriškite",
+     "text": "Surišę puokštę siūlu, ištarkite savo ketinimą."
+    },
+    {
+     "title": "Pakabinkite",
+     "text": "Pakabinkite puokštę džiūti galvute žemyn sausoje, vėdinamoje vietoje."
+    },
+    {
+     "title": "Padėkokite",
+     "text": "Trumpam atsisėskite šalia ir prisiminkite, ką geriausio jums suteikė vasara."
+    }
+   ],
+   "words": "Vasaros pilnatvė lieka su manimi.\nTegul šie namai būna šilti ir saugūs.",
+   "after": [
+    "Džiūvančią puokštę stebėkite kelias savaites; ji primins vasarą.",
+    "Kai ji išdžius, galite ją palikti kaip dekoraciją arba sukompostuoti."
+   ],
+   "safety": "Augalai čia yra tik simbolis; jų nevalgykite, negerkite ir nedeginkite. Jei turite alergijų ar augintinių, rinkitės jiems saugius augalus. Ritualas nėra apsauga nuo realių pavojų."
+  },
+  {
+   "id": "metai-rudens-lygiadienis-padeka",
+   "intent": "cleanse",
+   "group": "season",
+   "date": "apie rugsėjo 22–23 d.",
+   "month": 9,
+   "title": "Rudens lygiadienio padėka",
+   "teaser": "Kai diena ir naktis vėl susilygina, ramus vakaras padėkai už derlių – ne vien daržo, bet ir viso, ką šiemet sukūrėte.",
+   "intro": [
+    "Rudens lygiadienį diena ir naktis vėl trunka beveik vienodai, o toliau naktys ilgės. Daugeliui tai metas pažvelgti atgal ir paklausti, ką šiemet jau suspėjome užauginti.",
+    "Ritualas – tai padėkos vakaras: ant stalo sudėsite sezono vaisių, parašysite trumpą padėkų sąrašą ir uždegsite žvakę. Derlius čia suprantamas plačiai: darbai, santykiai, išmoktos pamokos.",
+    "Tinka tiems, kurie nori pasitikti rudenį ne liūdesiu, o dėkingumu."
+   ],
+   "symbolism": [
+    "Obuolys ar kitas sezono vaisius – rudens derliaus ženklas",
+    "Žvakė – šviesa, kuri lydi į tamsesnį laiką",
+    "Lygiadienis – antrą kartą per metus dienos ir nakties pusiausvyra",
+    "Sąrašas – derlius, užrašytas ant popieriaus"
+   ],
+   "timing": {
+    "phase": "nepriklauso nuo Mėnulio",
+    "sign": "nepriklauso nuo Mėnulio",
+    "day": "Apie rugsėjo 22–23 d. (rudens lygiadienis)",
+    "hour": "Vakare, kai temsta"
+   },
+   "duration": "apie 30 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Keli sezono vaisiai ar daržovės",
+    "Žvakė stabiliame laikiklyje",
+    "Lapelis ir rašiklis",
+    "Karščiui atsparus padėklas",
+    "Staltiesė ar audinys stalui"
+   ],
+   "prep": [
+    "Papuoškite stalą sezono vaisiais.",
+    "Pagalvokite apie metų pasiekimus, net ir mažus."
+   ],
+   "steps": [
+    {
+     "title": "Paruoškite stalą",
+     "text": "Sudėkite vaisius ir daržoves ant staltiesės."
+    },
+    {
+     "title": "Uždekite žvakę",
+     "text": "Pastatykite žvakę ant karščiui atsparaus padėklo, atokiau nuo staltiesės kraštų ir vaisių, ir ją uždekite."
+    },
+    {
+     "title": "Užrašykite derlių",
+     "text": "Parašykite 5–10 dalykų, už kuriuos šiemet dėkojate."
+    },
+    {
+     "title": "Perskaitykite",
+     "text": "Garsiai perskaitykite sąrašą ir, jei norite, pridėkite dar vieną eilutę."
+    },
+    {
+     "title": "Pasirinkite vieną",
+     "text": "Pasirinkite vieną dalyką, kurį norėtumėte pasiimti į žiemą."
+    },
+    {
+     "title": "Užgesinkite",
+     "text": "Padėkokite ir užgesinkite žvakę saugiai."
+    }
+   ],
+   "words": "Už viską, kas šiemet užaugo, dėkoju.\nRamiai pasitinku ilgėjančias naktis.",
+   "after": [
+    "Vaisiai ir daržovės nėra ritualo dalis; jei norite, valgykite juos kaip įprastą maistą, atskirai nuo ritualo.",
+    "Sąrašą išsaugokite ir perskaitykite metų pabaigoje."
+   ],
+   "safety": "Žvakė turi degti tik ant karščiui atsparaus, stabilaus paviršiaus, atokiau nuo užuolaidų ir popieriaus, ir niekada likti be priežiūros, ypač šalia vaikų ar gyvūnų. Ritualas yra dėkingumo praktika ir nepakeičia pagalbos, jei metai buvo sunkūs."
+  },
+  {
+   "id": "metai-velines-atminimo-zvakes",
+   "intent": "protect",
+   "group": "season",
+   "date": "lapkričio 2 d.",
+   "month": 11,
+   "title": "Vėlinių žvakė ir prisiminimai",
+   "teaser": "Namų vakaras, kai užsidegate žvakę ir ramiai prisimenate artimus, kurių nebėra šalia. Be skubos, be baimės, be privalėjimo.",
+   "intro": [
+    "Vėlinės, lapkričio 2 d., – Lietuvoje diena, skirta mirusiųjų prisiminimui. Žmonės tradiciškai uždega žvakes ir ilgesingai prisimena tuos, kurių nebėra. Šis ritualas pritaikytas namams: tik jūs, žvakė ir prisiminimai.",
+    "Jei netektis vis dar skauda, leiskite sau jausti tiek, kiek jaučiate, ir sustoti, kai reikia. Ritualas nėra pareiga ir neturi tikslo kuo greičiau „pasijusti geriau“; jis tik suteikia ramią erdvę prisiminti.",
+    "Tinka tiems, kurie nori įsiklausyti į savo atmintį ir artimųjų istorijas."
+   ],
+   "symbolism": [
+    "Žvakė – šviesa, kuria prisimename; vienas svarbiausių Vėlinių ženklų",
+    "Nuotrauka – prisiminimas, laikomas ant stalo",
+    "Kėdė ar kampelis prie stalo – vieta prisiminimui",
+    "Ilgesys – meilės tąsa, kai žmogaus nebėra šalia"
+   ],
+   "timing": {
+    "phase": "nepriklauso nuo Mėnulio",
+    "sign": "nepriklauso nuo Mėnulio",
+    "day": "Lapkričio 2 d., Vėlinės",
+    "hour": "Vakare, sutemus"
+   },
+   "duration": "apie 30 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Žvakė stabiliame laikiklyje",
+    "Viena ar kelios nuotraukos",
+    "Nedidelis daiktas, primenantis artimąjį (nebūtina)",
+    "Lapelis ir rašiklis",
+    "Ramus vakaras be trukdžių"
+   ],
+   "prep": [
+    "Išjunkite garsus ir telefoną.",
+    "Jei jums šiuo metu ypač sunku, prisiminkite, kad galite sustoti bet kuriuo metu ir paskambinti artimam žmogui."
+   ],
+   "steps": [
+    {
+     "title": "Paruoškite vietą",
+     "text": "Ant stalo padėkite nuotraukas ir žvakę."
+    },
+    {
+     "title": "Nurimkite",
+     "text": "Lėtai įkvėpkite ir iškvėpkite kelis kartus."
+    },
+    {
+     "title": "Uždekite žvakę",
+     "text": "Uždegdami tarkite vardą ar vardus, kuriuos prisimenate."
+    },
+    {
+     "title": "Prisiminkite",
+     "text": "Prisiminkite vieną gerą akimirką: juoką, patarimą, mažą kasdienybės dalyką."
+    },
+    {
+     "title": "Užrašykite",
+     "text": "Parašykite trumpą žinutę ar padėką, kurią norėtumėte pasakyti."
+    },
+    {
+     "title": "Užgesinkite",
+     "text": "Padėkokite ir užgesinkite žvakę saugiai."
+    }
+   ],
+   "words": "Jūs visada esate mano atmintyje.\nDėkoju už tai, ką davėte.\nNešu jūsų šviesą toliau.",
+   "after": [
+    "Jei jums buvo sunku, pakvieskite šalia esantį žmogų ar paskambinkite artimam.",
+    "Lapelį išsaugokite arba perskaitykite kitais metais."
+   ],
+   "safety": "Žvakė turi degti tik ant karščiui atsparaus, stabilaus paviršiaus, atokiau nuo užuolaidų ir popieriaus, ir niekada likti be priežiūros, ypač šalia vaikų ar gyvūnų. Ritualas nėra gedulo terapijos pakaitalas. Jei netektis kelia sunkių jausmų, kreipkitės į artimą žmogų, gydytoją ar psichikos sveikatos specialistą."
+  },
+  {
+   "id": "metai-ziemos-saulegrizos-sviesa",
+   "intent": "begin",
+   "group": "season",
+   "date": "apie gruodžio 21–22 d.",
+   "month": 12,
+   "title": "Žiemos saulėgrįžos naktis",
+   "teaser": "Ilgiausia naktis ir šviesos grįžimas: ramus vakaras su žvakėmis ir ketinimu naujam sezonui.",
+   "intro": [
+    "Žiemos saulėgrįža – ilgiausios nakties ir trumpiausios dienos metas. Po jos diena vėl pamažu ilgėja. Daugelyje Europos tradicijų šis laikas siejamas su šviesos grįžimu.",
+    "Ritualas – tylus vakaras, kai užsidegate kelias žvakes, pabūnate tamsoje ir paskui parašote ketinimą naujam šviesos ratui. Tamsa čia nėra priešas, o poilsio erdvė.",
+    "Tinka visiems, kurie nori ramiai pasitikti metų posūkį."
+   ],
+   "symbolism": [
+    "Ilgiausia naktis – gilus metų posūkis",
+    "Žvakės – šviesa, grįžtanti po tamsos",
+    "Tamsa – poilsis ir apmąstymas",
+    "Ketinimas – sėkla naujam šviesos laikui"
+   ],
+   "timing": {
+    "phase": "nepriklauso nuo Mėnulio",
+    "sign": "nepriklauso nuo Mėnulio",
+    "day": "Apie gruodžio 21–22 d. (žiemos saulėgrįža)",
+    "hour": "Vakare po saulėlydžio"
+   },
+   "duration": "apie 35 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Trys žvakės stabiliuose laikikliuose",
+    "Karščiui atsparus padėklas",
+    "Lapelis ir rašiklis",
+    "Pledas",
+    "Degtukai arba žiebtuvėlis"
+   ],
+   "prep": [
+    "Prieš pradėdami prigesinkite šviesas, bet palikite pakankamai, kad saugiai uždegtumėte žvakes.",
+    "Pagalvokite, ko jums iš tiesų reikės ateinančiam šviesos ratui."
+   ],
+   "steps": [
+    {
+     "title": "Pabūkite tamsoje",
+     "text": "Kelias minutes tiesiog pabūkite prietemoje, klausydami savo kvėpavimo."
+    },
+    {
+     "title": "Uždekite pirmą žvakę",
+     "text": "Tarkite: „Čia tamsa, kuri ilsina.“"
+    },
+    {
+     "title": "Uždekite antrąją",
+     "text": "Tarkite: „Čia šviesa, kuri grįžta.“"
+    },
+    {
+     "title": "Uždekite trečiąją",
+     "text": "Tarkite: „Čia ketinimas, kurį noriu nešti.“"
+    },
+    {
+     "title": "Užrašykite ketinimą",
+     "text": "Parašykite vieną sakinį naujam šviesos ratui."
+    },
+    {
+     "title": "Užgesinkite",
+     "text": "Padėkokite ir užgesinkite žvakes saugiai."
+    }
+   ],
+   "words": "Naktis ilgiausia, tačiau diena jau grįžta.\nLeidžiu sau ilsėtis ir laukti.",
+   "after": [
+    "Ketinimą padėkite matomoje vietoje.",
+    "Per ateinančias dienas pastebėkite, kaip ilgėja šviesa."
+   ],
+   "safety": "Žvakė turi degti tik ant karščiui atsparaus, stabilaus paviršiaus, atokiau nuo užuolaidų ir popieriaus, ir niekada likti be priežiūros, ypač šalia vaikų ar gyvūnų. Ritualas yra apmąstymo praktika ir nepakeičia pagalbos, jei žiemą jaučiate sunkią nuotaiką."
+  },
+  {
+   "id": "metai-kucios-padekos-stalas",
+   "intent": "love",
+   "group": "season",
+   "date": "gruodžio 24 d.",
+   "month": 12,
+   "title": "Kūčių padėkos stalas",
+   "teaser": "Šeimos stalas, kuriame prieš pradedant valgyti trumpai padėkojate vieni kitiems. Be įtampos, be tobulumo.",
+   "intro": [
+    "Kūčios, gruodžio 24 d., – Lietuvoje vakaras prie bendro stalo. Tradicinėje vakarienėje patiekiama 12 pasninko valgių, o dalis šeimų palieka papildomą vietą ar lėkštę tiems, kurių nebėra šalia.",
+    "Šis ritualas nekeičia valgių – jis prideda tik trumpą padėkos akimirką prieš valgant. Kiekvienas prie stalo pasako vieną dalyką, už kurį dėkoja.",
+    "Tinka šeimoms ir visiems, kas nori šį vakarą paversti šiltesniu."
+   ],
+   "symbolism": [
+    "Stalas – šeimos susibūrimo vieta",
+    "12 valgių – tradicinis Kūčių vakarienės skaičius",
+    "Tuščia lėkštė – kai kuriose šeimose paprotys prisiminti nesančius",
+    "Žvakė – šviesa ant šventinio stalo"
+   ],
+   "timing": {
+    "phase": "nepriklauso nuo Mėnulio",
+    "sign": "nepriklauso nuo Mėnulio",
+    "day": "Gruodžio 24 d., Kūčios",
+    "hour": "Vakare, prieš vakarienę"
+   },
+   "duration": "apie 15 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Šventiškai padengtas stalas",
+    "Žvakė stabiliame laikiklyje",
+    "Lapeliai ir rašikliai (nebūtina)",
+    "Šventiniai patiekalai"
+   ],
+   "prep": [
+    "Pasitarkite su šeima, ar visi nori dalyvauti padėkos akimirkoje.",
+    "Paruoškite žvakę saugioje vietoje."
+   ],
+   "steps": [
+    {
+     "title": "Susiburkite",
+     "text": "Susėskite prie stalo."
+    },
+    {
+     "title": "Uždekite žvakę",
+     "text": "Uždekite žvakę ant stalo, karščiui atspariame laikiklyje, atokiau nuo patiekalų, staltiesės kraštų ir vaikų."
+    },
+    {
+     "title": "Leiskite kiekvienam kalbėti",
+     "text": "Kiekvienas pasako vieną dalyką, už kurį dėkoja."
+    },
+    {
+     "title": "Prisiminkite nesančius",
+     "text": "Jei norite, trumpai prisiminkite žmones, kurių nėra prie stalo."
+    },
+    {
+     "title": "Pradėkite vakarienę",
+     "text": "Pradėkite valgyti kaip įprasta."
+    }
+   ],
+   "words": "Dėkoju už šį stalą, šiuos žmones ir šį vakarą.\nTegul šviesa šildo mus visus.",
+   "after": [
+    "Padėkos sakinius galite užrašyti ir saugoti.",
+    "Pasimėgaukite vakariene ir bendru vakaru."
+   ],
+   "safety": "Žvakė turi degti tik ant karščiui atsparaus, stabilaus paviršiaus, atokiau nuo užuolaidų ir popieriaus, ir niekada likti be priežiūros, ypač šalia vaikų ar gyvūnų. Ritualas tik papildo šeimos vakarą. Jei šventės jums sunkios, leiskite sau pasirinkti, kaip leisti vakarą."
+  },
+  {
+   "id": "metai-naujuju-metu-apzvalga",
+   "intent": "intuition",
+   "group": "season",
+   "date": "gruodžio 31 d.",
+   "month": 12,
+   "title": "Metų apžvalga ir ketinimai",
+   "teaser": "Paskutinis metų vakaras: ramiai peržiūrėkite praėjusius metus ir užrašykite ketinimus naujiems.",
+   "intro": [
+    "Naujųjų metų išvakarės – natūrali riba, kai norisi atsigręžti atgal ir pažvelgti pirmyn. Tačiau šurmulyje tam dažnai nelieka laiko.",
+    "Ritualas siūlo ramų pusvalandį: peržvelgti metus, pažymėti, kas buvo gera, kas sunku, ir užrašyti kelis ketinimus ateinantiems metams.",
+    "Tinka visiems, kurie nori naujus metus pradėti su aiškesne galva."
+   ],
+   "symbolism": [
+    "Žvakė – pereinamojo laiko šviesa",
+    "Užrašai – praeities ir ateities žemėlapis",
+    "Riba tarp metų – natūralus apmąstymo laikas",
+    "Ketinimas – kryptis, o ne pažadas"
+   ],
+   "timing": {
+    "phase": "nepriklauso nuo Mėnulio",
+    "sign": "nepriklauso nuo Mėnulio",
+    "day": "Gruodžio 31 d., Naujųjų metų išvakarės",
+    "hour": "Vakare, prieš šventinį šurmulį"
+   },
+   "duration": "apie 40 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Žvakė stabiliame laikiklyje",
+    "Du lapeliai",
+    "Rašiklis",
+    "Kalendorius",
+    "Karščiui atsparus padėklas"
+   ],
+   "prep": [
+    "Pasiruoškite ramų pusvalandį prieš šventes.",
+    "Pasiimkite kalendorių, kad prisimintumėte metus."
+   ],
+   "steps": [
+    {
+     "title": "Uždekite žvakę",
+     "text": "Uždekite ją saugioje vietoje."
+    },
+    {
+     "title": "Peržvelkite metus",
+     "text": "Žvilgtelėkite į kalendorių ir pažymėkite 3 geriausius ir 3 sunkiausius momentus."
+    },
+    {
+     "title": "Užrašykite pamokas",
+     "text": "Pirmajame lapelyje užrašykite, ko išmokote."
+    },
+    {
+     "title": "Užrašykite ketinimus",
+     "text": "Antrajame lapelyje parašykite 3 ketinimus naujiems metams."
+    },
+    {
+     "title": "Perskaitykite",
+     "text": "Perskaitykite abu lapelius garsiai."
+    },
+    {
+     "title": "Užgesinkite",
+     "text": "Padėkokite metams ir užgesinkite žvakę saugiai."
+    }
+   ],
+   "words": "Dėkoju išeinantiems metams už pamokas.\nNaujus pradedu su aiškumu.",
+   "after": [
+    "Ketinimų lapelį padėkite matomoje vietoje.",
+    "Po trijų mėnesių peržiūrėkite ketinimus."
+   ],
+   "safety": "Žvakė turi degti tik ant karščiui atsparaus, stabilaus paviršiaus, atokiau nuo užuolaidų ir popieriaus, ir niekada likti be priežiūros, ypač šalia vaikų ar gyvūnų. Ritualas yra apmąstymo praktika ir nėra sėkmės garantija."
+  },
+  {
+   "id": "metai-gimtadienio-asmeniniai-metai",
+   "intent": "begin",
+   "group": "season",
+   "date": "jūsų gimtadienis",
+   "month": 0,
+   "title": "Gimtadienis – asmeniniai Naujieji metai",
+   "teaser": "Jūsų gimtadienis kaip jūsų asmeninė metų riba: trumpas vakaras apžvalgai ir naujam gyvenimo metų ketinimui.",
+   "intro": [
+    "Gimtadienis – viena iš nedaugelio švenčių, priklausančių tik jums. Tai natūrali asmeninė metų riba, kai galima sustoti ir pasižiūrėti, kur esate.",
+    "Ritualas paprastas: žvakė, lapelis ir trys klausimai sau. Jis nereikalauja šventės ar svečių – tik kelių ramių minučių.",
+    "Tinka visiems, nepriklausomai nuo amžiaus."
+   ],
+   "symbolism": [
+    "Žvakė – daugelyje kultūrų gimtadienio šventės ženklas",
+    "Metų riba – asmeninė pradžia",
+    "Klausimai – atvira kryptis, o ne verdiktas",
+    "Lapelis – laiškas sau į ateitį"
+   ],
+   "timing": {
+    "phase": "nepriklauso nuo Mėnulio",
+    "sign": "nepriklauso nuo Mėnulio",
+    "day": "Jūsų gimtadienis",
+    "hour": "Bet kuriuo jums patogiu laiku"
+   },
+   "duration": "apie 25 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Žvakė stabiliame laikiklyje",
+    "Lapelis ir rašiklis",
+    "Karščiui atsparus padėklas",
+    "Šiek tiek ramybės"
+   ],
+   "prep": [
+    "Skirkite sau 25 ramias minutes.",
+    "Pagalvokite, kokius metus užbaigėte."
+   ],
+   "steps": [
+    {
+     "title": "Uždekite žvakę",
+     "text": "Uždekite ją saugioje vietoje."
+    },
+    {
+     "title": "Atsakykite į pirmą klausimą",
+     "text": "Užrašykite: ką šiais metais išmokau?"
+    },
+    {
+     "title": "Atsakykite į antrą klausimą",
+     "text": "Užrašykite: už ką galiu sau padėkoti?"
+    },
+    {
+     "title": "Atsakykite į trečią klausimą",
+     "text": "Užrašykite: ko noriu iš ateinančių metų?"
+    },
+    {
+     "title": "Perskaitykite",
+     "text": "Perskaitykite savo atsakymus."
+    },
+    {
+     "title": "Užgesinkite",
+     "text": "Palinkėkite sau gero ir užgesinkite žvakę saugiai."
+    }
+   ],
+   "words": "Šiandien prasideda mano nauji metai.\nDėkoju sau už nueitą kelią.",
+   "after": [
+    "Lapelį išsaugokite ir kitais metais perskaitykite iš naujo.",
+    "Padarykite sau mažą dovaną."
+   ],
+   "safety": "Žvakė turi degti tik ant karščiui atsparaus, stabilaus paviršiaus, atokiau nuo užuolaidų ir popieriaus, ir niekada likti be priežiūros, ypač šalia vaikų ar gyvūnų. Ritualas yra apmąstymo praktika ir nesiūlo jokių garantijų."
+  }
+ ]
+}

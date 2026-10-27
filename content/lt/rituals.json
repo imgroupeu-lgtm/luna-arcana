@@ -1,0 +1,927 @@
+{
+ "labels": {
+  "free": "Nemokamai",
+  "premium": "Premium",
+  "materials": "Priemonės",
+  "prep": "Pasiruošimas",
+  "steps": "Žingsniai",
+  "words": "Žodžiai",
+  "after": "Po ritualo",
+  "safety": "Saugumas",
+  "timing": "Kada",
+  "duration": "Trukmė",
+  "level": "Sudėtingumas",
+  "unlock": "Visas ritualas – Premium plano dalis",
+  "preview": "Peržiūra",
+  "readMore": "Skaityti ritualą",
+  "close": "Uždaryti",
+  "symbolism": "Simbolika"
+ },
+ "rituals": [
+  {
+   "id": "pinigu-srauto-atvertimas",
+   "intent": "money",
+   "title": "Pinigų srauto atvėrimas",
+   "teaser": "Žvakė, kelios monetos ir viena aiški, ranka parašyta frazė – tylus vakaras, skirtas jūsų santykiui su pinigais.",
+   "intro": [
+    "Šis ritualas nėra žadėjimas, kad pinigai ims byrėti iš dangaus. Tai ramus susitikimas su savimi: pasakote sau, ko iš tiesų norite iš savo darbo ir pajamų, ir pirmą kartą tai užrašote sakiniu, kurį galite perskaityti rytoj.",
+    "Idėja paprasta. Ritualinėje praktikoje augantis Mėnulis siejamas su tuo, kas didėja. Žvakės šviesa ir monetų skambesys padeda sulėtinti mintis, o užrašytas ketinimas tampa tuo, prie ko galima grįžti, kai dienos šurmulyje pamirštate, kur einate.",
+    "Ritualas tinka tiems, kurie nori atnaujinti požiūrį į pajamas, pasirengti pokalbiui dėl atlyginimo ar tiesiog ramiai pažvelgti į savo finansinius norus be baimės ir kaltės."
+   ],
+   "symbolism": [
+    "Žalia žvakė – šiuolaikinėje vakarų ritualinėje praktikoje žalia spalva siejama su gausa ir augimu",
+    "Monetos – kasdienis mainų ženklas, čia tapęs jūsų ketinimo liudytojomis",
+    "Rašytas žodis – mintis, kuri gavo pavidalą ir kurios nebegalima užmiršti",
+    "Jupiterio diena (ketvirtadienis) – klasikinėje astrologijoje Jupiteris siejamas su išsiplėtimu ir dosnumu",
+    "Žemės ženklai – Jautis, Mergelė ir Ožiaragis tradiciškai siejami su praktiškumu ir pastovumu"
+   ],
+   "timing": {
+    "phase": "Augantis Mėnulis",
+    "sign": "Mėnulis Jaučio, Mergelės ar Ožiaragio ženkle",
+    "day": "Ketvirtadienis (Jupiterio diena) arba sekmadienis (Saulės diena)",
+    "hour": "Vakare po saulėlydžio, kai namuose nurimsta triukšmas"
+   },
+   "duration": "apie 25 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Žalia arba balta žvakė nedideliame laikiklyje",
+    "Nuo trijų iki septynių monetų (tinka tos, kurias turite piniginėje)",
+    "Balto popieriaus lapelis ir rašiklis",
+    "Nedidelė lėkštutė ar dubenėlis monetoms",
+    "Degtukai arba žiebtuvėlis",
+    "Stiklinė vandens, kad būtų kuo atsigerti pasibaigus ritualui"
+   ],
+   "prep": [
+    "Prieš pradėdami nuvalykite stalą ir paruoškite tik tas priemones, kurių prireiks. Tvarkingas paviršius – pirmas žingsnis link aiškumo.",
+    "Pagalvokite, kiek pinigų ir iš kokių šaltinių jums iš tiesų reikia. Konkretumas padeda labiau nei bendras „noriu daugiau“.",
+    "Išjunkite telefono garsą ir pasirūpinkite, kad pusvalandį jūsų niekas netrukdytų."
+   ],
+   "steps": [
+    {
+     "title": "Pastatykite žvakę saugiai",
+     "text": "Pastatykite žvakę laikiklyje ant karščiui atsparaus, stabilaus paviršiaus, atokiau nuo užuolaidų ir popieriaus. Lėkštutę su monetomis padėkite šalia."
+    },
+    {
+     "title": "Nurimkite",
+     "text": "Atsisėskite, penkis kartus lėtai įkvėpkite ir iškvėpkite. Pajuskite, kaip kojos remiasi į grindis, o pečiai atsipalaiduoja."
+    },
+    {
+     "title": "Uždekite žvakę",
+     "text": "Uždegdami ištarkite vieną sakinį: „Šį vakarą pradedu žiūrėti į savo pinigus ramiai ir atvirai.“ Kelias akimirkas tiesiog stebėkite liepsną. Kol žvakė dega, nepalikite jos be priežiūros."
+    },
+    {
+     "title": "Užrašykite ketinimą",
+     "text": "Ant lapelio parašykite vieną ar dvi eilutes, esamuoju laiku ir teigiama forma. Pavyzdžiui: „Mano darbas duoda stabilias pajamas, o aš sprendžiu pinigų klausimus ramiai.“"
+    },
+    {
+     "title": "Paimkite monetas į delnus",
+     "text": "Sudėkite monetas į delnus ir pajuskite jų svorį bei šaltį, kuris pamažu šyla. Perskaitykite savo ketinimą garsiai, nė kiek neskubėdami."
+    },
+    {
+     "title": "Padėkite monetas ant lapelio",
+     "text": "Sudėkite monetas ant sulankstyto lapelio šalia žvakės. Pagalvokite, koks vienas mažas praktinis veiksmas šią savaitę priartintų jus prie šio ketinimo, ir įsidėmėkite jį."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite sau už laiką, skirtą šiam vakarui. Užgesinkite žvakę žvakių gesintuvu arba sudrėkintais pirštais, o ne pūsdami, ir įsitikinkite, kad nebesidaro dūmelio."
+    }
+   ],
+   "words": "Šį vakarą atveriu duris tam, kas man gera.\nAš dirbu, mokausi ir augu, o aš vertinu savo darbą.\nPriimu pajamas ramiai ir tvarkau jas apdairiai.\nTegul mano žingsniai šią savaitę bus aiškūs.",
+   "after": [
+    "Sulenkite lapelį ir laikykite piniginėje ar knygoje iki kitos jaunaties. Tada perskaitykite jį iš naujo ir pažymėkite, ką jau padarėte.",
+    "Monetas grąžinkite į apyvartą – tai ženklas, kad ketinimas juda kartu su kasdienybe.",
+    "Užsirašykite vieną konkretų veiksmą (CV atnaujinimas, pokalbis su vadovu, biudžeto lentelė) ir paskirkite jam datą. Ritualas turi prasmę tada, kai po jo seka veiksmas."
+   ],
+   "safety": "Žvakė turi degti tik ant karščiui atsparaus paviršiaus ir niekada likti be priežiūros, ypač šalia vaikų ar gyvūnų. Ritualas nepakeičia biudžeto planavimo ir nėra pajamų garantija."
+  },
+  {
+   "id": "pinigines-atnaujinimas",
+   "intent": "money",
+   "title": "Piniginės atnaujinimas",
+   "teaser": "Išvalykite piniginę nuo senų čekių ir pasiūlykite pinigams tvarkingą, gerbiamą vietą – paprastas ritualas savaitės pradžiai.",
+   "intro": [
+    "Piniginė – maža, bet kasdien naudojama erdvė, kurioje gyvena jūsų pinigai. Dažnai ją nešiojamės pilną suglamžytų čekių, nebenaudojamų kortelių ir popierėlių, primenančių seną netvarką. Šis ritualas paverčia įprastą sutvarkymą sąmoningu atnaujinimu.",
+    "Kai ant stalo išdėliojate viską, ką nešiojatės, pamatote savo finansinius įpročius: ką išleidžiate ir ką laikote iš senų laikų – nuovargį ar kaltę. Valydami ir tvarkydami taip pat ruošiatės naujam, tvarkingesniam mėnesio etapui.",
+    "Ritualas tinka kiekvienam, kas nori pradėti naują finansų laikotarpį be perteklinės dramos: prasidėjus mėnesiui, gavus atlyginimą ar tiesiog pajutus, kad laikas viską sudėlioti iš naujo."
+   ],
+   "symbolism": [
+    "Tuščia piniginė – vieta, kurioje atsiranda erdvė naujam",
+    "Nuvalytas paviršius – pagarba daiktui, kuris kasdien jums tarnauja",
+    "Banknotas ar moneta, padėta kaip „sėkla“, – šiuolaikinis nedidelio ketinimo ženklas",
+    "Žalia spalva – šiuolaikinėje vakarų ritualinėje praktikoje siejama su gausa",
+    "Augantis Mėnulis – tradicinis laikas viskam, ką norime padidinti"
+   ],
+   "timing": {
+    "phase": "Augantis Mėnulis",
+    "sign": "Mėnulis Mergelės, Jaučio ar Ožiaragio ženkle",
+    "day": "Ketvirtadienis (Jupiterio diena) arba sekmadienis (Saulės diena)",
+    "hour": "Dienos metu, kai namuose šviesu ir ramu"
+   },
+   "duration": "apie 15 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Jūsų piniginė su visu turiniu",
+    "Minkšta drėgna šluostė ir sausas minkštas audeklas",
+    "Nedidelis popieriaus lapelis ir rašiklis",
+    "Viena moneta arba mažas banknotas, kurio neišleisite",
+    "Maišelis senų čekių ir kvitų atliekoms",
+    "Pasirinktinai: žalias kaspinėlis ar nedidelis žalias ženkliukas"
+   ],
+   "prep": [
+    "Pasirinkite ramią valandą ir išskleiskite didelį švarų paviršių.",
+    "Ištuštinkite piniginę iš karto: viską išdėliokite ant stalo, taip pat ir kortelių skyrelių turinį."
+   ],
+   "steps": [
+    {
+     "title": "Išdėliokite viską",
+     "text": "Visus daiktus išdėliokite į tris krūvas: pasilikti, išmesti, spręsti vėliau. Per ilgai nesvarstykite – spręskite iš pirmo įspūdžio."
+    },
+    {
+     "title": "Atsisveikinkite su nebereikalingu",
+     "text": "Sumeskite senus čekius, nebenaudojamas korteles ir išsklaidytus popierėlius į maišą. Mesdami kiekvieną daiktą pasakykite: „Dėkoju, to man nebereikia.“"
+    },
+    {
+     "title": "Nuvalykite piniginę",
+     "text": "Drėgna šluoste švelniai nuvalykite vidų ir išorę, tada nusausinkite. Siūlėse ir kišenėlėse patikrinkite, ar nėra trupinių ir dulkių."
+    },
+    {
+     "title": "Sudėkite tvarkingai",
+     "text": "Banknotus išdėstykite pagal nominalą, visus į vieną pusę, o kortelėms skirkite atskirą vietą. Tvarka čia – pagarbos jūsų pačių pajamoms ženklas."
+    },
+    {
+     "title": "Padėkite ketinimą",
+     "text": "Ant lapelio parašykite vieną sakinį apie tai, kaip norite elgtis su pinigais šį mėnesį, pavyzdžiui: „Išleidžiu sąmoningai ir atidedu be kaltės.“ Sulenkite lapelį ir įdėkite į slapčiausią skyrelį."
+    },
+    {
+     "title": "Pasiūlykite „sėklą“",
+     "text": "Šalia lapelio įdėkite monetą ar nedidelį banknotą, kuris liks piniginėje. Tai ženklas, kad ši vieta netuščia."
+    },
+    {
+     "title": "Užbaikite ramiai",
+     "text": "Uždarykite piniginę ir sekundę palaikykite ją abiem rankomis. Įkvėpkite, iškvėpkite ir padėkokite sau už tvarką."
+    }
+   ],
+   "words": "Mano piniginė tvarkinga, ir man joje gera.\nPinigai pas mane ateina ir išeina apgalvotai.\nŽinau, kur keliauja mano lėšos, ir tai mane ramina.\nLeidžiu sau gauti ir saugoti.",
+   "after": [
+    "Lapelį su ketinimu palikite piniginėje iki kito mėnesio pradžios, tada jį perskaitykite ir parašykite naują.",
+    "Kartą per savaitę per kelias minutes patikrinkite piniginę ir išmeskite nebereikalingus čekius – taip tvarka išsilaiko be didelio vargo.",
+    "Užsirašykite, kaip jautėtės: ar pasikeitė jūsų santykis su išlaidomis?"
+   ],
+   "safety": "Šiam ritualui ugnies nereikia. Jis nepakeičia biudžeto, skolų ar mokėjimų planavimo ir nieko negarantuoja."
+  },
+  {
+   "id": "savimeiles-vonia",
+   "intent": "love",
+   "title": "Savimeilės vonia",
+   "teaser": "Šilta vonia su druska, rožių žiedlapiais ir švelniais žodžiais sau – vakaras, kai visas dėmesys skiriamas jums.",
+   "intro": [
+    "Savimeilė dažnai skamba kaip didelis žodis, o iš tiesų ji prasideda nuo mažų dalykų: šilto vandens, ramaus vakaro ir žinios, kad šiandien jums priklauso rūpestis. Šis ritualas paverčia įprastą maudynę sąmoningu rūpinimusi savimi.",
+    "Daugelyje kultūrų vanduo laikomas apvalymo ir atsinaujinimo simboliu. Skirdami laiko švelnumui Veneros dieną (penktadienį), tęsiate klasikinės astrologijos tradiciją, kurioje Venera siejama su grožiu, malonumu ir meile.",
+    "Ritualas tinka po sunkios savaitės, prieš svarbų pokytį ar kai tiesiog norite prisiminti, kad jūsų kūnas ir jausmai nusipelno švelnumo."
+   ],
+   "symbolism": [
+    "Šiltas vanduo – atsipalaidavimas ir atsinaujinimas",
+    "Jūros druska – daugelyje Europos liaudies tradicijų druska siejama su apvalymu",
+    "Rožių žiedlapiai – šiuolaikinėje vakarų tradicijoje rožė siejama su meile ir švelnumu",
+    "Rožinė ar balta žvakė – šviesa, kuri neatima, o apkabina",
+    "Penktadienis – Veneros diena klasikinėje astrologijoje"
+   ],
+   "timing": {
+    "phase": "Augantis Mėnulis",
+    "sign": "Mėnulis Jaučio, Svarstyklių ar Vėžio ženkle",
+    "day": "Penktadienis (Veneros diena)",
+    "hour": "Vakare, kai nebereikia niekur skubėti"
+   },
+   "duration": "apie 40 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Sauja ar dvi stambios jūros druskos arba vonios druskos be kvapiklių",
+    "Saujelė džiovintų rožių žiedlapių, neapdorotų cheminėmis medžiagomis (geriausia įdėti į tinkliuką ar medžiaginį maišelį, kad neužkimštų nuotėkos)",
+    "Rožinė arba balta žvakė laikiklyje ar arbatinė žvakutė stiklinėje",
+    "Minkštas rankšluostis ir švarūs drabužiai persirengti",
+    "Stiklinė vandens arba šilta arbata",
+    "Nedidelis veidrodis vonios kambaryje (nebūtina)"
+   ],
+   "prep": [
+    "Išvėdinkite vonios kambarį, iš anksto atsineškite viską, ko reikės, ir išjunkite telefono garsą.",
+    "Pasirinkite maloniai šiltą, bet ne karštą vandenį – jis neturi nei dirginti odos, nei svaiginti. Jei oda jautri, druską sumažinkite arba jos visai nenaudokite; druskos ir žiedlapių nenaudokite, jei oda pažeista, įbrėžta ar uždegusi.",
+    "Jei turite sveikatos sutrikimų, kuriuos šilta vonia gali paveikti (pavyzdžiui, esate nėščia ar sergate širdies ir kraujagyslių ligomis), pasitarkite su gydytoju. Eterinių aliejų šiam ritualui nereikia; jokiu atveju nelašinkite jų neskiestų ant odos."
+   ],
+   "steps": [
+    {
+     "title": "Paruoškite erdvę",
+     "text": "Žvakę pastatykite ant stabilaus, sauso, karščiui atsparaus paviršiaus toliau nuo vandens, rankšluosčių ir užuolaidų ir uždekite. Nepalikite jos be priežiūros: kol ji dega, būkite vonios kambaryje. Pritemdykite šviesą."
+    },
+    {
+     "title": "Pripilkite vandens",
+     "text": "Prileiskite vonią ir įberkite druskos. Žiedlapius sudėkite į tinkliuką ar maišelį ir įdėkite į vandenį."
+    },
+    {
+     "title": "Pasisveikinkite su savimi",
+     "text": "Prieš lipdami į vonią stabtelėkite ir, jei norite, pažvelkite į veidrodį. Pasakykite sau: „Matau tave ir džiaugiuosi, kad esi.“"
+    },
+    {
+     "title": "Panirkite",
+     "text": "Atsigulkite, užmerkite akis ir kelis kartus giliai įkvėpkite. Leiskite kūnui pasunkti, o mintims plaukti pro šalį kaip žiedlapiams."
+    },
+    {
+     "title": "Pajuskite dėkingumą kūnui",
+     "text": "Pamažu perkelkite dėmesį per kūną – rankas, pečius, krūtinę, kojas – ir kiekvienai daliai tyliai padėkokite už tai, ką ji jums padeda daryti."
+    },
+    {
+     "title": "Ištarkite žodžius",
+     "text": "Lėtai, garsiai ar tyliai, perskaitykite savo žodžius kaip laišką sau. Jei kyla ašaros ar šypsena, leiskite joms būti."
+    },
+    {
+     "title": "Pabaikite švelniai",
+     "text": "Išlipę atsargiai nusausinkite odą rankšluosčiu ir kurį laiką pabūkite tyloje. Prieš išeidami iš vonios kambario užgesinkite žvakę."
+    }
+   ],
+   "words": "Man priklauso rūpestis ir švelnumas.\nPriimu save su viskuo, kas šiandien manyje yra.\nLeidžiu sau ilsėtis ir džiaugtis.\nMano širdis atvira gerumui – pirmiausia sau.",
+   "after": [
+    "Žiedlapių nepilkite į kanalizaciją: sausai išspauskite ir paberkite vazone arba išmeskite į biologiškai skaidžių atliekų konteinerį. Druskos vandens į vazonus nepilkite.",
+    "Užsirašykite vieną sakinį apie tai, ką jautėte vonioje ir kas buvo maloniausia.",
+    "Jei norite, kartokite kartą per mėnesį, kai Mėnulis vėl bus augančios fazės."
+   ],
+   "safety": "Žvakė turi stovėti ant stabilaus, karščiui atsparaus paviršiaus, toli nuo vandens ir audinių, ir niekada nebūti be priežiūros. Nesimaudykite išgėrę alkoholio ar svaigindamiesi, rinkitės drungną vandenį. Druskos ir žiedlapių nenaudokite, jei oda pažeista ar jautri. Ritualas nepakeičia gydytojo pagalbos."
+  },
+  {
+   "id": "roziu-kvarco-sirdies-ritualas",
+   "intent": "love",
+   "title": "Rožių kvarco širdies ritualas",
+   "teaser": "Vienas rožinis akmuo, kelios ramios minutės ir sąžiningas klausimas sau: kokio artumo aš iš tiesų noriu?",
+   "intro": [
+    "Šiuolaikinėje vakarų ritualinėje praktikoje rožių kvarcas laikomas švelnumo ir meilės akmeniu. Šis ritualas nenukreiptas į jokį kitą žmogų – jis skirtas jums, jūsų širdies atvirumui ir tam, kaip norite mylėti ir būti mylimi.",
+    "Kai kalbame apie naują meilę, dažniausiai galvojame apie kitą žmogų. Šis ritualas apverčia žvilgsnį: ką sau žadate, kokias ribas pasirenkate, kokio artumo laukiate. Akmuo čia tampa nedideliu priminimu, kurį galima nešiotis kišenėje.",
+    "Ritualas tinka tiems, kurie po pertraukos ruošiasi naujiems santykiams, nori pagilinti esamus arba tiesiog nori išmokti būti švelnesni savo širdžiai."
+   ],
+   "symbolism": [
+    "Rožių kvarcas – šiuolaikinėje vakarų tradicijoje siejamas su meile ir švelnumu",
+    "Ranka ant krūtinės – paprastas gestas, grąžinantis dėmesį į save",
+    "Rožinė žvakė – šilta, ne akinanti šviesa",
+    "Penktadienis – Veneros diena klasikinėje astrologijoje",
+    "Užrašyti atsakymai – ne ieškomo žmogaus aprašas, o jūsų vertybių atspindys"
+   ],
+   "timing": {
+    "phase": "Augantis Mėnulis",
+    "sign": "Mėnulis Jaučio, Svarstyklių ar Vėžio ženkle",
+    "day": "Penktadienis (Veneros diena)",
+    "hour": "Vakare, kai namai nurimsta"
+   },
+   "duration": "apie 25 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Nedidelis rožių kvarco gabalėlis (tinka ir apvalus akmenėlis)",
+    "Rožinė arba balta žvakė laikiklyje",
+    "Užrašų knygelė ir rašiklis",
+    "Minkštas audinio gabalėlis akmeniui nuvalyti",
+    "Patogi pagalvėlė ar kėdė",
+    "Stiklinė vandens"
+   ],
+   "prep": [
+    "Akmenį nuvalykite sausu minkštu audiniu. Jei norite, palikite jį ant palangės, kad pasišildytų švelnioje šviesoje.",
+    "Ritualas nukreiptas tik į jus, todėl nesirinkite jokio konkretaus žmogaus – tegul dėmesys lieka jumyse."
+   ],
+   "steps": [
+    {
+     "title": "Paruoškite vietą",
+     "text": "Žvakę pastatykite ant stabilaus, karščiui atsparaus paviršiaus, atokiau nuo užuolaidų ir popieriaus, ir uždekite. Nepalikite jos be priežiūros. Šalia padėkite akmenį ir užrašų knygelę."
+    },
+    {
+     "title": "Paimkite akmenį į delną",
+     "text": "Užmerkite akis ir pajuskite akmens paviršių bei svorį, stebėkite, kaip jis pamažu sušyla nuo rankos."
+    },
+    {
+     "title": "Padėkite ranką ant krūtinės",
+     "text": "Kitą delną uždėkite ant krūtinės ir penkis kartus lėtai įkvėpkite. Įsivaizduokite, kad su kiekvienu iškvėpimu įtampa šiek tiek atslūgsta."
+    },
+    {
+     "title": "Atsakykite į tris klausimus",
+     "text": "Užrašykite atsakymus į klausimus: „Kaip norėčiau, kad su manimi elgtųsi?“, „Kaip noriu elgtis su kitais?“, „Kokios ribos man svarbios?“ Rašykite sąžiningai, be puošybos."
+    },
+    {
+     "title": "Perskaitykite savo atsakymus",
+     "text": "Kiekvieną sakinį perskaitykite lėtai. Pasirinkite vieną žodį, kuris atrodo svarbiausias – jis taps jūsų žodžiu šiai savaitei."
+    },
+    {
+     "title": "Ištarkite žodžius",
+     "text": "Laikydami akmenį prie krūtinės, ištarkite savo žodžius. Jie neturi būti tobuli – svarbu, kad būtų jūsų."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite sau už atvirumą. Akmenį pasiimkite su savimi, o žvakę užgesinkite ir įsitikinkite, kad nebesidaro dūmelio."
+    }
+   ],
+   "words": "Mano širdis atvira švelnumui ir pagarbai.\nAš renkuosi artumą, kuris mane palaiko.\nSaugau savo ribas ir saugau savo gerumą.\nLeidžiu sau mylėti ir jausti meilę laisvai.",
+   "after": [
+    "Akmenį nešiokitės kišenėje ar padėkite šalia lovos. Kai jį pamatysite, prisiminkite savo žodį.",
+    "Po savaitės perskaitykite savo užrašus ir pažymėkite, kas jau keičiasi jūsų kasdienybėje.",
+    "Kartokite kartą per mėnesį, jei jaučiate poreikį. Akmenį galite nuvalyti minkštu audiniu."
+   ],
+   "safety": "Žvakė turi degti ant karščiui atsparaus paviršiaus ir niekada likti be priežiūros. Ritualas nukreiptas tik į jus, ne į kitą žmogų, ir nieko negarantuoja santykiuose."
+  },
+  {
+   "id": "namu-slenscio-apsauga",
+   "intent": "protect",
+   "title": "Namų slenksčio apsauga",
+   "teaser": "Druska, žolelės ir tylus žodis prie durų – ritualas saugumo jausmui ir aiškesnei ribai tarp namų ir pasaulio.",
+   "intro": [
+    "Slenkstis – vieta, kurioje baigiasi lauko pasaulis ir prasideda jūsų namai. Daugelyje Europos tradicijų slenkstis laikomas ypatinga riba, o druska – apsaugos ženklu. Šis ritualas remiasi tokiomis bendromis idėjomis, bet paverčia jas ramiu, šiuolaikišku veiksmu.",
+    "Praktinė jo prasmė paprasta: kai sąmoningai sutvarkote įėjimą, padedate ženklą ir ištariate savo ribų žodžius, namai jums pačiems ima atrodyti saugesni. Saugumo jausmas didele dalimi kyla iš to, kad žinote, ką įleidžiate, o ko ne.",
+    "Ritualas tinka įsikėlus į naują būstą, po įtemptos savaitės, po nemalonaus apsilankymo ar tiesiog tada, kai norite atnaujinti namų pojūtį."
+   ],
+   "symbolism": [
+    "Druska – daugelyje Europos liaudies tradicijų laikyta apsaugine",
+    "Rozmarinas – šiuolaikinėje vakarų praktikoje siejamas su atmintimi ir apsauga",
+    "Slenkstis – natūrali riba tarp vidaus ir išorės",
+    "Saturno diena (šeštadienis) – klasikinėje astrologijoje Saturnas siejamas su ribomis",
+    "Marso diena (antradienis) – Marsas siejamas su drąsa ir gynyba"
+   ],
+   "timing": {
+    "phase": "Mažėjantis Mėnulis arba pilnatis",
+    "sign": "Mėnulis Ožiaragio, Skorpiono ar Avino ženkle",
+    "day": "Šeštadienis (Saturno diena) arba antradienis (Marso diena)",
+    "hour": "Vėlyvą popietę ar vakare, kai namie ramu"
+   },
+   "duration": "apie 20 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Šaukštas stambios jūros druskos",
+    "Saujelė džiovinto rozmarino ar lauro lapų (arba kitų kvapiųjų žolelių, kurių turite namuose)",
+    "Maža nedegi lėkštutė ar stiklainio dangtelis",
+    "Šluotelė ir semtuvėlis",
+    "Balta žvakė laikiklyje (nebūtina)",
+    "Švari šluostė slenksčiui nuvalyti"
+   ],
+   "prep": [
+    "Atidarykite duris ir nuplaukite ar nuvalykite slenkstį bei durų kilimėlį. Tvarkingas slenkstis – pusė darbo.",
+    "Nebarstykite druskos ant žolės ar augalų lauke, nes ji gali jiems pakenkti. Naudokite lėkštutę arba ploną liniją ant slenksčio, kurią vėliau sušluosite.",
+    "Žoleles ir druską laikykite toliau nuo vaikų ir augintinių."
+   ],
+   "steps": [
+    {
+     "title": "Nuvalykite slenkstį",
+     "text": "Šluota ir drėgna šluoste nuvalykite slenkstį ir visą įėjimo zoną. Pažvelkite į duris kaip į savo namų veidą."
+    },
+    {
+     "title": "Atsistokite prie slenksčio",
+     "text": "Atsistokite ties durimis, ramiai įkvėpkite, o iškvėpdami pasakykite sau, kad čia – jūsų vieta."
+    },
+    {
+     "title": "Paruoškite lėkštutę",
+     "text": "Lėkštutėje sumaišykite druską ir žoleles. Jei norite, pirmiausia uždekite žvakę ant stabilaus, karščiui atsparaus paviršiaus, atokiau nuo užuolaidų ir durų kilimėlio. Nepalikite jos be priežiūros: kol ji dega, būkite šalia."
+    },
+    {
+     "title": "Pažymėkite slenkstį",
+     "text": "Lėkštutę su druska ir žolelėmis padėkite prie vidinio durų kampo arba paberkite ploną liniją slenksčio vidinėje pusėje – vėliau ją sušluosite."
+    },
+    {
+     "title": "Ištarkite savo ribas",
+     "text": "Garsiai ar tyliai ištarkite savo žodžius. Kalbėkite ramiai, tarsi nustatytumėte taisykles savo namuose."
+    },
+    {
+     "title": "Apeikite kitas angas",
+     "text": "Praeikite pro langus, balkono duris ir kitas angas. Prie kiekvienos trumpam sustokite ir pasakykite: „Čia saugu.“"
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite namams, užgesinkite žvakę (jei ją uždegėte) ir palikite lėkštutę prie durų, kur jos nepasieks vaikai ar augintiniai."
+    }
+   ],
+   "words": "Šie namai – mano.\nČia įeina tai, kas gera, ir lieka tai, kas ramina.\nAš saugau savo ribas ramiai ir tvirtai.\nMano slenkstis saugus, mano širdis rami.",
+   "after": [
+    "Lėkštutę su druska ir žolelėmis palaikykite prie durų mėnesį, tada išberkite į šiukšlių dėžę (ne į augalų žemę) ir paruoškite naują.",
+    "Užsirašykite, kas pasikeitė jūsų saugumo pojūtyje. Pagalvokite, ar nėra praktinių dalykų (spynos, apšvietimo), kuriuos verta sutvarkyti.",
+    "Jei namuose jums gresia realus pavojus, ritualas nepakeičia kreipimosi į policiją ar pagalbos tarnybas."
+   ],
+   "safety": "Žvakė turi stovėti ant karščiui atsparaus paviršiaus ir niekada nebūti be priežiūros. Žolelių ir druskos nevalgykite, laikykite atokiau nuo vaikų ir gyvūnų, o ritualas nepakeičia realių saugumo priemonių."
+  },
+  {
+   "id": "asmeninis-apsauginis-amuletas",
+   "intent": "protect",
+   "title": "Asmeninis apsauginis amuletas",
+   "teaser": "Akmuo ar mažas daiktas, kuriam suteikiate savo ketinimą ir kurį nešiojatės kaip tylų priminimą apie savo ribas.",
+   "intro": [
+    "Amuletas – daiktas, kuriam žmogus suteikia reikšmę. Įvairiose kultūrose žmonės nešiojasi smulkius daiktus kaip ženklus, primenančius saugumą ir drąsą. Šis ritualas nesiūlo stebuklingo skydo – jis padeda sukurti asmenišką priminimą.",
+    "Pasirenkate akmenį ar kitą nedidelį daiktą, nuvalote jį, suteikiate jam žodį ir ketinimą. Vėliau, kai juntate neramumą, galite paliesti amuletą ir prisiminti akimirką, kai buvote tvirti ir ramūs.",
+    "Ritualas tinka prieš sudėtingą pokalbį, kelionę ar sunkesnį laikotarpį, taip pat tada, kai norite turėti nedidelį nešiojamą ramybės ženklą."
+   ],
+   "symbolism": [
+    "Tamsus akmuo (pavyzdžiui, juodasis turmalinas ar hematitas) – šiuolaikinėje vakarų praktikoje siejamas su apsauga",
+    "Pilnatis – metas, kai viskas atrodo aiškiau ir ryškiau",
+    "Balta žvakė – šviesa ir aiškumas",
+    "Nešiojamas daiktas – ženklas, kad ketinimas keliauja kartu su jumis",
+    "Saturno diena (šeštadienis) – klasikinėje astrologijoje siejama su ribomis ir ištverme"
+   ],
+   "timing": {
+    "phase": "Pilnatis arba mažėjantis Mėnulis",
+    "sign": "Mėnulis Skorpiono, Ožiaragio ar Avino ženkle",
+    "day": "Šeštadienis (Saturno diena) arba antradienis (Marso diena)",
+    "hour": "Vakare, po saulėlydžio"
+   },
+   "duration": "apie 25 min.",
+   "level": "Vidutinis",
+   "materials": [
+    "Akmenėlis, kurį jaučiate savu (juodasis turmalinas, hematitas, upės akmuo ar bet koks lygus akmuo)",
+    "Balta žvakė laikiklyje",
+    "Mažas audinio maišelis akmeniui laikyti",
+    "Minkštas audinys akmeniui nuvalyti",
+    "Popieriaus juostelė ir rašiklis",
+    "Pasirinktinai: virvelė ar grandinėlė nešioti"
+   ],
+   "prep": [
+    "Akmenį nuvalykite minkštu audiniu arba trumpai nuplaukite šaltu vandeniu, tada gerai nusausinkite. Kai kurie akmenys prastai toleruoja vandenį ir druską, todėl abejodami rinkitės sausą valymą.",
+    "Pagalvokite, ką šis amuletas jums primins: ramybę, drąsą ar ribas. Užsirašykite vieną žodį."
+   ],
+   "steps": [
+    {
+     "title": "Paruoškite vietą",
+     "text": "Žvakę pastatykite ant stabilaus, karščiui atsparaus paviršiaus, atokiau nuo užuolaidų ir popieriaus. Prieš save ant audinio padėkite akmenį."
+    },
+    {
+     "title": "Uždekite žvakę",
+     "text": "Uždegdami pasakykite: „Šviesa, kuri man primena mano jėgą.“ Kelis kartus giliai įkvėpkite. Kol žvakė dega, nepalikite jos be priežiūros."
+    },
+    {
+     "title": "Susipažinkite su akmeniu",
+     "text": "Paimkite akmenį į abi rankas ir pajuskite jo svorį, šaltį ir formą. Kelias minutes tiesiog pabūkite su juo."
+    },
+    {
+     "title": "Suteikite jam žodį",
+     "text": "Ant juostelės užrašykite savo žodį (pavyzdžiui, „ramybė“, „ribos“, „drąsa“) ir padėkite po akmeniu ar šalia jo."
+    },
+    {
+     "title": "Perduokite ketinimą",
+     "text": "Laikydami akmenį delne, tyliai ištarkite savo žodžius. Įsivaizduokite, kad ketinimas telpa į šį mažą daiktą."
+    },
+    {
+     "title": "Įdėkite į maišelį",
+     "text": "Akmenį ir sulenktą juostelę įdėkite į maišelį. Taip jis tampa tik jums žinomu asmeniniu ženklu."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite sau ir užgesinkite žvakę (nepūsdami, o gesintuvu ar sudrėkintais pirštais). Amuletą pasiimkite su savimi."
+    }
+   ],
+   "words": "Šis daiktas primena man mano stiprybę.\nKai jį paliečiu, prisimenu savo ribas ir savo ramybę.\nJis lydi mane, o aš renkuosi saugoti save.\nSaugumas prasideda nuo manęs.",
+   "after": [
+    "Nešiokitės amuletą kišenėje ar rankinėje. Kai juntate įtampą, palieskite jį ir giliai įkvėpkite.",
+    "Kartą per kelis mėnesius nuvalykite jį minkštu audiniu ir pakartokite savo žodžius.",
+    "Jei amuletas jums nebereikalingas, padėkokite jam ir padėkite jį į dėžutę kaip prisiminimą arba padovanokite žmogui, kuriam jis bus prasmingas."
+   ],
+   "safety": "Žvakė turi degti ant karščiui atsparaus paviršiaus ir niekada likti be priežiūros. Amuletas neapsaugo nuo realaus pavojaus – jei jaučiatės nesaugiai, kreipkitės į artimuosius ar pagalbos tarnybas."
+  },
+  {
+   "id": "namu-valymas-dumais-ir-garsu",
+   "intent": "cleanse",
+   "title": "Namų valymas dūmais ir garsu",
+   "teaser": "Atidaryti langai, plojimai kampuose ir varpelio garsas – paprastas būdas pajusti, kad namuose vėl yra oro.",
+   "intro": [
+    "Kartais namuose susikaupia nuovargis: po ligos, ginčo, ilgos žiemos ar tiesiog po daugelio įtemptų dienų. Šiame ritualyje fizinį tvarkymą jungiame su simboliniu: iššluojame dulkes, įleidžiame oro ir pakeičiame namų garsą.",
+    "Plojimai, varpelis ar net šaukštelio skambesys į stiklinę pertraukia įprastą namų triukšmą. Dūmai (jei jų norite) daugelyje pasaulio tradicijų naudojami kaip apvalymo ir atsinaujinimo ženklas. Jie čia neprivalomi – svarbiausia pati sąmoninga eiga per kiekvieną kambarį.",
+    "Ritualas tinka sezono pabaigoje, persikėlus, pasveikus ar kai tiesiog jaučiate, kad namuose reikia šviežio oro."
+   ],
+   "symbolism": [
+    "Atidaryti langai – naujas oras kaip atsinaujinimo ženklas",
+    "Plojimai kampuose – garsas, kuris pažadina užmirštas vietas",
+    "Varpelis – aiškus, trumpas garsas, žymintis perėjimą",
+    "Dūmai – daugelyje tradicijų naudojami kaip apvalymo simbolis",
+    "Saturno diena (šeštadienis) – klasikinėje astrologijoje siejama su tvarka ir užbaigimu"
+   ],
+   "timing": {
+    "phase": "Mažėjantis Mėnulis",
+    "sign": "Mėnulis Mergelės, Skorpiono ar Žuvų ženkle",
+    "day": "Šeštadienis (Saturno diena)",
+    "hour": "Dienos metu, kol dar šviesu, kad galėtumėte atverti langus"
+   },
+   "duration": "apie 45 min.",
+   "level": "Vidutinis",
+   "materials": [
+    "Varpelis, nedidelis skambutis ar šaukštelis ir stiklinė",
+    "Šluota, šluostė ir švarus vanduo",
+    "Neprivaloma: džiovintų žolelių kuokštelis ar smilkalų lazdelė su laikikliu",
+    "Karščiui atsparus indas pelenams",
+    "Dubenėlis vandens ar smėlio ugniai užgesinti; degtukai ar žiebtuvėlis",
+    "Užrašų knygelė (neprivaloma)"
+   ],
+   "prep": [
+    "Prieš pradėdami fiziškai sutvarkykite pagrindinius kambarius: išneškite šiukšles, sutvarkykite netvarkos krūvas, nuvalykite dulkes.",
+    "Pasirūpinkite saugumu: žinokite, kur yra dūmų jutiklis, gyvūnus palikite kitame kambaryje, o jei kas nors namuose jautrus dūmams, serga kvėpavimo takų ligomis ar jam sunku kvėpuoti, dūmų nenaudokite – pakanka garso ir oro.",
+    "Pagalvokite apie kaimynus: plojimai ar varpelis neturėtų trikdyti jų ramybės."
+   ],
+   "steps": [
+    {
+     "title": "Atverkite langus",
+     "text": "Atidarykite langus bent dešimčiai minučių. Jei lauke šalta, vėdinkite po vieną kambarį."
+    },
+    {
+     "title": "Pradėkite nuo durų",
+     "text": "Ties įėjimu sustokite, įkvėpkite ir tarkite, kad pradedate apeiti namus. Eikite pagal laikrodžio rodyklę, kad nieko nepraleistumėte."
+    },
+    {
+     "title": "Plokite kampuose",
+     "text": "Kiekviename kambaryje trimis ryžtingais plojimais pažadinkite kampus ir lentynų viršų. Klausykitės, kaip pasikeičia aidas."
+    },
+    {
+     "title": "Paskambinkite varpeliu",
+     "text": "Eikite per kambarį skambindami varpeliu ar pabelsdami šaukšteliu į stiklinę. Leiskite garsui išblėsti, prieš eidami toliau."
+    },
+    {
+     "title": "Dūmai (neprivaloma)",
+     "text": "Jei renkatės dūmus, uždekite žolelių kuokštelį ar smilkalus karščiui atspariame inde ir lėtai eikite per kambarius, nešdami indą abiem rankomis, atokiau nuo užuolaidų ir popieriaus. Kai tik sustojate ar padedate indą, jį statykite tik ant karščiui atsparaus paviršiaus. Niekada nepalikite degančių daiktų be priežiūros."
+    },
+    {
+     "title": "Užgesinkite saugiai",
+     "text": "Pabaigoje visiškai užgesinkite žoleles ar smilkalą: sudrėkinkite vandeniu ar paspauskite smėlyje ir palikite karščiui atspariame inde, kol visiškai atvės. Įsitikinkite, kad nebesvyla."
+    },
+    {
+     "title": "Užbaikite žodžiais",
+     "text": "Grįžkite prie durų ir ištarkite savo žodžius. Dar kelias minutes pabūkite tyloje prie atvirų langų."
+    }
+   ],
+   "words": "Šie namai kvėpuoja lengvai.\nPaleidžiu tai, kas senas ir nebereikalinga.\nGarsas ir oras atnaujina šią erdvę.\nČia vėl malonu būti.",
+   "after": [
+    "Uždarykite langus, kai pajusite, kad oras atsinaujino. Išneškite susikaupusias šiukšles.",
+    "Pelenus ir žoleles išmeskite tik visiškai atvėsusius.",
+    "Vakare padarykite ką nors jauku: uždekite lempą, išsivirkite arbatos. Namai jus pasitiks kitaip."
+   ],
+   "safety": "Dūmus naudokite tik gerai vėdinamoje patalpoje, ant karščiui atsparaus paviršiaus, ir niekada nepalikite be priežiūros. Jie netinka žmonėms, jautriems dūmams ar sergantiems kvėpavimo takų ligomis, taip pat nėščiosioms ir mažiems vaikams. Ritualas neturi gydomojo poveikio."
+  },
+  {
+   "id": "atsisveikinimo-laiskas",
+   "intent": "cleanse",
+   "title": "Atsisveikinimo laiškas",
+   "teaser": "Parašykite laišką tam, ką norite paleisti – įpročiui, baimei ar senam skausmui – ir saugiai jį užbaikite.",
+   "intro": [
+    "Kai kas nors baigiasi, dažnai nespėjame to pavadinti. Laiškas, kurio niekam nesiųsite, yra vieta pasakyti viską: ką praradote, ko gailitės, už ką dėkojate ir ką paliekate už nugaros. Rašymas padeda mintims įgauti pavidalą ir kartu atpalaiduoja.",
+    "Ritualas baigiasi fiziniu veiksmu: laišką saugiai sudeginate arba suplėšote ir užkasate žemėje. Šis gestas neištrina patirties, bet padeda pajusti, kad skyrius užbaigtas.",
+    "Jis tinka atsisveikinant su sena darbo vieta, įpročiu, išsiskyrimu, savo senu vaidmeniu ar sunkiu baimės laikotarpiu. Jis skirtas jūsų jausmams, o ne kitam žmogui."
+   ],
+   "symbolism": [
+    "Rašytas laiškas – žodžiai, kurie pagaliau tapo pasakyti",
+    "Ugnis ir žemė – du dažni pabaigos ir atsinaujinimo simboliai",
+    "Mažėjantis Mėnulis – tradicinis laikas paleisti ir mažinti",
+    "Saturno diena (šeštadienis) – klasikinėje astrologijoje siejama su užbaigimu",
+    "Vandens ženklai – Skorpionas ir Žuvys siejami su gilesniais jausmais"
+   ],
+   "timing": {
+    "phase": "Mažėjantis Mėnulis",
+    "sign": "Mėnulis Skorpiono, Žuvų ar Mergelės ženkle",
+    "day": "Šeštadienis (Saturno diena)",
+    "hour": "Vakare, kai galite pabūti vieni ir niekur neskubėti"
+   },
+   "duration": "apie 40 min.",
+   "level": "Vidutinis",
+   "materials": [
+    "Keli balto popieriaus lapai ir rašiklis",
+    "Karščiui atsparus indas (keraminis ar metalinis) ir indas vandens šalia",
+    "Degtukai arba žiebtuvėlis (jei renkatės degymą)",
+    "Arba: vazonas su žeme ar vieta sode (jei renkatės užkasimą)",
+    "Mažas šaukštas ar sodo kastuvėlis",
+    "Stiklinė vandens, nosinės ir šilta antklodė"
+   ],
+   "prep": [
+    "Pasirinkite vietą, kurioje jausitės saugiai ir galėsite pabūti vieni. Jei degsite popierių, rinkitės gerai vėdinamą vietą, toliau nuo užuolaidų ir kitų degių daiktų, ir ant karščiui atsparaus paviršiaus.",
+    "Pagalvokite, ko iš tiesų norite atsisveikinti. Jei tai skaudu, būkite sau švelnūs ir neskubėkite."
+   ],
+   "steps": [
+    {
+     "title": "Nurimkite",
+     "text": "Atsisėskite ir padarykite keletą lėtų įkvėpimų. Leiskite sau pajusti, kas šiuo metu yra viduje."
+    },
+    {
+     "title": "Pradėkite laišką",
+     "text": "Viršuje parašykite: „Atsisveikinu su …“ ir įvardykite tai, ko atsisakote – pavyzdžiui, nerimu, senu darbu, įpročiu. Laiškas skirtas jūsų jausmams, o ne kitam žmogui."
+    },
+    {
+     "title": "Parašykite viską",
+     "text": "Rašykite laisvai: ką iš to gavote, ko gailitės, už ką dėkojate. Nesistenkite rašyti gražiai – svarbiausia, kad būtų sąžininga."
+    },
+    {
+     "title": "Užbaikite laišką",
+     "text": "Paskutiniame sakinyje parašykite, ką pasiimate su savimi į priekį. Pasirašykite ir įrašykite datą."
+    },
+    {
+     "title": "Perskaitykite garsiai",
+     "text": "Lėtai perskaitykite laišką sau. Jei kyla ašaros, leiskite joms būti."
+    },
+    {
+     "title": "Užbaikite fiziniu veiksmu",
+     "text": "Saugiai sudeginkite laišką karščiui atspariame inde, pastatytame ant karščiui atsparaus paviršiaus, šalia laikydami vandens. Nepalikite ugnies be priežiūros ir stebėkite, kol pelenai visiškai atvės. Arba suplėšykite laišką į smulkius gabalėlius ir užkaskite vazone ar sode."
+    },
+    {
+     "title": "Pasakykite žodžius",
+     "text": "Ištarkite savo žodžius. Vėliau atsigerkite vandens ir kurį laiką pabūkite ramiai."
+    }
+   ],
+   "words": "Dėkoju už viską, ko mane išmokė šis dalykas.\nDabar jį paleidžiu.\nAš pasiimu su savimi tik tai, kas man gera.\nMano pabaiga – naujos pradžios vieta.",
+   "after": [
+    "Visiškai atvėsusius pelenus išbarstykite sode ar išmeskite į šiukšles. Suplėštą popierių užkaskite vazone ar sode.",
+    "Tą vakarą pasirūpinkite savimi: šilta arbata, paprastas maistas, ankstesnis miegas.",
+    "Jei jausmai labai sunkūs ar užsitęsia, pasikalbėkite su artimu žmogumi ar specialistu. Ritualas nepakeičia profesionalios pagalbos."
+   ],
+   "safety": "Degindami popierių naudokite karščiui atsparų indą ant karščiui atsparaus paviršiaus, laikykite šalia vandens ir niekada nepalikite ugnies be priežiūros. Jei degti nesaugu, rinkitės suplėšymą ir užkasimą. Ritualas nepakeičia psichologo ar gydytojo pagalbos."
+  },
+  {
+   "id": "jaunaties-ketinimu-sarasas",
+   "intent": "begin",
+   "title": "Jaunaties ketinimų sąrašas",
+   "teaser": "Nuo trijų iki septynių aiškių ketinimų, užrašytų jaunaties vakarą – švelnus planas naujam Mėnulio ciklui.",
+   "intro": [
+    "Per jaunatį Mėnulio danguje nesimato. Daugelyje kalendorinių tradicijų ir šiuolaikinėje ritualinėje praktikoje tai laikoma naujų pradžių metu – lyg pirmas puslapis, ant kurio dar nieko neparašyta. Todėl jaunaties ketinimų sąrašas yra vienas paprasčiausių ritualų.",
+    "Sąrašas skiriasi nuo užduočių sąrašo. Čia rašote ne tai, ką privalote, o tai, ką norite pasėti: kaip norite jaustis, ką išbandyti, kam skirti dėmesį artimiausią mėnesį. Trumpas, bet aiškus sąrašas dažniausiai padeda labiau nei ilgas ir nesibaigiantis.",
+    "Ritualas tinka mėnesio pradžioje, naujų metų slenkstyje, po atostogų ar bet kada, kai norite apsispręsti, kur eiti toliau."
+   ],
+   "symbolism": [
+    "Jaunatis – tradicinis naujos pradžios metas",
+    "Auksinė ar geltona žvakė – saulės ir optimizmo simbolis",
+    "Užrašytas sąrašas – ketinimas, įgavęs formą",
+    "Ugnies ženklai (Avinas, Liūtas, Šaulys) – tradiciškai siejami su pradžia ir drąsa",
+    "Sekmadienis (Saulės diena) ir pirmadienis (Mėnulio diena) – naujo ciklo pradžia"
+   ],
+   "timing": {
+    "phase": "Jaunatis arba jaunas augantis pjautuvas",
+    "sign": "Mėnulis Avino, Liūto ar Šaulio ženkle",
+    "day": "Sekmadienis (Saulės diena) arba pirmadienis (Mėnulio diena)",
+    "hour": "Vakare arba ankstyvą rytą, kai galvoje tylu"
+   },
+   "duration": "apie 30 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Gražus popieriaus lapas ar sąsiuvinis",
+    "Rašiklis, kurį mėgstate",
+    "Geltona, balta ar auksinė žvakė laikiklyje",
+    "Degtukai arba žiebtuvėlis",
+    "Stiklinė vandens arba arbata",
+    "Neprivaloma: spalvotas kaspinėlis ar sąvaržėlė lapui pažymėti"
+   ],
+   "prep": [
+    "Prieš rašydami vieną minutę pasėdėkite tyloje ir paklauskite savęs, kas praėjusį mėnesį sekėsi, o kas ne.",
+    "Pagalvokite apie tris sritis: kūnas ir sveikata, darbas ir mokymasis, santykiai ar ramybė. Pakanka po vieną ketinimą kiekvienoje."
+   ],
+   "steps": [
+    {
+     "title": "Sukurkite aplinką",
+     "text": "Žvakę pastatykite ant stabilaus, karščiui atsparaus paviršiaus, atokiau nuo užuolaidų ir popieriaus, ir uždekite. Nepalikite jos be priežiūros. Šalia išdėliokite lapą ir rašiklį."
+    },
+    {
+     "title": "Sulėtinkite kvėpavimą",
+     "text": "Užmerkite akis ir penkis kartus lėtai įkvėpkite. Pajuskite, kaip skubėjimas pamažu palieka galvą."
+    },
+    {
+     "title": "Surašykite viską",
+     "text": "Per penkias minutes užrašykite viską, ko norėtumėte per ateinantį mėnesį. Nevertinkite, tiesiog rašykite."
+    },
+    {
+     "title": "Pasirinkite svarbiausius",
+     "text": "Iš viso sąrašo atrinkite 3–7 ketinimus, kurie sušildo širdį. Perrašykite juos švariai, esamuoju laiku."
+    },
+    {
+     "title": "Padarykite juos konkretesnius",
+     "text": "Prie kiekvieno ketinimo pridėkite mažą matomą veiksmą: „Vaikštau po pusvalandį tris kartus per savaitę.“"
+    },
+    {
+     "title": "Perskaitykite garsiai",
+     "text": "Lėtai perskaitykite sąrašą žvakės šviesoje ir ištarkite savo žodžius. Pajuskite, kuris ketinimas jums artimiausias."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite sau ir užgesinkite žvakę. Sąrašą padėkite tokioje vietoje, kur matysite jį kasdien."
+    }
+   ],
+   "words": "Šį mėnesį pasirenku augti ramiai ir aiškiai.\nKiekvienas mano ketinimas turi savo mažą žingsnį.\nAš pradedu, nes taip nusprendžiau.\nTegul šis Mėnulio ciklas būna man malonus.",
+   "after": [
+    "Pakabinkite sąrašą ant šaldytuvo ar padėkite prie lovos, kad jį matytumėte kasdien.",
+    "Po savaitės, kai Mėnulis pasieks pirmąjį ketvirtį, pažymėkite, kas pajudėjo.",
+    "Per pilnatį peržiūrėkite sąrašą be savikritikos: kas pavyko, ką reikia pakeisti. Naują sąrašą rašykite per kitą jaunatį."
+   ],
+   "safety": "Žvakė turi degti ant karščiui atsparaus paviršiaus ir niekada likti be priežiūros. Ketinimai yra kryptis, o ne garantija, ir nepakeičia realių sprendimų bei veiksmų."
+  },
+  {
+   "id": "pirmojo-zingsnio-zvake",
+   "intent": "begin",
+   "title": "Pirmojo žingsnio žvakė",
+   "teaser": "Vienas darbas, viena žvakė ir viena valanda – ritualas tiems, kurie ilgai atidėlioja pradžią.",
+   "intro": [
+    "Kartais sunkiausia nėra pats darbas, o pirmoji minutė prieš jį. Šis ritualas nepaverčia jūsų idėjos stebuklu, bet gali padėti išsivaduoti iš atidėliojimo rato: žvakė tampa signalu, kad dabar pradedate, o jos šviesa žymi laiką, skirtą tik jums ir šiam vienam dalykui.",
+    "Pasirenkate vieną ketinimą ir mažiausią žingsnį link jo. Uždegate žvakę, dirbate, kol ji dega, ir pabaigoje užgesinate. Toks aiškus rėmas gali padėti sutelkti dėmesį be vidinio spaudimo.",
+    "Ritualas tinka pradedant naują projektą, mokslus, treniruotes, rašymą ar bet kurį kitą darbą, kurį per ilgai nešiojatės galvoje."
+   ],
+   "symbolism": [
+    "Žvakė – dėmesio židinys ir laiko matas",
+    "Sekmadienis (Saulės diena) – klasikinėje astrologijoje siejamas su pradžia ir energija",
+    "Liūto, Avino ir Šaulio ženklai – tradiciškai siejami su iniciatyva",
+    "Maža užduotis – pirmas žingsnis, kuris padaro kelią realų",
+    "Užgesinta žvakė – darbo valandos pabaiga ir proga pasidžiaugti"
+   ],
+   "timing": {
+    "phase": "Jaunatis arba jaunas augantis pjautuvas",
+    "sign": "Mėnulis Avino, Liūto ar Šaulio ženkle",
+    "day": "Sekmadienis (Saulės diena) arba pirmadienis (Mėnulio diena)",
+    "hour": "Ryte ar prieš pietus, kai galvoje šviesu"
+   },
+   "duration": "apie 30–60 min.",
+   "level": "Lengvas",
+   "materials": [
+    "Maža žvakė laikiklyje arba stiklinėje",
+    "Degtukai arba žiebtuvėlis",
+    "Popieriaus lapelis ir rašiklis",
+    "Laikmatis arba telefonas (su išjungtais pranešimais)",
+    "Viskas, ko reikia pirmajam žingsniui (kompiuteris, sportbačiai, užrašai)",
+    "Stiklinė vandens"
+   ],
+   "prep": [
+    "Pasirinkite vieną dalyką, kurį norite pradėti. Pavadinkite jį vienu sakiniu.",
+    "Suskaidykite jį iki mažiausio įmanomo žingsnio – tokio, kurį galite atlikti per valandą ar greičiau."
+   ],
+   "steps": [
+    {
+     "title": "Užrašykite ketinimą",
+     "text": "Ant lapelio parašykite: „Pradedu …“ ir įvardykite savo darbą. Šalia parašykite pirmąjį žingsnį."
+    },
+    {
+     "title": "Paruoškite vietą",
+     "text": "Žvakę pastatykite ant stabilaus, karščiui atsparaus paviršiaus, atokiau nuo popieriaus ir užuolaidų. Išjunkite trukdžius."
+    },
+    {
+     "title": "Uždekite žvakę",
+     "text": "Uždegdami pasakykite: „Dabar pradedu.“ Tai ženklas jums, kad prasidėjo darbo laikas. Kol žvakė dega, būkite šalia jos ir nepalikite jos be priežiūros."
+    },
+    {
+     "title": "Atlikite pirmą žingsnį",
+     "text": "Kol žvakė dega, dirbkite tik su šia viena užduotimi. Netobulumas leistinas – svarbu pradėti."
+    },
+    {
+     "title": "Sustokite kas dvidešimt minučių",
+     "text": "Trumpai pakvėpuokite, atsigerkite vandens ir paklauskite savęs: ar einu savo keliu? Tada tęskite."
+    },
+    {
+     "title": "Užgesinkite žvakę",
+     "text": "Kai baigsite arba kai pasibaigs numatytas laikas, užgesinkite žvakę ir pažymėkite lapelyje, ką padarėte."
+    },
+    {
+     "title": "Pasidžiaukite",
+     "text": "Ištarkite savo žodžius ir pagirkite save už pradžią. Nusistatykite kitą mažą žingsnį ir jam skirkite datą."
+    }
+   ],
+   "words": "Pradedu – ir to jau pakanka.\nKiekvienas mažas žingsnis yra tikras.\nNeskubu ir nesustoju.\nŠi diena yra mano pradžia.",
+   "after": [
+    "Lapelį su žingsniu padėkite matomoje vietoje, kad kitą kartą žinotumėte, nuo ko tęsti.",
+    "Kitas dienas kartokite su ta pačia žvake: tegul ji tampa darbo pradžios ženklu.",
+    "Po savaitės apsižvalgykite: ką pavyko, kas padėjo, kas trukdė?"
+   ],
+   "safety": "Žvakė turi degti tik tada, kai esate šalia, ant karščiui atsparaus paviršiaus, atokiau nuo popieriaus ir audinių; išeidami visada ją užgesinkite. Ritualas nepakeičia realaus planavimo ir nėra sėkmės garantija."
+  },
+  {
+   "id": "sapnu-dienorastis-ir-menulio-vanduo",
+   "intent": "intuition",
+   "title": "Sapnų dienoraštis ir Mėnulio vanduo",
+   "teaser": "Stiklainis vandens nakties šviesoje, sąsiuvinis prie lovos ir savaitė, per kurią mokotės klausytis savo sapnų.",
+   "intro": [
+    "Sapnai dažnai ištirpsta per kelias minutes po pabudimo. Šis ritualas paprastas: sukuriate nedidelę vietą prie lovos, kur kasdien užrašysite kelis sapno žodžius. Po kelių dienų pastebėsite pasikartojančias nuotaikas, vaizdus ir temas.",
+    "Mėnulio vanduo yra simbolinė dalis: stiklainį vandens paliekate nakties šviesoje (per pilnatį – Mėnulio, per jaunatį – tiesiog nakties tamsoje) ir naudojate kaip ritualo ženklą. Jis nėra vaistas ir nėra skirtas gerti – tai priminimas, kad pereinate į tylesnį, vidinį laiką.",
+    "Ritualas tinka, kai norite geriau suprasti savo vidinį pasaulį, ieškote įkvėpimo kūrybai ar tiesiog norite ramiau užmigti ir švelniau pabusti."
+   ],
+   "symbolism": [
+    "Mėnulis daugelyje kultūrų siejamas su naktimi, sapnais ir vidiniu pasauliu",
+    "Vanduo – nuolat kintantis jausmų ir pasąmonės simbolis",
+    "Užrašų knyga – vieta, kurioje sapnai tampa žodžiais",
+    "Pirmadienis – Mėnulio diena klasikinėje astrologijoje",
+    "Vandens ženklai – Vėžys, Skorpionas ir Žuvys tradiciškai siejami su jausmais ir intuicija"
+   ],
+   "timing": {
+    "phase": "Jaunatis arba pilnatis",
+    "sign": "Mėnulis Vėžio, Skorpiono ar Žuvų ženkle",
+    "day": "Pirmadienis (Mėnulio diena)",
+    "hour": "Vakare prieš miegą; sapnus užrašote ryte po pabudimo"
+   },
+   "duration": "apie 15 min. vakare ir 5 min. kiekvieną rytą",
+   "level": "Lengvas",
+   "materials": [
+    "Švarus stiklainis ar stiklinė su dangteliu",
+    "Švarus geriamasis vanduo",
+    "Užrašų knygelė, skirta tik sapnams",
+    "Rašiklis, laikomas prie lovos",
+    "Neprivaloma: arbatinė žvakė stiklinėje",
+    "Neprivaloma: rožinis ar sidabrinis kaspinėlis stiklainiui"
+   ],
+   "prep": [
+    "Pripilkite stiklainį švaraus vandens ir padėkite jį ant vidinės palangės, kur patenka dangaus šviesa. Šaltuoju metų laiku nepalikite stiklinio indo lauke – nuo šalčio jis gali sutrūkti.",
+    "Pasirūpinkite, kad indas stovėtų stabiliai ir kad jo neapverstų vėjas ar augintiniai."
+   ],
+   "steps": [
+    {
+     "title": "Paruoškite vandenį",
+     "text": "Uždenkite stiklainį dangteliu ir padėkite jį ten, kur naktį jį pasieks dangaus šviesa, pavyzdžiui, ant vidinės palangės."
+    },
+    {
+     "title": "Pasakykite ketinimą",
+     "text": "Prieš palikdami stiklainį pasakykite: „Šią savaitę noriu klausytis savo sapnų.“"
+    },
+    {
+     "title": "Paruoškite lovą",
+     "text": "Padėkite sąsiuvinį ir rašiklį šalia lovos, kad juos pasiektumėte nesikeldami."
+    },
+    {
+     "title": "Prieš miegą",
+     "text": "Užsirašykite, kaip jautėtės dieną, ir vieną klausimą, į kurį norėtumėte rasti atsakymą. Kelis kartus giliai įkvėpkite. Jei naudojate arbatinę žvakę, pastatykite ją ant stabilaus, karščiui atsparaus paviršiaus, niekada nepalikite be priežiūros ir užgesinkite prieš užmigdami."
+    },
+    {
+     "title": "Ryte užrašykite sapną",
+     "text": "Prieš atsikeldami užrašykite viską, ką prisimenate: vaizdus, spalvas, jausmus. Tegul užrašai būna chaotiški ir neišbaigti."
+    },
+    {
+     "title": "Sutvarkykite vandenį",
+     "text": "Ryte įneškite stiklainį atgal. Jei norite, sušlapinkite pirštų galiukus ir palieskite kaktą ar delnus kaip ženklą, kad pradedate dieną atidžiai (jautrią ar pažeistą odą paliesti nereikia). Vandens negerkite."
+    },
+    {
+     "title": "Pakartokite savaitę",
+     "text": "Septynias dienas iš eilės rašykite sapnus. Savaitės gale perskaitykite visus įrašus ir pažymėkite pasikartojančius vaizdus."
+    }
+   ],
+   "words": "Klausausi savo vidinio balso ramiai.\nSapnai man rodo tai, ko dieną nespėju pastebėti.\nPriimu viską, ką sapnuoju, be baimės.\nIntuiciją ugdau kantrybe.",
+   "after": [
+    "Vandenį galite panaudoti kambariniams augalams palaistyti, o stiklainį išplauti.",
+    "Savaitės pabaigoje perskaitykite visus įrašus ir paklauskite savęs: kokios nuotaikos kartojosi? Ką tai man sako apie dabartį?",
+    "Sapnų reikšmės yra jūsų pačių apmąstymas, o ne galutinis atsakymas. Jei miegas nuolat sutrikęs, pasitarkite su gydytoju."
+   ],
+   "safety": "Mėnulio vandens negerkite ir nenaudokite kaip vaisto. Stiklinio indo nepalikite lauke šaltyje. Jei naudojate žvakę, ji turi stovėti ant karščiui atsparaus paviršiaus ir niekada nebūti be priežiūros, o prieš miegą ją užgesinkite."
+  },
+  {
+   "id": "pilnaties-taro-meditacija",
+   "intent": "intuition",
+   "title": "Pilnaties taro meditacija",
+   "teaser": "Viena korta – Žynė ar Mėnulis – pilnaties šviesoje, trys klausimai ir ramus žvilgsnis į save.",
+   "intro": [
+    "Pilnatis – metas, kai viskas matoma aiškiau, kartais ir tai, ko dieną nenorime matyti. Šioje meditacijoje pasirenkate vieną kortą ir ilgai, lėtai ją stebite, užuot ieškoję greito atsakymo. Taro korta čia – veidrodis, o ne pranašystė.",
+    "Žynė ir Mėnulis tinka šiam ritualui, nes abi kortos kalba apie vidų: tylą, paslėptus jausmus, pasąmonę. Rider–Waite kaladėje Žynė sėdi tarp dviejų stulpų, o kortoje „Mėnulis“ matyti du bokštai ir kelias, vedantis į tamsą. Pasirinkite tą kortą, kuri labiau traukia jūsų žvilgsnį.",
+    "Ritualas tinka tada, kai norite aiškumo, bet nenorite klausti „taip ar ne“. Užtenka vienos kortos, vienos žvakės ir ramios valandėlės."
+   ],
+   "symbolism": [
+    "Žynė – tyla, vidinis žinojimas ir tai, kas dar neišsakyta",
+    "Mėnulis – sapnai, neapibrėžtumas ir jausmai, kurie ima judėti",
+    "Pilnatis – metas, kai paslėpta tampa matoma",
+    "Pirmadienis – Mėnulio diena klasikinėje astrologijoje",
+    "Sidabrinė ar balta žvakė – švelni šviesa, tinkanti vidiniam žvilgsniui"
+   ],
+   "timing": {
+    "phase": "Pilnatis",
+    "sign": "Mėnulis Vėžio, Skorpiono ar Žuvų ženkle",
+    "day": "Pirmadienis (Mėnulio diena)",
+    "hour": "Vakare, kai Mėnulis jau matomas, jei dangus giedras"
+   },
+   "duration": "apie 30 min.",
+   "level": "Vidutinis",
+   "materials": [
+    "Žynės arba Mėnulio korta iš jūsų taro kaladės",
+    "Balta ar sidabrinė žvakė laikiklyje",
+    "Užrašų knygelė ir rašiklis",
+    "Patogi kėdė ar pagalvė",
+    "Stiklinė vandens",
+    "Neprivaloma: švelni muzika ar visiška tyla"
+   ],
+   "prep": [
+    "Pasirinkite vieną kortą: arba sąmoningai, arba, jei norite, ištraukite atsitiktinai iš dviejų (Žynės ir Mėnulio).",
+    "Pritemdykite šviesą, išjunkite telefoną ir pasirūpinkite, kad pusvalandį niekas netrukdytų."
+   ],
+   "steps": [
+    {
+     "title": "Paruoškite erdvę",
+     "text": "Žvakę pastatykite ant stabilaus, karščiui atsparaus paviršiaus, atokiau nuo kortos, užuolaidų ir popieriaus, ir uždekite. Nepalikite jos be priežiūros. Kortą padėkite priešais save, kad ji būtų aiškiai matoma."
+    },
+    {
+     "title": "Nurimkite",
+     "text": "Sėdėdami užmerkite akis ir dešimt kartų lėtai įkvėpkite bei iškvėpkite. Leiskite dienai nuslūgti."
+    },
+    {
+     "title": "Žiūrėkite į kortą",
+     "text": "Atmerkite akis ir dvi minutes tiesiog žiūrėkite. Pastebėkite spalvas, figūras ir detales, kurių anksčiau nematėte."
+    },
+    {
+     "title": "Atsakykite į tris klausimus",
+     "text": "Užrašykite atsakymus į klausimus: „Kas šioje kortoje mane traukia?“, „Kas kelia nerimą?“, „Ką ji sako apie tai, ko dabar noriu klausytis?“"
+    },
+    {
+     "title": "Įžengkite į paveikslą",
+     "text": "Užmerkite akis ir įsivaizduokite, kad stovite kortos scenoje. Ką girdite, užuodžiate, jaučiate? Pabūkite ten kelias minutes."
+    },
+    {
+     "title": "Užrašykite mintį",
+     "text": "Atsimerkę užrašykite vieną sakinį, kuris atsirado ramybėje. Nevertinkite jo – tiesiog užrašykite."
+    },
+    {
+     "title": "Užbaikite",
+     "text": "Padėkokite kortai ir sau, ištarkite savo žodžius ir užgesinkite žvakę. Kortą grąžinkite į kaladę."
+    }
+   ],
+   "words": "Sėdžiu tyloje ir klausausi savęs.\nTai, kas slėpėsi, gali ateiti į šviesą.\nPriimu tai, ką matau, švelniai ir sąžiningai.\nMano vidinis balsas yra mano bendrakeleivis.",
+   "after": [
+    "Užrašytą mintį perskaitykite kitą rytą: ar ji vis dar atrodo svarbi?",
+    "Per kelias dienas pastebėkite, ar kortos tema primena ką nors jūsų gyvenime: vaizdą, jausmą ar situaciją.",
+    "Galite kartoti kiekvieną pilnatį su nauja korta ir stebėti, kaip keičiasi jūsų užrašai."
+   ],
+   "safety": "Žvakė turi degti ant karščiui atsparaus paviršiaus ir niekada likti be priežiūros. Taro korta yra apmąstymo priemonė, o ne būsimų įvykių garantija, ir nepakeičia gydytojo ar psichologo pagalbos."
+  }
+ ],
+ "disclaimer": "Ritualai skirti ketinimui, susikaupimui ir apmąstymui. Jie nepakeičia gydytojo, teisininko ar finansų specialisto patarimo, ir joks rezultatas negarantuojamas."
+}

@@ -1,0 +1,1079 @@
+{
+ "levels": {
+  "1": "Pradedantiesiems",
+  "2": "Praktikams",
+  "3": "Gilus skaitymas"
+ },
+ "lessons": [
+  {
+   "id": "kortu-pasakojimas",
+   "title": "Kortų pasakojimas: trys kortos – viena istorija",
+   "lede": "Atskiros kortos reikšmė dar nėra skaitymas. Skaitymas prasideda tada, kai kortos pradeda kalbėti viena su kita.",
+   "sections": [
+    {
+     "h": "Nuo žodyno prie sakinio",
+     "p": [
+      "Pradedantieji dažnai skaito kortas kaip sąrašą: pirmoji korta reiškia tai, antroji – anai, trečioji – dar kai ką. Tai naudingas pirmas žingsnis, bet jis primena vertimą žodis po žodžio. Tikras skaitymas – tai sakinys ar net trumpas pasakojimas, kuriame kortos veikia kaip veikėjai ir veiksmažodžiai.",
+      "Paprasčiausias būdas pratintis – trijų kortų eilė: praeitis, dabartis, galima kryptis. Tarp kortų atsiranda du perėjimai, ir būtent juose slypi istorija: kas pasikeitė tarp pirmosios ir antrosios kortos, kas – tarp antrosios ir trečiosios?"
+     ]
+    },
+    {
+     "h": "Pavyzdys su tikromis kortomis",
+     "p": [
+      "Tarkime, klausimas toks: „Kaip suprasti savo padėtį darbe?“ Ištraukiate Monetų ketvertą, Bokštą ir Žvaigždę.",
+      "Rider–Waite–Smith kaladėje Monetų ketverte sėdi figūra, tvirtai apsikabinusi monetą; viena moneta ant galvos, dvi po kojomis. Tai saugumo laikymasis, kartais – įsikibimas į pažįstamą. Bokšte žaibas smogia į pastatą, o iš jo krenta žmonės: staigus senos struktūros sugriuvimas. Žvaigždėje nuoga moteris pila vandenį į tvenkinį ir ant žemės po žvaigždėtu dangumi – tai ramesnis, vilties ir atsinaujinimo vaizdas.",
+      "Vieną galimą pasakojimą galima suformuluoti taip: „Ilgai tvirtai laikėtės to, kas saugu. Tada atėjo staigus lūžis, kuris išmetė iš įprastos vietos. Po jo atsiveria ramesnis laikotarpis, kai galite palengva, be skubos, vėl kuo nors pasitikėti.“ Atkreipkite dėmesį: tai ne prognozė, o interpretacija, kurią galite palyginti su savo patirtimi."
+     ]
+    },
+    {
+     "h": "Kaip jungti kortas",
+     "p": [
+      "Užduokite sau tris klausimus. Kuo pirmoji korta skiriasi nuo antrosios? Ką ji „pasiima“ ar „atneša“? Ar trečioji korta veikia kaip atsakymas, ar kaip nauja problema? Pasakojimas ne visada klostosi sklandžiai – kartais kortos prieštarauja viena kitai, ir tada įtampa pati yra atsakymas.",
+      "Pabandykite istoriją pasakyti garsiai ar užrašyti vienu sakiniu. Jei sakinys neišeina, grįžkite prie vaizdų ir pažiūrėkite, ką jie rodo be žodyno: kur žiūri figūros, kas juda, kas stovi vietoje."
+     ]
+    },
+    {
+     "h": "Pratimas namie",
+     "p": [
+      "Ištraukite tris kortas ir nežiūrėkite į knygą. Pirmiausia užrašykite vieną sakinį apie kiekvieną vaizdą, tada sujunkite juos žodžiais „todėl“, „bet“, „po to“. Skirtingos jungtys duoda skirtingas istorijas: „Laikėtės, todėl įvyko lūžis“ skamba kitaip nei „Laikėtės, bet lūžis vis tiek atėjo“. Išbandykite kelias ir pažiūrėkite, kuri geriausiai atitinka tai, ką jaučiate apie savo klausimą.",
+      "Jei istorija atrodo pernelyg sklandi, paklauskite savęs, ar ja nesistengiate tiesiog nuraminti savęs. Jei pernelyg niūri – ar nesistengiate savęs įbauginti. Sąžiningas pasakojimas dažniausiai sudėtingesnis nei pirmoji mintis."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Skaitymas – tai ryšiai tarp kortų, o ne atskirų reikšmių sąrašas.",
+    "Trijų kortų eilėje svarbūs ir du perėjimai tarp kortų.",
+    "Pasakojimas – interpretacija, o ne prognozė.",
+    "Prieštaraujančios kortos dažnai rodo tikrą vidinę įtampą.",
+    "Pabandykite istoriją pasakyti vienu sakiniu – tai gera patikra."
+   ],
+   "quiz": [
+    {
+     "q": "Kas yra kortų pasakojimas?",
+     "options": [
+      "Sakinys ar istorija, jungianti kortas",
+      "Būsimų įvykių datų lentelė",
+      "Kortų išrikiavimas pagal mastis",
+      "Atskirų reikšmių sąrašas"
+     ],
+     "answer": 0,
+     "explain": "Pasakojimas jungia kortas į prasmingą visumą."
+    },
+    {
+     "q": "Ką vaizduoja Monetų ketvertas Rider–Waite–Smith kaladėje?",
+     "options": [
+      "Vaikus prie šulinio",
+      "Karalių ant sosto prie jūros",
+      "Figūrą, tvirtai laikančią monetą",
+      "Du žmones sniege"
+     ],
+     "answer": 2,
+     "explain": "Figūra apsikabinusi monetą, kitos po kojomis – tai saugumo laikymasis."
+    },
+    {
+     "q": "Kuo trijų kortų eilėje ypač svarbūs perėjimai?",
+     "options": [
+      "Jie parodo, kiek kortų liko kaladėje",
+      "Juose slypi pokytis, o tai ir yra istorija",
+      "Jie nustato tikslią datą",
+      "Jie nesvarbūs"
+     ],
+     "answer": 1,
+     "explain": "Klausimas, kas pasikeitė tarp kortų, ir sukuria pasakojimą."
+    },
+    {
+     "q": "Kaip vertinti sukurtą pasakojimą?",
+     "options": [
+      "Kaip nuosprendį",
+      "Kaip privalomą planą",
+      "Kaip neginčijamą prognozę",
+      "Kaip interpretaciją, kurią galima palyginti su savo patirtimi"
+     ],
+     "answer": 3,
+     "explain": "Tai apmąstymo įrankis, o ne neišvengiamas scenarijus."
+    }
+   ],
+   "level": 2
+  },
+  {
+   "id": "rumu-kortos-zmones",
+   "title": "Rūmų kortos: kaip žmonės ir kaip jūs patys",
+   "lede": "Pažai, Riteriai, Karalienės ir Karaliai gali reikšti kitą žmogų, bet dažnai tiksliau – jūsų pačių vaidmenį ar laikyseną.",
+   "sections": [
+    {
+     "h": "Trys skaitymo būdai",
+     "p": [
+      "Rūmų kortos – sunkiausia kaladės dalis, nes jas galima skaityti bent trimis būdais. Pirmasis – kaip konkretų žmogų jūsų gyvenime. Antrasis – kaip savo paties pusę ar vaidmenį, kurį dabar atliekate. Trečiasis – kaip elgesio stilių, kuris tiktų situacijai.",
+      "Nėra taisyklės, kuris būdas teisingas. Rinkitės pagal klausimą: jei klausiate apie santykį su kolege, korta gali nusakyti ją; jei klausiate, kaip elgtis, ją galima skaityti kaip jus."
+     ]
+    },
+    {
+     "h": "Mastis, rangas ir amžius",
+     "p": [
+      "Mastis duoda elementą ir temą: Skeptrai – ugnis, veiksmas; Taurės – vanduo, jausmai; Kardai – oras, mintys; Monetos – žemė, praktiniai reikalai. Rangas rodo brandą: Pažas – mokymasis ir žinia, Riteris – judėjimas ir siekis, Karalienė – vidinis įsisavinimas, Karalius – išorinis valdymas ir atsakomybė.",
+      "Svarbu: rūmų korta neapibrėžia amžiaus, lyties ar išvaizdos. Taurių karalienė gali būti ir vyras. Kai kurie skaitytojai kortų žmones sieja su išvaizda ar zodiako ženklais, tačiau tai asmeninė tradicija, o ne taisyklė, ir ją lengva paversti klaidingu spėjimu."
+     ]
+    },
+    {
+     "h": "Pasirinkimo pavyzdys",
+     "p": [
+      "Tarkime, klausdami apie sunkų pokalbį ištraukiate Kardų karalių. Rider–Waite–Smith kaladėje jis sėdi soste ir laiko stačią kardą. Galite perskaityti: kitas žmogus bus aiškus, tiesus, galbūt griežtas. Arba: jums verta pokalbyje pasirinkti tokią laikyseną – ramią, aiškią, teisingą.",
+      "Naudinga pasitikrinti: ar tikrai žinau, kas tas žmogus, ar tik spėlioju? Jei nesate tikri, saugiau kortą skaityti kaip savybę ar laikyseną, o ne priskirti konkrečiam asmeniui. Taip išvengiama kaltinimų ir nepagrįstų išvadų apie žmones, kurių čia nėra."
+     ]
+    },
+    {
+     "h": "Pratimas su kaladės rūmais",
+     "p": [
+      "Išrinkite iš kaladės visas šešiolika rūmų kortų ir padėkite jas prieš save. Kiekvienai parašykite vieną sakinį: kada aš elgiuosi kaip ši korta? Greičiausiai rasite kelias, kuriose atpažinsite save, ir kelias, kurių vengiate. Tai ir yra naudinga informacija: vengiamos kortos dažnai rodo laikyseną, kurios jums trūksta ar kurios bijote.",
+      "Vėliau, kai skaitysite išdėstymą, grįžkite prie šio sąrašo ir pažiūrėkite, ar ištraukta rūmų korta jums artima, ar svetima. Tai padeda atskirti, ar korta kalba apie jus, ar apie kitą."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Rūmų korta gali reikšti kitą žmogų, jus ar elgesio stilių.",
+    "Mastis rodo elementą ir temą, rangas – brandą.",
+    "Rūmų kortos nenurodo lyties ar amžiaus.",
+    "Saugiau skaityti kaip savybę, o ne spėti konkretų asmenį.",
+    "Būdą rinkitės pagal klausimą."
+   ],
+   "quiz": [
+    {
+     "q": "Kaip dar galima skaityti rūmų kortą, be kito žmogaus?",
+     "options": [
+      "Kaip kainą",
+      "Kaip žemėlapį",
+      "Kaip tikslią datą",
+      "Kaip savo paties pusę ar laikyseną"
+     ],
+     "answer": 3,
+     "explain": "Rūmų korta dažnai tinka kaip jūsų vaidmuo ar elgesio stilius."
+    },
+    {
+     "q": "Ką rodo Karaliaus rangas?",
+     "options": [
+      "Pirmąją žinią",
+      "Išorinį valdymą ir atsakomybę",
+      "Mokymąsi ir pirmus žingsnius",
+      "Judėjimą be tikslo"
+     ],
+     "answer": 1,
+     "explain": "Karalius – brandžiausias, išoriškai veikiantis rangas."
+    },
+    {
+     "q": "Ar Taurių karalienė turi būti moteris?",
+     "options": [
+      "Ne, korta lyties neapibrėžia",
+      "Taip, jei jums mažiau nei 30",
+      "Tik moterų skaitymuose",
+      "Taip, visada"
+     ],
+     "answer": 0,
+     "explain": "Rūmų kortos nenurodo lyties."
+    },
+    {
+     "q": "Kodėl atsargu iš rūmų kortos atpažinti konkretų asmenį?",
+     "options": [
+      "Tai draudžiama įstatymu",
+      "Kortos nieko nereiškia",
+      "Galima padaryti nepagrįstų išvadų apie žmogų",
+      "Kortos per brangios"
+     ],
+     "answer": 2,
+     "explain": "Spėjimai apie realius žmones gali būti klaidingi ir žalingi."
+    }
+   ],
+   "level": 2
+  },
+  {
+   "id": "elementu-saveika",
+   "title": "Elementų sąveika išdėstyme",
+   "lede": "Kai kuriose tradicijose gretimos kortos pagal elementus „stiprina“ ar „silpnina“ viena kitą. Tai viena iš daugelio priemonių, o ne taisyklių knyga.",
+   "sections": [
+    {
+     "h": "Iš kur ši idėja",
+     "p": [
+      "Elementų sąveika (angliškai – elemental dignities) kilusi iš Hermetinio Auksinės Aušros ordino tradicijos, kurioje taro buvo siejamas su elementais ir astrologija. Tai ne senovinis visuotinis metodas, o šiuolaikinės ezoterinės praktikos dalis: vieni skaitytojai jį naudoja, kiti visiškai ignoruoja.",
+      "Čia pateikiama supaprastinta versija. Pradžioje pakanka ją naudoti kaip papildomą klausimą: ką viena kitai sako gretimų kortų mastys?"
+     ]
+    },
+    {
+     "h": "Draugiški ir prieštaraujantys elementai",
+     "p": [
+      "Mastys siejamos su elementais: Skeptrai – ugnis, Taurės – vanduo, Kardai – oras, Monetos – žemė. Pagal šią tradiciją ugnis ir oras sutaria: oras „maitina“ ugnį. Vanduo ir žemė taip pat sutaria: žemė „priima“ vandenį. Ugnis ir vanduo, taip pat oras ir žemė laikomi priešingais – jie linkę trukdyti vienas kitam.",
+      "Likusios poros, pavyzdžiui, ugnis ir žemė ar oras ir vanduo, dažniausiai laikomos neutraliomis. Skirtingi autoriai apibrėžia jas šiek tiek skirtingai, todėl nesistebėkite radę kitokių lentelių."
+     ]
+    },
+    {
+     "h": "Kaip pritaikyti",
+     "p": [
+      "Jei šalia Skeptrų kortos atsiduria Kardų korta, galite sakyti: mintys šiuo atveju palaiko veiksmą. Jei šalia Taurių kortos patenka Skeptrų korta, galite pastebėti įtampą: jausmai ir veiksmas netraukia į vieną pusę. Jei šalia Taurių – Monetos, jausmai ir praktika veikia išvien.",
+      "Tai ne nuosprendis, o pastebėjimas. Du „priešingi“ elementai gali reikšti ir kūrybinę įtampą, o du „draugiški“ – ir pernelyg didelį patogumą be pokyčių. Galiausiai svarbiausi vaizdas ir klausimas, o ne lentelė."
+     ]
+    },
+    {
+     "h": "Pavyzdys: dvi kortos greta",
+     "p": [
+      "Įsivaizduokite, kad Skeptrų riteris guli šalia Kardų pažo. Ugnis ir oras sutaria, todėl galima pasakyti: veiksmas ir mintis juda ta pačia kryptimi, ir tai gali rodyti aiškų, greitą žingsnį. O jei šalia to paties Skeptrų riterio atsidurtų Taurių korta, galėtumėte klausti, ar ketinimas ir jausmas neprieštarauja.",
+      "Net ir tada pasitikrinkite vaizdą: ar riteris joje tikrai skuba, ar tik stovi? Elementai tik pateikia klausimą, o atsakymą dar turi parodyti pati korta ir jūsų situacija."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Elementų sąveika kilusi iš Auksinės Aušros tradicijos.",
+    "Ugnis–oras ir vanduo–žemė laikomos draugiškomis poromis.",
+    "Ugnis–vanduo ir oras–žemė laikomos prieštaraujančiomis.",
+    "Skirtingi autoriai schemą taiko skirtingai.",
+    "Tai pastebėjimo įrankis, o ne taisyklė."
+   ],
+   "quiz": [
+    {
+     "q": "Iš kokios tradicijos kilusi elementų sąveika?",
+     "options": [
+      "Visconti-Sforza kaladės",
+      "Senovės Egipto",
+      "Auksinės Aušros ordino",
+      "Viduramžių Lietuvos"
+     ],
+     "answer": 2,
+     "explain": "Metodas susijęs su XIX a. pabaigoje įkurto Auksinės Aušros ordino tradicija."
+    },
+    {
+     "q": "Kurios poros laikomos draugiškomis?",
+     "options": [
+      "Ugnis ir oras",
+      "Vanduo ir oras",
+      "Ugnis ir vanduo",
+      "Oras ir žemė"
+     ],
+     "answer": 0,
+     "explain": "Ugnis ir oras, taip pat vanduo ir žemė laikomi draugiškais."
+    },
+    {
+     "q": "Koks elementas priskiriamas Taurėms?",
+     "options": [
+      "Žemė",
+      "Ugnis",
+      "Oras",
+      "Vanduo"
+     ],
+     "answer": 3,
+     "explain": "Taurės siejamos su vandeniu."
+    },
+    {
+     "q": "Kaip geriausia traktuoti šią sistemą?",
+     "options": [
+      "Kaip privalomą metodą",
+      "Kaip pastebėjimo įrankį ir papildomą kampą",
+      "Kaip tikslią taisyklių knygą",
+      "Kaip įrodytą mokslą"
+     ],
+     "answer": 1,
+     "explain": "Tai tik viena iš skaitymo krypčių, ir ją galima praleisti."
+    }
+   ],
+   "level": 2
+  },
+  {
+   "id": "laikas-taro",
+   "title": "Laikas taro kortose",
+   "lede": "Daugelis klausia: „Kada tai įvyks?“ Sąžiningas atsakymas atsargus: taro nėra patikimas laikrodis.",
+   "sections": [
+    {
+     "h": "Kodėl tikslios datos nepatikimos",
+     "p": [
+      "Taro kortos neturi vidinio kalendoriaus. Nėra bendro susitarimo, kad tam tikra korta reiškia tam tikrą dieną ar mėnesį. Laiko sistemos, kurias galima rasti knygose, skiriasi: vieni autoriai mastis sieja su metų laikais, kiti – su savaitėmis ar mėnesiais, treti kortų skaičių laiko vienetais.",
+      "Be to, kortos nerodo fiksuoto ateities scenarijaus. Daug kas priklauso nuo jūsų pasirinkimų ir nuo aplinkybių, kurių kortos nežino. Įsitikinimas, kad žinote tikslią datą, dažnai tik sukelia nerimą ar klaidingą saugumo jausmą."
+     ]
+    },
+    {
+     "h": "Ką galima pasakyti apie laiką",
+     "p": [
+      "Galite kalbėti apie tempą ir fazę: korta gali rodyti, kad procesas greitas ar lėtas, kad tai pradžia ar pabaiga, laukimo metas ar veiksmo metas. Skeptrai ir Riteriai dažnai skaitomi kaip greitis, Monetos – kaip lėtumas, Kardai – kaip staigūs pokyčiai. Tai įprastos, bet ne privalomos asociacijos.",
+      "Taip pat galite pasirinkti išdėstymą, kuris pats turi laiko ašį, pavyzdžiui, „praeitis – dabartis – artimiausia kryptis“, ar metų ratą su dvylika mėnesių. Tada laiko rėmą duoda pozicija, o ne pati korta."
+     ]
+    },
+    {
+     "h": "Sąžiningas būdas atsakyti",
+     "p": [
+      "Jei norisi paklausti „kada“, pakeiskite klausimą: „Kas iš mano pusės gali pagreitinti ar sulėtinti šį procesą?“ ar „Į ką verta atkreipti dėmesį per artimiausius mėnesius?“ Tada kortos kalba apie tai, ką galite daryti, o ne apie tai, ko reikia pasyviai laukti.",
+      "Jei skaitote kitam žmogui ir jis prašo datos, galite paaiškinti, kad kortos duoda kryptį, o ne tvarkaraštį. Tokia sąžininga riba skaitymą daro patikimesnį."
+     ]
+    },
+    {
+     "h": "Laiko ašies išdėstymai",
+     "p": [
+      "Jei laikas jums svarbus, pasirinkite išdėstymą, kuriame laikas yra užduotas iš anksto. Pavyzdžiui, trys kortos: kas buvo, kas yra, kas gali formuotis. Arba metų ratas: viena korta kiekvienam mėnesiui, kaip temų žemėlapis, o ne kalendorius. Mėnesio kortą skaitykite kaip nuotaiką ir pamoką, kurią verta turėti omenyje.",
+      "Kai grįžtate prie savo užrašų po kelių mėnesių, pamatysite, kurios kortos iš tiesų atitiko laikotarpio temą, o kurios ne. Toks patikrinimas gerokai atvėsina norą ieškoti tikslių datų."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Taro neturi vidinio kalendoriaus.",
+    "Laiko sistemos knygose skiriasi.",
+    "Kortos gali rodyti tempą ir fazę, o ne datą.",
+    "Rinkitės išdėstymą su laiko ašimi.",
+    "Klausimą „kada?“ pakeiskite klausimu apie tai, ką galite daryti."
+   ],
+   "quiz": [
+    {
+     "q": "Kodėl taro datos nepatikimos?",
+     "options": [
+      "Nes kortos per senos",
+      "Nes nėra bendro susitarimo ir kortos nerodo fiksuoto scenarijaus",
+      "Nes kalendorius klysta",
+      "Nes kortų per mažai"
+     ],
+     "answer": 1,
+     "explain": "Skirtingi autoriai siūlo skirtingas sistemas."
+    },
+    {
+     "q": "Ką korta gali rodyti apie laiką?",
+     "options": [
+      "Būsimą oro prognozę",
+      "Tikslią dieną",
+      "Banko sąskaitos likutį",
+      "Procesą: greitas ar lėtas, pradžia ar pabaiga"
+     ],
+     "answer": 3,
+     "explain": "Skaitytojai kalba apie tempą ir fazę."
+    },
+    {
+     "q": "Kaip pertvarkyti klausimą „Kada tai įvyks?“",
+     "options": [
+      "Kiek tai kainuos?",
+      "Palikti nepakeistą",
+      "Kas iš mano pusės gali pagreitinti ar sulėtinti šį procesą?",
+      "Kada artėja pilnatis?"
+     ],
+     "answer": 2,
+     "explain": "Toks klausimas grąžina dėmesį į tai, ką galite padaryti."
+    },
+    {
+     "q": "Ką daryti, jei kitas žmogus prašo tikslios datos?",
+     "options": [
+      "Paaiškinti, kad kortos duoda kryptį, o ne tvarkaraštį",
+      "Visam laikui atsisakyti skaityti",
+      "Pažadėti rezultatą",
+      "Sugalvoti datą"
+     ],
+     "answer": 0,
+     "explain": "Sąžiningai paaiškinus ribas, skaitymas išlieka patikimas."
+    }
+   ],
+   "level": 2
+  },
+  {
+   "id": "taro-dienorastis",
+   "title": "Taro dienoraštis ir savo reikšmių žodynas",
+   "lede": "Knygos reikšmės – pradžia. Savo dienoraštis padeda suprasti, ką kortos reiškia būtent jums.",
+   "sections": [
+    {
+     "h": "Kodėl rašyti",
+     "p": [
+      "Atmintis linkusi „pagerinti“ praeitį: po kelių savaičių atrodo, kad visada žinojote, kaip viskas baigsis. Užrašas padeda sąžiningai pamatyti, ką pagalvojote tą dieną, ir kaip vėliau pasikeitė situacija. Be to, rašydami lėčiau žiūrite į vaizdus ir pastebite detales, kurias būtumėte praleidę.",
+      "Dienoraštis nėra įrodymas, kad taro „veikia“ ar „neveikia“. Tai savęs stebėjimo įrankis, leidžiantis pamatyti pasikartojančias temas ir savo mąstymo įpročius."
+     ]
+    },
+    {
+     "h": "Ką užrašyti",
+     "p": [
+      "Paprastas įrašas gali turėti penkias dalis: data, klausimas, išdėstymas ir kortos, pirmi įspūdžiai (vienas–du sakiniai, kol dar neskaitėte knygos), ir vėlesnė pastaba – po savaitės ar mėnesio pažiūrėkite, kas pasirodė svarbu.",
+      "Užsirašykite ir nuotaiką bei pojūčius: ar jautėtės ramiai, ar nervinotės. Jūsų būsena stipriai veikia tai, ką matote kortose. Taip pat verta pažymėti, jei ištraukėte apverstą kortą ar kortą, kuri iššoko iš kaladės."
+     ]
+    },
+    {
+     "h": "Savo reikšmių žodynas",
+     "p": [
+      "Laikui bėgant kai kurios kortos įgis asmeninių prasmių. Pavyzdžiui, Mėnulis jums gali reikšti tam tikrą nerimo rūšį, o Saulė – konkrečią palengvėjimo nuotaiką. Tai normalu ir vertinga. Pradėkite atskirą puslapį: korta, standartinė reikšmė, o greta – jūsų asociacija ir pavyzdys, kada ji pasirodė.",
+      "Kartais žodynas parodo, kad tą pačią kortą vis skaitote kitaip. Tada tikslas – ne skaityti „teisingai“, o suprasti, kodėl. Nepamirškite retkarčiais peržiūrėti senų įrašų: pastebėsite, kaip keitėsi ir jūsų klausimai, ir jūsų skaitymas."
+     ]
+    },
+    {
+     "h": "Pavyzdinis įrašas",
+     "p": [
+      "Štai kaip galėtų atrodyti įrašas: „Spalio 12 d. Klausimas: ką man verta atsiminti šią savaitę? Korta: Atsiskyrėlis. Pirmas įspūdis: tamsa, bet žibintas rankoje, ramu. Nuotaika: pavargimas, bet susikaupimas. Po savaitės: daug dirbau vienumoje, ir tai buvo gerai.“ Tokio įrašo pakanka, jis užima minutę.",
+      "Neprivalote rašyti kasdien. Net ir kartą per savaitę užrašyta viena korta – jau nauda. Svarbiausia – nuoseklumas, o ne apimtis. Pasirinkite sąsiuvinį ar failą, kurį mielai atidarysite."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Rašymas padeda sąžiningai prisiminti.",
+    "Užsirašykite pirmus įspūdžius prieš skaitydami knygą.",
+    "Pažymėkite savo nuotaiką.",
+    "Savo žodynas papildo, o ne keičia pagrindines reikšmes.",
+    "Dienoraštis – savistabos, o ne įrodymo įrankis."
+   ],
+   "quiz": [
+    {
+     "q": "Kodėl verta užsirašyti pirmus įspūdžius prieš knygą?",
+     "options": [
+      "Kad matytumėte savo paties reakciją",
+      "Kad nereikėtų skaityti knygų",
+      "Kad pakeistumėte kortą",
+      "Kad būtų ilgesnis įrašas"
+     ],
+     "answer": 0,
+     "explain": "Pirmas įspūdis rodo, ką pastebite patys."
+    },
+    {
+     "q": "Ką geriausia prirašyti po savaitės ar mėnesio?",
+     "options": [
+      "Naują klausimą apie kitą žmogų",
+      "Ištrinti seną įrašą",
+      "Kaip viskas susiklostė ir kas pasirodė svarbu",
+      "Tik ateities spėjimus"
+     ],
+     "answer": 2,
+     "explain": "Vėlesnė pastaba padeda pamatyti, kas buvo prasminga."
+    },
+    {
+     "q": "Kam skirtas savo reikšmių žodynas?",
+     "options": [
+      "Pakeisti visas knygų reikšmes",
+      "Fiksuoti asmenines asociacijas greta standartinės reikšmės",
+      "Kad kortos „veiktų“",
+      "Kad niekas nesuprastų"
+     ],
+     "answer": 1,
+     "explain": "Žodynas papildo, bet nepakeičia tradicinių reikšmių."
+    },
+    {
+     "q": "Ką dienoraštis leidžia pamatyti?",
+     "options": [
+      "Kad ateitis nustatyta",
+      "Kad taro prognozuoja tiksliai",
+      "Kad taro visada klysta",
+      "Savo pasikartojančias temas ir mąstymo įpročius"
+     ],
+     "answer": 3,
+     "explain": "Tai savistabos įrankis, o ne tyrimas."
+    }
+   ],
+   "level": 2
+  },
+  {
+   "id": "skaitymas-kitam",
+   "title": "Skaitymas kitam žmogui: pokalbis, ribos, sutikimas",
+   "lede": "Skaityti kitam žmogui – tai pokalbis ir atsakomybė. Kortos čia svarbios, bet svarbiausias yra žmogus priešais jus.",
+   "sections": [
+    {
+     "h": "Sutikimas ir klausimas",
+     "p": [
+      "Skaitykite tik tada, kai žmogus pats to prašo ir supranta, kas tai yra: apmąstymo įrankis, o ne tikslus ateities numatymas. Nekalbėkite apie trečiuosius asmenis, kurių čia nėra, kaip apie žmones, kurių mintis galima „nuskaityti“. Taip pat nesiūlykite „pažiūrėti“ be prašymo ir nespauskite, jei žmogus abejoja.",
+      "Pradėkite nuo klausimo. Padėkite jį suformuluoti atvirai: ne „ar jis grįš?“, o „ką man svarbu suprasti šioje situacijoje?“ Atviras klausimas palieka žmogui galimybę veikti."
+     ]
+    },
+    {
+     "h": "Pokalbis, o ne monologas",
+     "p": [
+      "Geras skaitymas – dialogas. Sakykite, ką matote kortoje, ir klauskite: ar tai kažką jums primena? Žmogus geriausiai žino savo aplinkybes. Jei interpretacija nesutampa su jo patirtimi, nesiginčykite – tai tik viena galima perspektyva, ir ją galima atmesti.",
+      "Kalbėkite ramiai ir be dramatizavimo. Kortos, tokios kaip Mirtis ar Bokštas, gali išgąsdinti, todėl paaiškinkite, kad jos dažniausiai simbolizuoja pokytį, o ne nelaimę. Venkite sakinių „jums bus“, „jums nutiks“. Sakykite: „ši korta gali rodyti…“, „viena prasmė galėtų būti…“."
+     ]
+    },
+    {
+     "h": "Ribos",
+     "p": [
+      "Neduokite sveikatos, teisinių ar finansinių patarimų ir neprognozuokite jų. Taro negali pasakyti, ar žmogus serga, ar laimės bylą, ar verta investuoti. Jei toks klausimas pasirodo, švelniai nukreipkite į gydytoją, teisininką ar finansų specialistą.",
+      "Jei žmogus kalba apie sunkią krizę, savęs žalojimą ar savižudiškas mintis, skaitymas – ne ta vieta. Sustokite, išklausykite ir paskatinkite kreiptis į artimą žmogų, gydytoją ar skubios pagalbos tarnybas. Taip pat turite teisę baigti skaitymą, jei jaučiatės nepatogiai ar jaučiate spaudimą."
+     ]
+    },
+    {
+     "h": "Paprasta skaitymo eiga",
+     "p": [
+      "Galite laikytis tokios eigos: trumpai pasikalbėkite ir paaiškinkite, kas yra taro; padėkite suformuluoti klausimą; išdėstykite kortas ir kiekvieną aprašykite nuosekliai; paklauskite, kas atliepia; pabaigoje apibendrinkite viena–dviem mintimis ir paklauskite, ką žmogus pasiims su savimi.",
+      "Po skaitymo palikite erdvės tylai ir klausimams. Nesiūlykite kito skaitymo primygtinai. Gera praktika – paklausti savęs, ar žmogus išėjo ramesnis, aiškesnis ir laisvesnis, nei buvo atėjęs."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Skaitykite tik su žmogaus sutikimu.",
+    "Padėkite suformuluoti atvirą klausimą.",
+    "Skaitymas – dialogas, ne monologas.",
+    "Venkite tvirtinimų „jums bus“.",
+    "Sveikatos, teisės ir finansų klausimus nukreipkite specialistams."
+   ],
+   "quiz": [
+    {
+     "q": "Kada skaityti kitam žmogui?",
+     "options": [
+      "Kai jis šalia, net nežinodamas",
+      "Kai jis tylėdamas stebi",
+      "Kai jis prieštarauja",
+      "Kai jis to prašo ir supranta, kas tai"
+     ],
+     "answer": 3,
+     "explain": "Sutikimas yra pirmas žingsnis."
+    },
+    {
+     "q": "Kuris klausimas atviresnis?",
+     "options": [
+      "Ar laimėsiu?",
+      "Ką man svarbu suprasti šioje situacijoje?",
+      "Ar man tai pavyks?",
+      "Ar jis grįš?"
+     ],
+     "answer": 1,
+     "explain": "Atviras klausimas leidžia ieškoti prasmės, o ne atsakymo „taip“ ar „ne“."
+    },
+    {
+     "q": "Kaip kalbėti apie kortą?",
+     "options": [
+      "„Ši korta gali rodyti…“",
+      "„Jūs neišvengiamai…“",
+      "„Taip bus, patikėkite“",
+      "„Jums tikrai nutiks…“"
+     ],
+     "answer": 0,
+     "explain": "Atsargi kalba neapriboja žmogaus pasirinkimų."
+    },
+    {
+     "q": "Ką daryti, jei žmogus užsimena apie savižudiškas mintis?",
+     "options": [
+      "Tęsti skaitymą",
+      "Kortomis atsakyti į klausimą",
+      "Sustoti, išklausyti ir nukreipti į pagalbą",
+      "Sakyti, kad viskas bus gerai"
+     ],
+     "answer": 2,
+     "explain": "Tai ne taro, o skubios žmogiškos ir profesionalios pagalbos klausimas."
+    }
+   ],
+   "level": 2
+  },
+  {
+   "id": "arkanai-astrologija",
+   "title": "Didieji arkanai ir astrologija",
+   "lede": "Auksinės Aušros tradicija kiekvieną Didįjį arkaną susiejo su planeta, zodiako ženklu ar elementu. Tai vienas iš kelių būdų skaityti kortas giliau.",
+   "sections": [
+    {
+     "h": "Iš kur šie atitikmenys",
+     "p": [
+      "Hermetinis Auksinės Aušros ordinas, įkurtas Londone 1888 m., taro kortas susiejo su astrologija, elementais ir Kabalos Gyvybės medžiu. Šie atitikmenys paveikė daugelį vėlesnių kaladžių ir knygų, įskaitant Rider–Waite–Smith. Tai ne senovinis visuotinis kodas, o vienos ezoterinės tradicijos sistema. Kiti autoriai siūlo kitokias schemas.",
+      "Verta žinoti vieną niuansą: Auksinės Aušros sistemoje Stiprybė ir Teisingumas sunumeruoti atvirkščia tvarka nei Rider–Waite–Smith kaladėje. Atitikmenys vis tiek lieka tie patys: Stiprybė siejama su Liūtu, Teisingumas – su Svarstyklėmis."
+     ]
+    },
+    {
+     "h": "Pagrindiniai atitikmenys",
+     "p": [
+      "Planetos: Magas – Merkurijus, Žynė – Mėnulis, Imperatorė – Venera, Likimo ratas – Jupiteris, Bokštas – Marsas, Saulė – Saulė, Pasaulis – Saturnas. Elementai: Kvailys – oras, Pakabintasis – vanduo, Nuosprendis – ugnis.",
+      "Zodiako ženklai: Imperatorius – Avinas, Šventikas – Jautis, Mylimieji – Dvyniai, Vežimas – Vėžys, Stiprybė – Liūtas, Atsiskyrėlis – Mergelė, Teisingumas – Svarstyklės, Mirtis – Skorpionas, Nuosaikumas – Šaulys, Velnias – Ožiaragis, Žvaigždė – Vandenis, Mėnulis – Žuvys.",
+      "Visuma sudaro 22 atitikmenis: 7 planetos, 3 elementai ir 12 ženklų. Vėlesni autoriai kartais keičia kai kuriuos, pavyzdžiui, Kvailį sieja su Uranu, bet tai jau papildymai, o ne pradinė schema."
+     ]
+    },
+    {
+     "h": "Kaip tai naudoti",
+     "p": [
+      "Astrologiniai atitikmenys gali praturtinti skaitymą: Mėnulio korta – Žuvys, vanduo, intuicija, miglotumas; Bokštas – Marsas, staigus veiksmas. Jie suteikia papildomų asociacijų, bet nėra būtini ir nepakeičia paties vaizdo.",
+      "Atminkite: tai simbolinė sistema, o ne įrodymas, kad žvaigždės veikia jūsų gyvenimą. Jei jus domina astrologija, kortas galite naudoti kaip dar vieną kalbą temoms apmąstyti."
+     ]
+    },
+    {
+     "h": "Pavyzdys: Saulė ir Mėnulis",
+     "p": [
+      "Saulės korta tradiciškai siejama su Saule, o Mėnulio korta – su Žuvų ženklu ir vandens elementu. Tai leidžia skaityti jas kaip porą: aiškumas ir šviesa prieš miglotumą ir neapibrėžtumą. Jei abi pasirodo išdėstyme, galite klausti, kas jums jau aišku, o kas dar tik rysis.",
+      "Panašiai Bokštas (Marsas) gali būti skaitomas kaip staigus, energingas veiksmas, o Pasaulis (Saturnas) – kaip užbaigimas, struktūra ir ribos. Šios asociacijos gali praturtinti, bet jei jos jums nieko nesako, galite ramiai jų nenaudoti."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Atitikmenis sukūrė Auksinės Aušros tradicija.",
+    "Pasaulis siejamas su Saturnu, Saulė – su Saule.",
+    "12 Didžiųjų arkanų siejami su zodiako ženklais.",
+    "Stiprybė – Liūtas, Teisingumas – Svarstyklės.",
+    "Tai simbolinė sistema, ne įrodymas."
+   ],
+   "quiz": [
+    {
+     "q": "Su kokiu ženklu siejama Stiprybė?",
+     "options": [
+      "Skorpionas",
+      "Avinas",
+      "Liūtas",
+      "Vandenis"
+     ],
+     "answer": 2,
+     "explain": "Stiprybė – Liūtas."
+    },
+    {
+     "q": "Su kokia planeta siejamas Bokštas?",
+     "options": [
+      "Marsas",
+      "Venera",
+      "Jupiteris",
+      "Saturnas"
+     ],
+     "answer": 0,
+     "explain": "Auksinės Aušros sistemoje Bokštas – Marsas."
+    },
+    {
+     "q": "Su kokiu elementu siejamas Pakabintasis?",
+     "options": [
+      "Ugnis",
+      "Oras",
+      "Žemė",
+      "Vanduo"
+     ],
+     "answer": 3,
+     "explain": "Pakabintasis – vanduo."
+    },
+    {
+     "q": "Kaip reikėtų vertinti šiuos atitikmenis?",
+     "options": [
+      "Kaip senovinį kodą",
+      "Kaip vienos tradicijos simbolinę sistemą",
+      "Kaip mokslinį faktą",
+      "Kaip privalomą taisyklę"
+     ],
+     "answer": 1,
+     "explain": "Tai ezoterinės tradicijos pasirinkimas, o ne universali taisyklė."
+    }
+   ],
+   "level": 3
+  },
+  {
+   "id": "skaiciai-tarp-rusiu",
+   "title": "Skaičiai skirtingose mastyse: penketai ir dešimtukai",
+   "lede": "Tas pats skaičius skirtingose mastyse atsiliepia kitaip. Palyginus penketus ar dešimtukus, galima pamatyti, kaip skaičius įgauna temą.",
+   "sections": [
+    {
+     "h": "Penketai: įtampa ir išbandymas",
+     "p": [
+      "Šiuolaikiniuose aiškinimuose penketas paprastai reiškia nestabilumą, pokytį ar išbandymą. Skeptrų penketas Rider–Waite–Smith kaladėje rodo penkis jaunuolius, mojuojančius lazdomis, – konkurenciją ar trintį. Taurių penketas: figūra juodu apsiaustu žiūri į tris išsiliejusias taures, o dvi liko stovėti, – nuostolis ir pasirinkimas, į ką žiūrėti. Kardų penketas: figūra priekyje renka kardus, o du kiti nueina, – nesąžiningas ar tuščias laimėjimas. Monetų penketas: du vargingi žmonės eina sniegu pro bažnyčios langą, – trūkumas ir pagalbos, kuri šalia, nepastebėjimas.",
+      "Visi penketai kalba apie įtampą, tačiau kiekvienas kitoje srityje: kova (Skeptrai), skausmas (Taurės), konfliktas ar nesąžiningumas (Kardai), nepritekliaus jausmas (Monetos)."
+     ]
+    },
+    {
+     "h": "Dešimtukai: ciklo pabaiga",
+     "p": [
+      "Dešimtukas paprastai reiškia visumą, išsipildymą ar ciklo pabaigą, kuri paruošia naują tūzą. Skeptrų dešimtukas: žmogus neša dešimt lazdų į miestelį – našta, perdėta atsakomybė. Taurių dešimtukas: pora, du vaikai, namas ir vaivorykštė iš taurių – džiaugsmas ir šeimos pilnatvė. Kardų dešimtukas: žmogus guli veidu žemyn su dešimčia kardų nugaroje, bet horizonte švyti aušra – pabaiga, po kurios galimas atsigavimas. Monetų dešimtukas: pagyvenęs vyras, šeima, šunys ir monetos po arka – tvarus palikimas ir stabilumas.",
+      "Pastebėkite: dešimtukai ne visada „geri“. Skeptrai ir Kardai rodo naštą ar skausmingą pabaigą, Taurės ir Monetos – pilnatvę."
+     ]
+    },
+    {
+     "h": "Skaitymas per skaičių",
+     "p": [
+      "Jei išdėstyme pasirodo kelios to paties skaičiaus kortos, tai galima skaityti kaip temą. Du ar trys penketai gali rodyti, kad situacijoje daug trinties ar pokyčio, keli dešimtukai – kad kažkas baigiasi. Tai ne taisyklė, o užuomina, kurią reikia tikrinti pagal klausimą.",
+      "Palyginkite, kuo skiriasi tas pats skaičius skirtingose mastyse. Tai geras pratimas: ištraukite visus keturis penketus ir pasakykite, ką jie turi bendra ir kuo skiriasi."
+     ]
+    },
+    {
+     "h": "Kiti skaičiai",
+     "p": [
+      "Tą patį palyginimą galima daryti su kitais skaičiais. Tūzai paprastai reiškia pradžią ir potencialą, dvejetai – pasirinkimą ar pusiausvyrą, trejetai – pirmąjį augimą ar bendradarbiavimą, ketvertai – stabilumą ar sustingimą. Šios reikšmės yra bendros daugelio šiuolaikinių aiškinimų tendencijos, ne griežta taisyklė.",
+      "Išbandykite: paimkite visus ketvertus ir pažiūrėkite, kuo jie panašūs, o kuo skiriasi. Paprastai pastebėsite, kad skaičius duoda ritmą, o mastis – turinį."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Penketas – įtampa ir išbandymas, dešimtukas – ciklo pabaiga.",
+    "Skaičius įgauna temą pagal mastį.",
+    "Dešimtukai nebūtinai laimingi.",
+    "Kelios to paties skaičiaus kortos gali rodyti temą.",
+    "Palyginimas tarp rūšių ugdo skaitymą."
+   ],
+   "quiz": [
+    {
+     "q": "Kas vaizduojama Kardų dešimtuke?",
+     "options": [
+      "Pora su vaikais",
+      "Žmogus su dešimčia kardų nugaroje ir aušra horizonte",
+      "Du žmonės sniege",
+      "Vyras su lazdų pluoštu"
+     ],
+     "answer": 1,
+     "explain": "Tai ciklo pabaigos ir galimo atsigavimo vaizdas."
+    },
+    {
+     "q": "Kuri korta rodo šeimos pilnatvę su vaivorykšte?",
+     "options": [
+      "Skeptrų dešimtukas",
+      "Monetų penketas",
+      "Kardų penketas",
+      "Taurių dešimtukas"
+     ],
+     "answer": 3,
+     "explain": "Taurių dešimtuke yra pora, vaikai, namas ir taurės lanke."
+    },
+    {
+     "q": "Kokia bendra penketų tema?",
+     "options": [
+      "Šventinė pabaiga",
+      "Neutrali tuštuma",
+      "Nestabilumas ir išbandymas",
+      "Visiškas saugumas"
+     ],
+     "answer": 2,
+     "explain": "Penketai paprastai reiškia trintį ir pokytį."
+    },
+    {
+     "q": "Ką vaizduoja Monetų penketas?",
+     "options": [
+      "Du žmones sniege pro bažnyčios langą",
+      "Vaikus su taurėmis",
+      "Kovojančius jaunuolius",
+      "Karalių soste"
+     ],
+     "answer": 0,
+     "explain": "Tai trūkumo ir nepastebėtos pagalbos vaizdas."
+    }
+   ],
+   "level": 3
+  },
+  {
+   "id": "sesely-darbas",
+   "title": "Šešėlio darbas su taro",
+   "lede": "Šešėlis – Carlo Gustavo Jungo sąvoka. Taro vaizdai gali tapti ramiu pretekstu apmąstyti tai, ką sau retai prisipažįstame.",
+   "sections": [
+    {
+     "h": "Kas yra šešėlis",
+     "p": [
+      "Šveicarijos psichiatras Carlas Gustavas Jungas šešėlį apibūdino kaip asmenybės dalį, kurios žmogus savyje nepripažįsta, nes ji nesutampa su jo savivaizdžiu. Tai gali būti ne tik „blogi“, bet ir nepripažinti stiprūs bruožai: pyktis, ambicija, jautrumas, kūrybiškumas.",
+      "Svarbu pabrėžti: tai Jungo analitinės psichologijos sąvoka, o ne taro tradicijos dalis. Vėlesni autoriai, pavyzdžiui, Sallie Nichols knygoje „Jung and Tarot“, kortas aiškino per Jungo sąvokas, tačiau tai šiuolaikinis aiškinimas."
+     ]
+    },
+    {
+     "h": "Kaip kortos gali pasitarnauti",
+     "p": [
+      "Šešėliui apmąstyti dažniausiai minimos tokios kortos kaip Velnias, Mėnulis, Bokštas ar Mirtis, tačiau tinka bet kuri korta. Galite užduoti tokius klausimus: kuri korta mane erzina? Kurios aš vengiu? Ko man kortoje pavydu ar gaila? Reakcija į kortą dažnai pasako daugiau nei jos reikšmė.",
+      "Galima ištraukti vieną kortą ir paklausti: „Kokios savo dalies aš dabar nenoriu matyti?“ Parašykite atsakymą dienoraštyje ir leiskite jam pabūti, nesistengdami iškart išspręsti. Tai tik savistabos būdas, o ne diagnozė."
+     ]
+    },
+    {
+     "h": "Atsargumas ir pagalba",
+     "p": [
+      "Taro nėra terapija ir negydo. Jei jus slegia sunkios temos – trauma, depresija, smurtas, priklausomybė ar mintys apie savęs žalojimą, – kortos nėra tinkama vieta su tuo tvarkytis be pagalbos. Tokiais atvejais kreipkitės į psichikos sveikatos specialistą ar gydytoją.",
+      "Jei kortos sukelia stiprų nerimą, padarykite pertrauką, pakvėpuokite, pasivaikščiokite, pakalbėkite su artimu žmogumi. Šešėlio darbas turi būti švelnus ir žingsnis po žingsnio, be spaudimo „pasitaisyti“."
+     ]
+    },
+    {
+     "h": "Švelnus pratimas",
+     "p": [
+      "Pasirinkite kortą, kuri jums nepatinka ar kelia nepatogumą. Kelias minutes tiesiog žiūrėkite į ją ir užrašykite: ką joje matau? Kas mane erzina? Kokią savybę aš jai priskiriu? Tada paklauskite, ar ši savybė kada nors pasirodo ir jumyse, galbūt visai kitokia forma.",
+      "Nebūtina prieiti prie išvados. Užtenka pastebėti. Jei jausmai tampa per stiprūs, sustokite ir grįžkite prie to vėliau arba aptarkite su specialistu ar artimu žmogumi."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Šešėlis – Jungo sąvoka apie nepripažintas asmenybės dalis.",
+    "Šešėlis apima ir nepripažintas stiprybes.",
+    "Reakcija į kortą gali daug pasakyti.",
+    "Taro nėra terapija ir nieko negydo.",
+    "Sunkiais atvejais kreipkitės į specialistą."
+   ],
+   "quiz": [
+    {
+     "q": "Kas sukūrė šešėlio sąvoką?",
+     "options": [
+      "Carlas Gustavas Jungas",
+      "Aleisteris Crowley'is",
+      "Antoine'as Court de Gébelinas",
+      "Pamela Colman Smith"
+     ],
+     "answer": 0,
+     "explain": "Šešėlis – Jungo analitinės psichologijos sąvoka."
+    },
+    {
+     "q": "Ką gali apimti šešėlis?",
+     "options": [
+      "Tik pinigus",
+      "Tik blogus bruožus",
+      "Ir nepripažintus stiprius bruožus",
+      "Tik ateities įvykius"
+     ],
+     "answer": 2,
+     "explain": "Šešėlyje gali būti ir nepripažinta jėga."
+    },
+    {
+     "q": "Ką daryti dėl sunkių temų, pvz., traumos ar depresijos?",
+     "options": [
+      "Slėpti viską",
+      "Kreiptis į specialistą",
+      "Pamiršti",
+      "Spręsti vien kortomis"
+     ],
+     "answer": 1,
+     "explain": "Taro nėra terapijos pakaitalas."
+    },
+    {
+     "q": "Kas gali būti naudingas šešėlio klausimas?",
+     "options": [
+      "Kas kaltas?",
+      "Ką galvoja kaimynas?",
+      "Kada mirsiu?",
+      "Kuri korta mane erzina ir kodėl?"
+     ],
+     "answer": 3,
+     "explain": "Reakcija į kortą atskleidžia savo paties požiūrį."
+    }
+   ],
+   "level": 3
+  },
+  {
+   "id": "savo-isdestymas",
+   "title": "Savo išdėstymo kūrimas",
+   "lede": "Kai pažįstate įprastus išdėstymus, galite sukurti savo – tokį, kuris tiksliai atitinka jūsų klausimą.",
+   "sections": [
+    {
+     "h": "Pradėkite nuo klausimo",
+     "p": [
+      "Gero išdėstymo pagrindas – aiškus klausimas. Geriau vengti klausimų, į kuriuos atsakoma „taip“ ar „ne“, ir klausimų apie kitų žmonių mintis. Tinkamesnės formuluotės: „Kas man padeda ir kas trukdo?“ ar „Ką verta apsvarstyti prieš sprendimą?“",
+      "Tada nuspręskite, kiek pozicijų reikia. Dažniausiai pakanka trijų–penkių. Per daug pozicijų atskiedžia dėmesį, ir tada kortos dažnai pradeda kartotis ar prieštarauti."
+     ]
+    },
+    {
+     "h": "Pozicijų formulavimas",
+     "p": [
+      "Kiekviena pozicija turėtų turėti aiškų pavadinimą ir trumpai apibrėžtą paskirtį, pavyzdžiui: „Kas mane palaiko“, „Kas man trukdo“, „Ką galiu padaryti“. Pozicijos turėtų papildyti viena kitą, o ne dubliuoti.",
+      "Venkite vedančių pozicijų, tokių kaip „Kodėl jis manęs nemyli?“ – jos jau turi išankstinę prielaidą. Geriau: „Ką svarbu suprasti šiame santykyje?“ Taip pat pasitikrinkite, ar pozicijos nenurodo kitų žmonių ketinimų, kurių negalite žinoti."
+     ]
+    },
+    {
+     "h": "Išbandymas ir pritaikymas",
+     "p": [
+      "Išdėstykite kortas pagal norimą schemą (linija, kryžius, trikampis ar ratas) – forma yra jūsų pasirinkimas, svarbu, kad ji padėtų atminčiai. Išbandykite išdėstymą keletą kartų su skirtingais klausimais ir pažiūrėkite, ar pozicijos veikia.",
+      "Pastebėjimus užrašykite: kuri pozicija buvo neaiški? Kuri dubliavosi? Pataisykite ir pabandykite vėl. Geras išdėstymas yra tas, kuris atveria naujas mintis, o ne tas, kuris atrodo įspūdingiausiai. Jei sukūrėte patikusį išdėstymą, pavadinkite jį ir saugokite dienoraštyje."
+     ]
+    },
+    {
+     "h": "Pavyzdys: trijų pozicijų išdėstymas",
+     "p": [
+      "Tarkime, svarstote, ar keisti darbą. Pozicijos galėtų būti: „Kas man šiame darbe vertinga“, „Ko man trūksta“, „Ką verta išsiaiškinti prieš sprendimą“. Atkreipkite dėmesį: nėra pozicijos „Ką daryti“, nes sprendimas lieka jums. Išdėstymas padeda matyti, bet nesprendžia už jus.",
+      "Tą patį išdėstymą vėliau galite pritaikyti kitai temai, pakeisdami žodžius. Taip palaipsniui susikursite savo išdėstymų rinkinį."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Pradėkite nuo atviro klausimo.",
+    "Dažniausiai pakanka 3–5 pozicijų.",
+    "Kiekviena pozicija turi aiškią paskirtį.",
+    "Venkite vedančių pozicijų ir kitų žmonių ketinimų.",
+    "Išbandykite ir patobulinkite."
+   ],
+   "quiz": [
+    {
+     "q": "Nuo ko pradėti kuriant išdėstymą?",
+     "options": [
+      "Nuo pavadinimo",
+      "Nuo kaladės pasirinkimo",
+      "Nuo kortų skaičiaus",
+      "Nuo aiškaus klausimo"
+     ],
+     "answer": 3,
+     "explain": "Klausimas lemia pozicijas."
+    },
+    {
+     "q": "Kiek pozicijų dažniausiai pakanka?",
+     "options": [
+      "Vienos kiekvienam žmogui",
+      "Trijų–penkių",
+      "Penkiolikos",
+      "Dvidešimt vienos"
+     ],
+     "answer": 1,
+     "explain": "Mažiau pozicijų – daugiau aiškumo."
+    },
+    {
+     "q": "Kuri pozicija vedanti?",
+     "options": [
+      "Kodėl jis manęs nemyli?",
+      "Kas man trukdo?",
+      "Ką galiu padaryti?",
+      "Kas man padeda?"
+     ],
+     "answer": 0,
+     "explain": "Ji jau turi prielaidą apie kito žmogaus jausmus."
+    },
+    {
+     "q": "Ką daryti, jei kuri nors pozicija neaiški?",
+     "options": [
+      "Pridėti dar dešimt",
+      "Nieko",
+      "Ją pataisyti ir bandyti vėl",
+      "Ignoruoti kitas"
+     ],
+     "answer": 2,
+     "explain": "Išdėstymą verta tobulinti pamažu, bandant iš naujo."
+    }
+   ],
+   "level": 3
+  },
+  {
+   "id": "intuicija-simboliai",
+   "title": "Intuicija ir simbolių skaitymas iš vaizdo",
+   "lede": "Reikšmės knygose yra atrama, bet gilesnis skaitymas prasideda nuo to, ką matote kortoje.",
+   "sections": [
+    {
+     "h": "Žiūrėkite prieš skaitydami",
+     "p": [
+      "Prieš ieškodami reikšmės, kelias sekundes tiesiog žiūrėkite į kortą. Kas joje vyksta? Kur žiūri figūros? Kokios spalvos dominuoja? Ar yra judesio ar ramybės? Tada paklauskite, ką jaučiate. Intuicija čia nėra paslaptinga galia, o tai, ką pastebite ir susiejate su savo patirtimi.",
+      "Praktika: pasirinkite vieną kortą savaitei ir kasdien užrašykite vieną naują pastebėjimą."
+     ]
+    },
+    {
+     "h": "Kelios aiškios detalės",
+     "p": [
+      "Rider–Waite–Smith kaladėje yra detalių, kurias galima nurodyti tiksliai. Žvaigždėje nuoga moteris pila vandenį iš dviejų ąsočių – vieną į tvenkinį, kitą ant žemės; virš jos yra viena didelė aštuonkampė žvaigždė ir septynios mažesnės. Mirtyje skeletas juodais šarvais joja ant balto žirgo ir neša vėliavą su balta rože. Mėnulyje tarp dviejų bokštų šuo ir vilkas žiūri į dangų, o iš vandens ropoja vėžys. Pakabintasis kabo apačia aukštyn nuo T formos medžio, bet jo veidas ramus, o galvą supa švytėjimas.",
+      "Kvailio kortoje jaunuolis stovi ties skardžio kraštu, su maišeliu ant lazdos ir balta rože rankoje, o šalia bėga šuo; fone saulė. Šie vaizdai sukelia skirtingas asociacijas, pavyzdžiui, ar skardis grėsmingas, ar tai tiesiog laisvė. Abi prasmės gali būti teisėtos."
+     ]
+    },
+    {
+     "h": "Intuicija ir kritika",
+     "p": [
+      "Intuiciją verta derinti su abejone. Paklauskite: ar tai, ką matau, iš tiesų yra kortoje, ar nepriskiriu jai savo minčių? Ar tai atitinka ir knygos reikšmę, ar tik mano nuotaiką? Jei nesutampa, nebūtinai klystate – tiesiog atkreipkite dėmesį į skirtumą.",
+      "Venkite tvirtinti, kad „žinote“ ateitį ar kito žmogaus mintis. Intuicija čia reiškia dėmesingumą vaizdui ir sau, o ne antgamtinį žinojimą."
+     ]
+    },
+    {
+     "h": "Pratimas su trimis žodžiais",
+     "p": [
+      "Pasirinkite kortą ir apibūdinkite ją trimis žodžiais: vienu apie tai, ką matote, vienu apie tai, ką jaučiate, ir vienu apie tai, ką ji jums primena. Pavyzdžiui, Pakabintajam: „apverstas, ramus, laukimas“. Tada palyginkite su knygos reikšme ir pažiūrėkite, kur sutampa, o kur ne.",
+      "Tokia praktika ilgainiui lavina dėmesį. Pastebėsite, kad ta pati korta skirtingomis dienomis pasako skirtingus dalykus, ir tai normalu: keičiatės jūs, ne vaizdas."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Pirmiausia žiūrėkite, tik paskui ieškokite reikšmės.",
+    "Intuicija – dėmesingumas ir asociacijos.",
+    "Aprašykite tik detales, kurias iš tiesų matote.",
+    "Derinkite intuiciją su abejone.",
+    "Vaizdas gali turėti keletą teisėtų prasmių."
+   ],
+   "quiz": [
+    {
+     "q": "Ką daryti prieš žvelgiant į knygos reikšmę?",
+     "options": [
+      "Užmerkti akis",
+      "Praleisti žvilgsnį",
+      "Kelias sekundes žiūrėti į vaizdą",
+      "Perskaityti visą knygą"
+     ],
+     "answer": 2,
+     "explain": "Pirma pastebėkite, ką rodo korta."
+    },
+    {
+     "q": "Kas vaizduojama Mirties kortoje Rider–Waite–Smith kaladėje?",
+     "options": [
+      "Skeletas ant balto žirgo su vėliava",
+      "Pora ant kalno",
+      "Moteris su liūtu",
+      "Senas vyras su žibintu"
+     ],
+     "answer": 0,
+     "explain": "Skeletas juodais šarvais, baltas žirgas, balta rožė vėliavoje."
+    },
+    {
+     "q": "Kiek mažesnių žvaigždžių yra aplink didžiąją Žvaigždės kortoje?",
+     "options": [
+      "Trys",
+      "Penkios",
+      "Dvylika",
+      "Septynios"
+     ],
+     "answer": 3,
+     "explain": "Šalia vienos didelės žvaigždės yra septynios mažesnės."
+    },
+    {
+     "q": "Ką reiškia intuicija šiame kontekste?",
+     "options": [
+      "Antgamtinį žinojimą",
+      "Dėmesingumą vaizdui ir sau",
+      "Atsitiktinį spėjimą",
+      "Kito žmogaus minčių skaitymą"
+     ],
+     "answer": 1,
+     "explain": "Tai pastabumas ir asociacijos, o ne antgamtinė galia."
+    }
+   ],
+   "level": 3
+  },
+  {
+   "id": "etika-profesionalumas",
+   "title": "Etika ir profesionalus skaitymas",
+   "lede": "Jei skaitote kitiems, ypač už atlygį, svarbiausia – sąžiningumas dėl to, ką taro gali ir ko negali.",
+   "sections": [
+    {
+     "h": "Sąžiningos ribos",
+     "p": [
+      "Taro yra simbolinis apmąstymų įrankis. Nėra patikimų įrodymų, kad kortos prognozuoja ateitį, todėl nežadėkite rezultatų ir nepateikinėkite skaitymo kaip faktų. Aiškiai pasakykite klientui, kad tai interpretacija, kuri gali būti naudinga ar ne.",
+      "Profesionalus skaitytojas atsako už savo žodžius. Tai reiškia, kad kalbate apie galimybes ir temas, o ne apie neišvengiamus įvykius, ir nenaudojate baimės norėdami sulaikyti žmogų ar parduoti daugiau."
+     ]
+    },
+    {
+     "h": "Ko neduoti: sveikata, teisė, finansai",
+     "p": [
+      "Taro skaitymas nėra medicininis, teisinis ar finansinis patarimas, o vartotojų apsaugos ir rinkodaros taisyklės dažnai reikalauja nesukelti klaidingo įspūdžio apie paslaugos poveikį. Praktiškai: nežadėkite pagydyti, nediagnozuokite, nepatarkite, ar gydytis, ar nutraukti vaistus. Neteikite teisinių patarimų ir neduokite finansinių rekomendacijų, pvz., ar pirkti, ar investuoti.",
+      "Jei klausimas liečia šias sritis, pasakykite tiesiai: tai ne taro sritis, kreipkitės į gydytoją, teisininką ar finansų patarėją. Tai ne atsisakymas padėti, o atsakomybė. Tikslias savo šalies taisykles patikrinkite oficialiuose šaltiniuose, nes čia jų neišdėstome."
+     ]
+    },
+    {
+     "h": "Privatumas ir pagarba",
+     "p": [
+      "Tai, ką žmogus pasakoja skaitymo metu, yra jautri informacija. Saugokite ją konfidencialiai ir nepasakokite kitiems be leidimo. Nepriimkite klausimų apie trečiuosius asmenis, kuriuos norima kontroliuoti ar įskaudinti. Nesiūlykite papildomų ritualų ar „blogio šalinimo“ už atskirą mokestį.",
+      "Žinokite savo ribas: jei žmogus yra krizėje, nukreipkite į pagalbą. Galiausiai atminkite, kad žmogus turi teisę atsisakyti, nesutikti ir išeiti. Skaitymas sąžiningas tada, kai klientas išeina laisvesnis, o ne labiau priklausomas."
+     ]
+    },
+    {
+     "h": "Praktiniai principai",
+     "p": [
+      "Apibrėžkite aiškias taisykles: ką darote ir ko nedarote, kaip tvarkote asmeninę informaciją, kokia kaina ir ką ji apima. Paskelbkite tai viešai, kad klientas žinotų iš anksto. Vengkite teiginių, kurie skamba kaip garantija, pavyzdžiui, „garantuoju rezultatą“ ar „pakeisiu jūsų likimą“.",
+      "Rinkodaroje taip pat būkite tikslūs: apibūdinkite paslaugą kaip simbolinį apmąstymą, o ne kaip sprendimą sveikatos, teisės ar finansų klausimams. Jei abejojate, ar formuluotė leistina, pasitikrinkite savo šalies vartotojų teisių ir rinkodaros reikalavimus."
+     ]
+    }
+   ],
+   "keypoints": [
+    "Taro – apmąstymų įrankis, o ne įrodytas prognozavimas.",
+    "Nežadėkite rezultatų ir nenaudokite baimės.",
+    "Jokių sveikatos, teisinių ar finansinių teiginių.",
+    "Saugokite privatumą.",
+    "Krizės atveju nukreipkite į pagalbą."
+   ],
+   "quiz": [
+    {
+     "q": "Kaip pateikti skaitymą klientui?",
+     "options": [
+      "Kaip garantuotą faktą",
+      "Kaip interpretaciją ir apmąstymo įrankį",
+      "Kaip diagnozę",
+      "Kaip įsakymą"
+     ],
+     "answer": 1,
+     "explain": "Sąžiningumas reikalauja aiškumo dėl ribų."
+    },
+    {
+     "q": "Ką daryti, jei klientas klausia, ar nutraukti vaistus?",
+     "options": [
+      "Patarti pagal kortas",
+      "Skaityti dar kartą",
+      "Neatsakyti",
+      "Nukreipti į gydytoją"
+     ],
+     "answer": 3,
+     "explain": "Sveikatos klausimai nepriklauso taro sričiai."
+    },
+    {
+     "q": "Kuris elgesys yra neetiškas?",
+     "options": [
+      "Paaiškinti ribas",
+      "Pripažinti neapibrėžtumą",
+      "Rodyti baimę, kad žmogus grįžtų ir mokėtų daugiau",
+      "Saugoti privatumą"
+     ],
+     "answer": 2,
+     "explain": "Baimės naudojimas manipuliuoja žmogumi."
+    },
+    {
+     "q": "Kas yra sąžiningo skaitymo ženklas?",
+     "options": [
+      "Klientas išeina laisvesnis ir supratęs ribas",
+      "Klientas gauna pažadus",
+      "Klientas tampa priklausomas",
+      "Klientas jaučiasi spaudžiamas"
+     ],
+     "answer": 0,
+     "explain": "Skaitymas turi stiprinti žmogaus savarankiškumą."
+    }
+   ],
+   "level": 3
+  }
+ ]
+}

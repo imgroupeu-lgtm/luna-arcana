@@ -1,0 +1,1655 @@
+{
+  "labels": {
+    "kwUp": "Avainsanat",
+    "kwRev": "Käänteinen",
+    "about": "Tietoa kortista",
+    "love": "Rakkaus",
+    "work": "Työ",
+    "advice": "Neuvo",
+    "element": "Alkuaine",
+    "astro": "Astrologia",
+    "number": "Numero",
+    "open": "Lue lisää kortista",
+    "close": "Sulje"
+  },
+  "cards": [
+    {
+      "kw_up": [
+        "uusi alku",
+        "spontaanius",
+        "luottamus",
+        "avoimuus"
+      ],
+      "kw_rev": [
+        "varomattomuus",
+        "naiivius",
+        "haparointi",
+        "kiire"
+      ],
+      "about": "Nuori vaeltaja seisoo rotkon reunalla pieni kimppu olallaan, koira seuraa kintereillä ja aurinko paistaa takana. Kortti kertoo ensimmäisestä askeleesta ja elämän kohtaamisesta avoimin silmin ja kevyin sydämin.",
+      "love": "Rakkaudessa Narri voi viitata uuteen ja ennalta arvaamattomaan alkuun tai halukkuuteen tavata joku ilman odotuksia. Se voi myös muistuttaa katsomaan hieman eteensä.",
+      "work": "Työssä kyse voi olla uuden rohkeasta kokeilusta tai tavallisuudesta poikkeavan tien kokeilemisesta. Voi olla viisasta tasapainottaa innostus yksinkertaisella suunnitelmalla.",
+      "advice": "Anna uteliaisuuden johtaa, mutta ota mukaan se, minkä jo tiedät.",
+      "element": "Ilma",
+      "astro": "Ilma (Golden Dawn)",
+      "number": "Nolla: mahdollisuus, tyhjyys ennen kaiken alkua"
+    },
+    {
+      "kw_up": [
+        "tahto",
+        "toiminta",
+        "taidot",
+        "keskittyminen"
+      ],
+      "kw_rev": [
+        "manipulointi",
+        "hajanainen energia",
+        "käyttämätön lahjakkuus",
+        "suunnitelmat ilman toimintaa"
+      ],
+      "about": "Hahmo seisoo alttarin ääressä sauva kohotettuna taivasta kohti ja toinen käsi osoittamassa maahan, ja hänen edessään ovat kaikki neljä symbolia. Pään yläpuolella leijuu äärettömyysmerkki kuvana siitä, että ajatus ja teko kuuluvat yhteen.",
+      "love": "Suhteissa kortti voi puhua siitä, että näyttäytyy selkeästi ja tekee aloitteen rehelliseen keskusteluun. Se muistuttaa myös vilpittömyydestä ilman naamioita.",
+      "work": "Työssä se viittaa siihen, että sinulla on tarvittavat välineet ja että aika niiden käyttöön voi olla käsillä. Keskittyminen on avain.",
+      "advice": "Kokoa voimat yhteen paikkaan ja aloita.",
+      "element": "Ilma",
+      "astro": "Merkurius",
+      "number": "Yksi: tahto, alku ja tietoinen luomisvoima"
+    },
+    {
+      "kw_up": [
+        "intuitio",
+        "hiljaisuus",
+        "kätketty tieto",
+        "sisäinen kuuntelu"
+      ],
+      "kw_rev": [
+        "salaisuudet",
+        "sivuutettu vaisto",
+        "sekavuus",
+        "vetäytyminen"
+      ],
+      "about": "Nainen istuu vaalean ja tumman pylvään välissä, hänen takanaan on verho ja jalkojensa juuressa kuu. Hän pitelee kääröä, jonka sisältö näkyy vain puoliksi, ja kortti kertoo siitä, mikä on pinnan alla.",
+      "love": "Rakkaudessa kortti voi kutsua kuuntelemaan sitä, mitä ei sanota, itsessäsi ja toisessa. Kärsivällisyys voi tuoda enemmän selkeyttä kuin nopeat vastaukset.",
+      "work": "Työssä voi olla aika tarkkailla ennen päätöstä. Kaikkea ei tarvitse selittää heti.",
+      "advice": "Ole hetki hiljaa ja tunnustele, mitä todella tiedät.",
+      "element": "Vesi",
+      "astro": "Kuu",
+      "number": "Kaksi: kaksinaisuus, näkyvän ja kätketyn tasapaino"
+    },
+    {
+      "kw_up": [
+        "hoiva",
+        "yltäkylläisyys",
+        "luomisen ilo",
+        "aistillisuus"
+      ],
+      "kw_rev": [
+        "riippuvuus",
+        "tukahduttava hoiva",
+        "pysähtyneisyys",
+        "itsensä unohtaminen"
+      ],
+      "about": "Kruunattu nainen lepää vihreässä maisemassa viljantähkien ja solisevan puron ympäröimänä, luonto täydessä kukassaan. Kortti edustaa hedelmällisyyttä, nautintoa ja sitä, mikä kasvaa saadessaan ravintoa.",
+      "love": "Rakkaudessa kyse on lämmöstä, hellyydestä sekä huolenpidon antamisesta ja saamisesta. Se voi myös muistuttaa pitämään huolta itsestään.",
+      "work": "Työssä se voi viitata luoviin hankkeisiin, jotka saavat kasvaa omaan tahtiinsa. Laatu ja huolenpito tuottavat usein parempaa satoa kuin kiire.",
+      "advice": "Ravitse sitä, minkä haluat kasvavan, myös itseäsi.",
+      "element": "Vesi",
+      "astro": "Venus",
+      "number": "Kolme: kasvu, luomisvoima ja ilmaisu"
+    },
+    {
+      "kw_up": [
+        "rakenne",
+        "vakaus",
+        "auktoriteetti",
+        "vastuu"
+      ],
+      "kw_rev": [
+        "jäykkyys",
+        "kontrollin tarve",
+        "joustamattomuus",
+        "vallan väärinkäyttö"
+      ],
+      "about": "Kruunattu mies istuu oinaanpäillä koristellulla kivipallilla, kädessään valtikka ja pallo ja haarniskan päällä punainen viitta. Hän edustaa järjestystä, rajoja ja kykyä rakentaa jotain pysyvää.",
+      "love": "Rakkaudessa kortti voi puhua turvallisuudesta, uskollisuudesta ja selvistä puitteista. Se voi myös pyytää katsomaan, syrjäyttääkö kontrollin tarve läheisyyden.",
+      "work": "Työssä kyse on johtamisesta, suunnittelusta ja vastuun ottamisesta. Hyvät puitteet voivat vapauttaa energiaa, kunhan ne eivät muutu häkiksi.",
+      "advice": "Luo rakenne, joka tukee sinua eikä sulje sinua sisään.",
+      "element": "Tuli",
+      "astro": "Oinas",
+      "number": "Neljä: perusta, järjestys ja vakaus"
+    },
+    {
+      "kw_up": [
+        "perinne",
+        "opastus",
+        "yhteisö",
+        "oppiminen"
+      ],
+      "kw_rev": [
+        "normien rikkominen",
+        "dogmit",
+        "toisten sokea seuraaminen",
+        "riippumattomuus"
+      ],
+      "about": "Uskonnollinen hahmo istuu kahden pylvään välissä siunaten kättä kohottaen, kaksi opetuslasta polvistuneena edessään ja avaimet jalkojensa juuressa. Kortti kertoo perityn viisauden ja jaettujen arvojen merkityksestä.",
+      "love": "Rakkaudessa kyse voi olla sitoutumisesta, yhteisistä arvoista ja ehkä rituaaleista, jotka sitovat kaksi ihmistä yhteen. Se voi myös kysyä, mihin itse uskot.",
+      "work": "Työssä kortti voi viitata mentoreihin, koulutukseen ja vakiintuneisiin rutiineihin. Voi olla hyödyllistä oppia niiltä, jotka ovat kulkeneet tien ennen sinua.",
+      "advice": "Hae neuvoa joltakulta, johon luotat, mutta punnitse sitä omaa ymmärrystäsi vasten.",
+      "element": "Maa",
+      "astro": "Härkä",
+      "number": "Viisi: merkityksen etsintä, oppiminen ja perinne"
+    },
+    {
+      "kw_up": [
+        "valinta",
+        "yhdistyminen",
+        "arvot",
+        "sopusointu"
+      ],
+      "kw_rev": [
+        "päättämättömyys",
+        "epätasapaino",
+        "erimielisyys",
+        "epäselvät arvot"
+      ],
+      "about": "Kaksi alastonta hahmoa seisoo enkelin alla, kummankin takana puu, toisessa hedelmiä ja toisessa liekkejä. Kortti kertoo sydämestä nousevasta valinnasta ja siitä, mitä tapahtuu kahden puolen kohdatessa.",
+      "love": "Rakkaudessa kyse on syvästä sitoutumisesta ja toistensa tietoisesta valitsemisesta. Se voi koskea myös valintaa, joka vaatii rehellisyyttä.",
+      "work": "Työssä se viittaa tienhaaraan, jossa arvojesi tulisi painaa paljon. Yhteistyöstä voi tulla voimavara.",
+      "advice": "Valitse se, mikä on sopusoinnussa sen kanssa, kuka todella olet.",
+      "element": "Ilma",
+      "astro": "Kaksoset",
+      "number": "Kuusi: sopusointu, valinta ja vastavuoroisuus"
+    },
+    {
+      "kw_up": [
+        "vauhti",
+        "voitto",
+        "itsehillintä",
+        "suunta"
+      ],
+      "kw_rev": [
+        "suunnan puute",
+        "aggressio",
+        "menetetty hallinta",
+        "esteet"
+      ],
+      "about": "Nuori soturi seisoo kahden sfinksin, toisen vaalean ja toisen tumman, vetämissä vaunuissa tähtien koristaman katoksen alla. Ohjaksia ei näy, sillä tahto ohjaa matkaa.",
+      "love": "Rakkaudessa kortti voi viitata päämäärätietoiseen ponnisteluun ja kykyyn pitää suunta vaativana aikana. Se voi myös muistuttaa kuuntelemaan eikä vain painamaan eteenpäin.",
+      "work": "Työssä kyse on etenemisestä, keskittymisestä ja ristiriitaisten voimien kokoamisesta yhteiseen päämäärään.",
+      "advice": "Pidä kumpaakin voimaa käsissäsi ja valitse suunta.",
+      "element": "Vesi",
+      "astro": "Rapu",
+      "number": "Seitsemän: tahdonvoima, eteneminen ja hallinta"
+    },
+    {
+      "kw_up": [
+        "rohkeus",
+        "kärsivällisyys",
+        "lempeä voima",
+        "itseluottamus"
+      ],
+      "kw_rev": [
+        "epäily",
+        "raaka voima",
+        "kärsimättömyys",
+        "haavoittuvuus"
+      ],
+      "about": "Nainen sulkee varovasti leijonan leuat, ja äärettömyysmerkki leijuu hänen päänsä päällä. Kortti osoittaa, että todellinen voima on usein pehmeää, rauhallista ja pitkäjänteistä.",
+      "love": "Rakkaudessa kyse on hellyydestä ja kärsivällisyydestä sekä siitä, että kohtaa omat ja toisen haavoittuvat puolet lämmöllä.",
+      "work": "Työssä se voi puhua paineen kohtaamisesta tyyneydellä ja tasaisella voimalla. Kestävyys voittaa usein hälinän.",
+      "advice": "Kohtaa se, mikä pelottaa sinua, lempeydellä ja vakaalla kädellä.",
+      "element": "Tuli",
+      "astro": "Leijona",
+      "number": "Kahdeksan: sisäinen voima, kestävyys ja tasapaino"
+    },
+    {
+      "kw_up": [
+        "oivallus",
+        "yksinäisyys",
+        "etsintä",
+        "opastus"
+      ],
+      "kw_rev": [
+        "eristäytyminen",
+        "vetäytyminen",
+        "yksinäisyys",
+        "toisten välttely"
+      ],
+      "about": "Vanha mies seisoo lumisella vuorenhuipulla lyhty kädessään valaisemassa pientä tähteä ja sauva toisessa kädessä. Kortti kuvaa hiljaista oman totuuden etsintää.",
+      "love": "Rakkaudessa kortti voi tarkoittaa, että tarvitset aikaa yksin ymmärtääksesi, mitä haluat. Se voi myös muistuttaa, että läheisyys vaatii itsensä tuntemista.",
+      "work": "Työssä voi olla kyse syventymisestä, opiskelusta tai tauosta melusta selkeän ajattelun vuoksi.",
+      "advice": "Varaa aikaa hiljaisuudelle ja anna lyhdyn valaista itseäsi.",
+      "element": "Maa",
+      "astro": "Neitsyt",
+      "number": "Yhdeksän: täyttymys, pohdinta ja sisäinen opastus"
+    },
+    {
+      "kw_up": [
+        "kierto",
+        "muutos",
+        "kohtalon käänteet",
+        "edistys"
+      ],
+      "kw_rev": [
+        "vastoinkäyminen",
+        "muutoksen vastustus",
+        "huono onni",
+        "toistuvat kuviot"
+      ],
+      "about": "Suuri pyörä symboleineen ja kirjaimineen leijuu taivaalla, ja sitä ympäröivät siivet, sfinksi, käärme ja kunkin kulman eläin. Kortti muistuttaa, että kaikki kulkee kierroksina eikä mikään pysy samassa muodossa.",
+      "love": "Rakkaudessa kortti voi merkitä käännettä, joko uutta vaihetta tai vanhasta kaavasta irtautumista. Se kannustaa liikkumaan liikkeen mukana.",
+      "work": "Työssä se viittaa muutokseen ja avautuviin mahdollisuuksiin sekä mukautumiseen uusiin olosuhteisiin.",
+      "advice": "Pysy liikkeessä, sillä pyörä jatkaa kääntymistään.",
+      "element": "Tuli",
+      "astro": "Jupiter",
+      "number": "Kymmenen: täysi kierros, uusi taso alkaa"
+    },
+    {
+      "kw_up": [
+        "tasapaino",
+        "totuus",
+        "vastuu",
+        "syy ja seuraus"
+      ],
+      "kw_rev": [
+        "epäoikeudenmukaisuus",
+        "epätasapaino",
+        "väistely",
+        "vastuun välttäminen"
+      ],
+      "about": "Hahmo istuu valtaistuimella miekka toisessa ja vaaka toisessa kädessä kahden pylvään välissä ja verho takanaan. Kortti kertoo rehellisyydestä ja valintojen seurauksista.",
+      "love": "Rakkaudessa kyse on oikeudenmukaisuudesta, avoimesta viestinnästä ja molemminpuolisesta kunnioituksesta. Pidä sanasi ja ole selkeä.",
+      "work": "Työssä se voi viitata sopimuksiin, arvioihin ja päätöksiin, jotka vaativat asiallisuutta ja selkeitä tosiasioita.",
+      "advice": "Ole rehellinen, myös itsellesi, ja punnitse asia.",
+      "element": "Ilma",
+      "astro": "Vaaka",
+      "number": "Yksitoista: tasapaino, punninta ja vastuu"
+    },
+    {
+      "kw_up": [
+        "tauko",
+        "uusi näkökulma",
+        "antautuminen",
+        "kärsivällisyys"
+      ],
+      "kw_rev": [
+        "viivyttely",
+        "pysähtyneisyys",
+        "vastarinta",
+        "turha uhraus"
+      ],
+      "about": "Mies riippuu ylösalaisin puussa toinen jalka sidottuna, mutta hänen kasvonsa ovat rauhalliset ja valon kehän ympäröimät. Kortti kertoo irti päästämisestä, odottamisesta ja maailman katsomisesta toisesta kulmasta.",
+      "love": "Rakkaudessa kortti voi puhua asioiden kypsymisen antamisesta tai tilanteen katsomisesta toisen näkökulmasta. Painostus vie harvoin eteenpäin.",
+      "work": "Työssä se voi tarkoittaa taukoa, kiertotietä tai tarpeellista kärsivällisyyttä ennen seuraavaa askelta.",
+      "advice": "Päästä hetkeksi irti ja katso, mikä muuttuu.",
+      "element": "Vesi",
+      "astro": "Vesi",
+      "number": "Kaksitoista: antautuminen ja muuttunut näkökulma"
+    },
+    {
+      "kw_up": [
+        "päätös",
+        "muodonmuutos",
+        "irtipäästäminen",
+        "uusi luku"
+      ],
+      "kw_rev": [
+        "muutoksen vastustus",
+        "jumiutuminen",
+        "keskeneräisyys",
+        "loppujen pelko"
+      ],
+      "about": "Luurankoratsastaja valkoisella hevosella kantaa mustaa lippua, jossa on valkoinen ruusu, ja hänen edessään on ihmisiä eri elämänvaiheista. Kortti ei useinkaan kerro kirjaimellisesta kuolemasta vaan päätöksistä, jotka tekevät tilaa uudelle.",
+      "love": "Rakkaudessa kortti voi merkitä, että vaihe on ohi ja on aika päästää irti. Se voi myös avata tietä syvemmälle rehellisyydelle.",
+      "work": "Työssä voi olla kyse hankkeesta tai roolista, joka päättyy. Se vapauttaa tilaa muulle.",
+      "advice": "Anna sen, mikä on valmista, olla valmista.",
+      "element": "Vesi",
+      "astro": "Skorpioni",
+      "number": "Kolmetoista: päätös ja muodonmuutos"
+    },
+    {
+      "kw_up": [
+        "tasapaino",
+        "kohtuullisuus",
+        "kärsivällisyys",
+        "sopusointu"
+      ],
+      "kw_rev": [
+        "epätasapaino",
+        "ääripäät",
+        "kiire",
+        "johdonmukaisuuden puute"
+      ],
+      "about": "Enkeli seisoo toinen jalka vedessä ja toinen maalla ja kaataa nestettä edestakaisin kahden maljan välillä. Kortti kertoo sekoittumisesta, rytmistä ja kultaisen keskitien löytämisestä.",
+      "love": "Rakkaudessa kyse on tasaisen rytmin löytämisestä ja erilaisten tarpeiden varovaisesta yhdistämisestä.",
+      "work": "Työssä se voi viitata tasapainoiseen tahtiin ja yhteistyöhön, jossa erilaiset vahvuudet täydentävät toisiaan.",
+      "advice": "Löydä keskuksesi ja anna asioiden sekoittua rauhallisessa tahdissa.",
+      "element": "Tuli",
+      "astro": "Jousimies",
+      "number": "Neljätoista: sopeutuminen, sekoittuminen ja tasapaino"
+    },
+    {
+      "kw_up": [
+        "sidonnaisuudet",
+        "kiusaus",
+        "varjo",
+        "materialismi"
+      ],
+      "kw_rev": [
+        "vapautuminen",
+        "tapojen katkaiseminen",
+        "takaisin saatu valta",
+        "oivallus"
+      ],
+      "about": "Sarvekas hahmo istuu jalustalla, ja kaksi alastonta hahmoa seisoo siihen ketjutettuina löysin ketjuin. Kortti näyttää tavat ja siteet, jotka olemme itse luoneet, usein huomaamatta niitä.",
+      "love": "Rakkaudessa kortti voi viitata vetovoimaan, riippuvuuteen tai kaavoihin, jotka pitävät meitä kiinni. Se kutsuu näkemään ne selvästi.",
+      "work": "Työssä kyse voi olla tavoista tai kunnianhimosta, jotka vievät enemmän kuin antavat, ja kysymyksestä, mikä todella ohjaa sinua.",
+      "advice": "Katso, mikä sinua sitoo, sillä ketjut ovat usein löysemmällä kuin miltä näyttävät.",
+      "element": "Maa",
+      "astro": "Kauris",
+      "number": "Viisitoista: varjo, halu ja sidonnaisuus"
+    },
+    {
+      "kw_up": [
+        "mullistus",
+        "paljastuminen",
+        "järkytys",
+        "herääminen"
+      ],
+      "kw_rev": [
+        "katastrofin välttäminen",
+        "muutoksen pelko",
+        "viivästynyt romahdus",
+        "vähittäinen muutos"
+      ],
+      "about": "Kalliolla oleva torni saa salaman iskun, liekit ja kruunu putoavat, ja kaksi hahmoa syöksyy ulos. Kortti osoittaa, että vääriä rakenteita voi romahtaa, jotta jotain todempaa voidaan rakentaa.",
+      "love": "Rakkaudessa kortti voi merkitä äkillistä oivallusta tai muutosta, joka järkyttää turvallista. Se voi jättää tilaa rehellisemmille suhteille.",
+      "work": "Työssä se voi viitata äkillisiin muutoksiin tai siihen, että jokin kestämätön tulee näkyviin, sekä tarpeeseen rakentaa uudelleen.",
+      "advice": "Katso sitä, mikä kaatuu, avauksena ja rakenna vankalle pohjalle.",
+      "element": "Tuli",
+      "astro": "Mars",
+      "number": "Kuusitoista: mullistus ja läpimurto"
+    },
+    {
+      "kw_up": [
+        "toivo",
+        "uudistuminen",
+        "inspiraatio",
+        "rauha"
+      ],
+      "kw_rev": [
+        "lannistuminen",
+        "uskon puute",
+        "uupumus",
+        "irrottautuminen"
+      ],
+      "about": "Alaston nainen kaataa vettä kahdesta kannusta, toisen lammikkoon ja toisen maahan, suuren tähden alla, jota pienemmät ympäröivät. Kortti edustaa hiljaista toivoa, parantavaa lepoa ja luottamusta siihen, että valo palaa.",
+      "love": "Rakkaudessa kyse on avoimuudesta, luottamuksesta ja kantamansa jakamisesta. Se on sovinnollisen rauhan kortti.",
+      "work": "Työssä se viittaa eteenpäin vievään tiehen raskaan jakson jälkeen ja ideoihin, jotka tulevat itsestään, kun hengität rauhallisesti.",
+      "advice": "Pidä kiinni toivosta ja anna sen olla hetki hiljaa.",
+      "element": "Ilma",
+      "astro": "Vesimies",
+      "number": "Seitsemäntoista: toivo, inspiraatio ja kirkkaus"
+    },
+    {
+      "kw_up": [
+        "unet",
+        "intuitio",
+        "illuusio",
+        "tiedostamaton"
+      ],
+      "kw_rev": [
+        "sekaannuksen hälveneminen",
+        "pelko",
+        "selkeys",
+        "totuuden paljastuminen"
+      ],
+      "about": "Kuu valaisee polkua kahden tornin välillä, koira ja susi ulvovat, ja äyriäinen ryömii ylös lammesta. Kortti kertoo puolihämärästä, unista ja tunteista, joita emme aivan ymmärrä.",
+      "love": "Rakkaudessa kortti voi viitata epävarmuuteen ja voimakkaisiin tunteisiin, joita ei voi heti selittää. Anna aikaa ja kysy rehellisiä kysymyksiä.",
+      "work": "Työssä asiat voivat olla epäselviä, ja suurten päätösten tekemistä voi olla viisasta lykätä, kunnes kuva selkiytyy.",
+      "advice": "Etene hitaasti ja luota siihen, minkä tunnet, mutta tarkista se päivänvaloa vasten.",
+      "element": "Vesi",
+      "astro": "Kalat",
+      "number": "Kahdeksantoista: tiedostamaton, unet ja illuusio"
+    },
+    {
+      "kw_up": [
+        "ilo",
+        "elinvoima",
+        "selkeys",
+        "menestys"
+      ],
+      "kw_rev": [
+        "tilapäinen varjo",
+        "liiallinen optimismi",
+        "viivästynyt ilo",
+        "loppuun palaminen"
+      ],
+      "about": "Alaston lapsi ratsastaa valkoisella hevosella suuren auringon alla, muurin takana auringonkukkia ja kädessä punainen lippu. Kortti edustaa lämpöä, selkeyttä ja olemassaolon yksinkertaista iloa.",
+      "love": "Rakkaudessa kyse on avoimuudesta, leikkisyydestä ja siitä, että antaa itsensä iloita toisesta. Rehellisyys tuo valoa.",
+      "work": "Työssä se voi puhua edistyksestä ja energiasta sekä luontevasta näkyvyydestä.",
+      "advice": "Lataa itsesi sillä, mikä tuo sinulle iloa, ja anna sen näkyä.",
+      "element": "Tuli",
+      "astro": "Aurinko",
+      "number": "Yhdeksäntoista: elinvoima, ilo ja selkeys"
+    },
+    {
+      "kw_up": [
+        "herääminen",
+        "kutsumus",
+        "uudistuminen",
+        "pohdinta"
+      ],
+      "kw_rev": [
+        "itsekritiikki",
+        "kutsun sivuuttaminen",
+        "epäilys",
+        "selvittämättömät kysymykset"
+      ],
+      "about": "Enkeli puhaltaa pasuunaan meren yllä, ja ihmiset nousevat haudoistaan kädet ojennettuina. Kortti kertoo heräämisestä, tilinpäätöksestä ja sisäiseen kutsuun vastaamisesta.",
+      "love": "Rakkaudessa kortti voi merkitä uutta ymmärrystä ja anteeksiantoa, sekä itselle että muille.",
+      "work": "Työssä se viittaa tähänastisen tien arviointiin ja mahdolliseen vaihdokseen, joka tuntuu oikealta.",
+      "advice": "Kuuntele kutsua ja tee tilinpäätös lempeästi.",
+      "element": "Tuli",
+      "astro": "Tuli",
+      "number": "Kaksikymmentä: herääminen ja uudistuminen"
+    },
+    {
+      "kw_up": [
+        "täyttymys",
+        "kokonaisuus",
+        "saavutus",
+        "yhdentyminen"
+      ],
+      "kw_rev": [
+        "keskeneräisyys",
+        "viimeinen askel puuttuu",
+        "viivyttely",
+        "pysähtyneisyys"
+      ],
+      "about": "Tanssija leijuu lehtiseppeleessä, jota ympäröivät neljän kulman hahmot: enkeli, kotka, härkä ja leijona. Kortti merkitsee sulkeutuvaa ympyrää ja uutta, joka voi avautua.",
+      "love": "Rakkaudessa kyse on kokonaisuudesta ja tyytyväisyydestä sekä siitä, että kaksi elämänkulkua voi löytää yhteisen rytminsä.",
+      "work": "Työssä kortti merkitsee jakson päättymistä ja saavutetun tunnustamista ennen seuraavaa lukua.",
+      "advice": "Varaa aikaa juhlia sitä, minkä olet saanut valmiiksi.",
+      "element": "Maa",
+      "astro": "Saturnus",
+      "number": "Kaksikymmentäyksi: täyttymys ja kokonaisuus"
+    },
+    {
+      "kw_up": [
+        "uusi inspiraatio",
+        "kipinä",
+        "vauhti",
+        "mahdollisuus"
+      ],
+      "kw_rev": [
+        "viivästys",
+        "vauhdin puute",
+        "menetetty kipinä",
+        "lykätty alku"
+      ],
+      "about": "Käsi ojentaa pilvestä versovaa sauvaa vuorten ja joen maiseman yllä. Kortti on puhtaan energian kipinä, idean siemen, joka odottaa sytyttämistä.",
+      "love": "Rakkaudessa se voi olla uusi intohimo, kipinä tai halu tehdä aloite.",
+      "work": "Työssä se voi tarkoittaa uutta ideaa tai hanketta, jossa on voimaa.",
+      "advice": "Tartu kipinään sen ollessa lämmin.",
+      "element": "Tuli",
+      "astro": "Tulen juuri: alkuaineen puhdas voima",
+      "number": "Ässä: siemen ja alku"
+    },
+    {
+      "kw_up": [
+        "suunnittelu",
+        "valinta",
+        "yleiskuva",
+        "rohkeus"
+      ],
+      "kw_rev": [
+        "tuntemattoman pelko",
+        "huono suunnittelu",
+        "epäröinti",
+        "tutussa pysyminen"
+      ],
+      "about": "Mies seisoo linnan muurilla lasipallo kädessään ja sauva vieressään ja katsoo merelle. Kortti kertoo seuraavan tavoitteen valitsemisesta ja tähtäämisestä tätä päivää kauemmas.",
+      "love": "Rakkaudessa kortti voi kysyä, mitä toivot tulevaisuudelta, ja kutsua jakamaan suunnitelmasi.",
+      "work": "Työssä kyse on suunnittelusta, vaihtoehtojen punnitsemisesta ja rohkeudesta tähdätä pidemmälle.",
+      "advice": "Katso eteenpäin ja valitse suunta.",
+      "element": "Tuli",
+      "astro": "Mars Oinaassa",
+      "number": "Kaksi: valinta ja kaksinaisuus"
+    },
+    {
+      "kw_up": [
+        "laajentuminen",
+        "edistys",
+        "näkymä",
+        "ensimmäiset tulokset"
+      ],
+      "kw_rev": [
+        "esteet",
+        "viivästykset",
+        "pettyneet odotukset",
+        "kärsivällisyyttä vaaditaan"
+      ],
+      "about": "Mies seisoo kalliolla selkä katsojaan päin ja katsoo merta, jolla laivat purjehtivat pois, nojaten sauvaan, ja kaksi muuta sauvaa on pystytetty viereen. Kortti osoittaa, että aiempi ponnistelu alkaa tuottaa ensimmäistä satoa.",
+      "love": "Rakkaudessa se voi tarkoittaa yhdessä suuremman edessä olevan odottamista tai sitä, että side saa kasvaa.",
+      "work": "Työssä se viittaa laajentumiseen, rajat ylittävään yhteistyöhön tai siihen, että aiempi ponnistelu alkaa kantaa hedelmää.",
+      "advice": "Pidä silmällä horisonttia ja luota siihen, mitä olet kylvänyt.",
+      "element": "Tuli",
+      "astro": "Aurinko Oinaassa",
+      "number": "Kolme: kasvu ja ilmaisu"
+    },
+    {
+      "kw_up": [
+        "juhla",
+        "koti",
+        "turvallisuus",
+        "yhteisö"
+      ],
+      "kw_rev": [
+        "levottomuus kotona",
+        "yhteisöllisyyden puute",
+        "hajoaminen",
+        "epävarmuus"
+      ],
+      "about": "Neljä sauvaa muodostaa kukkivan kaaren seppeleineen, ja ihmiset juhlivat etualalla linnan edessä. Kortti kertoo turvallisesta satamasta ja ilosta ensimmäisen ankkuripisteen saavuttamisesta.",
+      "love": "Rakkaudessa kyse on turvallisuudesta, juhlasta ja kotoisuudesta.",
+      "work": "Työssä se voi viitata virstanpylvääseen tai hyvään yhteistyöilmapiiriin.",
+      "advice": "Pysähdy ja juhli sitä, minkä on rakentanut.",
+      "element": "Tuli",
+      "astro": "Venus Oinaassa",
+      "number": "Neljä: vakaus ja perusta"
+    },
+    {
+      "kw_up": [
+        "kilpailu",
+        "erimielisyys",
+        "epäjärjestys",
+        "koettelemus"
+      ],
+      "kw_rev": [
+        "konfliktin välttely",
+        "yksimielisyys",
+        "päättynyt riita",
+        "sisäinen jännite"
+      ],
+      "about": "Viisi nuorta miestä heiluttaa sauvoja toisiaan vasten kaoottisessa ja energisessä leikissä. Kortti kertoo kitkasta, kilpajuoksusta ja törmäävistä mielipiteistä.",
+      "love": "Rakkaudessa se voi viitata erimielisyyksiin tai erilaisiin tarpeisiin. Rakentava keskustelu voi ratkaista paljon.",
+      "work": "Työssä kyse voi olla kilpailusta tai erilaisista ideoista, joiden kanssa on pärjättävä.",
+      "advice": "Anna erilaisuuden haastaa sinua, älä hajottaa.",
+      "element": "Tuli",
+      "astro": "Saturnus Leijonassa",
+      "number": "Viisi: haaste ja epävakaus"
+    },
+    {
+      "kw_up": [
+        "voitto",
+        "tunnustus",
+        "itseluottamus",
+        "edistys"
+      ],
+      "kw_rev": [
+        "epäily",
+        "tunnustuksen puute",
+        "kaatuminen",
+        "nöyryytys"
+      ],
+      "about": "Valkoisella hevosella ratsastava mies kantaa laakeriseppelettä sauvassaan, ja ihmiset riemuitsevat hänen ympärillään. Kortti kuvaa ylpeyttä onnistumisesta ja iloa siitä, että tulee nähdyksi.",
+      "love": "Rakkaudessa kyse voi olla itseluottamuksesta ja tunnustuksesta sekä saavutetun ilon jakamisesta.",
+      "work": "Työssä se voi viitata menestykseen tai hyvään tulokseen, joka huomataan.",
+      "advice": "Ota tunnustus vastaan, mutta pidä jalat maassa.",
+      "element": "Tuli",
+      "astro": "Jupiter Leijonassa",
+      "number": "Kuusi: sopusointu ja tunnustus"
+    },
+    {
+      "kw_up": [
+        "puolustus",
+        "kestävyys",
+        "kanta",
+        "rohkeus"
+      ],
+      "kw_rev": [
+        "musertuminen",
+        "periksi antaminen",
+        "vetäytyminen",
+        "uupumus"
+      ],
+      "about": "Mies seisoo kukkulalla ja puolustautuu sauvalla kuutta muuta vastaan, jotka tulevat alhaalta. Kortti kertoo siitä, että pitää pintansa sen puolesta, mihin uskoo.",
+      "love": "Rakkaudessa kyse on omien rajojen ja arvojen puolustamisesta.",
+      "work": "Työssä se voi osoittaa ulkopuolista painetta ja tarvetta pitää kiinni omasta asemasta.",
+      "advice": "Seiso sen takana, mitä ajattelet, käyttämättä kaikkea voimaa taisteluun.",
+      "element": "Tuli",
+      "astro": "Mars Leijonassa",
+      "number": "Seitsemän: koettelemus ja lujuus"
+    },
+    {
+      "kw_up": [
+        "vauhti",
+        "eteneminen",
+        "nopea toiminta",
+        "uutiset"
+      ],
+      "kw_rev": [
+        "viivästykset",
+        "kiire",
+        "turhautuminen",
+        "pysähdys"
+      ],
+      "about": "Kahdeksan sauvaa lentää ilmassa ihmisettömän maiseman yllä. Kortti kertoo vauhdista, liikkeestä ja nopeasti tapahtuvista asioista.",
+      "love": "Rakkaudessa se voi tarkoittaa nopeaa yhteydenottoa tai vauhdin ottavaa kehitystä sekä tarvetta tarkistaa, pysyvätkö tunteet mukana.",
+      "work": "Työssä se voi puhua uutisista, matkoista tai hankkeista, jotka äkkiä lähtevät vauhtiin.",
+      "advice": "Hyödynnä vauhtia, mutta pidä yleiskuva.",
+      "element": "Tuli",
+      "astro": "Merkurius Jousimiehessä",
+      "number": "Kahdeksan: liike ja eteneminen"
+    },
+    {
+      "kw_up": [
+        "sinnikkyys",
+        "kestävyys",
+        "valppaus",
+        "viimeinen ponnistus"
+      ],
+      "kw_rev": [
+        "uupumus",
+        "vainoharhaisuus",
+        "periksi antaminen",
+        "haavoittuvuus"
+      ],
+      "about": "Siteissä oleva mies nojaa sauvaan kahdeksan muun seistessä muurina hänen takanaan. Kortti kertoo vastaan pitämisestä pitkän kamppailun jälkeen ja viimeisten voimien kokoamisesta.",
+      "love": "Rakkaudessa se voi viitata varovaisuuteen aiempien haavojen jälkeen ja kärsivälliseen luottamukseen.",
+      "work": "Työssä kyse on sinnikkyydestä ja loppuun saattamisesta väsyneenäkin.",
+      "advice": "Kestä vielä hetki ja muista levätä.",
+      "element": "Tuli",
+      "astro": "Kuu Jousimiehessä",
+      "number": "Yhdeksän: lähes valmis, kestävyys"
+    },
+    {
+      "kw_up": [
+        "taakka",
+        "vastuu",
+        "raadanta",
+        "päätökseen vieminen"
+      ],
+      "kw_rev": [
+        "taakan laskeminen",
+        "delegointi",
+        "romahdus",
+        "ylikuormitus"
+      ],
+      "about": "Mies kantaa kymmentä sauvaa sylissään kohti kaukaista kaupunkia painon alle taipuneena. Kortti kertoo vastuusta, joka on käynyt raskaaksi, ja siitä, mitä otamme harteillemme.",
+      "love": "Rakkaudessa se voi viitata siihen, että kannat liikaa yksin ja jakaminen keventäisi taakkaa.",
+      "work": "Työssä kyse on työmäärästä ja tarpeesta priorisoida tai pyytää apua.",
+      "advice": "Katso, mitä voisit laskea alas tai jakaa.",
+      "element": "Tuli",
+      "astro": "Saturnus Jousimiehessä",
+      "number": "Kymmenen: ylikuormitus ja päätökseen vieminen"
+    },
+    {
+      "kw_up": [
+        "uteliaisuus",
+        "innostus",
+        "uutiset",
+        "tutkiminen"
+      ],
+      "kw_rev": [
+        "kärsimättömyys",
+        "hajanaisuus",
+        "uutisten viipyminen",
+        "kiire"
+      ],
+      "about": "Nuori viestintuoja seisoo autiomaassa kukkivan sauvan kanssa ja katsoo sitä. Kortti edustaa nuorta kipinää, leikkisyyttä ja uteliaisuutta.",
+      "love": "Rakkaudessa se voi olla innostusta, flirttiä tai uusia mahdollisuuksia.",
+      "work": "Työssä kyse voi olla uudesta ideasta tai oppimisesta, joka antaa energiaa.",
+      "advice": "Tee jotain leikkisää ja ole avoin uudelle.",
+      "element": "Tuli",
+      "astro": "Maa Tulessa (alkuaineperinne)",
+      "number": "Sivu: viestintuoja ja aloittelija"
+    },
+    {
+      "kw_up": [
+        "seikkailunhalu",
+        "toimeliaisuus",
+        "karisma",
+        "vauhti"
+      ],
+      "kw_rev": [
+        "kiivaus",
+        "levottomuus",
+        "kärsimättömyys",
+        "oikukkuus"
+      ],
+      "about": "Ritari ratsastaa kiitävällä hevosella sauva kädessään autiomaan kaltaisessa maisemassa. Kortti edustaa rohkeaa energiaa, matkustushalua ja intoa vallata uusia tavoitteita.",
+      "love": "Rakkaudessa se voi olla intohimoa ja jännitystä, mutta myös tarvetta pitää suunta.",
+      "work": "Työssä kyse on ryhtiliikkeestä ja vauhdista, usein sinnikkyyttä tarvitaan.",
+      "advice": "Ohjaa into yhteen suuntaan.",
+      "element": "Tuli",
+      "astro": "Tuli Tulessa (alkuaineperinne)",
+      "number": "Ritari: liike ja toiminta"
+    },
+    {
+      "kw_up": [
+        "itseluottamus",
+        "lämpö",
+        "karisma",
+        "riippumattomuus"
+      ],
+      "kw_rev": [
+        "mustasukkaisuus",
+        "vaativuus",
+        "arvaamattomuus",
+        "epävarmuus"
+      ],
+      "about": "Kruunattu nainen istuu valtaistuimella sauva kädessä, jalkojensa juuressa auringonkukka ja musta kissa. Kortti edustaa lämmintä itsevarmuutta ja luovaa voimaa.",
+      "love": "Rakkaudessa kortti voi koskea anteliasta lämpöä ja toivetta tulla nähdyksi sellaisena kuin on.",
+      "work": "Työssä kyse on karismasta, johtajuudesta ja muiden innostamisesta.",
+      "advice": "Ole oma itsesi lämmöllä ja anna muiden nähdä se.",
+      "element": "Tuli",
+      "astro": "Vesi Tulessa (alkuaineperinne)",
+      "number": "Kuningatar: kypsyys ja sisäinen voima"
+    },
+    {
+      "kw_up": [
+        "visio",
+        "johtajuus",
+        "rohkeus",
+        "inspiraatio"
+      ],
+      "kw_rev": [
+        "määräilevyys",
+        "kiivaus",
+        "epärealistisuus",
+        "itsekeskeisyys"
+      ],
+      "about": "Kruunattu mies istuu leijonilla ja salamantereilla koristellulla valtaistuimella kukkiva sauva kädessään. Kortti edustaa palavaa johtajaa ja pitkän tähtäimen visioita.",
+      "love": "Rakkaudessa se voi tarkoittaa turvallista ja lämmintä kumppania tai sitä, että otat itse johtajan roolin.",
+      "work": "Työssä kyse on suurten linjojen näkemisestä ja muiden innostamisesta.",
+      "advice": "Johda visiolla ja anna muiden kasvaa.",
+      "element": "Tuli",
+      "astro": "Ilma Tulessa (alkuaineperinne)",
+      "number": "Kuningas: mestaruus ja vastuu"
+    },
+    {
+      "kw_up": [
+        "uusi rakkaus",
+        "tunteet",
+        "myötätunto",
+        "avoimuus"
+      ],
+      "kw_rev": [
+        "tunteellinen tukos",
+        "tukahdutetut tunteet",
+        "tyhjyys",
+        "sulkeutuneisuus"
+      ],
+      "about": "Käsi ojentaa pilvestä ylitsevuotavan maljan, kyyhkynen pudottaa ehtoollisleivän ja vettä virtaa liljojen peittämään lampeen. Kortti kertoo tunteiden virrasta ja sille tilan tekemisestä.",
+      "love": "Rakkaudessa se voi olla uusi alku, syvempi sydänyhteys tai uusi ymmärrys.",
+      "work": "Työssä kyse voi olla merkityksellisestä työstä ja tunnepitoisesta sitoutumisesta.",
+      "advice": "Avaa sydämesi ja anna sen virrata.",
+      "element": "Vesi",
+      "astro": "Veden juuri: alkuaineen puhdas voima",
+      "number": "Ässä: siemen ja alku"
+    },
+    {
+      "kw_up": [
+        "yhdistyminen",
+        "vastavuoroisuus",
+        "vetovoima",
+        "kumppanuus"
+      ],
+      "kw_rev": [
+        "ero",
+        "epätasapaino",
+        "erimielisyys",
+        "väärinymmärrykset"
+      ],
+      "about": "Pariskunta vaihtaa maljoja, yläpuolella siivekäs leijona ja takana käärme sauvan ympärillä. Kortti kertoo kahden välisestä molemminpuolisesta kunnioituksesta ja rakkaudesta.",
+      "love": "Rakkaudessa tämä on yksi vastavuoroisuuden kortteja ja tasaveroinen kohtaaminen.",
+      "work": "Työssä se voi viitata hyvään yhteistyöhön tai tasavertaisten väliseen sopimukseen.",
+      "advice": "Kohtaa toinen avoimesti ja kunnioittaen.",
+      "element": "Vesi",
+      "astro": "Venus Rapussa",
+      "number": "Kaksi: yhdistyminen ja kumppanuus"
+    },
+    {
+      "kw_up": [
+        "ystävyys",
+        "juhla",
+        "ilo",
+        "yhteisö"
+      ],
+      "kw_rev": [
+        "liioittelu",
+        "juoruilu",
+        "eristäytyminen",
+        "ulkopuolisuus"
+      ],
+      "about": "Kolme naista kohottaa maljansa tanssissa, jalkojen juuressa hedelmiä. Kortti kertoo ilosta ja jaetusta juhlasta.",
+      "love": "Rakkaudessa kyse on ystävyydestä, leikistä ja yhteisöllisyydestä.",
+      "work": "Työssä se voi viitata hyvään tiimityöhön ja tunnelmaan.",
+      "advice": "Jaa ilo niiden kanssa, joista välität.",
+      "element": "Vesi",
+      "astro": "Merkurius Rapussa",
+      "number": "Kolme: kasvu ja ilmaisu"
+    },
+    {
+      "kw_up": [
+        "apatia",
+        "pohdinta",
+        "tyytymättömyys",
+        "tauko"
+      ],
+      "kw_rev": [
+        "uudet mahdollisuudet",
+        "motivaatio",
+        "herääminen",
+        "tarjouksen huomaaminen"
+      ],
+      "about": "Mies istuu puun alla kädet ristissä ja katsoo kolmea maljaa, kun pilvestä ojentuva käsi tarjoaa neljättä. Kortti kertoo siitä, että tarjottu jää huomaamatta, kun vajoaa pohdintaan.",
+      "love": "Rakkaudessa se voi viitata tylsistymiseen tai vastaamatta jääneeseen kaipuuseen sekä tarpeeseen katsoa, mitä todella haluat.",
+      "work": "Työssä kyse voi olla puuttuvasta vetovoimasta ja ajasta harkintaan.",
+      "advice": "Nosta katseesi ja katso, mitä sinulle todella tarjotaan.",
+      "element": "Vesi",
+      "astro": "Kuu Rapussa",
+      "number": "Neljä: pysähtyneisyys ja arviointi"
+    },
+    {
+      "kw_up": [
+        "suru",
+        "menetys",
+        "katumus",
+        "tunteellinen tilinpäätös"
+      ],
+      "kw_rev": [
+        "anteeksianto",
+        "eteenpäin siirtyminen",
+        "hyväksyntä",
+        "paraneminen"
+      ],
+      "about": "Viittaan pukeutunut hahmo katsoo kolmea kaatunutta maljaa, kun kaksi seisoo pystyssä hänen takanaan. Kortti kertoo surusta ja siitä, ettei unohda sitä, mikä yhä seisoo.",
+      "love": "Rakkaudessa se voi viitata suruun tai pettymykseen ja siihen, että näkee, mitä yhä on jäljellä.",
+      "work": "Työssä kyse on takaiskujen kohtaamisesta ja uuden tien löytämisestä.",
+      "advice": "Anna surulle tilaa ja katso myös sitä, mikä on jäljellä.",
+      "element": "Vesi",
+      "astro": "Mars Skorpionissa",
+      "number": "Viisi: menetys ja haaste"
+    },
+    {
+      "kw_up": [
+        "nostalgia",
+        "lapsuus",
+        "ystävällisyys",
+        "jälleennäkeminen"
+      ],
+      "kw_rev": [
+        "menneisyyteen jumittuminen",
+        "epärealistiset muistot",
+        "kypsyminen",
+        "eteenpäin siirtyminen"
+      ],
+      "about": "Kaksi lasta jakaa kukkia vanhalla, maljoja täynnä olevalla pihalla. Kortti kertoo muistoista ja viattomasta ystävällisyydestä.",
+      "love": "Rakkaudessa se voi olla jälleennäkeminen, hellyys tai vanhat siteet, jotka herätetään henkiin.",
+      "work": "Työssä kyse voi olla yhteistyöstä tuttujen kanssa tai paluusta johonkin tuttuun.",
+      "advice": "Hae lämpöä muistoista, mutta elä nykyhetkessä.",
+      "element": "Vesi",
+      "astro": "Aurinko Skorpionissa",
+      "number": "Kuusi: sopusointu ja molemminpuolinen lahja"
+    },
+    {
+      "kw_up": [
+        "mielikuvitus",
+        "valinta",
+        "unelmat",
+        "illuusiot"
+      ],
+      "kw_rev": [
+        "selkeys",
+        "päätös",
+        "realismi",
+        "valitseminen"
+      ],
+      "about": "Hahmo katselee seitsemää maljaa, jotka ovat täynnä erilaisia symboleja ja leijuvat pilvissä. Kortti kertoo mielikuvituksesta ja monista mahdollisuuksista, jotka on lajiteltava.",
+      "love": "Rakkaudessa kyse voi olla haaveilusta tai monista vaihtoehdoista ja tarpeesta selkiyttää, mitä haluat.",
+      "work": "Työssä kyse on valitsemisesta usean mahdollisuuden joukosta ja unelman erottamisesta suunnitelmasta.",
+      "advice": "Erota unelma suunnitelmasta ja valitse yksi.",
+      "element": "Vesi",
+      "astro": "Venus Skorpionissa",
+      "number": "Seitsemän: vaihtoehdot ja mielikuvitus"
+    },
+    {
+      "kw_up": [
+        "hyvästit",
+        "eteenpäin siirtyminen",
+        "etsintä",
+        "syvempi merkitys"
+      ],
+      "kw_rev": [
+        "jäljelle jääminen",
+        "lähtemisen pelko",
+        "tutussa jatkaminen",
+        "riippuvuus"
+      ],
+      "about": "Hahmo kävelee pois kahdeksan riviin asetetun maljan luota kohti vuoria kuun alla. Kortti kertoo siitä, että jättää riittävän hyvän taakseen ja etsii syvemmältä.",
+      "love": "Rakkaudessa se voi olla tunnustus siitä, ettei jokin enää ravitse.",
+      "work": "Työssä kyse on suunnan vaihtamisesta suuremman merkityksen löytämiseksi.",
+      "advice": "Uskalla kulkea kohti sitä, mikä antaa enemmän merkitystä.",
+      "element": "Vesi",
+      "astro": "Saturnus Kaloissa",
+      "number": "Kahdeksan: muutos ja etsintä"
+    },
+    {
+      "kw_up": [
+        "tyytyväisyys",
+        "nautinto",
+        "kiitollisuus",
+        "täyttymys"
+      ],
+      "kw_rev": [
+        "ahneus",
+        "omahyväisyys",
+        "pinnallisuus",
+        "täyttymättömyys"
+      ],
+      "about": "Mies istuu tyytyväisenä kädet ristissä yhdeksän maljan edessä hyllyllä. Kortti tunnetaan toivekorttina ja kertoo siitä, että saa iloa siitä, mitä on.",
+      "love": "Rakkaudessa kyse on tyytyväisyydestä ja ilosta siinä, mikä on.",
+      "work": "Työssä se voi viitata hyviin tuloksiin ja tyytyväisyyteen ponnisteluun.",
+      "advice": "Nauti siitä, mitä sinulla on, ja ole kiitollinen.",
+      "element": "Vesi",
+      "astro": "Jupiter Kaloissa",
+      "number": "Yhdeksän: täyttymys ja nautinto"
+    },
+    {
+      "kw_up": [
+        "perheen ilo",
+        "sopusointu",
+        "kuuluminen",
+        "täyttymys"
+      ],
+      "kw_rev": [
+        "levottomuus perheessä",
+        "rikkoutuneet suhteet",
+        "erimielisyys",
+        "epärealistiset ihanteet"
+      ],
+      "about": "Pariskunta seisoo kädet kohotettuina kohti kymmenen maljan sateenkaarta, ja lapset leikkivät kodin edessä. Kortti kertoo yhteisessä onnesta ja kuulumisesta.",
+      "love": "Rakkaudessa kyse on sopusoinnusta, turvallisuudesta ja yhteisistä arvoista.",
+      "work": "Työssä se voi viitata hyvään työilmapiiriin ja yhteisiin tavoitteisiin.",
+      "advice": "Arvosta yhteisöä, jonka osa olet.",
+      "element": "Vesi",
+      "astro": "Mars Kaloissa",
+      "number": "Kymmenen: toteutuminen ja sopusointu"
+    },
+    {
+      "kw_up": [
+        "herkkyys",
+        "luovuus",
+        "avoimuus",
+        "unelmat"
+      ],
+      "kw_rev": [
+        "kypsymättömyys",
+        "tunteiden epävakaus",
+        "todellisuuspako",
+        "haavoittuvuus"
+      ],
+      "about": "Nuori henkilö seisoo meren ääressä ja katsoo kalaa, joka kurkistaa maljasta. Kortti edustaa hellää mieltä ja luovia impulsseja.",
+      "love": "Rakkaudessa se voi olla uusi tunne, romanttinen viesti tai varovainen avoimuus.",
+      "work": "Työssä kyse voi olla luovista ideoista tai intuitiivisista oivalluksista.",
+      "advice": "Ota uusi tunne vastaan uteliaisuudella.",
+      "element": "Vesi",
+      "astro": "Maa Vedessä (alkuaineperinne)",
+      "number": "Sivu: viestintuoja ja aloittelija"
+    },
+    {
+      "kw_up": [
+        "romantiikka",
+        "viehätys",
+        "tarjous",
+        "ihanteet"
+      ],
+      "kw_rev": [
+        "mielialojen vaihtelu",
+        "epärealistiset odotukset",
+        "pettäminen",
+        "pinnallisuus"
+      ],
+      "about": "Ritari rauhallisella valkoisella hevosella kantaa maljaa kohti tyyntä maisemaa. Kortti edustaa romanttista sielua, joka seuraa sydäntään.",
+      "love": "Rakkaudessa kyse on avoimuudesta ja ehdotusten tekemisestä sekä sanojen seuraamisesta teoilla.",
+      "work": "Työssä kyse voi olla tarjouksesta, kutsusta tai idealistisesta hankkeesta.",
+      "advice": "Seuraa sydäntäsi, mutta huolehdi, että se pääsee perille.",
+      "element": "Vesi",
+      "astro": "Tuli Vedessä (alkuaineperinne)",
+      "number": "Ritari: liike ja toiminta"
+    },
+    {
+      "kw_up": [
+        "empatia",
+        "intuitio",
+        "hoiva",
+        "syvyys"
+      ],
+      "kw_rev": [
+        "tunteiden musertavuus",
+        "riippuvuus",
+        "vetäytyminen",
+        "epävarmuus"
+      ],
+      "about": "Kruunattu nainen istuu meren äärellä ja katselee koristeltua maljaa. Kortti edustaa tunteiden syvyyttä ja ymmärrystä.",
+      "love": "Rakkaudessa kyse on huolenpidosta, intuitiosta ja tunteiden kuuntelusta.",
+      "work": "Työssä kyse voi olla herkkyydestä työtovereita kohtaan, mentoroinnista tai hoiva-aloista.",
+      "advice": "Kuuntele tunteitasi hukkumatta niihin.",
+      "element": "Vesi",
+      "astro": "Vesi Vedessä (alkuaineperinne)",
+      "number": "Kuningatar: kypsyys ja sisäinen voima"
+    },
+    {
+      "kw_up": [
+        "tunteiden tasapaino",
+        "myötätunto",
+        "viisaus",
+        "diplomatia"
+      ],
+      "kw_rev": [
+        "mielialojen vaihtelu",
+        "kylmyys",
+        "manipulointi",
+        "tukahduttaminen"
+      ],
+      "about": "Kruunattu mies istuu valtaistuimella levottoman meren keskellä maljaa pitäen. Kortti edustaa johtajaa, joka pitää tunteet tyynenä.",
+      "love": "Rakkaudessa kyse on kypsyydestä, tuesta ja tunteiden turvallisuudesta.",
+      "work": "Työssä kyse voi olla neuvonnasta, empaattisesta johtamisesta ja diplomatiasta.",
+      "advice": "Säilytä tyyneys aaltojen keskellä.",
+      "element": "Vesi",
+      "astro": "Ilma Vedessä (alkuaineperinne)",
+      "number": "Kuningas: mestaruus ja vastuu"
+    },
+    {
+      "kw_up": [
+        "selkeys",
+        "totuus",
+        "läpimurto",
+        "uusi oivallus"
+      ],
+      "kw_rev": [
+        "sekavuus",
+        "epäselvyys",
+        "kovuus",
+        "henkinen tukos"
+      ],
+      "about": "Käsi ojentaa pilvestä miekan, jonka päällä on seppele, jyrkkien vuorten yllä. Kortti kertoo ajatuksen voimasta ja selkeydestä, joka halkaisee sumun.",
+      "love": "Rakkaudessa se voi tarkoittaa rehellistä keskustelua ja uutta oivallusta suhteesta.",
+      "work": "Työssä se voi olla läpimurtoidea tai selkeä kanta.",
+      "advice": "Anna totuuden tulla esiin ystävällisellä tavalla.",
+      "element": "Ilma",
+      "astro": "Ilman juuri: alkuaineen puhdas voima",
+      "number": "Ässä: siemen ja alku"
+    },
+    {
+      "kw_up": [
+        "dilemma",
+        "tauko",
+        "tasapaino",
+        "päätöksen välttely"
+      ],
+      "kw_rev": [
+        "sekavuus",
+        "tietojen paljastuminen",
+        "päättämättömyys",
+        "jännite"
+      ],
+      "about": "Silmät sidottuna istuva nainen pitää kahta miekkaa ristissä tyynen meren edessä. Kortti kertoo vaikeasta päätöksestä ja haluttomuudesta nähdä.",
+      "love": "Rakkaudessa se voi viitata pattitilanteeseen, jossa tunteet ja ajatukset ovat ristiriidassa.",
+      "work": "Työssä kyse on valinnasta, joka vaatii lisää tietoa tai rohkeutta.",
+      "advice": "Ota side pois, kun olet valmis.",
+      "element": "Ilma",
+      "astro": "Kuu Vaa'assa",
+      "number": "Kaksi: valinta ja kaksinaisuus"
+    },
+    {
+      "kw_up": [
+        "suru",
+        "sydänsuru",
+        "kipu",
+        "totuus"
+      ],
+      "kw_rev": [
+        "paraneminen",
+        "anteeksianto",
+        "kivusta irti päästäminen",
+        "vähittäinen paraneminen"
+      ],
+      "about": "Kolme miekkaa lävistää punaisen sydämen sateessa ja pilvien alla. Kortti kertoo tuskallisesta totuudesta ja sen mukanaan tuomasta menetyksestä.",
+      "love": "Rakkaudessa se voi viitata suruun ja eroon sekä siihen, että tuntemaan saa pysähtyä.",
+      "work": "Työssä kyse on pettymyksistä ja kovasta palautteesta, josta voi oppia jotain.",
+      "advice": "Salli itsesi tuntea se, mikä sattuu.",
+      "element": "Ilma",
+      "astro": "Saturnus Vaa'assa",
+      "number": "Kolme: kasvu ja ilmaisu, tässä kivun kautta"
+    },
+    {
+      "kw_up": [
+        "lepo",
+        "rauha",
+        "palautuminen",
+        "pohdinta"
+      ],
+      "kw_rev": [
+        "levottomuus",
+        "uupumus",
+        "paluu toimintaan",
+        "rauhattomuus"
+      ],
+      "about": "Ritari makaa levossa haudalla, kolme miekkaa seinällä ja yksi hänen allaan. Kortti kertoo tauosta ja latautumisesta vaativan ajan jälkeen.",
+      "love": "Rakkaudessa se voi viitata hiljaisuuden ja etäisyyden tarpeeseen, jotta saa koottua itsensä.",
+      "work": "Työssä kyse on levosta, jotta voi ajatella selkeästi.",
+      "advice": "Anna itsellesi lupa levätä.",
+      "element": "Ilma",
+      "astro": "Jupiter Vaa'assa",
+      "number": "Neljä: vakaus ja lepo"
+    },
+    {
+      "kw_up": [
+        "konflikti",
+        "tappio",
+        "voitto hinnalla",
+        "itsekkyys"
+      ],
+      "kw_rev": [
+        "sovinto",
+        "katumus",
+        "vanha konflikti",
+        "päästäminen irti"
+      ],
+      "about": "Mies kerää miekkoja, kun kaksi muuta kävelee pois häpeissään. Kortti kertoo konfliktista, jossa voitto voi maksaa enemmän kuin maistuu.",
+      "love": "Rakkaudessa se voi viitata konfliktiin, jossa molemmat osapuolet voivat hävitä, ja kysymykseen siitä, mikä todella on taistelun arvoista.",
+      "work": "Työssä kyse voi olla erimielisyydestä ja siitä, kuka voittaa ja millä hinnalla.",
+      "advice": "Valitse taistelusi harkiten.",
+      "element": "Ilma",
+      "astro": "Venus Vesimiehessä",
+      "number": "Viisi: haaste ja levottomuus"
+    },
+    {
+      "kw_up": [
+        "siirtymä",
+        "eteenpäin meneminen",
+        "myrskyn jälkeinen rauha",
+        "matka"
+      ],
+      "kw_rev": [
+        "pysähtyneisyys",
+        "lähtemisen vastustus",
+        "ratkaisemattomat asiat",
+        "paluu"
+      ],
+      "about": "Nainen ja lapsi ylittävät vettä veneessä, jossa on kuusi miekkaa, kohti tyyntä vettä. Kortti kertoo vaikeiden vesien jättämisestä taakse.",
+      "love": "Rakkaudessa se voi olla siirtymä rauhallisempaan, jotain mukaan kannettavana.",
+      "work": "Työssä kyse on vaihdoksesta, muutosta tai eteenpäin pääsemisestä vaativasta vaiheesta.",
+      "advice": "Siirry kohti rauhallisempia vesiä omaan tahtiisi.",
+      "element": "Ilma",
+      "astro": "Merkurius Vesimiehessä",
+      "number": "Kuusi: sopusointu ja siirtymä"
+    },
+    {
+      "kw_up": [
+        "viekkaus",
+        "strategia",
+        "salaisuus",
+        "välttely"
+      ],
+      "kw_rev": [
+        "paljastuminen",
+        "rehellisyys",
+        "omatunto",
+        "tunnustaminen"
+      ],
+      "about": "Mies hiipii pois leiristä viiden miekan kanssa, kaksi jää paikalleen. Kortti kertoo varovaisesti etenemisestä ja siitä, mitä vältämme sanomasta.",
+      "love": "Rakkaudessa kortti voi muistuttaa rehellisyydestä ja siitä, onko salaisuuksia.",
+      "work": "Työssä kyse voi olla taktiikasta tai omalla tiellä kulkemisesta ja kysymyksestä, mikä on oikein.",
+      "advice": "Ole avoin siitä, mitä teet.",
+      "element": "Ilma",
+      "astro": "Kuu Vesimiehessä",
+      "number": "Seitsemän: arviointi ja viekkaus"
+    },
+    {
+      "kw_up": [
+        "rajoitus",
+        "jumiutuminen",
+        "pelko",
+        "itse asetetut rajat"
+      ],
+      "kw_rev": [
+        "vapautuminen",
+        "uudet näkökulmat",
+        "ulospääsyn näkeminen",
+        "rohkeus"
+      ],
+      "about": "Nainen seisoo sidottuna ja silmät sidottuina kahdeksan miekan ympäröimänä vedessä. Kortti kertoo kiinni jäämisen tunteesta, vaikka ulospääsy on usein avoimempi kuin miltä näyttää.",
+      "love": "Rakkaudessa se voi viitata rajoittaviin ajatuksiin itsestäsi tai suhteesta.",
+      "work": "Työssä kyse on mahdollisuuksien näkemisestä silloinkin, kun tunnet olevasi lukossa.",
+      "advice": "Katso, ovatko rajat niin kiinteät kuin miltä näyttävät.",
+      "element": "Ilma",
+      "astro": "Jupiter Kaksosissa",
+      "number": "Kahdeksan: rajoitus ja liike"
+    },
+    {
+      "kw_up": [
+        "huoli",
+        "ahdistus",
+        "unettomuus",
+        "vatvominen"
+      ],
+      "kw_rev": [
+        "helpotus",
+        "taakan jakaminen",
+        "toivo",
+        "avun hakeminen"
+      ],
+      "about": "Henkilö istuu sängyssä kädet kasvoillaan ja yhdeksän miekkaa seinällä takanaan. Kortti kertoo raskaista ajatuksista keskellä yötä.",
+      "love": "Rakkaudessa kyse voi olla huolista, jotka kasvavat hiljaisuudessa, ja tarpeesta puhua niistä.",
+      "work": "Työssä kyse on stressistä ja kiertävistä ajatuksista sekä tuen pyytämisestä.",
+      "advice": "Jaa huolet jonkun kanssa, johon luotat.",
+      "element": "Ilma",
+      "astro": "Mars Kaksosissa",
+      "number": "Yhdeksän: huoli ja voimakkuus"
+    },
+    {
+      "kw_up": [
+        "pohjakosketus",
+        "päätös",
+        "loppu",
+        "uusi valo"
+      ],
+      "kw_rev": [
+        "ylös nouseminen",
+        "toipuminen",
+        "lopettamisen vastustus",
+        "dramatiikka"
+      ],
+      "about": "Hahmo makaa kymmenen miekkaa selässään, kun auringonnousu valaisee merta. Kortti kertoo tuskallisesta päätöksestä ja aamusta, joka silti koittaa.",
+      "love": "Rakkaudessa se voi olla päätös, joka tekee tilaa jollekin uudelle.",
+      "work": "Työssä se voi viitata raskaan jakson loppuun.",
+      "advice": "Pahin on takanapäin, ja valo palaa.",
+      "element": "Ilma",
+      "astro": "Aurinko Kaksosissa",
+      "number": "Kymmenen: päätökseen vieminen ja pohjakosketus"
+    },
+    {
+      "kw_up": [
+        "uteliaisuus",
+        "havainnointi",
+        "ideat",
+        "oppiminen"
+      ],
+      "kw_rev": [
+        "juoruilu",
+        "terävä kieli",
+        "pinnallisuus",
+        "impulsiivisuus"
+      ],
+      "about": "Nuori henkilö seisoo kohotettu miekka kädessään tuulessa ja pilvien alla. Kortti edustaa teräviä kysymyksiä ja intoa oppia.",
+      "love": "Rakkaudessa se voi olla keskusteluja ja uteliaisuutta toisesta.",
+      "work": "Työssä kyse voi olla oppimisesta, tiedosta ja uusista näkökulmista.",
+      "advice": "Kysy ja kuuntele.",
+      "element": "Ilma",
+      "astro": "Maa Ilmassa (alkuaineperinne)",
+      "number": "Sivu: viestintuoja ja aloittelija"
+    },
+    {
+      "kw_up": [
+        "vauhti",
+        "rohkeus",
+        "toimeliaisuus",
+        "kunnianhimo"
+      ],
+      "kw_rev": [
+        "kiire",
+        "kritiikki",
+        "kärsimättömyys",
+        "varomattomuus"
+      ],
+      "about": "Ritari ratsastaa täyttä laukkaa tuulta vasten miekka kohotettuna. Kortti edustaa nopeaa ajattelua ja toimeliaisuutta.",
+      "love": "Rakkaudessa se voi olla suoraa viestintää ja tarvetta ymmärtää molempia osapuolia.",
+      "work": "Työssä kyse on kunnianhimosta ja tehokkuudesta.",
+      "advice": "Ajattele ennen kuin iskee.",
+      "element": "Ilma",
+      "astro": "Tuli Ilmassa (alkuaineperinne)",
+      "number": "Ritari: liike ja toiminta"
+    },
+    {
+      "kw_up": [
+        "selkeys",
+        "riippumattomuus",
+        "rehellisyys",
+        "kokemus"
+      ],
+      "kw_rev": [
+        "kylmä kritiikki",
+        "katkeruus",
+        "eristäytyminen",
+        "kovuus"
+      ],
+      "about": "Kruunattu nainen istuu yksin valtaistuimella miekka ja ojennettu käsi. Kortti edustaa kirkasta näkemystä ja selkeää viestintää.",
+      "love": "Rakkaudessa kyse on rehellisyydestä ja selkeistä rajoista.",
+      "work": "Työssä kyse voi olla analyyttisestä arvostelukyvystä ja selkeästä puheesta.",
+      "advice": "Ole selkeä ja rehellinen, mutta lämmöllä.",
+      "element": "Ilma",
+      "astro": "Vesi Ilmassa (alkuaineperinne)",
+      "number": "Kuningatar: kypsyys ja sisäinen voima"
+    },
+    {
+      "kw_up": [
+        "äly",
+        "oikeudenmukaisuus",
+        "auktoriteetti",
+        "selkeä ajattelu"
+      ],
+      "kw_rev": [
+        "kylmä valta",
+        "manipulointi",
+        "kovuus",
+        "epäoikeudenmukaisuus"
+      ],
+      "about": "Kruunattu mies istuu valtaistuimella miekka kohotettuna pilvien ja tuulten taivaan alla. Kortti edustaa ajatusta, lakia ja oikeudenmukaisuutta.",
+      "love": "Rakkaudessa kyse on selkeästä viestinnästä ja oikeudenmukaisesta kohtelusta.",
+      "work": "Työssä kyse voi olla ammatillisesta painoarvosta ja arvioinneista.",
+      "advice": "Käytä ajatusta oikeudenmukaisuuden luomiseen.",
+      "element": "Ilma",
+      "astro": "Ilma Ilmassa (alkuaineperinne)",
+      "number": "Kuningas: mestaruus ja vastuu"
+    },
+    {
+      "kw_up": [
+        "uusi mahdollisuus",
+        "turvallisuus",
+        "siemen",
+        "aineellinen alku"
+      ],
+      "kw_rev": [
+        "menetetty mahdollisuus",
+        "huono suunnittelu",
+        "epävarmuus",
+        "lykätty"
+      ],
+      "about": "Käsi ojentaa pilvestä kultaisen kolikon kukkakaarella varustetun puutarhan yllä. Kortti kertoo konkreettisesta siemenestä, josta voi kasvaa jotain.",
+      "love": "Rakkaudessa se voi olla uusi ja maanläheinen alku, joka tuntuu turvalliselta.",
+      "work": "Työssä se voi olla uusi työpaikka, idea tai konkreettinen mahdollisuus, joka voi juurtua.",
+      "advice": "Istuta siemen ja pidä siitä huolta.",
+      "element": "Maa",
+      "astro": "Maan juuri: alkuaineen puhdas voima",
+      "number": "Ässä: siemen ja alku"
+    },
+    {
+      "kw_up": [
+        "tasapaino",
+        "sopeutuminen",
+        "joustavuus",
+        "priorisointi"
+      ],
+      "kw_rev": [
+        "epätasapaino",
+        "ylikuormitus",
+        "epäjärjestys",
+        "yleiskuvan menettäminen"
+      ],
+      "about": "Mies jongleeraa kahdella äärettömyysmerkillä yhdistetyllä kolikolla, kun laivat keinuvat aalloilla taustalla. Kortti kertoo useiden asioiden pitämisestä liikkeessä.",
+      "love": "Rakkaudessa kyse on ajan ja energian tasapainottamisesta.",
+      "work": "Työssä kyse on joustavuudesta ja priorisoinnista.",
+      "advice": "Löydä rytmi ja priorisoi.",
+      "element": "Maa",
+      "astro": "Jupiter Kauriissa",
+      "number": "Kaksi: tasapaino ja kaksinaisuus"
+    },
+    {
+      "kw_up": [
+        "yhteistyö",
+        "käsityö",
+        "oppiminen",
+        "tiimityö"
+      ],
+      "kw_rev": [
+        "erimielisyys",
+        "huono yhteistyö",
+        "keskeneräisyys",
+        "huolimattomuus"
+      ],
+      "about": "Käsityöläinen työskentelee kirkossa, kun kaksi muuta katsoo piirustusta. Kortti kertoo yhteistyöstä ja laadusta.",
+      "love": "Rakkaudessa se voi viitata siihen, että rakentaa jotain yhdessä askel kerrallaan.",
+      "work": "Työssä kyse on taidosta, yhteistyöstä ja palautteesta.",
+      "advice": "Rakenna yhdessä ja kuuntele niitä, jotka tietävät enemmän.",
+      "element": "Maa",
+      "astro": "Mars Kauriissa",
+      "number": "Kolme: kasvu ja ilmaisu"
+    },
+    {
+      "kw_up": [
+        "turvallisuus",
+        "säästäväisyys",
+        "kontrolli",
+        "vakaus"
+      ],
+      "kw_rev": [
+        "ahneus",
+        "hamstraus",
+        "otteen höllentäminen",
+        "vapautuminen"
+      ],
+      "about": "Mies istuu kolikot jalkojensa alla ja yksi kolikko päässään, pitäen yhtä kolikkoa rintaansa vasten. Kortti kertoo turvallisuudesta ja kontrollista.",
+      "love": "Rakkaudessa se voi viitata kontrollin ja turvallisuuden tarpeeseen sekä avautumiseen.",
+      "work": "Työssä kyse on vakaudesta ja säästäväisyydestä.",
+      "advice": "Pidä kiinni siitä, mikä antaa turvaa, sulkeutumatta sisään.",
+      "element": "Maa",
+      "astro": "Aurinko Kauriissa",
+      "number": "Neljä: perusta ja vakaus"
+    },
+    {
+      "kw_up": [
+        "vastoinkäyminen",
+        "ulkopuolisuus",
+        "huoli",
+        "tarve"
+      ],
+      "kw_rev": [
+        "paraneminen",
+        "apu",
+        "ulospääsy",
+        "tuki"
+      ],
+      "about": "Kaksi hahmoa kulkee lumessa valaistun kirkonikkunan ohi. Kortti kertoo kylmästä jaksosta, jossa apu voi olla lähempänä kuin luulee.",
+      "love": "Rakkaudessa se voi viitata yksinäisyyteen tai ulkopuolisuuden tunteeseen ja siihen, että tukea saa pyytää.",
+      "work": "Työssä kyse on vaikeasta jaksosta ja tuen tarpeesta.",
+      "advice": "Pyydä apua, se voi olla lähellä.",
+      "element": "Maa",
+      "astro": "Merkurius Härässä",
+      "number": "Viisi: haaste ja puute"
+    },
+    {
+      "kw_up": [
+        "anteliaisuus",
+        "jakaminen",
+        "oikeudenmukaisuus",
+        "tuki"
+      ],
+      "kw_rev": [
+        "velka",
+        "eriarvoisuus",
+        "itsekkyys",
+        "epätasapaino"
+      ],
+      "about": "Kauppias jakaa kolikoita vaaka kädessään, ja kaksi pyytää apua. Kortti kertoo antamisesta ja saamisesta tasapainossa.",
+      "love": "Rakkaudessa kyse on vastavuoroisuudesta siinä, mitä annetaan ja otetaan.",
+      "work": "Työssä kyse on palkasta, oikeudenmukaisesta jaosta ja tuesta.",
+      "advice": "Anna ja ota vastaan yhtä suurin käsin.",
+      "element": "Maa",
+      "astro": "Kuu Härässä",
+      "number": "Kuusi: sopusointu ja vaihto"
+    },
+    {
+      "kw_up": [
+        "kärsivällisyys",
+        "arviointi",
+        "pitkäjänteisyys",
+        "sadonkorjuu"
+      ],
+      "kw_rev": [
+        "kärsimättömyys",
+        "huono sijoitus",
+        "palkkion puute",
+        "turhautuminen"
+      ],
+      "about": "Mies nojaa kuokkaan ja katsoo pensasta, jossa on seitsemän kolikkoa. Kortti kertoo odottamisesta ja työn hedelmien arvioinnista.",
+      "love": "Rakkaudessa kyse on siitä, että antaa jonkin kasvaa eikä painosta.",
+      "work": "Työssä kyse on pitkäjänteisestä ponnistelusta ja tulosten arvioinnista.",
+      "advice": "Anna aikaa ja katso, mitä olet kylvänyt.",
+      "element": "Maa",
+      "astro": "Saturnus Härässä",
+      "number": "Seitsemän: arviointi ja kärsivällisyys"
+    },
+    {
+      "kw_up": [
+        "käsityö",
+        "harjoitus",
+        "keskittyminen",
+        "taitavuus"
+      ],
+      "kw_rev": [
+        "perfektionismi",
+        "kömpelyys",
+        "toisto",
+        "keskittymisen puute"
+      ],
+      "about": "Käsityöläinen takoo kolikkoa sauvaan, ja seitsemän valmista kolikkoa on hänen vieressään. Kortti kertoo ahkeruudesta ja harjoittelusta.",
+      "love": "Rakkaudessa kyse on ponnistelusta ja huolenpidosta pienissä asioissa.",
+      "work": "Työssä kyse on taitojen kehittämisestä ja syventymisestä.",
+      "advice": "Harjoittele ja anna laadun kasvaa.",
+      "element": "Maa",
+      "astro": "Aurinko Neitsyessä",
+      "number": "Kahdeksan: mestaruus ja kehitys"
+    },
+    {
+      "kw_up": [
+        "itsenäisyys",
+        "yltäkylläisyys",
+        "hienostuneisuus",
+        "turvallisuus"
+      ],
+      "kw_rev": [
+        "riippuvuus",
+        "liiallinen kontrolli",
+        "yksinäisyys",
+        "turvan menettäminen"
+      ],
+      "about": "Nainen seisoo viinitarhassa haukka kädellään ja kolikoita ympärillään. Kortti kertoo itsenäisyydestä ja oman työn hedelmistä.",
+      "love": "Rakkaudessa kyse on itsenäisyydestä ja turvallisuudesta itsessään.",
+      "work": "Työssä se voi viitata varmaan asemaan ja tunnustettuun panokseen.",
+      "advice": "Nauti oman työsi hedelmistä.",
+      "element": "Maa",
+      "astro": "Venus Neitsyessä",
+      "number": "Yhdeksän: lähes valmis ja itsenäisyys"
+    },
+    {
+      "kw_up": [
+        "perintö",
+        "perhe",
+        "pitkän aikavälin turvallisuus",
+        "yhteisö"
+      ],
+      "kw_rev": [
+        "perhekonflikti",
+        "epävakaus",
+        "juurten menetys",
+        "perintöriita"
+      ],
+      "about": "Vanha mies istuu koiran sekä pariskunnan ja lapsen kanssa kymmenen kolikon koristaman portin alla. Kortti kertoo suvusta, kodista ja siitä, mikä periytyy.",
+      "love": "Rakkaudessa kyse on pitkäaikaisesta turvallisuudesta ja yhteisestä elämästä.",
+      "work": "Työssä kyse on vakaudesta, perinteestä ja pitkäjänteisestä rakentamisesta.",
+      "advice": "Rakenna niille, jotka tulevat sinun jälkeesi.",
+      "element": "Maa",
+      "astro": "Merkurius Neitsyessä",
+      "number": "Kymmenen: päätökseen vieminen ja perintö"
+    },
+    {
+      "kw_up": [
+        "opiskelu",
+        "maanläheisyys",
+        "uteliaisuus",
+        "potentiaali"
+      ],
+      "kw_rev": [
+        "tarkkaamattomuus",
+        "viivyttely",
+        "epäselvät tavoitteet",
+        "kunnianhimon puute"
+      ],
+      "about": "Nuori henkilö seisoo vihreällä niityllä ja tutkii kolikkoa käsissään. Kortti edustaa oppimisen halua ja maanläheistä siementä.",
+      "love": "Rakkaudessa se voi olla rauhallinen ja vilpitön alku.",
+      "work": "Työssä kyse on oppimisesta ja käytännön askelista.",
+      "advice": "Ota yksi käytännön askel kerrallaan.",
+      "element": "Maa",
+      "astro": "Maa Maassa (alkuaineperinne)",
+      "number": "Sivu: viestintuoja ja aloittelija"
+    },
+    {
+      "kw_up": [
+        "luotettavuus",
+        "ahkeruus",
+        "kärsivällisyys",
+        "rutiini"
+      ],
+      "kw_rev": [
+        "tylsyys",
+        "jääräpäisyys",
+        "hitaus",
+        "perfektionismi"
+      ],
+      "about": "Ritari pitää kolikkoa istuessaan rauhallisella mustalla hevosella kynnetyllä pellolla. Kortti edustaa vakaata ja perusteellista ponnistelua.",
+      "love": "Rakkaudessa kyse on uskollisuudesta ja säännöllisestä huolenpidosta.",
+      "work": "Työssä kyse on perusteellisuudesta ja luotettavuudesta.",
+      "advice": "Pidä tasainen vauhti ja tee se huolella.",
+      "element": "Maa",
+      "astro": "Tuli Maassa (alkuaineperinne)",
+      "number": "Ritari: liike ja toiminta"
+    },
+    {
+      "kw_up": [
+        "hoiva",
+        "käytännöllisyys",
+        "anteliaisuus",
+        "turvallisuus"
+      ],
+      "kw_rev": [
+        "huoli",
+        "materialismi",
+        "ylityö",
+        "itsensä laiminlyönti"
+      ],
+      "about": "Kruunattu nainen istuu kukkivassa puutarhassa kolikko sylissään ja jänis lähellä. Kortti edustaa käytännöllistä huolenpitoa ja lämpöä.",
+      "love": "Rakkaudessa kyse on huolenpidosta ja kodikkuuden luomisesta.",
+      "work": "Työssä kyse on resurssien ja ihmisten hoitamisesta.",
+      "advice": "Pidä huolta itsestäsi ja ympärilläsi olevista.",
+      "element": "Maa",
+      "astro": "Vesi Maassa (alkuaineperinne)",
+      "number": "Kuningatar: kypsyys ja sisäinen voima"
+    },
+    {
+      "kw_up": [
+        "vakaus",
+        "resurssit",
+        "kokemus",
+        "luotettava johtajuus"
+      ],
+      "kw_rev": [
+        "jääräpäisyys",
+        "saituus",
+        "materialismi",
+        "jäykkyys"
+      ],
+      "about": "Kruunattu mies istuu härillä koristellulla valtaistuimella kolikko ja valtikka kädessään viinirypäleitä täynnä olevassa puutarhassa. Kortti edustaa täysin kehittynyttä turvallisuutta ja vankkaa johtajuutta.",
+      "love": "Rakkaudessa kyse on turvallisuudesta, luotettavuudesta ja käytännön tuesta.",
+      "work": "Työssä kyse on vakaudesta, kokemuksesta ja kyvystä rakentaa.",
+      "advice": "Rakenna lujasti ja jaa ylijäämä.",
+      "element": "Maa",
+      "astro": "Ilma Maassa (alkuaineperinne)",
+      "number": "Kuningas: mestaruus ja vastuu"
+    }
+  ]
+}

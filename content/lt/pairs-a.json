@@ -1,0 +1,1324 @@
+{
+ "pairs": [
+  {
+   "a": 0,
+   "b": 1,
+   "general": "Kvailio atvirumas čia sutinka Mago sąmoningą valią: pradžia gauna įrankius, o įrankiai – drąsos jais pasinaudoti. Įtampa slypi tarp lengvo spontaniškumo ir tikslaus veiksmo; kai jie dera, polėkis virsta kūryba, o ne atsitiktinumu.",
+   "love": "Santykiuose ši pora kalba apie žaismingą, bet nuoširdžią pradžią: drįsti žengti pirmą žingsnį ir aiškiai pasakyti, ko norite.",
+   "work": "Darbe tai geras ženklas naujam projektui, kai idėja jau turi pirmuosius įrankius. Verta nepamiršti trumpo plano.",
+   "advice": "Žengkite pirmą žingsnį, bet žinokite, ką laikote rankose."
+  },
+  {
+   "a": 0,
+   "b": 2,
+   "general": "Kvailys ruošiasi šuoliui, o Žynė tyloje stovi prie šydo: viena korta traukia pirmyn, kita prašo pirma įsiklausyti. Kartu jos sako, kad nauja pradžia gali būti išmintingesnė, jei leisite nuojautai pasiūlyti kryptį.",
+   "love": "Meilėje čia gali būti trauka, kurios dar nesinori įvardyti, ir kvietimas nelaukti aiškių atsakymų – leiskite artumui atsiskleisti lėtai.",
+   "work": "Darbe pradžiai gali padėti stebėjimas: pasižiūrėkite, ką jaučiate dėl naujo kelio, prieš pasirašydami po juo.",
+   "advice": "Prieš šokdami, paklausykite savo vidinio balso."
+  },
+  {
+   "a": 0,
+   "b": 3,
+   "general": "Kvailio lengvumas sutinka Imperatorės gausą: tai pradžia, kuriai lemta augti, jei ją puoselėsite. Spontaniškas džiaugsmas čia randa žemę, kurioje gali įsišaknyti.",
+   "love": "Meilėje tai šiluma, žaismė ir švelnus noras rūpintis, ypač kai santykiai dar tik pradeda skleistis.",
+   "work": "Darbe tai gali būti kūrybinis sumanymas, kuriam leidžiama augti savo tempu, be skubos ir be perdėtų reikalavimų.",
+   "advice": "Pasėkite naują sumanymą ir duokite jam laiko augti."
+  },
+  {
+   "a": 0,
+   "b": 4,
+   "general": "Kvailys trokšta laisvės, Imperatorius – tvarkos: tai ryškus kontrastas tarp polėkio ir ribų. Ši pora klausia, kaip suteikti naujovei rėmus, kurie jos nesuspaustų ir nepaverstų narvu.",
+   "love": "Santykiuose įtampa gali kilti tarp noro likti laisviems ir poreikio saugumui; gražiausia, kai kiekvienas gerbia kito ritmą.",
+   "work": "Darbe verta naują reikalą pradėti su aiškia struktūra, bet palikti vietos improvizacijai.",
+   "advice": "Susiplanuokite tik tiek, kad polėkis turėtų pamatus."
+  },
+  {
+   "a": 0,
+   "b": 5,
+   "general": "Kvailys eina savo keliu, o Šventikas primena perduotą išmintį. Čia susitinka smalsus naujokas ir tradicija: pirmasis klausia „kodėl?“, antrasis atsako „taip buvo išbandyta“. Abu gali kai ką išmokti vienas iš kito.",
+   "love": "Meilėje tai gali būti pasirengimas pereiti nuo lengvo pažinimo prie bendrų vertybių ir ilgesnio ryšio, jei to norite abu.",
+   "work": "Darbe pravartu rasti mentorių ir drąsiai užduoti klausimus, kurių kiti nedrįsta.",
+   "advice": "Mokykitės iš patyrusių, bet nepamirškite savo smalsumo."
+  },
+  {
+   "a": 0,
+   "b": 6,
+   "general": "Kvailys žengia be žemėlapio, Mylimieji stovi prie pasirinkimo. Ši pora kalba apie atvirą širdį ir sprendimą, kuris priimamas pagal tai, kas jaučiama, o ne pagal išankstinius lūkesčius. Pavojus – pasirinkti per greitai, nepažvelgus į pasekmes.",
+   "love": "Meilėje tai gali būti nauja trauka arba atsinaujinimas, kai ryšys pradedamas nuo nuoširdumo, be žaidimų.",
+   "work": "Darbe čia gali būti bendradarbiavimo pradžia arba pasirinkimas pagal vertybes, o ne vien pagal naudą.",
+   "advice": "Rinkitės atvira širdimi, bet pasitikrinkite, ar žinote, ką renkatės."
+  },
+  {
+   "a": 0,
+   "b": 7,
+   "general": "Kvailys be kelrodžio ir Vežimas, kurį vairuoja valia, yra du judėjimo būdai: vienas klaidžioja iš smalsumo, kitas veržiasi pergalės. Kartu jie gali duoti stiprų postūmį, jei polėkis gauna kryptį.",
+   "love": "Santykiuose tai energija, noras judėti kartu ir nuotykių ieškojimas; verta stebėti, ar neskubate aplenkti vienas kito.",
+   "work": "Darbe tai skatina pradėti drąsų projektą su aiškiu tikslu, kad greitis neišsklaidytų jėgų.",
+   "advice": "Duokite savo entuziazmui kryptį ir tik tada spauskite greičiau."
+  },
+  {
+   "a": 0,
+   "b": 8,
+   "general": "Kvailys žengia lengvai, Stiprybė moko švelnios drąsos. Kartu jos rodo, kad tikra pradžia remiasi ne bravūra, o ramybe: galite būti atviri naujam ir kartu jausti savo vidinę jėgą.",
+   "love": "Meilėje čia pasirodo švelnumas, kantrybė ir drąsa būti pažeidžiamiems, ypač pradedant naują ryšį.",
+   "work": "Darbe tai gali reikšti ramų pasitikėjimą savimi imantis kažko nepažįstamo – be triukšmo ir pasirodymų.",
+   "advice": "Žingsniuokite švelniai, bet tvirtai."
+  },
+  {
+   "a": 0,
+   "b": 9,
+   "general": "Kvailys leidžiasi į kelią, Atsiskyrėlis su žibintu grįžta į vidų. Viena korta ieško išorinio nuotykio, kita – vidinio šviesos šaltinio. Ši pora kviečia pradėti iš savo paties aiškumo, o ne iš kitų lūkesčių.",
+   "love": "Meilėje tai gali būti laikas pabūti su savimi prieš atsiveriant kitam arba atsargus, bet nuoširdus artėjimas.",
+   "work": "Darbe prieš imantis naujo kelio verta pasikalbėti su savimi apie tai, ko iš tiesų norite.",
+   "advice": "Pirma užsidekite savo žibintą, tada eikite."
+  },
+  {
+   "a": 0,
+   "b": 10,
+   "general": "Kvailys stovi ant slenksčio, Likimo ratas sukasi: pradžia susitinka su permaina. Ši pora primena, kad ne viskas priklauso nuo mūsų, bet atvirumas pokyčiams gali padėti pastebėti pasitaikiusią progą.",
+   "love": "Santykiuose gali pasirodyti netikėtas posūkis ar sutapimas; atvirumas leidžia jį pastebėti.",
+   "work": "Darbe tai pokytis, kurio nesitikėjote – verta jį sutikti smalsiai ir lanksčiai.",
+   "advice": "Prisitaikykite prie rato sukimosi, nepamesdami savo kelio."
+  },
+  {
+   "a": 0,
+   "b": 11,
+   "general": "Kvailys šoka į nežinią, Teisingumas sveria pasekmes. Ši pora klausia, ar drąsa dera su atsakomybe: pradžia gali būti graži, jei žinote, ką ji įpareigoja. Tai pusiausvyra tarp lengvumo ir sąžiningumo.",
+   "love": "Meilėje tai kvietimas būti sąžiningiems jau pačioje pradžioje: aiškiai pasakyti, ko norite ir ko ne.",
+   "work": "Darbe verta perskaityti smulkų šriftą prieš pasirašant ir pasverti naujus įsipareigojimus.",
+   "advice": "Būkite atviri, bet pasverkite pasekmes."
+  },
+  {
+   "a": 0,
+   "b": 12,
+   "general": "Kvailys nori judėti, Pakabintasis laukia apsivertęs. Ši pora rodo sustojimą, kuris keičia požiūrį: pradžiai gali tekti palaukti, o laukimas leidžia pamatyti viską kitaip. Įtampa tarp skubėjimo ir sustojimo gali pasirodyti kaip erzinantis lėtumas.",
+   "love": "Meilėje tai gali būti pauzė, kurioje persvarstote lūkesčius, o ne priverstinis užbaigimas.",
+   "work": "Darbe projektas gali sustoti, kad susiformuotų naujas požiūris į jį.",
+   "advice": "Leiskite sustojimui pakeisti tai, kaip žiūrite į pradžią."
+  },
+  {
+   "a": 0,
+   "b": 13,
+   "general": "Kvailys ir Mirtis – pradžia ir pabaiga, kurios iš tikrųjų palaiko viena kitą. Viena korta užbaigia seną etapą, kita leidžia žengti į naują be nereikalingo bagažo. Čia kalbama apie virsmą, o ne apie nuostolį.",
+   "love": "Meilėje tai gali reikšti atsisveikinimą su senu modeliu ir naują, švaresnę pradžią.",
+   "work": "Darbe vieno etapo pabaiga gali atverti vietos naujam, jei nebijote paleisti to, kas jau išsisėmė.",
+   "advice": "Paleiskite seną, kad naujai pradžiai atsirastų vietos."
+  },
+  {
+   "a": 0,
+   "b": 14,
+   "general": "Kvailys veržiasi, Nuosaikumas moko saiko. Ši pora rodo, kaip polėkis gali tapti žingsnis po žingsnio einamu keliu: be skubos, bet ir be užsigulėjimo. Tai darnus derinys, kuriame spontaniškumas mokosi kantrybės.",
+   "love": "Meilėje ši pora kalba apie lėtą, švelnų susipažinimą ir gebėjimą derinti du skirtingus ritmus.",
+   "work": "Darbe verta pradėti nuosekliai, išbandyti ir koreguoti, nesiveržiant į kraštutinumus.",
+   "advice": "Pradėkite lengvai ir derinkite savo tempą su aplinkos tempu."
+  },
+  {
+   "a": 0,
+   "b": 15,
+   "general": "Kvailys atrodo laisvas, o Velnio grandinės yra tokios laisvos, kad galima jas nusimesti. Ši pora atkreipia dėmesį į potraukius ir įpročius, kurie apsunkina lengvą žingsnį. Klausimas paprastas: ar jūsų pasirinkimas tikrai laisvas, ar tik toks atrodo?",
+   "love": "Meilėje gali atsirasti stipri trauka, kurią verta apžvelgti atidžiai: kas jus traukia ir ar jaučiatės laisvi.",
+   "work": "Darbe gali kilti pagunda greitam pelnui ar patogiam įpročiui, kuris riboja naujų kelių paieškas.",
+   "advice": "Pažvelkite, kas jus laiko, ir nuspręskite, ar norite to laikytis."
+  },
+  {
+   "a": 0,
+   "b": 16,
+   "general": "Kvailys eina pro skardžio kraštą, o Bokštas griūva – staigus tiesos blyksnis. Ši pora rodo netikėtą posūkį, kuris išardo tai, kas buvo netvirta, ir palieka vietos naujai pradžiai. Tai ne bausmė, o išsilaisvinimo ženklas.",
+   "love": "Meilėje tai gali būti staigus aiškumas, atskleidžiantis, kas tikra, o kas tik atrodė.",
+   "work": "Darbe netikėtas pokytis gali priversti persvarstyti planą ir pradėti iš naujo ant tvirtesnio pagrindo.",
+   "advice": "Leiskite tiesai pasirodyti ir pradėkite iš naujo."
+  },
+  {
+   "a": 0,
+   "b": 17,
+   "general": "Kvailys žengia į naują kelią, Žvaigždė žiba viltimi. Kartu jos žada ramią, bet gilią pradžią, kurioje atvirumas dera su tikėjimu. Tai kvietimas pasitikėti tuo, kas ateina, nebandant jo kontroliuoti.",
+   "love": "Meilėje tai švelnus atsinaujinimas ir pasitikėjimas po sunkesnio laikotarpio.",
+   "work": "Darbe verta pradėti naują kryptį pagal ilgalaikį savo troškimą, o ne pagal trumpalaikes mados.",
+   "advice": "Žengkite pirmyn su viltimi ir ramiu pasitikėjimu."
+  },
+  {
+   "a": 0,
+   "b": 18,
+   "general": "Kvailys eina į priekį naktį, o Mėnulis apšviečia kelią nedrąsia šviesa. Ši pora kalba apie pradžią, kurioje daug kas neaišku: viena vertus, kviečia į nežinią, kita vertus, primena, kad baimės ir iliuzijos gali iškreipti vaizdą.",
+   "love": "Meilėje gali būti netikrumo ar neaiškių jausmų; verta nesiskubinti ir žiūrėti, kas realu.",
+   "work": "Darbe žengiant naujo kelio link gali trūkti informacijos – pirma surinkite daugiau žinių.",
+   "advice": "Eikite lėtai, kol kelias taps matomas."
+  },
+  {
+   "a": 0,
+   "b": 19,
+   "general": "Kvailys ir Saulė – dvi džiaugsmingiausios kortos: nekaltas smalsumas sutinka atvirą šviesą. Ši pora kalba apie lengvą, žaismingą pradžią, kupiną energijos ir pasitikėjimo. Tik nepamirškite, kad ir džiaugsmui kartais verta žvilgtelėti po kojomis.",
+   "love": "Meilėje čia šiluma, nuoširdus juokas ir paprastas buvimas kartu.",
+   "work": "Darbe naujas projektas gali įsibėgėti su entuziazmu ir kitų palaikymu.",
+   "advice": "Džiaukitės pradžia ir dalykitės šviesa."
+  },
+  {
+   "a": 0,
+   "b": 20,
+   "general": "Kvailys pradeda iš naujo, Nuosprendis kviečia pakilti ir atsiliepti į savo šaukinį. Ši pora rodo, kad nauja pradžia gali būti ne atsitiktinė, o brandi: po apmąstymų ateina aiškumas, kuo norite tapti.",
+   "love": "Meilėje tai gali būti atleidimas ir naujas etapas, kai leidžiate praeičiai pasitraukti.",
+   "work": "Darbe verta apsvarstyti kryptį keisti, kai ilgai brendo vidinis pašaukimas.",
+   "advice": "Atsiliepkite į savo šaukinį ir žengkite pirmą žingsnį."
+  },
+  {
+   "a": 0,
+   "b": 21,
+   "general": "Kvailys ir Pasaulis – ciklo pradžia ir pabaiga. Viena korta rodo pirmą žingsnį, kita – užbaigtumą; kartu jos primena, kad kiekviena pabaiga atveria naują ratą. Ši pora kviečia pažvelgti į kelią kaip į visumą.",
+   "love": "Meilėje tai gali būti užbaigtumo jausmas ir drąsa pradėti naują skyrių, pasiimant tai, ko išmokote.",
+   "work": "Darbe projektas artėja prie pabaigos, o nauja idėja jau ruošiasi pasirodyti.",
+   "advice": "Švęskite tai, ką užbaigėte, ir atsiverkite kitam žingsniui."
+  },
+  {
+   "a": 1,
+   "b": 2,
+   "general": "Magas veikia, Žynė laukia: valia sutinka nuojautą. Kai jos dera, veiksmas gimsta iš vidinio žinojimo; kai ne – gali atsirasti įtampa tarp noro viską paaiškinti ir poreikio patylėti.",
+   "love": "Meilėje tai tarsi pokalbis tarp žodžių ir tylos: kalbėkite aiškiai, bet leiskite ir neištartam būti išgirstam.",
+   "work": "Darbe geriausia derinti planą su intuicija ir neskubėti atverti visų kortų.",
+   "advice": "Veikite tada, kai nuojauta ir protas sako tą patį."
+  },
+  {
+   "a": 1,
+   "b": 3,
+   "general": "Magas pradeda, Imperatorė puoselėja: idėja randa dirvą, kurioje gali augti. Ši pora kalba apie kūrybinį vaisingumą, kai įgūdžiai sutinka rūpestį.",
+   "love": "Meilėje tai šilti, juslūs santykiai, kuriuose abu aktyviai prisideda prie bendro džiaugsmo.",
+   "work": "Darbe sumanymas, paremtas gebėjimais, gali įgauti formą ir išaugti į kažką vertingo.",
+   "advice": "Panaudokite savo įgūdžius tam, kas gali augti."
+  },
+  {
+   "a": 1,
+   "b": 4,
+   "general": "Magas siūlo idėjas, Imperatorius – struktūrą. Kartu jie rodo, kaip įkvėpimas virsta tvariu rezultatu, jei yra aiškūs rėmai. Įtampa kyla, kai planavimas užgožia kūrybinę ugnį arba atvirkščiai.",
+   "love": "Meilėje čia gali būti aiškus, patikimas ryšys, kuriame abu žino, ko nori, ir sako tai tiesiai.",
+   "work": "Darbe tai stiprus derinys projektui vadovauti: turite ir idėjų, ir planą.",
+   "advice": "Duokite savo idėjai tvirtą pamatą."
+  },
+  {
+   "a": 1,
+   "b": 5,
+   "general": "Magas veikia pats, Šventikas mokosi iš tradicijos. Ši pora kalba apie žinių įgijimą ir taikymą: mokytojo perduotas įgūdis tampa jūsų pačių įrankiu. Pavojus – per daug pasikliauti taisyklėmis arba jų visai nepaisyti.",
+   "love": "Meilėje tai gali būti bendrų vertybių aptarimas ir ryšio, turinčio gilumos, kūrimas.",
+   "work": "Darbe puikiai tinka mokymasis, mentorystė ir žinių pavertimas praktika.",
+   "advice": "Mokykitės iš kitų, bet įgyvendinkite savaip."
+  },
+  {
+   "a": 1,
+   "b": 6,
+   "general": "Magas sąmoningai renkasi, Mylimieji stovi prie sprendimo: valia ir širdis ieško bendros krypties. Ši pora rodo, kad pasirinkimas yra veiksmas, o ne tik jausmas, ir kad jį reikia aiškiai išreikšti.",
+   "love": "Meilėje tai nuoširdus pokalbis apie ryšį ir aiškus apsisprendimas, atvirai išsakytas.",
+   "work": "Darbe gali atsirasti bendradarbiavimas, pagrįstas pasitikėjimu ir bendromis vertybėmis.",
+   "advice": "Pasakykite, ko iš tiesų norite, ir veikite pagal tai."
+  },
+  {
+   "a": 1,
+   "b": 7,
+   "general": "Magas turi įrankius, Vežimas – kryptį ir ryžtą. Ši pora kalba apie sutelktą veiksmą, nukreiptą į tikslą. Tai dvi stiprios valios kortos; jei jos nesutaria, gali sutrikti pusiausvyra tarp kontrolės ir impulsų.",
+   "love": "Meilėje čia aktyvi, ryžtinga energija; svarbu klausytis, o ne tik varyti pirmyn.",
+   "work": "Darbe puikus metas siekti tikslo, kai turite ir įgūdžių, ir motyvacijos.",
+   "advice": "Nukreipkite savo įgūdžius į vieną tikslą."
+  },
+  {
+   "a": 1,
+   "b": 8,
+   "general": "Magas valdo įrankius, Stiprybė valdo save. Kartu jos rodo jėgą be prievartos: veiksmą, kuris kyla iš susitelkimo ir švelnumo, o ne iš spaudimo. Tai pora apie vidinį meistriškumą.",
+   "love": "Meilėje tai kantrus, švelnus bendravimas, kuriame stiprybė reiškiasi per pasitikėjimą.",
+   "work": "Darbe sėkmę gali lemti ramus pasitikėjimas savo gebėjimais ir tolygus darbas.",
+   "advice": "Veikite ramiai ir pasitikėdami savimi."
+  },
+  {
+   "a": 1,
+   "b": 9,
+   "general": "Magas veikia pasaulyje, Atsiskyrėlis žvelgia į vidų. Ši pora kalba apie ryšį tarp veiksmo ir apmąstymo: pirma pamatykite, tada darykite. Įtampa kyla tarp noro rodytis ir poreikio pasitraukti.",
+   "love": "Meilėje gali kilti poreikis pabūti su savimi arba nuoširdžiai pasikalbėti apie tai, ko ieškote.",
+   "work": "Darbe padeda apmąstyti, kam iš tiesų skiriate savo gebėjimus, prieš imantis veikti.",
+   "advice": "Trumpam pasitraukite, kad veiktumėte aiškiau."
+  },
+  {
+   "a": 1,
+   "b": 10,
+   "general": "Magas kuria savo galimybes, Likimo ratas sukasi pats. Ši pora rodo, kad pastangos ir atsitiktinumas veikia kartu: galite paruošti dirvą, bet momento ne visada nulemiate patys.",
+   "love": "Meilėje tai gali būti laiku pasitaikęs susitikimas ar sutapimas, kurį verta paremti savo pastangomis.",
+   "work": "Darbe proga gali atsirasti netikėtai; pasiruošusiems ja pasinaudoti lengviau.",
+   "advice": "Būkite pasiruošę, kai ratas pasisuks."
+  },
+  {
+   "a": 1,
+   "b": 11,
+   "general": "Magas veikia, Teisingumas vertina: veiksmas ir atsakomybė eina greta. Ši pora kalba apie sąmoningus sprendimus, kurių pasekmes esate pasirengę priimti.",
+   "love": "Meilėje tai sąžiningumas ir tiesus pokalbis be manipuliavimo.",
+   "work": "Darbe verta rašyti sutartis, aiškiai susitarti ir veikti skaidriai.",
+   "advice": "Veikite taip, kad galėtumėte atsakyti už rezultatą."
+  },
+  {
+   "a": 1,
+   "b": 12,
+   "general": "Magas veikia, Pakabintasis sustoja. Tai du priešingi judesiai: aktyvumas ir pasidavimas. Ši pora kviečia pamatyti, kad kartais geriausias veiksmas yra nekeisti vietos ir pažvelgti iš kitos pusės.",
+   "love": "Meilėje tai gali būti metas nustoti stengtis ir naujai pažvelgti į ryšį.",
+   "work": "Darbe sustojimas gali parodyti kitą kelią, kurio nematėte eidami tiesiai.",
+   "advice": "Sustokite ir pažvelkite iš kitos pusės."
+  },
+  {
+   "a": 1,
+   "b": 13,
+   "general": "Magas kuria, Mirtis užbaigia. Ši pora rodo, kad kūrimas ir baigimas yra vienas procesas: kad gimtų kažkas naujo, kažkas sena turi pasitraukti. Tai virsmo, o ne praradimo ženklas.",
+   "love": "Meilėje tai gali būti perėjimas į kitą ryšio etapą, jei esate pasirengę paleisti seną modelį.",
+   "work": "Darbe gali tekti užbaigti projektą ar įprotį, kad atsirastų vietos naujam.",
+   "advice": "Užbaikite tai, kas atgyveno, ir kurkite iš naujo."
+  },
+  {
+   "a": 1,
+   "b": 14,
+   "general": "Magas ir Nuosaikumas – du meistrai: vienas keičia pasaulį valia, kitas derina priešybes kantrybe. Ši pora kalba apie įgūdžius, tobulinamus saikingai, kai viskas daroma tinkamu metu ir tinkamu kiekiu.",
+   "love": "Meilėje tai darnus bendravimas, kuriame žodžių ir tylos yra tiek, kiek reikia.",
+   "work": "Darbe gerai sekasi tolygi, nuosekliai tobulinama praktika.",
+   "advice": "Derinkite pastangas su kantrybe."
+  },
+  {
+   "a": 1,
+   "b": 15,
+   "general": "Magas sutinka Velnią: valia prieš aistrą, įgūdis prieš priklausomybę. Ši pora klausia, ar jūs valdote savo troškimus, ar jie valdo jus. Čia svarbi tiesa apie motyvus, o ne smerkimas.",
+   "love": "Meilėje tai stipri trauka; verta patikrinti, ar bendravimas atviras ir ar abu laisvi.",
+   "work": "Darbe gali kilti pagunda pasinaudoti įtaka ar sugebėjimais ne visai sąžiningai; verta sau atsakyti, kam tarnaujate.",
+   "advice": "Pažvelkite į savo motyvus ir rinkitės sąmoningai."
+  },
+  {
+   "a": 1,
+   "b": 16,
+   "general": "Magas planuoja, Bokštas griauna netvirtus statinius. Ši pora rodo staigų tiesos atsiskleidimą, kuris verčia perkurti: įgūdžiai lieka, keičiasi tik tai, kas stovėjo ant netvirto pagrindo.",
+   "love": "Meilėje atsiskleidžia tai, ką iki šiol vengėte pasakyti; tai gali duoti apsivalymo jausmą.",
+   "work": "Darbe plano pokyčiai verčia peržiūrėti prielaidas ir pradėti tvirčiau.",
+   "advice": "Kurkite ant to, kas tikra, ir paleiskite tai, kas netvirta."
+  },
+  {
+   "a": 1,
+   "b": 17,
+   "general": "Magas veikia, Žvaigždė tiki. Valią palaiko viltis: pastangos įgauna prasmę, o viltis – įrankių. Ši pora kalba apie ramų atsinaujinimą ir kūrybą iš tikros širdies.",
+   "love": "Meilėje tai švelnus atsivėrimas ir pasitikėjimas po netikrumo laikotarpio.",
+   "work": "Darbe gera kryptis ilgalaikiam projektui, kurį vedate pagal savo vertybes.",
+   "advice": "Veikite iš vilties, o ne iš baimės."
+  },
+  {
+   "a": 1,
+   "b": 18,
+   "general": "Magas pasitiki savo regėjimu, o Mėnulis jį klaidina. Ši pora įspėja, kad aiškumas ir iliuzija gali pasirodyti kartu: pirma atskirkite tai, kas tikra, nuo to, ką kuria baimė ar lūkestis.",
+   "love": "Meilėje gali būti nesusikalbėjimo ar neaiškumo; padės tiesioginis pokalbis.",
+   "work": "Darbe patikrinkite faktus, kol dar nepradėjote veikti.",
+   "advice": "Surinkite informaciją, prieš pasitikėdami pirmuoju įspūdžiu."
+  },
+  {
+   "a": 1,
+   "b": 19,
+   "general": "Magas ir Saulė – gebėjimas ir šviesa. Ši pora kalba apie veiksmą, kuris dėl aiškumo ir pasitikėjimo duoda matomų rezultatų. Kai viską matote aiškiai, talentą lengva parodyti.",
+   "love": "Meilėje tai atviras, džiaugsmingas bendravimas ir noras dalytis.",
+   "work": "Darbe puikus metas pristatyti savo darbą ir pasidalyti pasiekimais.",
+   "advice": "Rodykite savo darbą atvirai ir džiaugsmingai."
+  },
+  {
+   "a": 1,
+   "b": 20,
+   "general": "Magas veikia sąmoningai, Nuosprendis kviečia į pašaukimą. Ši pora rodo, kad jūsų gebėjimai gali rasti tikslesnę paskirtį, kai atsiliepiate į vidinį šauksmą.",
+   "love": "Meilėje tai gali būti atnaujinimas ir pokalbis, leidžiantis pradėti iš naujo.",
+   "work": "Darbe tai gali būti kryptis, kurioje jūsų talentas pagaliau randa tinkamą vietą.",
+   "advice": "Įsiklausykite į savo šaukinį ir veikite."
+  },
+  {
+   "a": 1,
+   "b": 21,
+   "general": "Magas pradeda, Pasaulis užbaigia. Ši pora kalba apie ciklą, kuriame valia ir pastangos veda į užbaigtumą. Tai gali būti pasiekto tikslo ženklas, bet taip pat priminimas, kad kiekviena pabaiga yra naujo darbo pradžia.",
+   "love": "Meilėje ryšys gali pasiekti brandų, užbaigtą etapą.",
+   "work": "Darbe projektas gali artėti prie pabaigos ir pripažinimo.",
+   "advice": "Pabaikite tai, ką pradėjote, ir pagerbkite savo pastangas."
+  },
+  {
+   "a": 2,
+   "b": 3,
+   "general": "Žynė saugo paslaptį, Imperatorė ją puoselėja: tyli nuojauta sutinka juslią, apčiuopiamą gausą. Ši pora kalba apie gilų vidinį žinojimą, kuris gali augti kūrybiškai, jei leisite sau jį girdėti.",
+   "love": "Meilėje tai intymumas, kuriame daug neišsakyto švelnumo ir rūpesčio.",
+   "work": "Darbe nuojauta gali padėti nuspręsti, kuriam projektui skirti laiko ir priežiūros.",
+   "advice": "Paklausykite nuojautos ir leiskite jai augti."
+  },
+  {
+   "a": 2,
+   "b": 4,
+   "general": "Žynė remiasi vidiniu žinojimu, Imperatorius – tvarka ir faktais. Ši pora klausia, kaip suderinti intuiciją su struktūra: viena be kitos gali būti šlubuojanti.",
+   "love": "Meilėje gali kilti įtampa tarp neišsakytų jausmų ir noro aiškumo; padeda atviras pokalbis.",
+   "work": "Darbe verta sprendimus grįsti ir duomenimis, ir nuojauta.",
+   "advice": "Leiskite nuojautai ir tvarkai pasikalbėti tarpusavyje."
+  },
+  {
+   "a": 2,
+   "b": 5,
+   "general": "Žynė ir Šventikas – abu saugo išmintį, bet skirtingais keliais: ji slapta ir asmeniškai, jis atvirai ir perduodama kitiems. Ši pora kviečia suderinti vidinį balsą su išmoktomis tiesomis.",
+   "love": "Meilėje tai gali būti gilus, bet ramus ryšys, grįstas bendra prasme.",
+   "work": "Darbe verta mokytis ir kartu pasitikėti savo pastebėjimais.",
+   "advice": "Tikrinkite nuojautą mokymusi, o mokymąsi – nuojauta."
+  },
+  {
+   "a": 2,
+   "b": 6,
+   "general": "Žynė slepia, Mylimieji atsiveria: tylus žinojimas susitinka su atviru pasirinkimu. Ši pora rodo, kad prieš apsisprendžiant verta išgirsti tai, ko protas nenori sakyti.",
+   "love": "Meilėje tai gilūs, bet gal dar neišsakyti jausmai; atsakymas gali ateiti lėtai.",
+   "work": "Darbe sprendimą dėl bendradarbiavimo verta atidėti, kol aiškiai pajusite, kas jums tinka.",
+   "advice": "Prieš rinkdamiesi, paklausykite savęs."
+  },
+  {
+   "a": 2,
+   "b": 7,
+   "general": "Žynė laukia ir stebi, Vežimas veržiasi pirmyn. Ši pora yra tarp pasyvumo ir veiksmo: vidinė ramybė gali tapti vairu, jei šuolis nepralenks nuojautos.",
+   "love": "Meilėje gali kilti noras skubinti, o nuojauta prašo lėčiau; pasiklauskite abiejų.",
+   "work": "Darbe prieš pradedant siekti tikslo, padeda pasitikslinti vidinę kryptį.",
+   "advice": "Leiskite vidiniam kompasui nukreipti vairą."
+  },
+  {
+   "a": 2,
+   "b": 8,
+   "general": "Žynė ir Stiprybė – dvi tylios galios. Viena žino per tylą, kita veikia per švelnumą. Kartu jos kalba apie ramų vidinį tvirtumą, kuriam nereikia įrodinėti.",
+   "love": "Meilėje tai gilus, kantrus ryšys, kuriame abu jaučia vienas kitą be žodžių.",
+   "work": "Darbe verta dirbti ramiai ir nuosekliai, pasitikint savimi.",
+   "advice": "Pasitikėkite savo tyliu stiprumu."
+  },
+  {
+   "a": 2,
+   "b": 9,
+   "general": "Žynė ir Atsiskyrėlis – dvi vidinės kelionės kortos. Abi kviečia sulėtinti ir įsiklausyti, tik viena žvelgia į paslaptį, kita neša šviesą ieškodama. Ši pora yra apie savistabą ir gilų supratimą.",
+   "love": "Meilėje gali būti tylos ar atsitraukimo laikotarpis, padedantis aiškiai pamatyti, ko norite.",
+   "work": "Darbe verta mąstyti, tyrinėti ir neskubėti skelbti išvadų.",
+   "advice": "Skirkite laiko tylai ir leiskite atsakymui subręsti."
+  },
+  {
+   "a": 2,
+   "b": 10,
+   "general": "Žynė mato po paviršiumi, Likimo ratas sukasi. Ši pora rodo, kad permainos turi slaptus ritmus: kartais juos pajuntame anksčiau, nei jos pasirodo.",
+   "love": "Meilėje gali kilti nuojauta apie pokytį ryšyje, kurį verta ramiai ištirti.",
+   "work": "Darbe prieš permainas verta atkreipti dėmesį į subtilius ženklus.",
+   "advice": "Stebėkite tylius ženklus prieš permainą."
+  },
+  {
+   "a": 2,
+   "b": 11,
+   "general": "Žynė remiasi nuojauta, Teisingumas – faktais. Ši pora kviečia derinti vidinį pojūtį su sąžiningu vertinimu: ką žinote širdimi ir ką galite pagrįsti.",
+   "love": "Meilėje tai pokalbis, kuriame abu dalijasi ir jausmais, ir faktais.",
+   "work": "Darbe sprendimus verta priimti tada, kai nuojauta ir argumentai nesikerta.",
+   "advice": "Svarstykite ir širdimi, ir protu."
+  },
+  {
+   "a": 2,
+   "b": 12,
+   "general": "Žynė ir Pakabintasis – dvi pauzės kortos. Viena tyli, kita sustoja apsivertusi. Ši pora kalba apie laukimą, kuriame gimsta supratimas: kartais atsakymas ateina tada, kai nustojate jo ieškoti.",
+   "love": "Meilėje tai gali būti sustojimas, kai ilgiau svarstote ir stebite.",
+   "work": "Darbe projektas gali sustoti, kad atsirastų gilesnis supratimas.",
+   "advice": "Leiskite sau pabūti nežinioje."
+  },
+  {
+   "a": 2,
+   "b": 13,
+   "general": "Žynė mato ribą, Mirtis ją peržengia. Ši pora kalba apie gilius virsmus, kuriuos pirmiausia pajuntame viduje. Paslaptis ir pabaiga sukuria erdvę brandžiam paleidimui.",
+   "love": "Meilėje tai gali būti tylus suvokimas, kad vienas etapas baigiasi.",
+   "work": "Darbe pirma pajuskite, ką reikia užbaigti, ir tik tada imkitės veiksmų.",
+   "advice": "Įsiklausykite į tai, ką jau žinote apie pabaigą."
+  },
+  {
+   "a": 2,
+   "b": 14,
+   "general": "Žynė ir Nuosaikumas – ramybės ir pusiausvyros pora. Viena klauso vidaus, kita derina priešybes. Kartu jos rodo, kad lėtas tempas padeda aiškiau girdėti savo mintis.",
+   "love": "Meilėje tai kantrus, ramus ryšys, kuriam nereikia triukšmo.",
+   "work": "Darbe verta dirbti nuosekliai, neskubant ir susitelkus.",
+   "advice": "Sulėtinkite tempą ir klausykite."
+  },
+  {
+   "a": 2,
+   "b": 15,
+   "general": "Žynė žino tylą, Velnias – pagundą. Ši pora klausia, ką sakote sau apie savo troškimus. Nuojauta gali parodyti, kas jus sulaiko, jei išdrįsite ją išgirsti.",
+   "love": "Meilėje trauka gali būti stipri, bet nuojauta padeda atskirti ją nuo tikro artumo.",
+   "work": "Darbe verta savęs paklausti, ar nesitenkinate tuo, kas jus riboja.",
+   "advice": "Pažvelkite, ką sakote sau apie savo norus."
+  },
+  {
+   "a": 2,
+   "b": 16,
+   "general": "Žynė nujaučia, Bokštas atskleidžia. Ši pora rodo, kad staigus supratimas dažnai turi tylių užuominų: ankstesnė nuojauta gali virsti aiškumu. Tai ne bausmė, o tiesos atsiskleidimas.",
+   "love": "Meilėje gali paaiškėti tai, ką jau nujautėte, ir tai gali suteikti palengvėjimo.",
+   "work": "Darbe netikėtas posūkis gali patvirtinti ankstesnes abejones.",
+   "advice": "Pasitikėkite pirmąja nuojauta."
+  },
+  {
+   "a": 2,
+   "b": 17,
+   "general": "Žynė ir Žvaigždė – tylos ir vilties pora. Viena slepia paslaptis, kita pila vandenį į tvenkinį. Kartu jos kalba apie ramų atsivėrimą, kai nuojauta suteikia tikėjimo.",
+   "love": "Meilėje tai tylus, raminantis atsinaujinimas ir pasitikėjimas, kad viskas atsiskleis lėtai.",
+   "work": "Darbe viltis ir nuojauta gali nukreipti ilgam kelionės etapui.",
+   "advice": "Leiskite vilčiai ir nuojautai eiti kartu."
+  },
+  {
+   "a": 2,
+   "b": 18,
+   "general": "Žynė ir Mėnulis – dvi nakties kortos. Ši pora gili ir paslaptinga: vaizdai, sapnai, nuojautos. Kyla klausimas, ar tai, ką matote, yra tiesa, ar baimės atspindys.",
+   "love": "Meilėje gali būti neaiškumo, bet ir gilaus emocinio ryšio.",
+   "work": "Darbe neskubėkite spręsti, kol aiškiau nematote.",
+   "advice": "Užsirašykite nuojautas ir palaukite aiškumo."
+  },
+  {
+   "a": 2,
+   "b": 19,
+   "general": "Žynė slepia, Saulė atveria. Ši pora sujungia vidinį žinojimą ir atvirą šviesą: tai, ką jautėte tyloje, gali būti išreikšta aiškiai ir džiaugsmingai.",
+   "love": "Meilėje tai nuoširdumas ir gebėjimas be baimės pasidalyti giliausiais jausmais.",
+   "work": "Darbe padeda aiškiai ir užtikrintai išsakyti savo idėjas.",
+   "advice": "Pasidalykite tuo, ką žinote."
+  },
+  {
+   "a": 2,
+   "b": 20,
+   "general": "Žynė klausosi, Nuosprendis šaukia. Ši pora kalba apie vidinį pašaukimą, kuris tampa girdimas: tai, ką ilgai nujautėte, dabar ragina atsakyti.",
+   "love": "Meilėje gali būti atleidimas ar aiškus supratimas, atveriantis naują etapą.",
+   "work": "Darbe verta priimti sprendimą, prie kurio ilgai brendote.",
+   "advice": "Atsiliepkite į tai, ką jau seniai nujaučiate."
+  },
+  {
+   "a": 2,
+   "b": 21,
+   "general": "Žynė slepia paslaptį, Pasaulis ją užbaigia. Ši pora kalba apie išminties virsmą visuma: ilgai brendusi nuojauta randa savo vietą bendrame paveiksle.",
+   "love": "Meilėje tai gilaus supratimo ir ramybės etapas.",
+   "work": "Darbe projektas gali subręsti po ilgo vidinio darbo.",
+   "advice": "Leiskite viskam sutilpti į visumą."
+  },
+  {
+   "a": 3,
+   "b": 4,
+   "general": "Imperatorė ir Imperatorius – augimo ir struktūros pora: gausa ir tvarka. Ji puoselėja, jis saugo ribas; kai jie dera, sukuriamas tvarus, derlingas pagrindas. Įtampa kyla, kai rūpestis virsta pernelyg didele globa, o tvarka – kontrole.",
+   "love": "Meilėje tai stabilus, šiltas ryšys, kuriame yra ir švelnumo, ir patikimumo.",
+   "work": "Darbe verta kurti ilgalaikį projektą su gerais pamatais ir kūrybine laisve.",
+   "advice": "Derinkite rūpestį su aiškiomis ribomis."
+  },
+  {
+   "a": 3,
+   "b": 5,
+   "general": "Imperatorė siūlo šilumą ir jusliškumą, Šventikas – vertybes ir tradiciją. Kartu jie kuria namų, šeimos ar bendruomenės pojūtį, kuriame džiaugsmas telpa greta prasmingų papročių.",
+   "love": "Meilėje čia gali būti pasirengimas bendram gyvenimui ir bendroms tradicijoms.",
+   "work": "Darbe gerai sekasi komandoje, kurioje vertinama ir kūryba, ir nusistovėjusi tvarka.",
+   "advice": "Kurkite tai, kas maitina ir kūną, ir vertybes."
+  },
+  {
+   "a": 3,
+   "b": 6,
+   "general": "Imperatorė ir Mylimieji – pora apie meilę ir pasirinkimą. Gausa susitinka su širdies apsisprendimu: tai šilumos pilnas ryšys, kuriame abu laisvai renkasi vienas kitą.",
+   "love": "Meilėje tai vienas darniausių derinių: jausmų gilumas, juslumas ir bendrumas.",
+   "work": "Darbe gali kilti sėkmingas bendradarbiavimas, grindžiamas abipuse pagarba.",
+   "advice": "Rinkitės tai, kas jus maitina."
+  },
+  {
+   "a": 3,
+   "b": 7,
+   "general": "Imperatorė ilsisi, Vežimas veržiasi. Ši pora kalba apie jėgą, kylančią iš gausos: tikslų lengviau siekti, kai esate pasisotinę ir ramūs. Įtampa kyla tarp poilsio ir veržlumo.",
+   "love": "Meilėje gali atsirasti įtampa tarp švelnumo ir ryžto; svarbu rasti bendrą ritmą.",
+   "work": "Darbe verta siekti tikslo neišsekinant savęs.",
+   "advice": "Pasirūpinkite savimi, tada keliaukite toliau."
+  },
+  {
+   "a": 3,
+   "b": 8,
+   "general": "Imperatorė ir Stiprybė – dvi švelnios galios. Rūpestis ir kantrybė čia dera: tai jėga, kuri nesiekia viešpatauti, bet augina ir saugo.",
+   "love": "Meilėje tai gilus, kantrus artumas, kuriame yra vietos ir savo, ir kito pažeidžiamumui.",
+   "work": "Darbe verta vadovauti per rūpestį ir pavyzdį, o ne per spaudimą.",
+   "advice": "Naudokite švelnumą kaip stiprybę."
+  },
+  {
+   "a": 3,
+   "b": 9,
+   "general": "Imperatorė pasiilgsta pasaulio, Atsiskyrėlis nuo jo traukiasi. Ši pora rodo tarpą tarp bendrumo ir vienatvės: reikia šilumos, bet ir tylos, kurioje galite sudėlioti viską, ką sukaupėte.",
+   "love": "Meilėje gali kilti poreikis erdvės, bet ir ilgesys šilumos; pasikalbėkite apie abu.",
+   "work": "Darbe kūrybinį darbą verta rūpestingai apmąstyti vienumoje.",
+   "advice": "Susigrąžinkite savo ritmą, kad turėtumėte ką duoti."
+  },
+  {
+   "a": 3,
+   "b": 10,
+   "general": "Imperatorė puoselėja, Likimo ratas sukasi: augimo laikotarpis susitinka su permainomis. Ši pora primena, kad gausa nėra nuolatinė, bet gali atsinaujinti, jei saugote tai, kas vertinga.",
+   "love": "Meilėje tai gali būti naujas etapas, kuriam atsiveriate su šiluma.",
+   "work": "Darbe projektas gali netikėtai pasisukti, ir tą posūkį verta išnaudoti rūpestingai.",
+   "advice": "Priimkite pokytį kaip augimo dalį."
+  },
+  {
+   "a": 3,
+   "b": 11,
+   "general": "Imperatorė jaučia, Teisingumas sveria. Šiluma sutinka sąžiningumą: ši pora kalba apie rūpestį, kuris yra teisingas, ir teisingumą, kuris nėra šaltas.",
+   "love": "Meilėje tai gali būti santykių pusiausvyra: ar duodate tiek, kiek gaunate.",
+   "work": "Darbe verta siekti sąžiningos kūrybos ir teisingo atlygio už įdėtas pastangas.",
+   "advice": "Rūpinkitės taip, kad būtų teisinga ir jums."
+  },
+  {
+   "a": 3,
+   "b": 12,
+   "general": "Imperatorė plūsta gausa, Pakabintasis sustoja. Ši pora rodo, kad net gausos metu gali prireikti pauzės ir naujo požiūrio. Nuolatinis augimas ne visada reikalauja daugiau veiksmo.",
+   "love": "Meilėje gali būti laikas sustoti ir paklausti savęs, ko iš tiesų norite.",
+   "work": "Darbe projektas gali sulėtėti, kad atsirastų gilesnė vizija.",
+   "advice": "Leiskite sau pažvelgti kitaip."
+  },
+  {
+   "a": 3,
+   "b": 13,
+   "general": "Imperatorė augina, Mirtis genėja. Kaip sode, kai kas turi nunykti, kad augtų nauja. Ši pora kalba apie gamtos ciklą ir sąmoningą paleidimą, kuris sukuria vietos.",
+   "love": "Meilėje tai gali būti ryšio virsmas arba senų lūkesčių paleidimas.",
+   "work": "Darbe verta atsisakyti to, kas nebeduoda vaisių.",
+   "advice": "Nugenėkite, kad galėtų augti."
+  },
+  {
+   "a": 3,
+   "b": 14,
+   "general": "Imperatorė ir Nuosaikumas – gausa ir saikas. Ši pora kalba apie švelnų derinimą: kiek duoti, kiek priimti, kaip nepersistengti. Tai nuoseklus, derlingas derinys.",
+   "love": "Meilėje čia ramus, vienas kitą gerbiantis ritmas.",
+   "work": "Darbe gerai tinka tolygus, rūpestingas darbas be kraštutinumų.",
+   "advice": "Duokite ir priimkite saikingai."
+  },
+  {
+   "a": 3,
+   "b": 15,
+   "general": "Imperatorė siūlo malonumą, Velnias – pagundą. Ši pora klausia, kur riba tarp džiaugsmo ir priklausomybės. Juslumas čia gali būti stiprus, bet verta stebėti, ar jis jus išlaisvina, ar suriša.",
+   "love": "Meilėje trauka gali būti intensyvi; atvirumas padeda ją išlaikyti sveiką.",
+   "work": "Darbe prabanga ar patogumas gali tapti pinklėmis, jei per daug jais pasikliaujate.",
+   "advice": "Mėgaukitės, bet išlaikykite laisvę."
+  },
+  {
+   "a": 3,
+   "b": 16,
+   "general": "Imperatorė kuria, Bokštas suardo netvirtą sieną. Ši pora rodo, kad net saugiausią, puoselėjamą namą kartais tenka permąstyti. Tai gali būti netikėtas atsivėrimas augimui.",
+   "love": "Meilėje atsiskleidžia tiesa, išlaisvinanti nuo apsimetinėjimo.",
+   "work": "Darbe projektą pokyčio metu galima atstatyti tvirčiau.",
+   "advice": "Pasitikėkite tuo, ką galite atstatyti."
+  },
+  {
+   "a": 3,
+   "b": 17,
+   "general": "Imperatorė ir Žvaigždė – dvi dosnios kortos. Gausa sutinka viltį: ši pora kalba apie atsinaujinimą, švelnų rūpestį ir augimą po sunkesnio laiko.",
+   "love": "Meilėje čia nuoširdumas ir pasitikėjimas, kuris auga lėtai.",
+   "work": "Darbe kūrybinis projektas gali išsiskleisti su ilgalaike vizija.",
+   "advice": "Maitinkite viltį kasdieniais darbais."
+  },
+  {
+   "a": 3,
+   "b": 18,
+   "general": "Imperatorė ir Mėnulis – juslumas ir sapnas. Ši pora kalba apie jautrią, intuityvią kūrybą, bet ir apie nuotaikų bangas: ne viskas, ką jaučiate, yra aiškus vaizdas.",
+   "love": "Meilėje gali būti emocinių bangų; švelnumas padeda per jas praeiti.",
+   "work": "Darbe kūryba gali būti ypač vaisinga, bet verta ją pasitikrinti su realybe.",
+   "advice": "Leiskite jausmams tekėti, bet tikrinkite faktus."
+  },
+  {
+   "a": 3,
+   "b": 19,
+   "general": "Imperatorė ir Saulė – šilumos ir džiaugsmo pora. Gausa čia pasirodo atvirai: kūrybinis klestėjimas, malonumas, vaikiškas džiaugsmas.",
+   "love": "Meilėje čia šiluma, juokas ir švelnumas, kurį lengva dalytis.",
+   "work": "Darbe verta švęsti kūrybą ir pripažinimą.",
+   "advice": "Mėgaukitės tuo, ką sukūrėte."
+  },
+  {
+   "a": 3,
+   "b": 20,
+   "general": "Imperatorė puoselėja, Nuosprendis šaukia: rūpestis pereina į pašaukimą. Ši pora kalba apie atsinaujinimą, kai suvokiate, ką iš tiesų norite auginti.",
+   "love": "Meilėje tai gali būti atleidimo ir pradžios iš naujo kvietimas.",
+   "work": "Darbe verta atsiliepti į kūrybinį šaukinį, kurio ilgai buvo vengiama.",
+   "advice": "Auginkite tai, į ką esate pašaukti."
+  },
+  {
+   "a": 3,
+   "b": 21,
+   "general": "Imperatorė ir Pasaulis – brandus derlius. Gausa randa užbaigtumą: ilgai puoselėta jau duoda vaisių. Ši pora kviečia švęsti ir dėkoti.",
+   "love": "Meilėje tai pilnatvės ir darnos jausmas.",
+   "work": "Darbe projektas gali subręsti ir sulaukti pripažinimo.",
+   "advice": "Padėkokite sau už tai, ką užauginote."
+  },
+  {
+   "a": 4,
+   "b": 5,
+   "general": "Imperatorius kuria išorinę tvarką, Šventikas – dvasinę ir vertybinę. Ši pora kalba apie institucijas, taisykles ir tradicijas: jos gali būti tvirtas pagrindas arba standus rėmas, jei nustojama klausti „kodėl?“.",
+   "love": "Meilėje tai tradicinis, įsipareigojantis ryšys su aiškiais lūkesčiais.",
+   "work": "Darbe tinka tvarkingos organizacijos, mokymasis ir prasminga hierarchija.",
+   "advice": "Patikrinkite, ar taisyklės tarnauja žmonėms."
+  },
+  {
+   "a": 4,
+   "b": 6,
+   "general": "Imperatorius saugo ribas, Mylimieji renkasi širdimi. Ši pora rodo, kaip įsipareigojimas ir jausmas gali susitikti: pasirinkimas laisvas, bet kartu prisiimama atsakomybė.",
+   "love": "Meilėje tai gali būti rimtas apsisprendimas ir aiškūs lūkesčiai.",
+   "work": "Darbe bendradarbiavimas gali remtis aiškiais susitarimais ir bendromis vertybėmis.",
+   "advice": "Savo pasirinkimą paremkite aiškiu susitarimu."
+  },
+  {
+   "a": 4,
+   "b": 7,
+   "general": "Imperatorius ir Vežimas – dvi valdžios kortos: viena sėdi soste, kita veržiasi pirmyn. Ši pora kalba apie drausmę ir tikslą, tačiau jų perteklius gali virsti kietumu.",
+   "love": "Meilėje gali kilti kova dėl vadovavimo; padeda aiškūs susitarimai.",
+   "work": "Darbe puikus derinys tikslui siekti, kai turite planą.",
+   "advice": "Vadovaukite sau ir neskaudinkite kitų."
+  },
+  {
+   "a": 4,
+   "b": 8,
+   "general": "Imperatorius laiko vadeles, Stiprybė jas laiko švelniai. Ši pora kalba apie valdžią be prievartos: autoritetą, kylantį iš vidinio tvirtumo, o ne iš bauginimo.",
+   "love": "Meilėje tai saugumas, grindžiamas pasitikėjimu ir švelnumu.",
+   "work": "Darbe verta vadovauti per pavyzdį ir kantrybę.",
+   "advice": "Būkite tvirti ir kartu švelnūs."
+  },
+  {
+   "a": 4,
+   "b": 9,
+   "general": "Imperatorius organizuoja pasaulį, Atsiskyrėlis traukiasi į save. Ši pora kalba apie išorinę struktūrą ir vidinę išmintį: kartais tvarką pirmiausia reikia sukurti sau.",
+   "love": "Meilėje gali kilti poreikis erdvės ar ribų, apie kurias verta kalbėtis.",
+   "work": "Darbe verta tyliai planuoti ir pasitarti su savimi prieš veikiant.",
+   "advice": "Pirmiausia sutvarkykite vidų, tada išorę."
+  },
+  {
+   "a": 4,
+   "b": 10,
+   "general": "Imperatorius kuria tvarką, Likimo ratas primena apie kaitą. Ši pora rodo, kad net tvirčiausia struktūra turi mokėti prisitaikyti. Tai pusiausvyra tarp planavimo ir lankstumo.",
+   "love": "Meilėje gali kilti permainų, kurias verta sutikti ramiai.",
+   "work": "Darbe pokyčiai gali pareikalauti perorganizuoti planus.",
+   "advice": "Planuokite, bet likite lankstūs."
+  },
+  {
+   "a": 4,
+   "b": 11,
+   "general": "Imperatorius ir Teisingumas – tvarka ir sąžiningumas. Ši pora kalba apie taisykles, kurios teisingos: struktūrą, paremtą aiškiais principais ir atsakomybe.",
+   "love": "Meilėje tai sąžiningas, patikimas ryšys su aiškiais susitarimais.",
+   "work": "Darbe tinka tvarkingi procesai, sutartys ir teisingas sprendimų priėmimas.",
+   "advice": "Rinkitės aiškius, teisingus principus."
+  },
+  {
+   "a": 4,
+   "b": 12,
+   "general": "Imperatorius planuoja, Pakabintasis sustoja ir apsiverčia. Ši pora kviečia pasitikrinti kontrolės poreikį: kartais paleidus vadeles atsiveria nauja perspektyva.",
+   "love": "Meilėje gali tekti paleisti norą kontroliuoti ir pažiūrėti, kas atsiranda.",
+   "work": "Darbe plano pristabdymas gali atverti kitą sprendimą.",
+   "advice": "Paleiskite kontrolę ir stebėkite."
+  },
+  {
+   "a": 4,
+   "b": 13,
+   "general": "Imperatorius saugo tai, kas pastovu, Mirtis primena, kad viskas keičiasi. Ši pora kalba apie struktūrų pabaigą ir naujos tvarkos kūrimą: persitvarkymas gali būti nelengvas, bet reikalingas.",
+   "love": "Meilėje gali baigtis tam tikra rolė ar elgesio modelis ir prasidėti nauja pusiausvyra.",
+   "work": "Darbe verta svarstyti restruktūrizaciją ir senų procesų uždarymą.",
+   "advice": "Pakeiskite tai, kas nebeatitinka."
+  },
+  {
+   "a": 4,
+   "b": 14,
+   "general": "Imperatorius ir Nuosaikumas – tvarka ir saikas. Abu kalba apie drausmę, tik jis pasiekia ją ribomis, o ji – švelniu derinimu. Ši pora kuria stabilų, subalansuotą pagrindą.",
+   "love": "Meilėje čia pastovumas ir pagarba vienas kito tempui.",
+   "work": "Darbe gerai sekasi ilgalaikis, nuoseklus planavimas.",
+   "advice": "Derinkite struktūrą su lankstumu."
+  },
+  {
+   "a": 4,
+   "b": 15,
+   "general": "Imperatorius valdo, Velnias suriša. Ši pora kalba apie valdžią ir priklausomybę: tvarka gali tapti kontrolės būdu, o kontrolė – grandinėmis. Verta atpažinti, kas ką valdo.",
+   "love": "Meilėje gali pasirodyti dominavimas ar priklausomybė; padeda atviras pokalbis apie ribas.",
+   "work": "Darbe valdžios ir pinigų klausimai reikalauja skaidrumo.",
+   "advice": "Pažvelkite, kur kontrolė virsta pančiais."
+  },
+  {
+   "a": 4,
+   "b": 16,
+   "general": "Imperatorius stato, Bokštas griauna. Ši pora rodo, kad pernelyg standi struktūra gali trūkti. Staigus pokytis atskleidžia, kas buvo laikoma tiesa, bet buvo netvirta.",
+   "love": "Meilėje griūvanti kontrolė gali atverti kelią nuoširdesniam ryšiui.",
+   "work": "Darbe planus galima perrašyti ant tvirtesnio pagrindo.",
+   "advice": "Statykite iš naujo, bet ant tiesos."
+  },
+  {
+   "a": 4,
+   "b": 17,
+   "general": "Imperatorius ir Žvaigždė – tvarka ir viltis. Ši pora kalba apie stabilumą, kuriame telpa ramus tikėjimas. Struktūra gali būti ne narvas, o rėmas, išlaikantis viltį.",
+   "love": "Meilėje čia patikimas, ramus pasitikėjimas po audros.",
+   "work": "Darbe verta planuoti ilgam, laikantis aiškios vizijos.",
+   "advice": "Statykite tai, kuo tikite."
+  },
+  {
+   "a": 4,
+   "b": 18,
+   "general": "Imperatorius ieško aiškumo, Mėnulis jį temdo. Ši pora kalba apie kontrolės riziką, kai trūksta informacijos: nematomi dalykai gali kelti nerimą, o troškimas viską sutvarkyti – neleisti jų pamatyti.",
+   "love": "Meilėje gali kilti nerimas ar neaiškumas; padeda nuoširdumas.",
+   "work": "Darbe prieš sprendžiant surinkite daugiau duomenų.",
+   "advice": "Priimkite neaiškumą ir stebėkite."
+  },
+  {
+   "a": 4,
+   "b": 19,
+   "general": "Imperatorius ir Saulė – tvarka ir šviesa. Ši pora kalba apie stabilų klestėjimą: tvirtas pagrindas padeda džiaugsmui įsišaknyti.",
+   "love": "Meilėje tai saugumas, kuriame galima atsipalaiduoti ir džiaugtis.",
+   "work": "Darbe pripažinimą galima pasiekti nuosekliu darbu.",
+   "advice": "Naudokite struktūrą džiaugsmui apsaugoti."
+  },
+  {
+   "a": 4,
+   "b": 20,
+   "general": "Imperatorius pripažįsta atsakomybę, Nuosprendis šaukia apsispręsti. Ši pora kalba apie akimirką, kai reikia atsiskaityti sau ir pakilti į kitą lygį.",
+   "love": "Meilėje tai gali būti atsakingas atsinaujinimas ir ryšio peržiūra.",
+   "work": "Darbe verta įvertinti rezultatus ir pasirinkti naują kryptį.",
+   "advice": "Pripažinkite praeitį ir pasirinkite."
+  },
+  {
+   "a": 4,
+   "b": 21,
+   "general": "Imperatorius ir Pasaulis – pamatas ir užbaigtumas. Ši pora kalba apie ilgą, atsakingą darbą, kuris pasiekia vaisių: struktūra išlaiko visumą.",
+   "love": "Meilėje tai brandus, stabilus ryšys.",
+   "work": "Darbe projektas gali būti užbaigtas pagal planą.",
+   "advice": "Įvertinkite tai, ką pastatėte."
+  },
+  {
+   "a": 5,
+   "b": 6,
+   "general": "Šventikas kalba apie įsipareigojimą ir bendras vertybes, Mylimieji – apie pasirinkimą širdimi. Kartu jie primena, kad meilė gali turėti ir ritualą, ir laisvę. Įtampa kyla tada, kai tradicija spaudžia, o jausmas nori kitaip.",
+   "love": "Meilėje tai gali būti rimtas ryšys, kurį suvokiate kaip bendrą kelią.",
+   "work": "Darbe bendradarbiavimas gali remtis bendromis vertybėmis ir aiškiais susitarimais.",
+   "advice": "Rinkitės tai, kas dera ir su širdimi, ir su vertybėmis."
+  },
+  {
+   "a": 5,
+   "b": 7,
+   "general": "Šventikas moko, Vežimas veržiasi. Ši pora kalba apie drausmingą siekį: vertybės gali tapti kompasu, vedančiu pirmyn. Įtampa kyla tarp tradicijos ir asmeninės pergalės.",
+   "love": "Meilėje gali kilti klausimas, kurios vertybės veda jus abu.",
+   "work": "Darbe mokymasis ir pastangos veda link tikslo.",
+   "advice": "Leiskite vertybėms nukreipti vairą."
+  },
+  {
+   "a": 5,
+   "b": 8,
+   "general": "Šventikas perduoda žinias, Stiprybė – ramų vidinį tvirtumą. Pirmasis moko žodžiais ir taisyklėmis, antroji – pavyzdžiu ir švelnumu. Kartu jie rodo išmintį, kuri įtikina ne spaudimu, o pasitikėjimu.",
+   "love": "Meilėje tai gilus, kantrus ryšys, grįstas pasitikėjimu.",
+   "work": "Darbe verta mentorystės, kurioje daugiau supratimo nei spaudimo.",
+   "advice": "Mokykite pavyzdžiu, o ne prievarta."
+  },
+  {
+   "a": 5,
+   "b": 9,
+   "general": "Šventikas moko bendruomenėje, Atsiskyrėlis ieško vienumoje. Ši pora kalba apie dvi išminties kelio puses – perduotą žinojimą ir asmeninį atradimą – ir primena, kad abi reikalingos.",
+   "love": "Meilėje gali kilti poreikis susitelkti į save, kad vėliau kartu būtumėte gilesni.",
+   "work": "Darbe verta mokytis iš mentorių ir kartu mąstyti savarankiškai.",
+   "advice": "Derinkite mokymąsi su vienumos laiku."
+  },
+  {
+   "a": 5,
+   "b": 10,
+   "general": "Šventikas gerbia nusistovėjusią tvarką, Likimo ratas ją nuolat keičia. Ši pora kalba apie tradiciją permainų akivaizdoje: ką verta išlaikyti, o ką leisti pasikeisti. Tradicija čia išlieka gyva, jei gali judėti kartu su ratu.",
+   "love": "Meilėje ryšys gali pereiti į kitą etapą, tad verta pasikalbėti apie lūkesčius.",
+   "work": "Darbe pokyčiai gali pareikalauti naujų taisyklių.",
+   "advice": "Išsaugokite vertingiausią ir leiskite likusiam keistis."
+  },
+  {
+   "a": 5,
+   "b": 11,
+   "general": "Šventikas ir Teisingumas – du principų sargai: vienas remiasi tradicija, kitas – sąžiningu vertinimu. Šis derinys tvirtas, nes abu vertina aiškias taisykles, tačiau įtampa kyla, jei raidė pradeda reikšti daugiau nei teisingumas. Ši pora kalba apie etiką ir atsakomybę.",
+   "love": "Meilėje tai sąžiningi, aiškūs susitarimai ir pagarba vertybėms.",
+   "work": "Darbe tinka formalumai, sutartys ir ilgalaikis pasitikėjimas.",
+   "advice": "Vadovaukitės tuo, kas teisinga ir pagrįsta."
+  },
+  {
+   "a": 5,
+   "b": 12,
+   "general": "Šventikas laikosi nusistovėjusio kelio, Pakabintasis pamato jį kitaip. Ši pora kviečia perklausti tradicinius atsakymus: ar jie vis dar tinka? Nauja perspektyva gali pagilinti tikėjimą.",
+   "love": "Meilėje gali kilti pauzė, kurioje persvarstote bendras vertybes.",
+   "work": "Darbe verta sustoti ir pažiūrėti, kodėl dirbate taip, kaip dirbate.",
+   "advice": "Žvelkite į seną kitu kampu."
+  },
+  {
+   "a": 5,
+   "b": 13,
+   "general": "Šventikas saugo tai, kas perduota, Mirtis užbaigia tai, kas save išsėmė. Ši pora kalba apie tradicijų virsmą: ne viskas turi likti tokia pati, kad išliktų prasmė. Įtampa tarp pagarbos senovei ir pabaigos, kuri ją atnaujina.",
+   "love": "Meilėje kai kurios lūkesčių formos gali baigtis, užleisdamos vietą naujoms.",
+   "work": "Darbe verta užbaigti pasenusias praktikas.",
+   "advice": "Paleiskite formą, išsaugokite prasmę."
+  },
+  {
+   "a": 5,
+   "b": 14,
+   "general": "Šventikas ir Nuosaikumas – dvi ramios, brandžios kortos. Pirmasis perduoda žinias, antroji moko jas derinti su gyvenimu be kraštutinumų. Kartu jos rodo išmintį, kuri auga nuosekliai, o ne šuoliais.",
+   "love": "Meilėje tai ramus, vienas kitą gerbiantis ryšys.",
+   "work": "Darbe tinka nuoseklus mokymasis ir praktika.",
+   "advice": "Mokykitės nuosekliai ir saikingai."
+  },
+  {
+   "a": 5,
+   "b": 15,
+   "general": "Šventikas siūlo vertybių kompasą, Velnias – pagundą nuo jo nukrypti. Ši pora kalba apie dogmą ir priklausomybę nuo to, kas patogu. Verta pažiūrėti, kokioms taisyklėms tikrai paklūstate.",
+   "love": "Meilėje gali išryškėti įsisenėjusios rolės ar poreikiai, kuriuos verta aptarti.",
+   "work": "Darbe sistemos gali formuoti elgesį; verta pažvelgti į savo laisvę.",
+   "advice": "Pažvelkite, kam iš tikrųjų paklūstate."
+  },
+  {
+   "a": 5,
+   "b": 16,
+   "general": "Šventikas laiko nusistovėjusią tvarką, Bokštas ją sudrebina. Ši pora rodo, kad dogmos ar įsitikinimai gali būti išbandyti. Tai tiesos atskleidimas, atveriantis erdvę gilesniam tikėjimui.",
+   "love": "Meilėje gali paaiškėti tai, kas nebuvo pasakyta, ir tai gali palengvinti.",
+   "work": "Darbe pokytis gali priversti perrašyti taisykles.",
+   "advice": "Palikite tai, kas tikra."
+  },
+  {
+   "a": 5,
+   "b": 17,
+   "general": "Šventikas ir Žvaigždė – tikėjimas ir viltis. Šventikas siūlo atramą tradicijoje, Žvaigždė – ramią šviesą ateičiai. Kartu jos kalba apie dvasinį atsinaujinimą, kuriam nereikia pamiršti, iš kur atėjote.",
+   "love": "Meilėje tai pasitikėjimas ir ramus bendrumas.",
+   "work": "Darbe tinka ilgalaikė vizija ir mokymasis.",
+   "advice": "Ieškokite įkvėpimo ir tradicijoje, ir ateityje."
+  },
+  {
+   "a": 5,
+   "b": 18,
+   "general": "Šventikas siūlo aiškias normas, Mėnulis – dviprasmybę ir šešėlius. Ši pora kalba apie abejonę ir tikėjimą: ne viskas turi aiškų atsakymą, ir tai gali būti kelio dalis. Mokymas čia padeda, bet nepaneigia vidinio neužtikrintumo.",
+   "love": "Meilėje gali kilti neaiškumo; padeda pokalbis.",
+   "work": "Darbe gali trūkti informacijos, todėl patarimų verta klausyti atidžiai.",
+   "advice": "Pripažinkite abejonę, bet nepraraskite pagarbos mokymui."
+  },
+  {
+   "a": 5,
+   "b": 19,
+   "general": "Šventikas ir Saulė – išmintis ir džiaugsmas. Šventikas moko, Saulė šildo, todėl mokymasis čia nėra našta. Ši pora kalba apie bendruomenę, kurioje vertybės gyvos, o dalytis jomis malonu.",
+   "love": "Meilėje čia šiluma, bendri papročiai ir džiaugsmingi susibūrimai.",
+   "work": "Darbe verta mokyti, dalytis ir švęsti bendrus pasiekimus.",
+   "advice": "Dalykitės tuo, ką žinote, su šypsena."
+  },
+  {
+   "a": 5,
+   "b": 20,
+   "general": "Šventikas ir Nuosprendis – tradicija ir pašaukimas. Šventikas primena, kas jums perduota, Nuosprendis kviečia atsiliepti į tai, kas iš tiesų svarbu. Ši pora kalba apie vertybių atnaujinimą ir ryšį su bendruomene.",
+   "love": "Meilėje gali būti atleidimas ir pasirengimas naujam etapui.",
+   "work": "Darbe verta rinktis kelią, atitinkantį vertybes.",
+   "advice": "Atsiliepkite į tai, kas jums šventa."
+  },
+  {
+   "a": 5,
+   "b": 21,
+   "general": "Šventikas ir Pasaulis – mokymasis ir užbaigtumas. Žinios, kurias gavote iš kitų, čia sutampa su jūsų pačių patirtimi ir sudaro visumą. Ši pora kalba apie tradiciją, kuri tampa jūsų kelio dalimi.",
+   "love": "Meilėje tai brandus, darnus ryšys.",
+   "work": "Darbe mokymasis ar programa gali būti sėkmingai užbaigta.",
+   "advice": "Pripažinkite savo kelią."
+  },
+  {
+   "a": 6,
+   "b": 7,
+   "general": "Mylimieji renkasi širdimi, Vežimas – valia. Ši pora kalba apie pasirinkimą, po kurio seka judėjimas: sprendimas virsta kryptimi. Įtampa kyla, kai širdis ir ryžtas traukia į skirtingas puses.",
+   "love": "Meilėje čia pasiryžimas ir bendras judėjimas pirmyn, jei abu renkatės tą patį kelią.",
+   "work": "Darbe verta apsispręsti dėl krypties ir ryžtingai ja eiti.",
+   "advice": "Pirma apsispręskite, tada keliaukite."
+  },
+  {
+   "a": 6,
+   "b": 8,
+   "general": "Mylimieji ir Stiprybė – meilė ir švelni drąsa. Mylimieji kviečia rinktis, Stiprybė moko kantriai ištverti tai, ką pasirinkote. Ši pora rodo, kad artumui reikia ir sprendimo, ir kantrybės: pažeidžiamumas čia tampa jėga.",
+   "love": "Meilėje tai gilus, nuoširdus ryšys, kuriame abu drįstate būti atviri.",
+   "work": "Darbe verta bendradarbiauti kantriai ir pagarbiai.",
+   "advice": "Rodykite savo švelnumą kaip stiprybę."
+  },
+  {
+   "a": 6,
+   "b": 9,
+   "general": "Mylimieji ieško ryšio, Atsiskyrėlis – vienatvės. Ši pora kalba apie įtampą tarp artumo ir susitelkimo į save. Kartais prieš pasirinkimą reikia pabūti vienam, kad paskui galėtumėte rinktis aiškiai.",
+   "love": "Meilėje gali kilti poreikis atsitraukti arba ilgesys gilesnio ryšio.",
+   "work": "Darbe verta apmąstyti vertybes prieš renkantis bendradarbį ar kryptį.",
+   "advice": "Pirmiausia suraskite, ko norite patys."
+  },
+  {
+   "a": 6,
+   "b": 10,
+   "general": "Mylimieji ir Likimo ratas – pasirinkimas ir likimo posūkis. Ši pora kalba apie ryšius, kurių pradžia atrodo atsitiktinė, bet kuriuos formuoja ir jūsų apsisprendimas. Sutapimas gali atvesti prie durų, tačiau įeiti ar ne, sprendžiate jūs.",
+   "love": "Meilėje gali pasitaikyti netikėtas susitikimas ar posūkis, į kurį atsiliepiate.",
+   "work": "Darbe galimybė gali atsirasti netikėtai; verta pasverti vertybes.",
+   "advice": "Priimkite sutapimą ir rinkitės sąmoningai."
+  },
+  {
+   "a": 6,
+   "b": 11,
+   "general": "Mylimieji ir Teisingumas – širdis ir svarstyklės. Mylimieji nori rinktis iš jausmo, Teisingumas klausia, ar sprendimas sąžiningas abiem pusėms. Ši pora kalba apie ryšius, kuriuose jausmai dera su atsakomybe.",
+   "love": "Meilėje tai teisingi, aiškūs susitarimai ir abipusė pagarba.",
+   "work": "Darbe verta sudaryti sąžiningas sutartis ir bendradarbiauti.",
+   "advice": "Rinkitės širdimi, bet sąžiningai."
+  },
+  {
+   "a": 6,
+   "b": 12,
+   "general": "Mylimieji turi pasirinkti, Pakabintasis sustoja. Ši pora rodo, kad sprendimas gali palaukti, kol pamatysite situaciją naujai. Neapsisprendimas čia gali būti ne silpnumas, o laikas suprasti.",
+   "love": "Meilėje gali būti pauzė, kurioje persvarstote, ko norite.",
+   "work": "Darbe nuspręskite tada, kai matote visą vaizdą.",
+   "advice": "Duokite sau laiko pažvelgti kitaip."
+  },
+  {
+   "a": 6,
+   "b": 13,
+   "general": "Mylimieji ir Mirtis – ryšys ir pabaiga. Ši pora kalba apie santykių etapo pabaigą ar gilią permainą, po kurios ryšys įgauna naują formą arba užsibaigia. Tai virsmo, o ne bausmės ženklas.",
+   "love": "Meilėje vienas ryšio etapas gali baigtis ir prasidėti kitas.",
+   "work": "Darbe gali keistis bendradarbiavimo formos.",
+   "advice": "Leiskite tam, kas baigiasi, užsibaigti, ir rinkitės naują."
+  },
+  {
+   "a": 6,
+   "b": 14,
+   "general": "Mylimieji ir Nuosaikumas – darna ir saikas. Mylimieji rodo ryšio pradžią, Nuosaikumas – kasdienį derinimąsi, per kurį jis išlieka gyvas. Ši pora kalba apie du žmones, kurie mokosi vienas kito tempo.",
+   "love": "Meilėje čia ramus, brandus, lygiavertis ryšys.",
+   "work": "Darbe verta derinti skirtingus požiūrius.",
+   "advice": "Derinkitės kantriai ir abipusiai."
+  },
+  {
+   "a": 6,
+   "b": 15,
+   "general": "Mylimieji ir Velnias – meilė ir trauka. Viena korta kviečia laisvai rinktis, kita primena prisirišimą. Ši pora klausia, ar jus jungia laisvas apsisprendimas, ar noras laikytis už kito.",
+   "love": "Meilėje trauka gali būti stipri; verta atvirai pasikalbėti apie ribas ir laisvę.",
+   "work": "Darbe vertybės ir pagundos gali nesutapti; pažvelkite į tai atvirai.",
+   "advice": "Rinkitės tai, kas jus išlaisvina."
+  },
+  {
+   "a": 6,
+   "b": 16,
+   "general": "Mylimieji ir Bokštas – ryšys ir staigi tiesa. Ši pora kalba apie akimirką, kai paaiškėja tai, kas buvo nutylėta. Tai gali sukrėsti, bet atveria galimybę sąžiningesniam ryšiui.",
+   "love": "Meilėje atsiskleidžia kas nors esminga, ir tai gali padėti išgryninti, ko iš tiesų norite.",
+   "work": "Darbe bendradarbiavimas gali pasikeisti dėl paaiškėjusių faktų.",
+   "advice": "Leiskite tiesai pasirodyti ir rinkitės iš naujo."
+  },
+  {
+   "a": 6,
+   "b": 17,
+   "general": "Mylimieji ir Žvaigždė – meilė ir viltis. Mylimieji kalba apie pasirinkimą, Žvaigždė – apie ramų tikėjimą, kad jis gali būti geras. Ši pora rodo atvirą, pasitikintį ryšį, kuris gali augti be skubos.",
+   "love": "Meilėje tai vienas švelniausių derinių: atvirumas, tikėjimas ir ramybė.",
+   "work": "Darbe verta imtis bendrų projektų, grindžiamų nuoširdžia vizija.",
+   "advice": "Pasitikėkite ryšiu, kuris jus ramina."
+  },
+  {
+   "a": 6,
+   "b": 18,
+   "general": "Mylimieji ir Mėnulis – jausmai ir neaiškumas. Ši pora rodo, kad pasirinkimą gali temdyti baimės ar lūkesčiai. Verta atskirti, kas tikra, o kas kyla iš nerimo.",
+   "love": "Meilėje gali kilti nesaugumas; atviras pokalbis padeda išsklaidyti rūką.",
+   "work": "Darbe prieš renkantis surinkite daugiau informacijos.",
+   "advice": "Garsiai aptarkite savo abejones."
+  },
+  {
+   "a": 6,
+   "b": 19,
+   "general": "Mylimieji ir Saulė – džiaugsmingas ryšys. Mylimieji parodo, kad esate pasirinkę, Saulė – kad tą pasirinkimą galite rodyti atvirai. Ši pora kalba apie nuoširdumą, kurio nereikia slėpti.",
+   "love": "Meilėje tai šiluma, juokas ir paprastas buvimas kartu.",
+   "work": "Darbe verta bendradarbiauti su džiaugsmu.",
+   "advice": "Džiaukitės ryšiu atvirai."
+  },
+  {
+   "a": 6,
+   "b": 20,
+   "general": "Mylimieji ir Nuosprendis – pasirinkimas ir pašaukimas. Mylimieji klausia, ko trokšta širdis, Nuosprendis – ar atsiliepsite į tai, ką jau seniai girdite. Ši pora kalba apie ryšio atnaujinimą, atleidimą ir apsisprendimą pagal gilesnį vidinį balsą.",
+   "love": "Meilėje gali būti nauja pradžia ar atsiliepimas į ilgai brendusį jausmą.",
+   "work": "Darbe verta rinktis kelią, atitinkantį jūsų šaukinį.",
+   "advice": "Atsakykite į tai, ką tikrai girdite."
+  },
+  {
+   "a": 6,
+   "b": 21,
+   "general": "Mylimieji ir Pasaulis – ryšys, pasiekęs pilnatvę. Pasirinkimas, kuris prasidėjo kaip kvietimas, čia tampa visuma. Ši pora kalba apie darnią bendrystę, kai du žmonės randa vienas kitą ir bendrą kelią.",
+   "love": "Meilėje tai užbaigtumo, pripažinimo ir bendro džiaugsmo jausmas.",
+   "work": "Darbe bendras projektas gali sėkmingai pasibaigti.",
+   "advice": "Pagerbkite tai, ką sukūrėte kartu."
+  },
+  {
+   "a": 7,
+   "b": 8,
+   "general": "Vežimas veržiasi pergalės link, Stiprybė moko, kad tikroji jėga – savitvarda. Ši pora kalba apie valdomą energiją: ne sulaikyti, o nukreipti. Įtampa tarp spaudimo ir kantrybės čia tampa pamoka.",
+   "love": "Meilėje tai pasitikėjimas ir švelnus valdymas, kad aistra neišsiliptų per kraštus.",
+   "work": "Darbe verta siekti tikslo išlaikant ramybę.",
+   "advice": "Valdykite savo energiją švelnia ranka."
+  },
+  {
+   "a": 7,
+   "b": 9,
+   "general": "Vežimas veržiasi, Atsiskyrėlis sustoja su žibintu. Vienas nori į priekį kuo greičiau, kitas klausia, kur iš tiesų einate. Ši pora primena, kad greitis be krypties nieko neduoda, o trumpas apmąstymas gali parodyti tikrąjį tikslą.",
+   "love": "Meilėje gali kilti poreikis sustoti ir pažiūrėti, ko norite.",
+   "work": "Darbe prieš ryžtingą veiksmą verta ramiai pasvarstyti.",
+   "advice": "Sustokite pakankamai ilgai, kad pamatytumėte kelią."
+  },
+  {
+   "a": 7,
+   "b": 10,
+   "general": "Vežimas ir Likimo ratas – valia ir atsitiktinumas. Ši pora rodo, kad pergalę lemia ir pastangos, ir aplinkybės: kai pučia palankus vėjas, pastangos duoda daugiau. Tačiau ratas sukasi savo tempu, todėl vien ryžtu jo nepaskubinsite.",
+   "love": "Meilėje gali pasitaikyti proga, kurią verta ryžtingai pagauti.",
+   "work": "Darbe verta pasinaudoti pasitaikiusia akimirka.",
+   "advice": "Judėkite, kai ratas palankus."
+  },
+  {
+   "a": 7,
+   "b": 11,
+   "general": "Vežimas siekia pergalės, Teisingumas klausia, ar ji sąžininga. Ši pora kalba apie ryžtą kartu su atsakomybe: tikslą verta vertinti ir pagal jo kainą. Pergalė čia įtikinamiausia tada, kai kelias iki jos išlieka skaidrus.",
+   "love": "Meilėje tai sąžiningumas kartu siekiant bendrų tikslų.",
+   "work": "Darbe verta žaisti sąžiningai ir saugoti reputaciją.",
+   "advice": "Siekite tikslo tiesiu keliu."
+  },
+  {
+   "a": 7,
+   "b": 12,
+   "general": "Vežimas ir Pakabintasis – judėjimas ir sustojimas. Ši pora kalba apie priverstinę pauzę, kai varomoji jėga susiduria su kliūtimi. Tai kviečia naujai pažvelgti į kryptį, užuot spaudus dar stipriau.",
+   "love": "Meilėje gali būti sulėtėjimas ir laukimas.",
+   "work": "Darbe projektas gali sustoti, kad būtų pergalvotas.",
+   "advice": "Pasinaudokite pauze naujam požiūriui."
+  },
+  {
+   "a": 7,
+   "b": 13,
+   "general": "Vežimas ir Mirtis – kelio pabaiga ir naujas posūkis. Ši pora kalba apie pokytį krypties viduryje: kad atsirastų naujas tikslas, gali tekti paleisti seną. Pergalės siekis čia susiduria su klausimu, ar tas tikslas vis dar jūsų.",
+   "love": "Meilėje vienas etapas gali baigtis, ir tai sukuria vietos naujam.",
+   "work": "Darbe verta keisti kryptį, jei tikslas nebeatitinka.",
+   "advice": "Rinkitės naują kryptį be gailesčio."
+  },
+  {
+   "a": 7,
+   "b": 14,
+   "general": "Vežimas ir Nuosaikumas – greitis ir saikas. Vežimas veržiasi pirmyn, o Nuosaikumas pila vandenį iš vienos taurės į kitą, nesiliedamas per kraštus. Kartu jie primena, kad ilgą kelią įveikia tas, kuris išlaiko pastovų tempą, o ne tas, kuris lenktyniauja.",
+   "love": "Meilėje tai tolygus, pasitikintis žingsnis kartu.",
+   "work": "Darbe verta tolygiai siekti tikslų.",
+   "advice": "Raskite tempą, kuris tinka ilgai kelionei."
+  },
+  {
+   "a": 7,
+   "b": 15,
+   "general": "Vežimas ir Velnias – ambicija ir pagunda. Vežimas varo valia, Velnias – potraukiu, todėl ši pora klausia, kas jus iš tikrųjų veda. Siekis gali būti laisvas pasirinkimas, bet gali tapti ir grandine, jei sustoti nebeįmanoma.",
+   "love": "Meilėje trauka gali nuvesti per toli; padeda aiškios ribos.",
+   "work": "Darbe ryžtas gali virsti pernelyg dideliu siekiu; pažvelkite, kam tarnaujate.",
+   "advice": "Nustatykite, kas vairuoja – jūs ar potraukis."
+  },
+  {
+   "a": 7,
+   "b": 16,
+   "general": "Vežimas ir Bokštas – judėjimas ir staigus sutrikimas. Kelias, kuriuo ryžtingai ėjote, netikėtai pasikeičia. Tai nebūtinai nesėkmė: tai gali būti tiesos apie krypties tinkamumą atsiskleidimas.",
+   "love": "Meilėje gali kilti netikėtas posūkis, atskleidžiantis tikrus jausmus.",
+   "work": "Darbe planas gali būti perrašytas, bet jūsų jėgos išlieka.",
+   "advice": "Prisitaikykite ir rinkitės tvirtesnį kelią."
+  },
+  {
+   "a": 7,
+   "b": 17,
+   "general": "Vežimas ir Žvaigždė – ryžtas ir viltis. Vežimas veda valia, Žvaigždė – tikėjimu, kad kelias eina į gerą pusę. Kartu jie rodo judėjimą be įtampos: einate pirmyn ne tam, kad ką nors įrodytumėte, o todėl, kad žinote kryptį.",
+   "love": "Meilėje tai pasitikinti, ramesnė energija.",
+   "work": "Darbe verta siekti ilgalaikių tikslų.",
+   "advice": "Eikite pirmyn su viltimi."
+  },
+  {
+   "a": 7,
+   "b": 18,
+   "general": "Vežimas ir Mėnulis – judėjimas per rūką. Vežimas nori greičio, o Mėnulis rodo kelią, kuriame daug šešėlių ir neaiškumų. Greitis be aiškumo rizikingas, tad verta sulėtinti, kol pasirodys kelias.",
+   "love": "Meilėje gali būti netikrumo; neskubėkite daryti išvadų.",
+   "work": "Darbe prieš žengiant toliau surinkite daugiau informacijos.",
+   "advice": "Važiuokite atsargiai, kol matomumas pagerės."
+  },
+  {
+   "a": 7,
+   "b": 19,
+   "general": "Vežimas ir Saulė – pergalė ir džiaugsmas. Ryžtas čia randa atlygį: siekis duoda matomą rezultatą ir pripažinimą. Ši pora primena, kad pasiekimą verta švęsti ir su tais, kurie padėjo.",
+   "love": "Meilėje tai energija, džiaugsmas ir noras dalytis.",
+   "work": "Darbe verta švęsti pasiekimus.",
+   "advice": "Džiaukitės pergale, bet nepamirškite tų, kurie padėjo."
+  },
+  {
+   "a": 7,
+   "b": 20,
+   "general": "Vežimas ir Nuosprendis – judėjimas ir pašaukimas. Vežimas veržiasi į tikslą, o Nuosprendis klausia, iš kur tas tikslas atėjo. Ši pora kalba apie siekį, gimstantį iš vidinio šaukinio, o ne vien iš ambicijos.",
+   "love": "Meilėje gali būti persvarstymas ir atsinaujinimas.",
+   "work": "Darbe verta rinktis kryptį pagal tai, kas iš tikrųjų svarbu.",
+   "advice": "Eikite ten, kur jus šaukia."
+  },
+  {
+   "a": 7,
+   "b": 21,
+   "general": "Vežimas ir Pasaulis – kelionė ir pabaiga. Ši pora kalba apie tikslą, kuris pasiekiamas, ir apie ciklo užbaigimą: visos pastangos čia sueina į vieną vaizdą. Atėjo metas apsidairyti, ką kelionė jums davė.",
+   "love": "Meilėje tai bendras tikslas, kurį pavyko pasiekti.",
+   "work": "Darbe verta užbaigti projektą ir pripažinti rezultatą.",
+   "advice": "Pagerbkite kelionę ir apsidairykite į kitą."
+  },
+  {
+   "a": 8,
+   "b": 9,
+   "general": "Stiprybė švelniai drąsina vidinį žvėrį, Atsiskyrėlis neša žibintą savęs link. Ši pora kalba apie tylų, brandų darbą su savimi: kantrybę, savistabą ir drąsą pažvelgti į tai, kas viduje. Čia nėra skubos, nes gilumui reikia laiko.",
+   "love": "Meilėje tai gilus savęs pažinimas, vėliau atveriantis tikresnį artumą.",
+   "work": "Darbe tinka ramus, apgalvotas darbas be triukšmo ir pasirodymų.",
+   "advice": "Būkite kantrūs sau kaip brangiam globotiniui."
+  },
+  {
+   "a": 8,
+   "b": 10,
+   "general": "Stiprybė stovi ramiai, o Likimo ratas nenustoja suktis. Ši pora klausia, kas lieka pastovu, kai aplinkybės kinta: atsakymas – vidinis centras. Įtampa kyla tarp noro kontroliuoti ir būtinybės paklusti permainoms.",
+   "love": "Meilėje tai pasitikėjimas, kad ryšys gali atlaikyti permainas, jei abu išliekate ramūs.",
+   "work": "Darbe pokyčiai gali pasitaikyti netikėtai; ramus tvirtumas čia vertingesnis už skubotą reakciją.",
+   "advice": "Išlaikykite vidinį centrą, kai ratas sukasi."
+  },
+  {
+   "a": 8,
+   "b": 11,
+   "general": "Stiprybė ir Teisingumas – du savitvardos pavidalai: vienas veikia užuojauta, kitas – sąžiningu svarstymu. Kartu jie kviečia būti ir tiesiems, ir švelniems, nes tiesa be gerumo gali sužeisti, o gerumas be tiesos – suklaidinti.",
+   "love": "Meilėje tai pokalbiai, kuriuose sakoma tiesa, bet pagarbiai kito jausmams.",
+   "work": "Darbe verta spręsti ginčus kantriai, aiškiai ir teisingai.",
+   "advice": "Sakykite tiesą švelniai."
+  },
+  {
+   "a": 8,
+   "b": 12,
+   "general": "Stiprybė ir Pakabintasis – dvi kortos apie pasidavimą, tik skirtingai: viena kantria drąsa, kita – sustojimu ir nauju požiūriu. Ši pora rodo, kad nesipriešinimas gali būti gilesnė jėga nei kova.",
+   "love": "Meilėje tai laikas neskubinti ir neprievartauti, leisti dalykams subręsti.",
+   "work": "Darbe verta palaukti, stebėti ir leisti ramybei pasiūlyti sprendimą.",
+   "advice": "Leiskite sau atsipalaiduoti ir stebėti."
+  },
+  {
+   "a": 8,
+   "b": 13,
+   "general": "Stiprybė ir Mirtis – ramus susitikimas su pabaiga. Ši pora kalba apie drąsą paleisti be kovos ir be panikos: pokytis priimamas kaip natūrali gyvenimo dalis. Tai virsmo, o ne praradimo istorija.",
+   "love": "Meilėje tai tylus pripažinimas, kad vienas etapas keičiasi, ir švelnumas sau tuo metu.",
+   "work": "Darbe verta sąmoningai užbaigti seną etapą ir pasirengti naujam.",
+   "advice": "Paleiskite tai, kas baigėsi, ramia ranka."
+  },
+  {
+   "a": 8,
+   "b": 14,
+   "general": "Stiprybė ir Nuosaikumas – dvi švelnios, brandžios kortos. Viena valdo savo prigimtį švelnumu, kita derina priešybes kantrybe. Ši pora kalba apie savitvardą, kuri nėra slopinimas, o gebėjimas rasti saiką.",
+   "love": "Meilėje tai ramus, kantrus ryšys, kuriame nereikia kovoti dėl pirmavimo.",
+   "work": "Darbe verta dirbti tolygiai ir atsakingai, atrandant vietos ir pastangoms, ir poilsiui.",
+   "advice": "Judėkite nuosekliai ir švelniai."
+  },
+  {
+   "a": 8,
+   "b": 15,
+   "general": "Stiprybė ir Velnias – švelnumas ir pagunda. Ši pora kalba apie vidinius potraukius: jų nebūtina nugalėti jėga, galima juos pažinti. Švelnus dėmesys sau čia gali atpalaiduoti grandines, kurias laikote per stipriai.",
+   "love": "Meilėje stiprią trauką galima suprasti be gėdos, o ribas – nustatyti aiškiai.",
+   "work": "Darbe verta sąžiningai pažvelgti į įpročius ir priklausomybę nuo patvirtinimo ar patogumo.",
+   "advice": "Žvelkite į savo norus su užuojauta ir aiškumu."
+  },
+  {
+   "a": 8,
+   "b": 16,
+   "general": "Stiprybė ir Bokštas – ramus tvirtumas staigaus pokyčio akivaizdoje. Ši pora rodo, kad vidinė ramybė nesustabdo netikėtumų, bet padeda išlikti sąmoningiems, kai viskas dreba. Tiesa čia pasirodo ne kaip priešas.",
+   "love": "Meilėje tai tiesos priėmimas be panikos ir be kaltinimų.",
+   "work": "Darbe verta ramiai susitvarkyti su netikėtu pasikeitimu ir tolesniu perplanavimu.",
+   "advice": "Pasitikėkite vidine ramybe, kai viskas dreba."
+  },
+  {
+   "a": 8,
+   "b": 17,
+   "general": "Stiprybė ir Žvaigždė – drąsa ir viltis, abi tylios ir nuoseklios. Stiprybė moko ištverti, Žvaigždė – vėl pasitikėti. Ši pora kalba apie švelnų atsinaujinimą po sunkaus laikotarpio, kai jėga ateina ne iš kovos, o iš ramybės.",
+   "love": "Meilėje tai švelnus atsivėrimas ir tikėjimas, kad ryšys gali augti.",
+   "work": "Darbe verta ramiai siekti ilgalaikio tikslo, tikint savo kryptimi.",
+   "advice": "Pasitikėkite savo ramia jėga."
+  },
+  {
+   "a": 8,
+   "b": 18,
+   "general": "Stiprybė ir Mėnulis – drąsa susitikti su savo baimėmis. Ši pora kalba apie vidines šmėklas, kurias galima švelniai pažinti, o ne vengti. Mėnulio neaiškumas čia sutinka švelnų, bet tvirtą prisilietimą.",
+   "love": "Meilėje jausmai gali būti neaiškūs, bet pasitikėjimas padeda juos ištirti.",
+   "work": "Darbe verta ramiai tikrinti, kas realu, o kas tik baimė.",
+   "advice": "Švelniai pažvelkite į savo baimes."
+  },
+  {
+   "a": 8,
+   "b": 19,
+   "general": "Stiprybė ir Saulė – drąsa ir džiaugsmas. Stiprybė rodo ramų vidinį tvirtumą, Saulė – atvirumą be baimės. Kartu jos kalba apie pasitikėjimą savimi, kai nebereikia nieko įrodinėti.",
+   "love": "Meilėje tai šiluma, saugumas ir žaismingumas.",
+   "work": "Darbe verta veikti pasitikint savimi ir dalytis sėkme.",
+   "advice": "Džiaukitės savo jėga be pasirodymo."
+  },
+  {
+   "a": 8,
+   "b": 20,
+   "general": "Stiprybė ir Nuosprendis – vidinis tvirtumas ir pašaukimas. Nuosprendis šaukia, Stiprybė suteikia drąsos atsiliepti net tada, kai šaukinys reikalauja pokyčių. Švelnus pasitikėjimas savimi čia padeda pasirinkti.",
+   "love": "Meilėje tai atsakymas į ilgai brendusį jausmą, duotas be baimės.",
+   "work": "Darbe verta drąsiai rinktis kelią, atitinkantį vertybes.",
+   "advice": "Atsiliepkite į savo šaukinį drąsiai ir švelniai."
+  },
+  {
+   "a": 8,
+   "b": 21,
+   "general": "Stiprybė ir Pasaulis – vidinė branda ir užbaigtumas. Stiprybė rodo kantrų darbą su savimi, Pasaulis – jo vaisių. Ši pora kalba apie jėgą, atvedusią iki pilnatvės: ne griežtumą, o ištvermę ir švelnumą.",
+   "love": "Meilėje tai gili darna, atėjusi per kantrybę.",
+   "work": "Darbe verta sulaukti brandaus rezultato.",
+   "advice": "Pripažinkite, kiek esate užaugę."
+  },
+  {
+   "a": 9,
+   "b": 10,
+   "general": "Atsiskyrėlis stovi nuošalyje su žibintu, Likimo ratas sukasi be sustojimo. Ši pora kalba apie išmintį, padedančią matyti ciklus: kas pasitraukia, gali matyti platesnį paveikslą. Įtampa kyla tarp atsitraukimo ir pasaulio judėjimo.",
+   "love": "Meilėje tai laikas apmąstyti, kuris posūkis jums tikrai tinka.",
+   "work": "Darbe verta stebėti tendencijas ir nepriimti skubotų sprendimų.",
+   "advice": "Pažvelkite iš šalies, tada pasirinkite savo posūkį."
+  },
+  {
+   "a": 9,
+   "b": 11,
+   "general": "Atsiskyrėlis ir Teisingumas – savistaba ir sąžiningas vertinimas. Žibintas čia apšviečia svarstykles: ši pora kalba apie vidinį tiesos ieškojimą, apie tai, ką iš tiesų vertinate ir kaip tai dera su jūsų veiksmais. Tai sunkesnis, bet teisingesnis kelias nei greiti sprendimai.",
+   "love": "Meilėje tai sąžiningas pokalbis su savimi prieš pokalbį su kitu.",
+   "work": "Darbe verta ramiai peržiūrėti sprendimus ir jų pasekmes.",
+   "advice": "Pirma būkite sąžiningi su savimi."
+  },
+  {
+   "a": 9,
+   "b": 12,
+   "general": "Atsiskyrėlis ir Pakabintasis – dvi sustojimo kortos. Atsiskyrėlis ieško šviesos, Pakabintasis keičia požiūrį. Ši pora kalba apie gilų pasitraukimą, kuriame gali ateiti nauji suvokimai.",
+   "love": "Meilėje gali būti nuošalus laikotarpis, kai persvarstote lūkesčius.",
+   "work": "Darbe verta pristabdyti ir leisti idėjai subręsti.",
+   "advice": "Leiskite tylai atnešti atsakymą."
+  },
+  {
+   "a": 9,
+   "b": 13,
+   "general": "Atsiskyrėlis ir Mirtis – tylus pabaigos apmąstymas. Ši pora kalba apie vidinį atsisveikinimą su tuo, kas baigėsi, ir apie žibintą, rodantį kitą žingsnį. Tai virsmo laikas, kuriam geriausiai tinka ramybė.",
+   "love": "Meilėje gali būti sąmoningas etapo užbaigimas.",
+   "work": "Darbe verta pergalvoti, ką palikti.",
+   "advice": "Atsisveikinkite ramiai ir pasiimkite tai, ko išmokote."
+  },
+  {
+   "a": 9,
+   "b": 14,
+   "general": "Atsiskyrėlis ir Nuosaikumas – ramybės ir išminties pora. Abu kalba apie lėtą, sąmoningą kelią, kuriame nėra skubos. Vienas eina su žibintu, kita pila vandenį iš taurės į taurę: abu mokosi atidumo.",
+   "love": "Meilėje tai kantrus, gilus ryšys su savimi ir su kitu.",
+   "work": "Darbe verta dirbti nuosekliai ir apgalvotai.",
+   "advice": "Eikite lėtai, bet sąmoningai."
+  },
+  {
+   "a": 9,
+   "b": 15,
+   "general": "Atsiskyrėlis ir Velnias – šviesa ir šešėlis. Atsiskyrėlio žibintas apšviečia tai, ką Velnias mieliau slepia. Ši pora kalba apie vienatvę, kuri gali būti išmintinga arba tapti vengimu, ir apie priklausomybes, kurias galima pamatyti tik vidine šviesa.",
+   "love": "Meilėje verta atskirti poreikį erdvės nuo užsidarymo.",
+   "work": "Darbe verta sąžiningai pažvelgti į savo priklausomybes ir motyvus.",
+   "advice": "Paimkite žibintą ir pažiūrėkite, kas jus laiko."
+  },
+  {
+   "a": 9,
+   "b": 16,
+   "general": "Atsiskyrėlis ir Bokštas – vidinė šviesa po staigaus pokyčio. Bokštas griauna tai, kas buvo netvirta, o Atsiskyrėlis tyloje išsiaiškina, kas liko. Ši pora kalba apie atsitraukimą ir ramybę po audros.",
+   "love": "Meilėje gali prireikti laiko apmąstyti atsivėrusią tiesą.",
+   "work": "Darbe verta pasitraukti ir peržiūrėti kryptį.",
+   "advice": "Pabūkite tyloje ir pažiūrėkite, kas liko."
+  },
+  {
+   "a": 9,
+   "b": 17,
+   "general": "Atsiskyrėlis ir Žvaigždė – dvi šviesos kortos. Viena nešasi savo žibintą, kita pila vandenį po atviru dangumi. Pirmoji šviečia iš vidaus, antroji dalijasi šviesa su pasauliu; kartu jos kalba apie ramų aiškumą ir viltį.",
+   "love": "Meilėje tai tylus, ramus atsinaujinimas.",
+   "work": "Darbe verta apgalvoti ilgalaikį planą.",
+   "advice": "Eikite savo šviesos keliu."
+  },
+  {
+   "a": 9,
+   "b": 18,
+   "general": "Atsiskyrėlis ir Mėnulis – žibintas rūke. Atsiskyrėlis ieško atsakymų vienumoje, o Mėnulis rodo kelią, kuriame daug šešėlių ir neaiškumų. Žibintas čia nušviečia tik tai, kas šalia, ir to pakanka kitam žingsniui.",
+   "love": "Meilėje gali kilti neaiškumas; padeda ramybė ir kantrybė.",
+   "work": "Darbe verta eiti žingsnis po žingsnio, kol atsiskleis daugiau.",
+   "advice": "Žengkite tiek, kiek šviečia žibintas."
+  },
+  {
+   "a": 9,
+   "b": 19,
+   "general": "Atsiskyrėlis ir Saulė – vidinis aiškumas ir atviras džiaugsmas. Atsiskyrėlis išėjo į vienumą su žibintu, Saulė parodo, kad žibinto šviesa gali tapti dienos šviesa. Ši pora kalba apie ilgą vidinį kelią, vedantį į atvirumą.",
+   "love": "Meilėje tai brandus, ramus džiaugsmas.",
+   "work": "Darbe verta pasidalyti tuo, ką supratote vienumoje.",
+   "advice": "Pasidalykite savo aiškumu."
+  },
+  {
+   "a": 9,
+   "b": 20,
+   "general": "Atsiskyrėlis ir Nuosprendis – tyla ir šauksmas. Atsiskyrėlis ilgai klausėsi savęs, o Nuosprendis kviečia atsiliepti į tai, ką išgirdote. Ši pora kalba apie vidinį balsą, kuris galiausiai pasako, ko norite.",
+   "love": "Meilėje tai aiškus supratimas po ilgo apmąstymo.",
+   "work": "Darbe verta priimti sprendimą po tylaus svarstymo.",
+   "advice": "Atsiliepkite į tai, ką išgirdote tyloje."
+  },
+  {
+   "a": 9,
+   "b": 21,
+   "general": "Atsiskyrėlis ir Pasaulis – išmintis ir užbaigtumas. Atsiskyrėlis rodo vienišą ieškojimą, Pasaulis – jo vaisių. Ši pora kalba apie ilgą vidinį kelią, atvedantį į pilnatvę ir visumos pojūtį.",
+   "love": "Meilėje tai ramus pripažinimas, kad radote save.",
+   "work": "Darbe verta užbaigti mokymąsi ar projektą.",
+   "advice": "Pagerbkite savo kelią."
+  }
+ ]
+}

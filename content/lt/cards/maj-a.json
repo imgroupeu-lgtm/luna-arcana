@@ -1,0 +1,807 @@
+{
+ "cards": [
+  {
+   "id": 0,
+   "symbols": [
+    {
+     "s": "Balta saulė danguje",
+     "m": "Aiškumą, nesuteptą vaikišką pasitikėjimą ir gyvybės šaltinį, kuris šviečia ant visų vienodai."
+    },
+    {
+     "s": "Balta rožė kairėje rankoje",
+     "m": "Tyrus troškimą ir nekaltumą: jis neša viltį, o ne šaltą apskaičiavimą."
+    },
+    {
+     "s": "Lazda su ryšulėliu ant peties",
+     "m": "Nedaug daiktų, bet jų pakanka: kelionei reikia ne visko, o to, ką jau išmokote."
+    },
+    {
+     "s": "Šuo prie kojų",
+     "m": "Instinktą, ištikimybę ir sveiką protą, kuris kartais įspėja arba tiesiog palydi."
+    },
+    {
+     "s": "Skardžio kraštas",
+     "m": "Slenkstį ir nežinomybę; žingsnį, kuris keičia kryptį."
+    },
+    {
+     "s": "Tolimi snieguoti kalnai",
+     "m": "Aukštus tikslus ir ilgą kelią, kuris dar laukia už horizonto."
+    }
+   ],
+   "story": [
+    "Kvailys pažymėtas nuliu: jis ne pirmas ir ne paskutinis, o stovi prieš visą seką ir kartu yra jos pabaiga. Daugelis skaitytojų jį mato kaip sielą prieš pirmąją patirtį: nieko dar nepasirinkusią, nieko neprarandančią, vien galimybę. Vaizde jis žvelgia aukštyn, o ne po kojomis, ir tai kartu yra dovana, ir pavojus. Dovana, nes tik toks žvilgsnis išdrįsta pradėti. Pavojus, nes skardis tikras.",
+    "Didžiųjų arkanų kelionėje Kvailys yra ir pradžia, ir kvietimas grįžti: kaskart, kai baigiame vieną ciklą, naujoje srityje vėl būname šiek tiek kvaili. Po jo seka Magas, kuris mokosi naudotis įrankiais, ir Žynė, kuri mokosi klausytis. Kvailys moko, kad išmintis prasideda ne žinojimu, o pasirengimu nežinoti. Šiuolaikinėje taro praktikoje ši korta dažnai skaitoma kaip klausimas: ar pakankamai pasitikite savimi, kad žengtumėte, ir ar pakankamai atidūs, kad pastebėtumėte, kur yra kraštas."
+   ],
+   "reversed": "Apversta korta rodo du priešingus pavojus. Vienas – per didelis lengvabūdiškumas: šuolis nepažiūrėjus, pažadai, kurių nebus kam ištesėti, žingsnis vien dėl to, kad nuobodu. Kitas – priešingai, užblokuotas pradžios noras: baimė atrodyti juokingai, perfekcionizmas, kuris neleidžia pradėti, kol nėra garantijų. Tada skardis tampa ne pavojumi, o pasiteisinimu likti vietoje. Verta paklausti, kuri pusė jums artimesnė.",
+   "positions": {
+    "past": "Kažkada žengėte į nežinomybę be didelio plano, ir tas žingsnis iki šiol formuoja jūsų dabartį. Galbūt prisimenate lengvumą, galbūt – pamoką apie atsargumą.",
+    "present": "Esate slenkstyje, kur senos taisyklės nebetinka, o naujų dar nėra. Dabartis prašo atvirumo ir smalsumo, bet ir žvilgsnio po kojomis.",
+    "future": "Netrukus gali atsirasti galimybė, kuri atrodys nepažįstama arba netgi nerimta. Ji verta dėmesio būtent dėl savo naujumo.",
+    "obstacle": "Kliūtis gali būti arba skubotas impulsas, arba baimė atrodyti naiviai. Abi jos sulėtina tikrąjį žingsnį.",
+    "advice": "Pasiimkite tai, ką jau žinote, ir žengkite vieną mažą, bet tikrą žingsnį. Nebūtina matyti viso kelio.",
+    "outcome": "Galimas rezultatas – naujas etapas, kuriame savimi pasitikite labiau nei anksčiau. Kelionė svarbiau už tai, kad viskas būtų aišku iš anksto."
+   },
+   "feelings": "Kvailys santykių klausimuose dažniausiai kalba ne apie gilų, nusistovėjusį jausmą, o apie ankstyvą etapą: smalsumą, nuoširdumą, norą pamatyti, kas bus. Žmogų gali traukti jūsų lengvumas, bet jis dar gali nežinoti, ko nori. Iš kortų neįmanoma pasakyti, ką kitas iš tikrųjų jaučia, todėl geriausias kelias – atvirai paklausti ir išklausyti, nepaverčiant lūkesčių pažadais.",
+   "money": "Pinigų srityje korta kalba apie naują pradžią ar dar neišbandytą kelią, kuris traukia, bet dar neturi tvirto pagrindo. Ji primena, kad drąsa ir apdairumas gali eiti kartu: išbandyti galima nedideliu mastu. Tai nėra patarimas investuoti ar ne, tik temos aprašymas.",
+   "friendship": "Draugystėje Kvailys atneša žaismingumą, spontaniškus pasiūlymus ir žmones, su kuriais vėl galima pasijusti jaunatviškai. Jis taip pat primena, kad nereikia atrodyti tobulai, norint būti savam.",
+   "spiritual": "Dvasiniu požiūriu Kvailys kviečia pradedančiojo nusiteikimą: į savo kelią žvelgti taip, tarsi matytumėte jį pirmą kartą. Tai atleidimas sau už nežinojimą ir leidimas mokytis iš patirties, o ne iš lūkesčių. Mažas ritualas – žingsnis lauke be tikslo, vien dėmesiui.",
+   "combos": [
+    {
+     "with": 1,
+     "text": "Kvailys ir Magas: pradžia ir kartu įrankiai jai įgyvendinti. Gera kombinacija entuziazmui paversti darbu."
+    },
+    {
+     "with": 21,
+     "text": "Kvailys ir Pasaulis: ratas užsidaro ir iškart atsiveria naujas. Užbaigimas, kuris jau žvelgia į kitą pradžią."
+    },
+    {
+     "with": 23,
+     "text": "Kvailys ir Skeptrų dvejetas: žingsnis į nežinomybę ir klausimas, kur eiti toliau. Galite pasirinkti kryptį, o ne tik veikti."
+    },
+    {
+     "with": 65,
+     "text": "Kvailys ir Monetų dvejetas: lengvumas susitinka su žongliravimu. Ar spėsite išlaikyti pusiausvyrą nenustoję žaisti?"
+    },
+    {
+     "with": 50,
+     "text": "Kvailys ir Kardų tūzas: nauja įžvalga ir naujas žingsnis. Aiški mintis, verčianti pradėti."
+    }
+   ],
+   "questions": [
+    "Kokio žingsnio aš vengiu ne dėl to, kad jis pavojingas, o dėl to, kad jis neįprastas?",
+    "Ką jau žinau ir turiu, kas leistų man eiti drąsiau, nei manau?",
+    "Kur savo gyvenime einu per arti krašto ir ką man bando pasakyti vidinis šuo?"
+   ]
+  },
+  {
+   "id": 1,
+   "symbols": [
+    {
+     "s": "Viena ranka kyla su lazda, kita rodo žemyn",
+     "m": "Principą „kaip viršuje, taip ir apačioje“: valia semiasi iš aukštesnio ir veikia šiame pasaulyje."
+    },
+    {
+     "s": "Begalybės ženklas virš galvos",
+     "m": "Sąmoningą dėmesį, kuris neapsiriboja vienu momentu ir gali nuolat atsinaujinti."
+    },
+    {
+     "s": "Stalas su taure, kardu, pentakliu ir lazda",
+     "m": "Keturis stichijų įrankius: jausmą, mintį, materiją ir valią, visus vienoje vietoje."
+    },
+    {
+     "s": "Raudonos rožės ir baltos lilijos",
+     "m": "Aistrą ir tyrumą, kurie auga kartu, kai ketinimas aiškus."
+    },
+    {
+     "s": "Gyvatės formos diržas, kandantis savo uodegą",
+     "m": "Ciklą ir kūrybinę energiją, kuri grįžta į save."
+    },
+    {
+     "s": "Raudona mantija ir baltas drabužis",
+     "m": "Veiksmo troškimą ir tyrą ketinimą, nešiojamus kartu."
+    }
+   ],
+   "story": [
+    "Magas, pirmasis iš Didžiųjų arkanų, vaizduoja akimirką, kai potencialas virsta pasirinkimu. Kvailys dar stovėjo skardžio krašte, o Magas jau stovi prie stalo: viskas, ko reikia, yra priešais. Keturi įrankiai ant stalo atitinka keturias Mažųjų arkanų mastis, ir tai primena, kad jis turi visą žmogaus patirties paletę. Jis nėra stebukladarys, o veikiau tas, kuris žino, ko nori, ir sutelkia dėmesį.",
+    "Šioje kortoje svarbus ne talentas, o kryptingumas. Viena ranka į dangų, kita į žemę – tai ne magiškas triukas, o ryšys tarp idėjos ir veiksmo. Toliau kelyje Magą atsveria Žynė: jis veikia, ji laukia. Visumai reikia abiejų. Skaitant šią kortą verta klausti ne „ar galiu?“, o „ko iš tikrųjų noriu ir ar pasirengiu dirbti, kad tai atsirastų?“"
+   ],
+   "reversed": "Apverstas Magas dažnai rodo išsisklaidymą: daug idėjų, mažai pabaigtų. Jis taip pat gali įspėti apie įtikinamumą be turinio – žodžius, kuriais norima paveikti, nors už jų nėra tikro ketinimo. Kartais korta rodo nepasitikėjimą savo gebėjimais, nors įrankiai jau yra. Paprastas klausimas: ar nesiruošiate be galo, užuot pradėję nuo to, ką jau turite?",
+   "positions": {
+    "past": "Kažkada turėjote aiškų tikslą ir gebėjimą jį judinti. Tai galėjo būti sprendimas, kuris nulėmė, kuo tapote.",
+    "present": "Šiuo metu turite daugiau išteklių, nei įsivaizduojate. Metas rinktis vieną kryptį ir paremti ją veiksmu.",
+    "future": "Netrukus gali atsirasti galimybė parodyti, ką sugebate. Jūsų atliktas pasirengimas bus matomas.",
+    "obstacle": "Kliūtis – išsisklaidymas arba nepasitikėjimas savo įgūdžiais. Kartais ir noras įtikinti, užuot veikus.",
+    "advice": "Pasirinkite vieną dalyką ir atlikite jį nuo pradžios iki pabaigos. Remkitės tuo, kas po ranka.",
+    "outcome": "Rezultatas – ketinimo ir veiksmo sutapimas. Tai, kas buvo mintis, tampa konkrečia forma."
+   },
+   "feelings": "Magas rodo žmogų, kuris veikia ir kalba aiškiai. Jo jausmai gali matytis per dėmesį ir iniciatyvą, bet pati korta nesako, kad jausmas gilus ar nuoširdus. Atminkite, kad Magas gali reikšti ir gerą išorinį pristatymą, todėl vertinkite ne žodžius, o nuoseklumą laikui bėgant. Geriausia – pasikalbėti tiesiai.",
+   "money": "Finansų temoje korta kalba apie išteklius, kuriuos jau turite, ir gebėjimą jais pasinaudoti. Ji gali nurodyti naują projektą ar gebėjimą uždirbti iš to, ką mokate. Tai ne pažadas, o kvietimas atidžiai pažvelgti į savo įgūdžius ir pasiūlymus.",
+   "friendship": "Draugystėje Magas yra žmogus, kuris pradeda, organizuoja, siūlo ir įkvepia. Korta taip pat kviečia būti atviriems ir nesistengti daryti įspūdžio. Tikra draugystė nereikalauja vaidmens.",
+   "spiritual": "Dvasiniu požiūriu Magas moko, kad ketinimas turi veikti per veiksmą. Tai korta apie sąmoningą praktiką: ne tik svajoti, bet kasdien kažką daryti. Vienas paprastas ritualas – užrašyti vieną ketinimą ir šiandien atlikti vieną jį palaikantį veiksmą.",
+   "combos": [
+    {
+     "with": 2,
+     "text": "Magas ir Žynė: veiksmas ir intuicija. Kai jie susitinka, jaučiate, ką daryti, ir žinote, kaip pradėti."
+    },
+    {
+     "with": 0,
+     "text": "Magas ir Kvailys: pradžios idėja ir įrankiai jai įgyvendinti. Neleiskite smalsumui išsisklaidyti."
+    },
+    {
+     "with": 22,
+     "text": "Magas ir Skeptrų tūzas: kibirkštis susitinka su valia. Stiprus startas naujam projektui."
+    },
+    {
+     "with": 73,
+     "text": "Magas ir Monetų dešimtukas: gebėjimai virsta ilgalaikiu pagrindu. Praktiniai pasiekimai tampa paveldu."
+    },
+    {
+     "with": 13,
+     "text": "Magas ir Mirtis: senas būdas baigiasi, naujas kuriamas sąmoningai. Pokytis, kurio imatės patys."
+    }
+   ],
+   "questions": [
+    "Ką šiuo metu jau turiu, bet vis dar laikau neparuoštu?",
+    "Kur mano žodžiai ir mano veiksmai išsiskiria?",
+    "Kokį vieną ketinimą galėčiau šią savaitę paversti konkrečiu veiksmu?"
+   ]
+  },
+  {
+   "id": 2,
+   "symbols": [
+    {
+     "s": "Dvi kolonos su raidėmis B ir J",
+     "m": "Dualumą ir slenkstį į šventyklą; juodą ir baltą, tarp kurių ji sėdi."
+    },
+    {
+     "s": "Pusmėnulis prie kojų",
+     "m": "Ryšį su mėnuliu, ciklais ir pasąmone."
+    },
+    {
+     "s": "Ritinys su užrašu TORA",
+     "m": "Slaptą žinojimą, iš dalies atidengtą, iš dalies paslėptą po drabužiu."
+    },
+    {
+     "s": "Šydas su granatais už nugaros",
+     "m": "Gausą ir paslaptį, slypinčią už to, kas matoma."
+    },
+    {
+     "s": "Karūna su pilnaties disku tarp dviejų pusmėnulių",
+     "m": "Kaitą tarp augimo ir slūgimo, kintančius vidinius ritmus."
+    },
+    {
+     "s": "Lygiašonis kryžius ant krūtinės",
+     "m": "Pusiausvyrą ir stichijų susitikimą širdyje."
+    }
+   ],
+   "story": [
+    "Žynė sėdi ant slenksčio, ir tai yra jos esmė. Ji nesiūlo atsakymų kaip Magas, o saugo juos tyloje. Kolonos B ir J primena šventyklos įėjimą, o šydas už nugaros rodo, kad už jos slypi dar daugiau. Ritinys iš dalies paslėptas: tai žinojimas, kuris ateina tada, kai esame pasirengę jį priimti.",
+    "Didžiųjų arkanų seka prasideda aktyviu Magu ir tuoj pat atsveria jį tyla. Žynė moko, kad ne viskas sprendžiama veikiant: kartais svarbiausia išlaikyti atidžią klausą. Kaip Imperatorė po jos kuria ir augina, taip Žynė slepia sėklą žemėje. Skaitant šią kortą verta paklausti, ką jau žinote, bet nenorite pripažinti, ir kokiam atsakymui dar nesate pasirengę. Šiuolaikinėje praktikoje ji dažnai laikoma intuicijos ir vidinio balso simboliu."
+   ],
+   "reversed": "Apversta Žynė gali rodyti nuojautą, kurios nenorima girdėti, arba paslaptį, tapusią našta. Kartais ji įspėja, kad pernelyg gilinatės į save ir nepastebite to, kas vyksta aplink. Gali būti ir atvirkščiai: aplinkos triukšmas neleidžia išgirsti savęs. Pasitarkite su savimi tyloje, o ne tik su aplinkiniais.",
+   "positions": {
+    "past": "Praeityje buvo laikotarpis, kai daug ką žinojote, negalėdami paaiškinti. Tos nuojautos greičiausiai paaiškėjo vėliau.",
+    "present": "Dabar gali tekti stebėti ir laukti, o ne veikti. Atsakymas ateis, kai jam atsiras vietos.",
+    "future": "Netrukus gali atsiskleisti daugiau to, kas iki šiol buvo neaišku. Padės įsiklausymas.",
+    "obstacle": "Kliūtis – ignoruojama nuojauta arba slepiamas tikrasis noras. Kartais ir per didelis užsisklendimas.",
+    "advice": "Skirkite laiko tylai ir užrašykite, ką jaučiate. Neskubėkite priimti sprendimo.",
+    "outcome": "Rezultatas – gilesnis savęs pažinimas ir ramus pasitikėjimas vidiniu balsu."
+   },
+   "feelings": "Žynė retai kalba apie atvirą jausmų išraišką. Žmogus gali būti santūrus, stebintis, nenorintis skubinti. Korta nesako, kad jausmų nėra, bet gali rodyti, kad jie dar neišsakyti arba net paties žmogaus nepripažinti. Nespėliokite vieni už kitus: sukurkite saugią erdvę, kurioje abu galite kalbėti be spaudimo.",
+   "money": "Pinigų klausimuose Žynė pataria neskubėti ir remtis ne tik pateiktais skaičiais, bet ir tuo, ko dar nežinote. Galbūt dar ne visa informacija atvira. Tai raginimas rinkti žinias, o ne finansinis patarimas.",
+   "friendship": "Draugystėje ši korta rodo draugą, kuris tyliai supranta ir saugo paslaptis, arba laikotarpį, kai norisi daugiau tylos nei pokalbių. Ji taip pat primena, kad nederėtų brautis į draugo vidinį pasaulį neprašytam.",
+   "spiritual": "Dvasiniu požiūriu Žynė yra meditacijos, sapnų ir užrašų korta. Ji kviečia pastebėti, kokios mintys kyla, kai nieko nedarote. Praktika: dešimt minučių tylos, paskui trys sakiniai dienoraštyje apie tai, kas iškilo.",
+   "combos": [
+    {
+     "with": 1,
+     "text": "Žynė ir Magas: intuicija ir veiksmas. Kai jie susitinka, jaučiate, ką daryti, ir žinote, kaip pradėti."
+    },
+    {
+     "with": 18,
+     "text": "Žynė ir Mėnulis: dvi nakties kortos kartu. Daug neaiškumo, bet ir gili vidinė medžiaga, verta ramaus dėmesio."
+    },
+    {
+     "with": 36,
+     "text": "Žynė ir Taurių tūzas: širdies atsivėrimas ir vidinis balsas. Jausmas, kylantis tyliai, bet tikrai."
+    },
+    {
+     "with": 58,
+     "text": "Žynė ir Kardų devynetas: nerimas ir slapti rūpesčiai. Čia reikia ir tylos, ir pokalbio su patikimu žmogumi."
+    },
+    {
+     "with": 3,
+     "text": "Žynė ir Imperatorė: vidinis žinojimas ir kūryba. Tai, kas brendo tyloje, pradeda augti."
+    }
+   ],
+   "questions": [
+    "Ką aš jau žinau, nors dar niekam to nepasakiau?",
+    "Kokioje situacijoje kasdien girdžiu vidinį balsą, bet jo neklausau?",
+    "Kas pasikeistų, jei kelias dienas negalėčiau paaiškinti savo sprendimų, o tik juos justi?"
+   ]
+  },
+  {
+   "id": 3,
+   "symbols": [
+    {
+     "s": "Dvylikos žvaigždžių vainikas",
+     "m": "Ciklą, mėnesius ir ryšį su dangumi."
+    },
+    {
+     "s": "Granatų raštu išmarginta suknia",
+     "m": "Vaisingumą ir kūrybinį kupinumą."
+    },
+    {
+     "s": "Širdies formos skydas su Veneros ženklu",
+     "m": "Meilę, grožį ir ryšį su Venera."
+    },
+    {
+     "s": "Prinokę kviečiai",
+     "m": "Derlių, kuris atsiranda iš ilgo puoselėjimo."
+    },
+    {
+     "s": "Miškas ir srovenantis upelis",
+     "m": "Gyvybingą gamtą ir nuolat tekančią energiją."
+    },
+    {
+     "s": "Pagalvėmis paminkštinta sėdynė",
+     "m": "Poilsį ir leidimą sau pasimėgauti."
+    }
+   ],
+   "story": [
+    "Imperatorė – kūrybos ir rūpesčio korta. Ji ilsisi ne iš tingumo, o todėl, kad žino: augimui reikia ramybės. Aplink ją viskas dera, nes niekas neprievartaujama. Jos karūnoje – dvylika žvaigždžių, primenančių metų ritmą. Čia matome, kaip žemė atsiliepia į tai, kas buvo pasėta.",
+    "Didžiųjų arkanų kelionėje ji eina po Žynės: vidinis žinojimas virsta išoriniu gyvenimu. Jai nereikia įrodinėti savo vertės, užtenka būti ir leisti kitiems augti. Vėliau ją atsveria Imperatorius su struktūra ir ribomis. Skaitant šią kortą verta pasidomėti, kas jūsų gyvenime jau pražydo ir ar pakankamai tai laistote, įskaitant save. Šiuolaikiniuose skaitymuose ji dažnai siejama su namais, kūrybiniu darbu ir juslių džiaugsmu."
+   ],
+   "reversed": "Apversta Imperatorė gali reikšti rūpesčio per daug arba jo stoką. Kartais per daug atiduodate kitiems ir pamirštate save; kartais užsikemša kūrybos šaltinis. Ji taip pat gali rodyti perdėtą kitų globojimą, kuris slopina, o ne stiprina. Pažvelkite, ar jūsų dosnumas dar mielas jums patiems.",
+   "positions": {
+    "past": "Buvo laikas, kai jautėtės globojami arba patys globojote. Tas patyrimas dar maitina jūsų dabartį.",
+    "present": "Šiuo metu verta daugiau dėmesio skirti tam, kas auga: projektui, santykiui, kūnui. Leiskite sau pasimėgauti.",
+    "future": "Netrukus galite pamatyti vaisių to, kuo anksčiau rūpinotės. Gausa ateina per kantrų puoselėjimą.",
+    "obstacle": "Kliūtis – užmirštas rūpestis savimi arba perdėtas globojimas. Kartais ir per didelis noras viską daryti už kitus.",
+    "advice": "Pasirūpinkite savimi taip, kaip pasirūpintumėte mylimu žmogumi. Kūrybai reikia laiko ir šilumos.",
+    "outcome": "Galimas rezultatas – gausa, brandi kūryba ir ryšiai, kurie auga be prievartos."
+   },
+   "feelings": "Imperatorė rodo šiltą, atidų, juslišką žmogų, kuriam svarbu rūpestis ir buvimas kartu. Jausmas dažnai reiškiamas veiksmais: maistu, dėmesiu, fiziniu artumu. Tai nebūtinai reiškia romantinį pasirinkimą, bet korta liudija šilumą. Jei abejojate, paklauskite atvirai, o ne spėliokite iš gestų.",
+   "money": "Pinigų srityje korta kalba apie gausą, kuri auga iš nuoseklaus rūpesčio, ir apie gebėjimą mėgautis tuo, ką turite. Ji taip pat gali priminti išlaikyti pusiausvyrą tarp dosnumo ir savo poreikių. Tai tema, o ne pažadas.",
+   "friendship": "Draugystėje Imperatorė yra draugė, pas kurią lengva pasijusti kaip namie, kuri vaišina, užjaučia ir sukuria jaukią aplinką. Ji taip pat primena, kad rūpestis turi būti abipusis.",
+   "spiritual": "Dvasiniu požiūriu ši korta kviečia gerbti kūną, gamtą ir pojūčius kaip kelią į supratimą. Paprasta praktika: ilgas pasivaikščiojimas, kai atkreipiate dėmesį tik į tai, ką jaučiate pėdomis, oda ir uosle.",
+   "combos": [
+    {
+     "with": 4,
+     "text": "Imperatorė ir Imperatorius: kūryba ir struktūra. Kai jie dera, auga kas nors ir gražaus, ir tvirto."
+    },
+    {
+     "with": 2,
+     "text": "Imperatorė ir Žynė: tai, kas brendo viduje, ima reikštis išorėje. Intuicija, kuri tampa kūryba."
+    },
+    {
+     "with": 45,
+     "text": "Imperatorė ir Taurių dešimtukas: šeima, namai ir emocinė pilnatvė. Šilta, gyva aplinka."
+    },
+    {
+     "with": 76,
+     "text": "Imperatorė ir Monetų karalienė: praktinis rūpestis ir gausa. Patogūs namai, nuoširdus dosnumas."
+    },
+    {
+     "with": 19,
+     "text": "Imperatorė ir Saulė: džiaugsmas, gyvybingumas ir vaisinga kūryba. Daug šviesos."
+    }
+   ],
+   "questions": [
+    "Kam skiriu daugiausia rūpesčio ir ar jo lieka man pačiam?",
+    "Kas mano gyvenime jau pražydo, nors dar to nepastebėjau?",
+    "Kokį mažą malonumą galėčiau šią savaitę leisti sau be kaltės?"
+   ]
+  },
+  {
+   "id": 4,
+   "symbols": [
+    {
+     "s": "Akmeninis sostas su avinų galvomis",
+     "m": "Avino (Marso) ženklą, ryžtą ir ugningą pradžios jėgą."
+    },
+    {
+     "s": "Skeptras su ankh kryžiumi ir rutulys kitoje rankoje",
+     "m": "Valdžią ir atsakomybę už gyvenimą bei pasaulį."
+    },
+    {
+     "s": "Raudona mantija, po ja šarvai",
+     "m": "Aistrą ir valią, apsaugotą apsauginiu sluoksniu."
+    },
+    {
+     "s": "Plika kalnų grandinė už nugaros",
+     "m": "Griežtą aplinką ir kietą pagrindą, ant kurio statoma."
+    },
+    {
+     "s": "Siauras upelis",
+     "m": "Gyvybės srautą, kuris yra net griežtoje aplinkoje."
+    },
+    {
+     "s": "Ilga balta barzda",
+     "m": "Patirtį, brandą ir ilgą vadovavimo laiką."
+    }
+   ],
+   "story": [
+    "Imperatorius – tvarkos ir atsakomybės korta. Jis sėdi akmeniniame soste, nes struktūra turi būti tvirta. Avinų galvos primena, kad jo jėga ugninga ir kad tvarka nėra šalta, o kyla iš ryžto. Kietas kraštovaizdis už jo rodo, kad jis veikia ne patogiomis, o reikliomis sąlygomis.",
+    "Didžiųjų arkanų sekoje jis eina po Imperatorės: ji kuria, o jis saugo ir tvarko. Kartu jie sudaro porą, kurioje gyvybė ir forma papildo viena kitą. Skaitant šią kortą verta paklausti, kur jums reikia aiškesnių ribų ir kur esate pernelyg griežti. Gera valdžia, pagal šią kortą, tarnauja kitiems, o ne tik sau. Taro tradicijoje ši korta dažnai siejama su tėvo figūra, bet svarbesnis principas nei lytis."
+   ],
+   "reversed": "Apverstas Imperatorius rodo kietumą, kuris nebeapsaugo, o tik suvaržo. Tai gali būti tironiška kontrolė, bet ir priešinga situacija: nėra struktūros, ribos nuolat slysta, atsakomybė vengiama. Kartais korta kalba apie santykį su autoritetu: pasipriešinimą ar priklausomybę. Paklauskite, ar jūsų taisyklės dar tarnauja gyvenimui.",
+   "positions": {
+    "past": "Jūsų gyvenime buvo stipri tvarka ar autoritetas, kuris nulėmė, kaip esate įpratę elgtis. Tai galėjo suteikti saugumo ar suvaržyti.",
+    "present": "Dabartis prašo aiškių ribų, planų ir atsakomybės. Struktūra gali jus palaikyti.",
+    "future": "Netrukus galite prisiimti daugiau atsakomybės, o stabilumas gali tapti dabartinių pastangų rezultatu.",
+    "obstacle": "Kliūtis – per didelis kontrolės poreikis arba, priešingai, tvarkos stoka. Taip pat sunkumas su autoritetu.",
+    "advice": "Sukurkite aiškų planą ir laikykitės jo, bet palikite vietos gyvenimui.",
+    "outcome": "Rezultatas – stabilumas, patikimas pagrindas ir pagarba, užsitarnauta nuoseklumu."
+   },
+   "feelings": "Imperatorius rodo žmogų, kuris jausmus vertina per saugumą, patikimumą ir veiksmus. Jam gali būti sunku kalbėti apie emocijas, bet jis siekia būti nuoseklus ir atsakingas. Tai nebūtinai reiškia romantinį jausmą, bet greičiausiai jis rimtai žiūri į ryšį. Padeda atviras pokalbis apie lūkesčius ir ribas.",
+   "money": "Pinigų temoje korta kalba apie biudžetą, planavimą ir ilgalaikę atsakomybę. Ji sieja finansinį stabilumą su disciplina ir aiškia struktūra. Tai ne konkretus patarimas, o jūsų santykio su tvarka atspindys.",
+   "friendship": "Draugystėje Imperatorius yra patikimas draugas, kuris laikosi žodžio, bet gali būti ir nelankstus. Jis primena, kad draugystei reikia ir ribų, ir pasitikėjimo.",
+   "spiritual": "Dvasiniu požiūriu korta moko vidinės disciplinos: kasdienės praktikos, kuri tampa atrama. Tai ne griežtumas sau, o pasirinktas ritmas. Gera praktika – nustatyti vieną nedidelį kasdienį įprotį ir jo laikytis mėnesį.",
+   "combos": [
+    {
+     "with": 3,
+     "text": "Imperatorius ir Imperatorė: struktūra ir kūryba. Kai jie kartu, gimsta kas nors ir gražaus, ir tvirto."
+    },
+    {
+     "with": 5,
+     "text": "Imperatorius ir Šventikas: pasaulietinė ir dvasinė tvarka. Taisyklės ir tradicijos, kurios susitinka."
+    },
+    {
+     "with": 11,
+     "text": "Imperatorius ir Teisingumas: įstatymai, atsakomybė, sąžiningumas. Aiškios ir teisingos ribos."
+    },
+    {
+     "with": 35,
+     "text": "Imperatorius ir Skeptrų karalius: tvirtas lyderis su vizija. Valdžia, kuri įkvepia."
+    },
+    {
+     "with": 77,
+     "text": "Imperatorius ir Monetų karalius: materialinis stabilumas ir patikimas vadovavimas. Ilgalaikė statyba."
+    }
+   ],
+   "questions": [
+    "Kur man reikia aiškesnių ribų, savo ir kitų?",
+    "Kurios mano taisyklės dar tarnauja, o kurios jau tik laiko mane vietoje?",
+    "Kokią atsakomybę galiu prisiimti, o kokią perleisčiau kitam?"
+   ]
+  },
+  {
+   "id": 5,
+   "symbols": [
+    {
+     "s": "Trigubas vainikas",
+     "m": "Dažnai aiškinama kaip trys pasauliai: kūnas, protas ir dvasia; dvasinės valdžios ženklas."
+    },
+    {
+     "s": "Lazda su trijų skersinių kryžiumi",
+     "m": "Šventąją valdžią ir mokymo autoritetą."
+    },
+    {
+     "s": "Dvi kolonos",
+     "m": "Šventyklos slenkstį ir institucijos ribas."
+    },
+    {
+     "s": "Du klūpantys mokiniai",
+     "m": "Mokymosi ir perdavimo santykį: viena karta pasitinka kitą."
+    },
+    {
+     "s": "Sukryžiuoti raktai prie kojų",
+     "m": "Žinių ir paslapčių raktus, atrakinančius vidines duris."
+    },
+    {
+     "s": "Pakelta ranka su dviem pirštais",
+     "m": "Palaiminimo ir perdavimo gestą."
+    }
+   ],
+   "story": [
+    "Šventikas – tradicijos korta. Jis sėdi tarp kolonų kaip institucijos dalis ir perduoda tai, ką jam patikėjo kiti. Du mokiniai klūpo prieš jį ne vergiškai, o kaip tie, kurie pasirengę mokytis. Raktai prie kojų primena, kad žinojimas gali atverti duris, bet tik tada, kai juo naudojamasi atsakingai.",
+    "Skirtingai nei Žynė, kuri slaptą žinojimą saugo viduje, Šventikas juo dalijasi viešai. Jos žinios intuityvios, jo – perduotos. Didžiųjų arkanų sekoje jis eina po Imperatoriaus: po struktūros ateina prasmė, kuri ją pateisina. Skaitant šią kortą verta paklausti, kokių vertybių esate išmokę ir ar jos vis dar jūsų. Tikras mokytojas, pagal šią kortą, nenori kopijų, o padeda rasti savo kelią."
+   ],
+   "reversed": "Apverstas Šventikas gali reikšti maištą prieš taisykles, kurios nebetinka, ir tai dažnai sveika. Tačiau jis taip pat gali įspėti apie dogmatiškumą, tuščią ritualą arba aklą sekimą kitų nuomone. Kartais korta rodo, kad ieškote savo kelio už pažįstamų ribų. Pažvelkite, ar atmetate tai, kas nebetinka, ar tiesiog bėgate nuo atsakomybės.",
+   "positions": {
+    "past": "Ankstesnis mokymasis, šeimos tradicija ar bendruomenė suformavo jūsų pasaulėžiūrą. Ji dar veikia.",
+    "present": "Dabar verta kreiptis patarimo į patikimą mokytoją ar bendruomenę ir pasvarstyti apie savo vertybes.",
+    "future": "Netrukus galite sutikti mentorių ar įsitraukti į bendruomenę. Mokymasis gali atnešti aiškumo.",
+    "obstacle": "Kliūtis – dogmatiškumas ar spaudimas prisitaikyti. Arba, priešingai, nenoras mokytis iš kitų.",
+    "advice": "Mokykitės iš tų, kuriais pasitikite, bet patikrinkite, ar tai dera su jūsų vidumi.",
+    "outcome": "Rezultatas – gilesnė prasmė, paremta tiek tradicija, tiek asmenine patirtimi."
+   },
+   "feelings": "Šventikas rodo žmogų, kuris vertina nusistovėjusias vertybes, įsipareigojimą ir rimtą požiūrį. Jausmai gali reikštis per ritualus, šventes ir bendrus pasirinkimus, o ne per spontaniškus gestus. Korta nesako, ką žmogus konkrečiai jaučia, bet rodo, kad jam svarbu, jog santykis atitiktų vertybes. Aptarkite, ko abu tikitės.",
+   "money": "Pinigų klausimuose korta paprastai kalba apie patikrintus kelius, patarėjus ir institucijas. Ji gali raginti pasikonsultuoti su kompetentingu žmogumi prieš sprendžiant. Tai ne konkretus finansinis patarimas.",
+   "friendship": "Draugystėje Šventikas yra draugas, su kuriuo dalijatės vertybėmis ar tradicijomis, mokytojas ar bendruomenės žmogus. Gera draugystė čia reiškia bendrą prasmę, ne tik laiką.",
+   "spiritual": "Dvasiniu požiūriu korta kviečia rasti savo tradiciją ar bendruomenę, jei jos ieškote, arba atnaujinti santykį su ta, kurią turite. Tai ir klausimas, kas jūsų ritualai ir ar jie tebėra gyvi. Gali padėti vienas nuolatinis ritualas, tinkantis jums.",
+   "combos": [
+    {
+     "with": 4,
+     "text": "Šventikas ir Imperatorius: dvasinė ir pasaulietinė tvarka. Tradicijos, turinčios rėmus."
+    },
+    {
+     "with": 6,
+     "text": "Šventikas ir Mylimieji: įsipareigojimas ir vertybių pasirinkimas. Santykis, grįstas bendromis nuostatomis."
+    },
+    {
+     "with": 2,
+     "text": "Šventikas ir Žynė: žinios, perduotos žodžiu, ir žinios, išgirstos viduje. Svarbu išlaikyti abi."
+    },
+    {
+     "with": 59,
+     "text": "Šventikas ir Kardų dešimtukas: sena sistema griūva. Tai gali būti skausminga, bet palieka vietos naujam."
+    },
+    {
+     "with": 45,
+     "text": "Šventikas ir Taurių dešimtukas: šeima, bendros vertybės ir tradicijos. Gili pilnatvė."
+    }
+   ],
+   "questions": [
+    "Kokių vertybių išmokau iš savo šeimos ar bendruomenės ir kurias noriu išlaikyti?",
+    "Kas man yra mokytojas ir ko galiu iš jo išmokti?",
+    "Kuri taisyklė mano gyvenime tapo tik įpročiu be prasmės?"
+   ]
+  },
+  {
+   "id": 6,
+   "symbols": [
+    {
+     "s": "Angelas debesyje virš figūrų",
+     "m": "Aukštesnę globą ir palaiminimą; vaizdas dažnai siejamas su arkangelu Rafaeliu."
+    },
+    {
+     "s": "Saulė už angelo",
+     "m": "Šviesą ir gyvybę, kuri apšviečia pasirinkimą."
+    },
+    {
+     "s": "Moteris prie medžio su gyvate",
+     "m": "Pažinimo ir pagundos temą, primenančią Edeno sodą."
+    },
+    {
+     "s": "Vyras prie medžio su liepsnomis",
+     "m": "Aistrą ir gyvybinę energiją."
+    },
+    {
+     "s": "Kalnas tarp dviejų figūrų",
+     "m": "Tikslą ir aukštesnę viziją, kurią jie gali pasiekti kartu."
+    },
+    {
+     "s": "Abi figūros nuogos",
+     "m": "Atvirumą ir nuoširdumą be kaukių."
+    }
+   ],
+   "story": [
+    "Mylimieji – ne tik romantiška korta. Ji kalba apie pasirinkimą, kuris atspindi, kas esame, ir apie ryšį, reikalaujantį visiško sąžiningumo. Angelas virš jų primena, kad pasirinkimas turi aukštesnę prasmę nei malonumas. Nuogumas vaizduoja būtent tai: nėra ką slėpti, nėra ko saugotis.",
+    "Didžiųjų arkanų kelionėje korta ateina po Šventiko, kuris kalbėjo apie perduotas vertybes: dabar reikia pasirinkti savąsias. Šis sprendimas asmeniškas, jo negalima perduoti kitam. Pasirinkimas gali liesti santykį, kryptį ar vertybę. Skaitant šią kortą verta paklausti, kokia jūsų tikroji nuostata, kai nėra spaudimo. Taro tradicijoje šis pasirinkimas dažnai suprantamas kaip sąmoningas, o ne impulsyvus."
+   ],
+   "reversed": "Apversti Mylimieji dažnai rodo vidinį nesutarimą: žodžiai vienaip, veiksmai kitaip. Gali būti neryžtingumas, vengimas pasirinkti arba pasirinkimas, prieštaraujantis vertybėms. Santykiuose tai gali reikšti disharmoniją ar nutolimą. Verta paklausti, kas jus labiau išduoda: nuolatinis atidėliojimas ar pasirinkimas prieš savo jausmus.",
+   "positions": {
+    "past": "Praeityje padarėte svarbų pasirinkimą arba buvote artimame ryšyje. Tai tebeformuoja jūsų dabartį.",
+    "present": "Šiuo metu stovite prie pasirinkimo, kuris liečia jūsų vertybes. Atsakymas ateis iš jūsų, ne iš aplinkos.",
+    "future": "Netrukus gali tekti rinktis arba sutikti žmogų ar situaciją, kuri išbandys jūsų nuoširdumą.",
+    "obstacle": "Kliūtis – neryžtingumas arba pasirinkimas prieš savo vertybes. Taip pat slėpimas nuo savęs.",
+    "advice": "Rinkitės tai, kas dera su jumis, ir sakykite tiesą, net kai tai sunku.",
+    "outcome": "Galimas rezultatas – harmonija, kylanti iš sąžiningo pasirinkimo ir gilaus ryšio."
+   },
+   "feelings": "Mylimieji dažnai rodo stiprų emocinį ryšį ir norą elgtis nuoširdžiai. Tačiau korta apskritai kalba apie pasirinkimą, tad žmogus gali jausti trauką ir kartu svarstyti. Ji nesako, kad abu jaučiate tą patį. Tinkamas atsakymas ateina iš atviro pokalbio, kuriame abu pasakote, ko norite.",
+   "money": "Pinigų srityje korta kalba apie sprendimus, kurie turi atitikti vertybes: kam skiriate išteklius ir ar tai atspindi tai, kas jums svarbu. Gali būti ir apie bendrus finansus su partneriu. Tai tema apmąstymui, ne patarimas.",
+   "friendship": "Draugystėje Mylimieji reiškia gilų pasitikėjimą ir ryšį, kuriame galite būti savimi. Korta taip pat gali liesti pasirinkimą tarp skirtingų draugų ar grupių.",
+   "spiritual": "Dvasiniu požiūriu Mylimieji kviečia sutaikyti savo vidines puses: protą ir širdį, norus ir vertybes. Kai jos susitinka, atsiranda ramybė. Praktika: užrašyti du sprendimo variantus ir ramiai pastebėti, kuris suteikia daugiau vidinio ramumo.",
+   "combos": [
+    {
+     "with": 5,
+     "text": "Mylimieji ir Šventikas: įsipareigojimas, pagrįstas bendromis vertybėmis. Santykis su prasme."
+    },
+    {
+     "with": 36,
+     "text": "Mylimieji ir Taurių tūzas: nauja meilė arba atgaivintas jausmas. Širdis atsiveria."
+    },
+    {
+     "with": 45,
+     "text": "Mylimieji ir Taurių dešimtukas: pilnatvė, namai ir ilgalaikė harmonija."
+    },
+    {
+     "with": 51,
+     "text": "Mylimieji ir Kardų dvejetas: sprendimas, kurio vengiama. Kad pasirinktumėte, gali tekti nusimesti gynybą."
+    },
+    {
+     "with": 15,
+     "text": "Mylimieji ir Velnias: trauka ir susaistymas. Verta paklausti, kas čia pasirinkta, o kas primesta."
+    }
+   ],
+   "questions": [
+    "Kokį pasirinkimą dabar atidėlioju ir kodėl?",
+    "Kur mano veiksmai išduoda mano vertybes ir kur jas gerbia?",
+    "Ar sugebu visiškai sąžiningai kalbėtis su žmogumi, kuris man svarbus?"
+   ]
+  },
+  {
+   "id": 7,
+   "symbols": [
+    {
+     "s": "Žvaigždėtas baldakimas",
+     "m": "Dangiškąją sritį ir viršesnį tikslą, kuris veda."
+    },
+    {
+     "s": "Juodas ir baltas sfinksai",
+     "m": "Priešingas jėgas, kurios traukia į vieną kryptį tik tada, kai jas valdo valia."
+    },
+    {
+     "s": "Pusmėnulio formos pečių apsaugos",
+     "m": "Mėnulio ciklą ir ryšį su vidiniu pasauliu net šarvuose."
+    },
+    {
+     "s": "Miesto sienos už vežimo",
+     "m": "Paliktą saugumą ir nuveiktą kelią."
+    },
+    {
+     "s": "Upė už vežimo",
+     "m": "Emocijų srautą, kurį reikia kirsti ar palikti."
+    },
+    {
+     "s": "Sparnuotas diskas ant vežimo",
+     "m": "Aukštesnį ketinimą, vedantį judėjimą."
+    }
+   ],
+   "story": [
+    "Vežimas – pergalė per susitelkimą. Vežimo valdytojui nereikia vadelių, nes sfinksai juda ten, kur nukreipia jo valia. Tai ne grubi jėga, o pusiausvyra: jei jis suklystų, sfinksai trauktų į skirtingas puses. Miesto sienos už jo rodo, kad jis jau išvažiavęs iš saugios vietos, o kelias pradėtas.",
+    "Didžiųjų arkanų sekoje Vežimas ateina po Mylimųjų: kai pasirinkimas padarytas, reikia jį įgyvendinti. Tai valios išbandymas, o ne vien entuziazmas. Korta klausia, ar jūsų viduje yra sutarimas, ar jus tempia skirtingos pusės. Toliau einanti Stiprybė parodo kitą tikslo siekimo kelią – ne per kontrolę, o per kantrybę. Šiuolaikinėje praktikoje Vežimas dažnai simbolizuoja pažangą, kelionę ir sėkmingą savęs valdymą."
+   ],
+   "reversed": "Apverstas Vežimas rodo krypties stoką arba jėgą, kuri sklinda į visas puses. Gali būti užsispyrimas, agresyvus skubėjimas arba, atvirkščiai, sustingimas, kai nežinote, kur eiti. Sfinksai nebeklauso: viduje yra prieštaravimas, kurį reikia išspręsti. Sustokite ir paklauskite, ko iš tikrųjų norite, tada vėl pajudėkite.",
+   "positions": {
+    "past": "Sėkmingai įveikėte sunkų etapą dėl savo ryžto. Šis kelias suteikė pasitikėjimo.",
+    "present": "Šiuo metu esate judėjimo fazėje ir turite susikaupti. Reikia aiškios krypties.",
+    "future": "Netrukus galite pasiekti pažangą ar tikslą, jei išlaikysite kryptį ir pusiausvyrą.",
+    "obstacle": "Kliūtis – vidinis prieštaravimas, išsisklaidymas ar per didelis stūmimas. Kartais ir nenoras pripažinti, kad reikia pasikeisti.",
+    "advice": "Pasirinkite vieną kryptį ir nukreipkite abi savo puses ta pačia linkme.",
+    "outcome": "Rezultatas – pergalė, pasiekta per vidinį sutarimą ir tvirtą valią."
+   },
+   "feelings": "Vežimas retai kalba apie švelnumą, dažniau apie ryžtą ir judėjimą. Žmogus gali būti užsiėmęs savo tikslais ir mažai vietos palikti emocijoms. Tai nebūtinai rodo, kad jam neįdomu, bet gali reikšti, kad jam sunku sustoti ir atsiverti. Pasiūlykite ramų pokalbį ir paklauskite, kiek vietos jis gali skirti santykiui.",
+   "money": "Pinigų srityje korta kalba apie kryptingą darbą, pažangą ir tikslo siekimą. Ji primena, kad vien greičio neužtenka, svarbi ir kryptis. Tai ne finansinė prognozė, o judėjimo temos aprašymas.",
+   "friendship": "Draugystėje Vežimas rodo bendrus projektus, keliones ar pasiekimus, taip pat draugą, kuris skatina siekti. Jis taip pat gali įspėti, kad draugystė nenukentėtų dėl užimtumo.",
+   "spiritual": "Dvasiniu požiūriu korta moko vidinio savęs valdymo: supratimo, kad priešingos mūsų pusės gali veikti kartu. Tai ne slopinimas, o pritaikymas. Praktika: pasirinkti vieną savaitės ketinimą ir kasdien kelioms minutėms jam skirti dėmesį.",
+   "combos": [
+    {
+     "with": 6,
+     "text": "Vežimas ir Mylimieji: sprendimas ir jo įgyvendinimas. Kai pasirinkta širdimi, kelias aiškesnis."
+    },
+    {
+     "with": 8,
+     "text": "Vežimas ir Stiprybė: valia ir kantrybė. Tikslą pasiekti padeda ne tik ryžtas, bet ir švelnumas."
+    },
+    {
+     "with": 22,
+     "text": "Vežimas ir Skeptrų tūzas: nauja energija ir kryptis. Daug varomosios jėgos."
+    },
+    {
+     "with": 30,
+     "text": "Vežimas ir Skeptrų devynetas: ištvermė artėjant prie tikslo. Pabaiga netoli, nepasiduokite."
+    },
+    {
+     "with": 54,
+     "text": "Vežimas ir Kardų penketas: pergalė, kuri gali kainuoti santykius. Pasvarstykite, kokia kaina."
+    }
+   ],
+   "questions": [
+    "Kokios dvi manyje esančios jėgos šiuo metu traukia skirtingomis kryptimis?",
+    "Ar mano judėjimas yra tikslo siekimas, ar bėgimas nuo kažko?",
+    "Ką palikau už miesto sienų ir ar jau galiu nebesidairyti atgal?"
+   ]
+  },
+  {
+   "id": 8,
+   "symbols": [
+    {
+     "s": "Begalybės ženklas virš galvos",
+     "m": "Sąmoningą, ilgalaikį dėmesį ir ryšį su kažkuo didesniu."
+    },
+    {
+     "s": "Balta suknia",
+     "m": "Tyrumą ir ramybę, kurie nereikalauja gynybos."
+    },
+    {
+     "s": "Gėlių vainikas ant moters galvos ir gėlių girlianda, jungianti ją su liūtu",
+     "m": "Švelnumą ir ryšį tarp žmogaus ir instinkto."
+    },
+    {
+     "s": "Liūtas, kurio nasrus moteris švelniai laiko",
+     "m": "Aistras ir instinktus, kuriuos galima priimti draugiškai."
+    },
+    {
+     "s": "Geltonas dangus",
+     "m": "Šilumą ir ramų pasitikėjimą."
+    },
+    {
+     "s": "Kalnai tolumoje",
+     "m": "Siekį ir ilgą kelią, kuris dar laukia."
+    }
+   ],
+   "story": [
+    "Stiprybė keičia mūsų supratimą apie jėgą. Moteris nekovoja su liūtu, o ramina jį švelniu prisilietimu. Baltas drabužis ir begalybės ženklas rodo, kad jos jėga kyla iš vidinės ramybės. Liūtas atspindi aistras, instinktus, baimes: ne priešą, o žvėrį, kurį reikia prisijaukinti.",
+    "Rider–Waite–Smith kaladėje Stiprybė numeruojama VIII, o Teisingumas – XI; Marselio kaladėse šios dvi kortos sukeistos vietomis. Šioje kelionėje ji eina po Vežimo: ten ryžtas stūmė pirmyn, čia veda kantrybė. Tai svarbus pokytis – tikroji vidinė jėga remiasi ne kontrole, o pasitikėjimu. Skaitant šią kortą verta paklausti, kokį savo vidinį liūtą bandote nuslopinti ir ką jis iš tiesų norėtų pasakyti."
+   ],
+   "reversed": "Apversta Stiprybė dažnai kalba apie abejones savimi, išsekimą ar jausmus, kurie jus valdo, užuot buvę suprasti. Gali būti, kad per smarkiai spaudžiate save arba, atvirkščiai, per ilgai tylite. Liūtas tampa grėsmingas ne dėl savo prigimties, o dėl to, kad nebuvo išklausytas. Pasistenkite su savimi elgtis taip, kaip elgtumėtės su išsigandusiu gyvūnu: ramiai ir be priekaištų.",
+   "positions": {
+    "past": "Išgyvenote sunkų laikotarpį ir ištvėrėte. Tai paliko vidinę jėgą, kurios galbūt dar nevertinate.",
+    "present": "Dabar jūsų jėga yra kantrybė ir švelnumas. Spaudimas čia nepadės.",
+    "future": "Netrukus gali tekti parodyti ramią ištvermę, ir jos pakaks.",
+    "obstacle": "Kliūtis – abejonė savimi arba kova su savo jausmais. Taip pat nekantrumas.",
+    "advice": "Priimkite savo baimę ir elkitės su ja švelniai. Tvirtumas ir meilė gali eiti kartu.",
+    "outcome": "Rezultatas – vidinė harmonija ir pasitikėjimas savimi, nereikalaujantys įrodinėti."
+   },
+   "feelings": "Stiprybė meilėje rodo žmogų, kuris moka būti kantrus, švelnus ir jautrus. Jo jausmai gali būti gilūs, bet reiškiami tyliai. Korta nepasako, ką tiksliai jis jaučia jums, bet kviečia atkreipti dėmesį, kaip jis elgiasi sunkumų metu. Svarbiausia – kantrybė sau ir atviras, ramus pokalbis.",
+   "money": "Finansų srityje korta kalba apie kantrią ištvermę ir ramų elgesį spaudimo sąlygomis. Ji primena, kad sprendimai, priimti iš baimės, retai būna geriausi. Tai ne patarimas, o temos apžvalga.",
+   "friendship": "Draugystėje Stiprybė yra draugas, kuris išklauso, nepuola vertinti ir padeda pasijusti saugiai. Ši korta kviečia ir jus būti tokiu draugu sau.",
+   "spiritual": "Dvasiniu požiūriu Stiprybė yra pasitikėjimo savimi ir savęs priėmimo korta. Ji siūlo draugiškai susitikti su savo baimėmis, o ne jas nugalėti. Praktika: pastebėti jausmą kūne ir tris įkvėpimus pabūti su juo, nieko nekeičiant.",
+   "combos": [
+    {
+     "with": 7,
+     "text": "Stiprybė ir Vežimas: kantrybė ir ryžtas. Tikslo siekiama ir ryžtu, ir švelnumu."
+    },
+    {
+     "with": 9,
+     "text": "Stiprybė ir Atsiskyrėlis: vidinė jėga ir tylus apmąstymas. Pasitikėjimas, kuris auga iš vienatvės."
+    },
+    {
+     "with": 15,
+     "text": "Stiprybė ir Velnias: instinktai ir priklausomybės. Verčiau susitikti su jais atvirai nei kovoti."
+    },
+    {
+     "with": 44,
+     "text": "Stiprybė ir Taurių devynetas: vidinis pasitenkinimas, kylantis iš savęs priėmimo."
+    },
+    {
+     "with": 35,
+     "text": "Stiprybė ir Skeptrų karalius: vadovavimas su šiluma. Ramus autoritetas."
+    }
+   ],
+   "questions": [
+    "Kokį savo vidinį „liūtą“ bandau nuslopinti ir ko jis iš tikrųjų nori?",
+    "Kada paskutinį kartą su savimi elgiausi taip švelniai, kaip elgiuosi su kitais?",
+    "Kokia mano jėga, kuri nesireiškia garsiai?"
+   ]
+  },
+  {
+   "id": 9,
+   "symbols": [
+    {
+     "s": "Žibintas su šešiakampe žvaigžde",
+     "m": "Vedančią šviesą, kurią galima nešti ir pasidalinti; žvaigždė dažnai suprantama kaip atsiskleidžiantis supratimas."
+    },
+    {
+     "s": "Lazda",
+     "m": "Atramą ir patirtį, padedančią eiti nežinomu keliu."
+    },
+    {
+     "s": "Pilkas gobtuvas ir apsiaustas",
+     "m": "Atsitraukimą nuo triukšmo ir kuklumą."
+    },
+    {
+     "s": "Snieguota kalno viršūnė",
+     "m": "Aukštą tašką, iš kurio matyti toliau ir kuriame tvyro vienatvė."
+    },
+    {
+     "s": "Pilkas, tuščias dangus",
+     "m": "Tylą ir atsiribojimą nuo kasdienybės triukšmo."
+    },
+    {
+     "s": "Palenkta galva",
+     "m": "Dėmesį, nukreiptą į vidų ir į tai, kas po kojomis."
+    }
+   ],
+   "story": [
+    "Atsiskyrėlis stovi vienas ant kalno, tačiau jo vienatvė nėra apleistumas. Jis pasitraukė, kad pamatytų aiškiau. Jo žibintas nušviečia tik kelis žingsnius, bet to pakanka. Šviesą jis laiko aukštai ne vien sau, bet ir tam, kas ateis paskui, todėl ši korta yra ir mokytojo, ir ieškotojo simbolis.",
+    "Didžiųjų arkanų sekoje jis ateina po Stiprybės: išmokus ramybės, atsiranda gilesnių klausimų. Tai ne bėgimas nuo gyvenimo, o apsisprendimas pabūti su savimi. Po jo seka Likimo ratas, grąžinantis judėjimą. Skaitant šią kortą verta paklausti, nuo ko jums reikia pailsėti ir ko ieškote tyloje. Šiuolaikinėje praktikoje ji dažnai reiškia savirefleksiją, mokymąsi ir vidinę kryptį."
+   ],
+   "reversed": "Apverstas Atsiskyrėlis gali rodyti vienatvę, kuri tapo izoliacija: atsitraukimą ne ieškant, o vengiant. Kartais, atvirkščiai, jis kalba apie nesugebėjimą pabūti vienam, nuolatinį triukšmą, kuris neleidžia girdėti savęs. Dar gali reikšti atsisakymą priimti kito pagalbą. Paklauskite savęs, ar jūsų tyla kupina, ar tuščia.",
+   "positions": {
+    "past": "Buvo laikotarpis, kai pasitraukėte pabūti su savimi ir išsiaiškinti, kas svarbu. Jis suteikė gilumo.",
+    "present": "Dabar reikia tylos, apmąstymų ir kantrios paieškos. Atsakymai randami viduje.",
+    "future": "Netrukus galite pajusti poreikį sustoti ir peržiūrėti savo kelią, ir tai bus naudinga.",
+    "obstacle": "Kliūtis – užsisklendimas arba, priešingai, nuolatinis triukšmas, trukdantis susitikti su savimi.",
+    "advice": "Skirkite laiko vienatvei, bet nepamirškite, kad žibintą galite dalytis.",
+    "outcome": "Rezultatas – aiškesnis žvilgsnis į savo kelią ir ramus pasitikėjimas savo vidiniu kompasu."
+   },
+   "feelings": "Atsiskyrėlis rodo žmogų, kuriam reikia erdvės ir laiko su savimi. Tai nebūtinai reiškia, kad jis jūsų nenori, bet kad jam reikia išsiaiškinti savo jausmus. Venkite spausti ar laikyti tylą atmetimu. Pasakykite, kad esate šalia, kai jis norės kalbėti, ir tuo tarpu pasirūpinkite savo poreikiais.",
+   "money": "Pinigų srityje korta pataria sustoti ir atidžiai viską peržiūrėti, užuot skubėjus. Ji kalba apie kruopštų tyrimą ir gilų supratimą. Tai ne finansinis patarimas, o kvietimas atidžiau pažvelgti.",
+   "friendship": "Draugystėje Atsiskyrėlis yra draugas, kurio kompanija rami ir gili, o ne triukšminga. Jis taip pat gali reikšti laikotarpį, kai verta pasirinkti kelis artimus žmones vietoj daugybės pažinčių.",
+   "spiritual": "Dvasiniu požiūriu tai klasikinė vidinės paieškos korta. Ji kviečia į tylą, apmąstymą, galbūt į dienoraštį ar ilgesnį pasivaikščiojimą. Praktika: vakare užrašyti vieną klausimą ir leisti jam pabūti be skubotų atsakymų. Jei uždegate žvakę, pastatykite ją ant stabilaus, karščiui atsparaus paviršiaus, neišeikite iš kambario ir laikykite toliau nuo vaikų bei augintinių.",
+   "combos": [
+    {
+     "with": 2,
+     "text": "Atsiskyrėlis ir Žynė: du vidiniai keliai. Gili tyla ir intuityvus žinojimas."
+    },
+    {
+     "with": 8,
+     "text": "Atsiskyrėlis ir Stiprybė: ramybė ir kantrybė. Vidinė jėga auga vienumoje."
+    },
+    {
+     "with": 10,
+     "text": "Atsiskyrėlis ir Likimo ratas: apmąstymai prieš posūkį. Tyloje atsiranda aiškumas, kaip judėti toliau."
+    },
+    {
+     "with": 53,
+     "text": "Atsiskyrėlis ir Kardų ketvertas: poilsis ir atsitraukimas. Reikalingas sustojimas."
+    },
+    {
+     "with": 58,
+     "text": "Atsiskyrėlis ir Kardų devynetas: vienatvė ir nerimas. Ieškokite ramaus pašnekovo ir nelikite vieni su nerimu."
+    }
+   ],
+   "questions": [
+    "Nuo ko man šiuo metu reikia atsitraukti, kad aiškiau matyčiau?",
+    "Kokį klausimą nešioju savyje, bet vengiu užduoti?",
+    "Su kuo galėčiau pasidalyti savo žibinto šviesa?"
+   ]
+  },
+  {
+   "id": 10,
+   "symbols": [
+    {
+     "s": "Ratas su raidėmis TARO / ROTA",
+     "m": "Amžiną ciklą. Raides galima skaityti įvairiai; jos tiesiog primena kortos pavadinimą ir posūkio idėją."
+    },
+    {
+     "s": "Hebrajiškos raidės ir alchemijos ženklai ant rato",
+     "m": "Slaptus ir pasikartojančius gamtos procesus."
+    },
+    {
+     "s": "Gyvatė, besileidžianti žemyn",
+     "m": "Nuopuolį, nusileidimą ir energiją, kuri krenta."
+    },
+    {
+     "s": "Anubio figūra, kylanti aukštyn",
+     "m": "Kitą pusę: tai, kas pakyla iš gelmių, ir sielos kelionę."
+    },
+    {
+     "s": "Sfinksas viršuje su kardu",
+     "m": "Pusiausvyrą ir ramų stebėtoją, kuris nekinta, kai viskas sukasi."
+    },
+    {
+     "s": "Keturios sparnuotos figūros kampuose su knygomis",
+     "m": "Keturias būtybes (Jautį, Liūtą, Erelį ir Žmogų) ir stabilų pagrindą, kuris stebi ratą."
+    }
+   ],
+   "story": [
+    "Likimo ratas – pokyčio korta. Viskas sukasi: kas buvo viršuje, leidžiasi, kas buvo apačioje, kyla. Ratas sukasi nepaisydamas, kas ant jo užkopė ar nusileido, todėl ši korta primena, kad dalis gyvenimo nepriklauso nuo mūsų pastangų. Keturios būtybės kampuose ramiai skaito knygas: jos tarsi primena, kad už pokyčių slypi pastovesnis pagrindas.",
+    "Didžiųjų arkanų sekoje Likimo ratas ateina po Atsiskyrėlio, tarsi ištraukdamas jį iš apmąstymų atgal į judėjimą. Skaitant šią kortą verta paklausti, kas jūsų gyvenime sukasi ir ką galite padaryti šiame sukimesi: ne valdyti ratą, o rasti savo vietą. Taro tradicijoje ši korta nėra nei gera, nei bloga, ji tiesiog primena, kad niekas nėra amžina."
+   ],
+   "reversed": "Apverstas Likimo ratas dažnai rodo kliūtis ar nesėkmių seriją, bet gali reikšti ir pasipriešinimą pokyčiams. Kartais jis kalba apie seną pasikartojantį modelį: sukate ratą ta pačia kryptimi ir tikitės kito rezultato. Dar gali reikšti, kad esate per daug linkę kaltinti likimą. Verta paklausti, kurią ciklo dalį galite pakeisti savo elgesiu.",
+   "positions": {
+    "past": "Praeityje įvyko posūkis, kuris pakeitė jūsų kryptį. Tuo metu tai galėjo atrodyti atsitiktinai.",
+    "present": "Šiuo metu esate pokyčio taške. Verta išlikti lankstiems ir pastebėti, kas jau juda.",
+    "future": "Netrukus gali atsirasti naujų aplinkybių ar galimybių. Pasirengimas jas priimti padeda.",
+    "obstacle": "Kliūtis – pasipriešinimas pokyčiui arba tikėjimasis, kad viskas liks kaip buvo.",
+    "advice": "Prisitaikykite prie kintančių aplinkybių ir veikite ten, kur galite daryti įtaką.",
+    "outcome": "Rezultatas – naujas etapas, prasidedantis po posūkio. Judėjimas atneša naują perspektyvą."
+   },
+   "feelings": "Likimo ratas rodo, kad jausmai ar situacija kinta. Žmogus gali būti tarp dviejų būsenų, neapsisprendęs ar besikeičiantis. Korta nepasako, kuria linkme jis suksis. Užuot spėliojus, geriau kalbėti apie dabartį ir sąžiningai pasakyti, ko norite. Nesikabinkite į tai, kas buvo, ir nelaukite pažadų dėl to, kas bus.",
+   "money": "Pinigų srityje korta kalba apie kintančias aplinkybes: pajamų ar išlaidų svyravimus, galimybes ir pokyčius. Ji primena, kad rezervai ir lankstumas yra naudingi. Tai ne prognozė ir ne finansinis patarimas.",
+   "friendship": "Draugystėje Likimo ratas gali reikšti naują etapą: kai kurie draugai nutolsta, kiti atsiranda. Tai natūralus ciklas, ne kaltė. Tikra draugystė išgyvena pasikeitimus.",
+   "spiritual": "Dvasiniu požiūriu korta kviečia priimti ciklų prigimtį ir rasti vidinį centrą, kuris nesisuka kartu su ratu. Meditacija apie savo ašį gali padėti. Praktika: užrašyti tris pokyčius, kurie praeityje atrodė baisūs, bet vėliau davė ką nors vertingo.",
+   "combos": [
+    {
+     "with": 9,
+     "text": "Likimo ratas ir Atsiskyrėlis: pokytis ir apmąstymas. Pirma sustokite, tada leiskitės su ratu."
+    },
+    {
+     "with": 0,
+     "text": "Likimo ratas ir Kvailys: posūkis ir nauja pradžia. Verta drąsiai žengti į tai, kas ateina."
+    },
+    {
+     "with": 11,
+     "text": "Likimo ratas ir Teisingumas: pasekmės ir ciklas. Tai, ką pasėjote, sugrįžta."
+    },
+    {
+     "with": 21,
+     "text": "Likimo ratas ir Pasaulis: ciklo užbaigimas ir naujo ciklo pradžia. Ratas apsisuka iki galo."
+    },
+    {
+     "with": 68,
+     "text": "Likimo ratas ir Monetų penketas: sunkus laikotarpis, bet ratas sukasi. Pagalba gali būti arčiau, nei manote."
+    }
+   ],
+   "questions": [
+    "Kuri mano gyvenimo dalis dabar sukasi ir kur galiu daryti įtaką?",
+    "Koks pasikartojantis modelis mane grąžina į tą pačią vietą?",
+    "Kas manyje išlieka pastovu net tada, kai viskas keičiasi?"
+   ]
+  }
+ ]
+}

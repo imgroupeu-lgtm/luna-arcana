@@ -1,0 +1,875 @@
+{
+ "ui": {
+  "langName": "Lietuvių",
+  "aiLanguage": "Lithuanian",
+  "eyebrow": "Prototipas · Taro",
+  "lede": "Užduokite klausimą, pasirinkite išdėstymą ir ištraukite kortas. Visas išdėstymas rodomas kartu, o kiekviena korta aiškinama pagal savo vietą.",
+  "questionPlaceholder": "Jūsų klausimas, pvz., „Ką man dabar verta žinoti apie savo darbą?“",
+  "questionLabel": "Jūsų klausimas",
+  "reversedToggle": "Apverstos kortos",
+  "drawBtn": "Traukti kortas",
+  "flipAll": "Atversti visas",
+  "chooseSpread": "Pasirinkite išdėstymą",
+  "meaningsTitle": "Reikšmės",
+  "flipHint": "Spustelėkite kortas, kad jas atvertumėte, arba pasirinkite „Atversti visas“.",
+  "questionPrefix": "Klausimas",
+  "reversedWord": "apversta",
+  "reversedTag": "Apversta",
+  "flipCard": "Atversti kortą {n}",
+  "suitHint": "Mastis „{suit}“ siejama su tema: {theme}.",
+  "majorHint": "Didieji arkanai: svarbi gyvenimo tema.",
+  "yes": "Atsakymas: taip.",
+  "leanYes": "Atsakymas: veikiau taip.",
+  "no": "Atsakymas: ne.",
+  "leanNo": "Atsakymas: veikiau ne.",
+  "aiNote": "Dirbtinio intelekto aiškinimas ir kortų atpažinimas iš nuotraukos bus Premium plano dalis. Šioje versijoje jie dar neprijungti.",
+  "premiumChip": "Premium · prototipas",
+  "aiTitle": "Viso išdėstymo aiškinimas",
+  "aiDesc": "Dirbtinis intelektas aiškina visas kortas kartu, atsižvelgdamas į jūsų klausimą: pagrindinė tema, korta po kortos, kortų tarpusavio ryšys ir patarimas.",
+  "aiBtn": "Aiškinti išdėstymą",
+  "stop": "Sustabdyti",
+  "interpreting": "Aiškinamos kortos …",
+  "aiHeads": [
+   "Pagrindinė tema",
+   "Korta po kortos",
+   "Kortų tarpusavio ryšys",
+   "Patarimas"
+  ],
+  "photoTitle": "Nufotografuokite savo išdėstymą",
+  "photoDesc": "Įkelkite savo kortų nuotrauką, padarytą tiesiai iš viršaus. Mes atpažįstame kortas, jūs patikrinate sąrašą, o tada gaunate aiškinimą. Geriausiai atpažįstama Rider–Waite kaladė.",
+  "dropLabel": "Pasirinkite nuotrauką arba nutempkite ją čia",
+  "spreadOnPhoto": "Koks išdėstymas nuotraukoje",
+  "freeSpread": "Laisvas išdėstymas (nežinau)",
+  "previewAlt": "Jūsų įkelta nuotrauka",
+  "recBtn": "Atpažinti kortas",
+  "photoInterp": "Aiškinti šį išdėstymą",
+  "photoReady": "Nuotrauka paruošta.",
+  "looking": "Nagrinėjama nuotrauka …",
+  "found": "Rasta kortų: {n}. Prieš aiškinimą patikrinkite sąrašą.",
+  "noneFound": "Nuotraukoje kortų nerasta. Pabandykite ryškesnę nuotrauką, padarytą tiesiai iš viršaus.",
+  "otherDeck": "Kaladė nepanaši į Rider–Waite, todėl patikrinkite ypač atidžiai.",
+  "chooseCard": "– pasirinkite kortą –",
+  "cardN": "Korta {n}",
+  "confHigh": "aiški",
+  "confMedium": "gana aiški",
+  "confLow": "neaiški",
+  "notRecognized": "neatpažinta",
+  "footer": "Šioje svetainėje taro pateikiamas kaip kultūra, apmąstymų įrankis ir pramoga. Tai nėra medicininiai, teisiniai ar finansiniai patarimai, ir jokie rezultatai negarantuojami. Kortos traukiamos atsitiktinai, o ta pati korta viename išdėstyme niekada nepasikartoja. Dirbtinio intelekto aiškinimą parengia dirbtinis intelektas, o ne žmogus.",
+  "errors": {
+   "not_granted": "Jūs nesuteikėte puslapiui leidimo naudoti Claude.",
+   "sampling_disabled": "Dirbtinis intelektas šiai paskyrai neprieinamas.",
+   "rate_limited": "Šiuo metu per daug užklausų. Pabandykite dar kartą po kurio laiko.",
+   "session_expired": "Reikia prisijungti iš naujo.",
+   "image_rejected": "Nuotraukos nepavyko nuskaityti. Pabandykite JPEG arba PNG formatą.",
+   "images_unavailable": "Nuotraukų įkėlimas čia neprieinamas.",
+   "refused": "Į šią užklausą atsakyti negalima. Pabandykite kitą klausimą.",
+   "invalid_json": "Atsakymo nepavyko nuskaityti. Pabandykite dar kartą.",
+   "empty_completion": "Atsakymo negauta. Pabandykite dar kartą.",
+   "generic": "Kažkas nepavyko. Pabandykite dar kartą."
+  },
+  "navRead": "Traukti kortas",
+  "navDaily": "Dienos korta",
+  "navLearn": "Mokytis taro",
+  "navShop": "Parduotuvė",
+  "heroKicker": "Taro pagal Mėnulį",
+  "heroTitle": "Skaitykite kortas Mėnulio šviesoje",
+  "heroLede": "Ištraukite kortas, pamatykite visą išdėstymą kartu ir gaukite jo paaiškinimą. Arba nufotografuokite savo kortas ir gaukite jų aiškinimą.",
+  "ctaRead": "Traukti kortas",
+  "ctaPhoto": "Nufotografuokite savo išdėstymą",
+  "moonTitle": "Mėnulis šiandien",
+  "moonIllum": "Apšviesta {p} %",
+  "moonAge": "Mėnulio ciklo {d}-oji diena",
+  "moonNextFull": "Pilnatis maždaug po {d} d.",
+  "moonNextNew": "Jaunatis maždaug po {d} d.",
+  "moonPhases": [
+   "Jaunatis",
+   "Augantis pjautuvas",
+   "Pirmasis ketvirtis",
+   "Augantis Mėnulis",
+   "Pilnatis",
+   "Mažėjantis Mėnulis",
+   "Paskutinis ketvirtis",
+   "Mažėjantis pjautuvas"
+  ],
+  "moonAdvice": [
+   "Taro tradicijoje jaunatis yra naujų ketinimų metas. Ištraukite vieną kortą tam, ką norite pradėti.",
+   "Augantis pjautuvas tinka mažiems pirmiems žingsniams. Paklauskite kortų, kas padės pradėti.",
+   "Pirmasis ketvirtis – sprendimų ir pasipriešinimo metas. Trijų kortų išdėstymas parodo, kas stoja skersai kelio.",
+   "Mėnulis auga link pilnaties. Paklauskite, ką verta puoselėti ir kam skirti daugiau laiko.",
+   "Pilnatis nušviečia tai, kas paslėpta. Tinkamas metas dideliam išdėstymui ir sąžiningam apmąstymui.",
+   "Mėnulis mažėja. Paklauskite, ką jau baigėte ir ką galite paleisti.",
+   "Paskutinis ketvirtis – tvarkymosi metas. Ką derėtų užbaigti prieš naują ciklą?",
+   "Mažėjantis pjautuvas – poilsio ir tylos metas. Ištraukite vieną kortą apmąstymui."
+  ],
+  "moonCanvasLabel": "Šiandienos Mėnulio fazės piešinys",
+  "moonDisclaimer": "Apskaičiuota pagal vidutinį Mėnulio ciklą; tikrasis laikas gali skirtis keliomis valandomis.",
+  "dailyNote": "Šiandien visiems ta pati korta. Nauja korta atsiras vidurnaktį.",
+  "readTitle": "Traukti kortas",
+  "readLede": "Pasirinkite išdėstymą, užduokite klausimą ir traukite kortas. Spustelėkite kortą, kad ją atvertumėte.",
+  "learnTitle": "Mokytis taro",
+  "learnLede": "Pamokos su kvizais, visų 78 kortų reikšmės, astrologija, simbolių žodynas ir kristalų bei žolelių žinynas.",
+  "learnItems": [
+   [
+    "Didieji arkanai",
+    "22 kortos apie didžiąsias gyvenimo temas – nuo Kvailio iki Pasaulio."
+   ],
+   [
+    "Mažieji arkanai",
+    "56 kortos keturiose mastyse: Skeptrai, Taurės, Kardai ir Monetos."
+   ],
+   [
+    "Kaip skaityti išdėstymą",
+    "Pozicijos, apverstos kortos ir tai, kaip kortos susijusios tarpusavyje."
+   ]
+  ],
+  "comingSoon": "Netrukus",
+  "shopTitle": "Iš parduotuvės",
+  "shopLede": "Žvakės, smilkalai, kaladės ir altoriaus staltiesės jūsų praktikai.",
+  "shopItems": [
+   "Žvakės",
+   "Smilkalai ir žolelės",
+   "Kaladės",
+   "Altoriaus staltiesės",
+   "Kristalai",
+   "Dovanų kuponai"
+  ],
+  "deckNote": "Šiame puslapyje rodomos kortos – Luna Arcana kūrinys.",
+  "soundOn": "Nuotaika",
+  "navNum": "Numerologija",
+  "numTitle": "Jūsų gimimo datos skaičiai",
+  "numLede": "Numerologija skaito jūsų gimimo datą kaip skaičius. Čia rasite savo gyvenimo kelio skaičių, einamųjų metų skaičių ir jūsų datą atitinkančią taro kortą.",
+  "numDateLabel": "Gimimo data",
+  "numBtn": "Skaičiuoti",
+  "numPrivacy": "Data ir vardas skaičiuojami jūsų naršyklėje ir niekur nesaugomi ar nesiunčiami.",
+  "numLifePath": "Gyvenimo kelio skaičius",
+  "numPersonalYear": "Asmeniniai metai {y}",
+  "numBirthCard": "Gimimo korta",
+  "numHow": "Kaip skaičiuojama: visi datos skaitmenys sudedami iki vieno skaitmens. Meistriniai skaičiai 11, 22 ir 33 nesumažinami.",
+  "numCardHow": "Gimimo korta randama sudėjus dieną, mėnesį ir metus ir sumažinus rezultatą iki skaičiaus nuo 1 iki 22; 22 atitinka Kvailį.",
+  "numInvalid": "Įveskite tinkamą datą.",
+  "numMeanings": {
+   "1": [
+    "Pradininkas",
+    "Savarankiškumas, drąsa ir noras pradėti ką nors naujo. Iššūkis – išklausyti kitus."
+   ],
+   "2": [
+    "Tiltų statytojas",
+    "Bendradarbiavimas, jautrumas ir gebėjimas kurti pusiausvyrą. Iššūkis – ginti savo poreikius."
+   ],
+   "3": [
+    "Kūrėjas",
+    "Raiška, džiaugsmas ir kūrybiškumas. Iššūkis – išlaikyti dėmesį ir užbaigti darbus."
+   ],
+   "4": [
+    "Statytojas",
+    "Tvarka, atkaklumas ir tvirtas pamatas. Iššūkis – ištverti pokyčius."
+   ],
+   "5": [
+    "Laisvasis",
+    "Laisvė, smalsumas ir pokyčiai. Iššūkis – rasti ramybę ir įsipareigoti."
+   ],
+   "6": [
+    "Globėjas",
+    "Atsakomybė, meilė ir rūpestis namais bei bendruomene. Iššūkis – nenešti visko ant savo pečių."
+   ],
+   "7": [
+    "Ieškotojas",
+    "Apmąstymai, įžvalgos ir prasmės paieška. Iššūkis – įsileisti kitus."
+   ],
+   "8": [
+    "Vadovas",
+    "Veiklumas, ambicijos ir išteklių valdymas. Iššūkis – pusiausvyra tarp galios ir širdies."
+   ],
+   "9": [
+    "Išminčius",
+    "Užuojauta, pabaigos ir visumos matymas. Iššūkis – paleisti."
+   ],
+   "11": [
+    "Meistrinis skaičius 11 · Šviesos nešėjas",
+    "Stipri intuicija ir įkvėpimas kitiems. Reikia įsižeminimo ir ramybės."
+   ],
+   "22": [
+    "Meistrinis skaičius 22 · Meistras statytojas",
+    "Didelės vizijos, paverstos praktika. Reikia kantrybės sau."
+   ],
+   "33": [
+    "Meistrinis skaičius 33 · Mokytojas",
+    "Rūpestis ir išmintis, kuriais dalijamasi. Reikia ribų savo energijai."
+   ]
+  },
+  "numYearMeanings": {
+   "1": "Naujų pradžių ir pirmųjų žingsnių metai.",
+   "2": "Bendradarbiavimo, kantrybės ir santykių metai.",
+   "3": "Raiškos, džiaugsmo ir naujų pažinčių metai.",
+   "4": "Darbo, struktūros ir pamatų metai.",
+   "5": "Pokyčių, kelionių ir naujų patirčių metai.",
+   "6": "Namų, šeimos ir atsakomybės metai.",
+   "7": "Apmąstymų, mokymosi ir vidinio darbo metai.",
+   "8": "Rezultatų, atsakomybės ir išteklių metai.",
+   "9": "Pabaigų ir vietos naujam atlaisvinimo metai."
+  },
+  "navRitual": "Ritualų kalendorius",
+  "moonIn": "Mėnulis ženkle: {sign}",
+  "signs": [
+   "Avinas",
+   "Jautis",
+   "Dvyniai",
+   "Vėžys",
+   "Liūtas",
+   "Mergelė",
+   "Svarstyklės",
+   "Skorpionas",
+   "Šaulys",
+   "Ožiaragis",
+   "Vandenis",
+   "Žuvys"
+  ],
+  "planetDays": [
+   "Saulės diena",
+   "Mėnulio diena",
+   "Marso diena",
+   "Merkurijaus diena",
+   "Jupiterio diena",
+   "Veneros diena",
+   "Saturno diena"
+  ],
+  "ritTitle": "Kai Mėnulis ir žvaigždės sutampa",
+  "ritLede": "Liaudies magijos ir astrologijos tradicijoje laikas parenkamas pagal tris dalykus: Mėnulio fazę, zodiako ženklą, kuriame yra Mėnulis, ir savaitės dienos planetą. Pasirinkite ketinimą, o mes parinksime tinkamiausias dienas per artimiausias 30 dienų.",
+  "ritToday": "Šiandien",
+  "ritBest": "Tinkamiausios artimiausios dienos",
+  "ritScore": "{n} iš 5",
+  "ritWhy": "Fazė: {phase} · {moon} · {day}",
+  "ritMatchPhase": "tinkama fazė",
+  "ritMatchSign": "tinkamas ženklas",
+  "ritMatchDay": "tinkama savaitės diena",
+  "ritNoMatch": "nesutampa",
+  "ritRules": "Pagal tradiciją",
+  "ritPremium": "Visas ritualas su žingsniais, priemonėmis ir žodžiais yra Premium plano dalis.",
+  "ritDisclaimer": "Laikas parinktas pagal tradicines atitiktis ir skirtas įkvėpimui bei apmąstymui. Jokie rezultatai negarantuojami. Mėnulio ženklas apskaičiuotas apytiksliai ir ties ženklo kaita gali šiek tiek skirtis.",
+  "intents": [
+   {
+    "key": "money",
+    "name": "Pinigų srauto atvėrimas",
+    "text": "Ritualai gausai, darbui ir naujoms pajamoms.",
+    "rule": "Augantis Mėnulis, Mėnulis žemės ženkle (Jaučio, Mergelės ar Ožiaragio) ir Jupiterio ar Saulės diena."
+   },
+   {
+    "key": "love",
+    "name": "Meilė ir savimeilė",
+    "text": "Ritualai šilumai, artumui ir gerumui sau.",
+    "rule": "Augantis Mėnulis, Mėnulis Jaučio, Svarstyklių ar Vėžio ženkle ir Veneros diena."
+   },
+   {
+    "key": "protect",
+    "name": "Namų ir savęs apsauga",
+    "text": "Ritualai saugumo jausmui ir ribų nusistatymui.",
+    "rule": "Pilnatis arba mažėjantis Mėnulis, Mėnulis Ožiaragio, Skorpiono ar Avino ženkle ir Saturno ar Marso diena."
+   },
+   {
+    "key": "cleanse",
+    "name": "Apsivalymas ir paleidimas",
+    "text": "Ritualai tvarkytis, baigti ir paleisti tai, kas slegia.",
+    "rule": "Mažėjantis Mėnulis, Mėnulis Mergelės, Skorpiono ar Žuvų ženkle ir Saturno diena."
+   },
+   {
+    "key": "begin",
+    "name": "Naujos pradžios",
+    "text": "Ritualai ketinimams ir pirmiesiems žingsniams.",
+    "rule": "Jaunatis arba augantis pjautuvas, Mėnulis ugnies ženkle (Avino, Liūto ar Šaulio) ir Saulės ar Mėnulio diena."
+   },
+   {
+    "key": "intuition",
+    "name": "Intuicija ir sapnai",
+    "text": "Ritualai įžvalgoms, sapnams ir taro.",
+    "rule": "Jaunatis arba pilnatis, Mėnulis vandens ženkle (Vėžio, Skorpiono ar Žuvų) ir Mėnulio diena."
+   }
+  ],
+  "navJournal": "Dienoraštis",
+  "jTitle": "Jūsų taro dienoraštis",
+  "jLede": "Išsaugokite savo išdėstymus ir pažiūrėkite, kurios kortos kartojasi laikui bėgant. Dienoraštis saugomas tik šioje naršyklėje ir niekur nesiunčiamas.",
+  "jSave": "Išsaugoti dienoraštyje",
+  "jSaved": "Išsaugota dienoraštyje.",
+  "jEmpty": "Dienoraštis tuščias. Traukite kortas, atverskite jas ir išsaugokite išdėstymą.",
+  "jFrequent": "Pasikartojančios kortos",
+  "jTimes": "Kartų: {n}",
+  "jDelete": "Ištrinti",
+  "jEntries": "Išsaugoti išdėstymai",
+  "freeLeft": "Šiandien liko 1 nemokamas dirbtinio intelekto aiškinimas.",
+  "freeUsed": "Šiandienos nemokamas dirbtinio intelekto aiškinimas jau panaudotas. Daugiau aiškinimų – su Premium planu.",
+  "libTitle": "Kortų biblioteka",
+  "libAll": "Visos 78 kortos atskiruose puslapiuose →",
+  "libPage": "Atskiras kortos puslapis",
+  "premiumDemo": "Peržiūrėti kaip Premium (tik prototipe)",
+  "lessonQs": "{n} klausimai",
+  "ritTPhase": "Mėnulio fazė",
+  "ritTSign": "Mėnulio ženklas",
+  "ritTDay": "Savaitės diena",
+  "ritTHour": "Paros laikas",
+  "spreadBase": "Pagrindiniai",
+  "ritLibTitle": "Ritualų biblioteka",
+  "ritCount": "{n} ritualai",
+  "ritGroups": {
+   "all": "Visi",
+   "intent": "Pagal ketinimą",
+   "season": "Metų ratas",
+   "micro": "Trumpi kasdieniai",
+   "sign": "Pagal Mėnulio ženklą"
+  },
+  "ritCountForms": [
+   "ritualas",
+   "ritualai",
+   "ritualų"
+  ],
+  "numNameLabel": "Vardas ir pavardė (nebūtina)",
+  "numNamePh": "pvz., Ona Petraitienė",
+  "numExpression": "Vardo skaičius",
+  "numSoul": "Sielos skaičius",
+  "numPersonality": "Asmenybės skaičius",
+  "numMonth": "Asmeninis mėnuo",
+  "numDay": "Asmeninė diena",
+  "numStrengths": "Stiprybės",
+  "numChallenges": "Iššūkiai",
+  "numPairTitle": "Porų suderinamumas",
+  "numPairLede": "Įveskite dviejų žmonių gimimo datas. Palyginsime jų gyvenimo kelio skaičius.",
+  "numPairNote": "Skaičiai rodo tendencijas apmąstymui, o ne nuosprendį santykiams.",
+  "numRepTitle": "Pasikartojantys skaičiai",
+  "navHome": "Pradžia",
+  "tabCards": "Kortos",
+  "tabRituals": "Ritualai",
+  "tabNum": "Skaičiai",
+  "tabLearn": "Mokytis",
+  "chooseTitle": "Ką norite padaryti?",
+  "choices": [
+   {
+    "v": "kortos",
+    "t": "Traukti kortas",
+    "p": "Užduokite klausimą ir gaukite išdėstymą su paaiškinimais. 30 išdėstymų."
+   },
+   {
+    "v": "ritualai",
+    "t": "Ritualai pagal Mėnulį",
+    "p": "Raskite tinkamą dieną savo ketinimui ir paprastą ritualą jam."
+   },
+   {
+    "v": "numerologija",
+    "t": "Numerologija",
+    "p": "Ką sako jūsų gimimo data ir vardas. Porų suderinamumas."
+   },
+   {
+    "v": "mokytis",
+    "t": "Mokytis taro",
+    "p": "10 trumpų pamokų su kvizais ir visų 78 kortų reikšmės."
+   }
+  ],
+  "viewTitles": {
+   "pradzia": "Luna Arcana – taro ir Mėnulio ritualai",
+   "kortos": "Traukti kortas",
+   "ritualai": "Ritualai pagal Mėnulį",
+   "numerologija": "Numerologija",
+   "mokytis": "Mokytis taro",
+   "dienorastis": "Taro dienoraštis",
+   "parduotuve": "Parduotuvė"
+  },
+  "spreadTopic": "Išdėstymo tema",
+  "tabLessons": "Pamokos",
+  "tabAstro": "Astrologija",
+  "tabSymbols": "Simbolių žodynas",
+  "tabEncy": "Kristalai, žolelės, žvakės",
+  "astroMoonHere": "Mėnulis čia šiandien",
+  "astroMoonIn": "Kai Mėnulis šiame ženkle",
+  "astroPlanets": "Planetos",
+  "astroEclipses": "Užtemimai",
+  "seeAlso": "Taip pat žr.",
+  "encyLede": "Ką tradiciškai simbolizuoja akmenys, žolelės, žvakių spalvos ir ritualų priemonės. Tai simbolinės reikšmės, o ne gydymo ar sveikatos teiginiai.",
+  "encyUse": "Kaip naudojama",
+  "encyCare": "Priežiūra ir saugumas",
+  "encyShop": "Parduotuvėje: {cat} (netrukus)",
+  "encyNote": "Akmenys ir žolelės čia aprašomi kaip tradicijos ir simbolių dalis. Jie nepakeičia gydytojo ar specialisto patarimo. Žolelių nevalgykite ir negerkite ritualo metu.",
+  "tabDreams": "Sapnininkas",
+  "tabQuiz": "Testai",
+  "lenDraw": "Trijų Lenormand kortų eilė",
+  "lenDrawHint": "Kortos skaitomos kartu: pirmoji – tema, vidurinė – kas ją veikia, paskutinė – kryptis.",
+  "lenDrawBtn": "Traukti 3 kortas",
+  "lenMethods": "Kaip skaityti",
+  "lenAll": "Visos 36 kortos",
+  "lenPerson": "Kaip žmogus",
+  "lenCombo": "Derinyje",
+  "dreamPh": "Ką sapnavote? Pvz., katė, vanduo, dantys",
+  "dreamForms": [
+   "simbolis",
+   "simboliai",
+   "simbolių"
+  ],
+  "dreamMore": "Įveskite žodį, kad rastumėte kitus simbolius.",
+  "quizYour": "Jūsų korta",
+  "quizTip": "Patarimas",
+  "quizAgain": "Atlikti testą dar kartą",
+  "compatTitle": "Zodiako ženklų suderinamumas",
+  "pairsTitle": "Didžiųjų arkanų poros šiame išdėstyme",
+  "installApp": "Įdiegti programėlę",
+  "installIos": "iPhone: spauskite „Dalintis“, tada „Į pradžios ekraną“.",
+  "offlineReady": "Programėlė paruošta veikti ir be interneto."
+ },
+ "spreads": {
+  "dag": {
+   "label": "Dienos korta",
+   "desc": "Viena korta kaip dienos tema.",
+   "pos": [
+    "Dienos tema"
+   ]
+  },
+  "tre": {
+   "label": "Praeitis · Dabartis · Ateitis",
+   "desc": "Trys kortos, rodančios situacijos raidą.",
+   "pos": [
+    "Praeitis",
+    "Dabartis",
+    "Ateitis"
+   ]
+  },
+  "situasjon": {
+   "label": "Situacija (5)",
+   "desc": "Priežastis, esmė, iššūkis, perspektyva ir galimybė. Galimybės korta visada traukiama tiesiai, neapversta.",
+   "pos": [
+    "Priežastis",
+    "Situacija",
+    "Iššūkis",
+    "Perspektyva",
+    "Galimybė"
+   ]
+  },
+  "janei": {
+   "label": "Taip / Ne",
+   "desc": "Viena korta. Tiesi korta linksta į „taip“, apversta – į „ne“. Didieji arkanai duoda aiškesnį atsakymą.",
+   "pos": [
+    "Atsakymas"
+   ]
+  },
+  "kors": {
+   "label": "Keltų kryžius (10)",
+   "desc": "Klasikinis išdėstymas nuodugniai analizei.",
+   "pos": [
+    "Dabar",
+    "Kliūtis",
+    "Pagrindas",
+    "Praeitis",
+    "Tikslas",
+    "Artima ateitis",
+    "Jūs",
+    "Aplinka",
+    "Viltys ir baimės",
+    "Rezultatas"
+   ]
+  }
+ },
+ "suits": {
+  "staver": {
+   "name": "Skeptrai",
+   "theme": "veiksmas ir aistra"
+  },
+  "begre": {
+   "name": "Taurės",
+   "theme": "jausmai ir santykiai"
+  },
+  "sverd": {
+   "name": "Kardai",
+   "theme": "mintys ir konfliktai"
+  },
+  "mynter": {
+   "name": "Monetos",
+   "theme": "pinigai, darbas ir materialūs reikalai"
+  }
+ },
+ "cards": [
+  {
+   "name": "Kvailys",
+   "up": "Naujos pradžios, spontaniškumas, pasitikėjimas savo keliu.",
+   "rev": "Neapdairumas, naivumas, šuolis be pasirengimo."
+  },
+  {
+   "name": "Magas",
+   "up": "Valia, įgūdžiai ir ištekliai, leidžiantys dabar ką nors sukurti.",
+   "rev": "Manipuliavimas, neišnaudotas talentas, planai be veiksmų."
+  },
+  {
+   "name": "Žynė",
+   "up": "Intuicija, paslėptos žinios, įsiklausymas į save.",
+   "rev": "Paslaptys, ignoruojama nuojauta, painiava."
+  },
+  {
+   "name": "Imperatorė",
+   "up": "Gausa, rūpestis, kūrybiškumas ir augimas.",
+   "rev": "Priklausomumas nuo kitų, sąstingis, savęs pamiršimas."
+  },
+  {
+   "name": "Imperatorius",
+   "up": "Struktūra, atsakomybė, stabilumas ir vadovavimas.",
+   "rev": "Poreikis viską kontroliuoti, nelankstumas, piktnaudžiavimas galia."
+  },
+  {
+   "name": "Šventikas",
+   "up": "Tradicija, mokymasis, mentoriaus vadovavimas.",
+   "rev": "Maištas prieš taisykles, dogmos, kurios nebetinka."
+  },
+  {
+   "name": "Mylimieji",
+   "up": "Meilė, harmonija ir svarbus vertybių pasirinkimas.",
+   "rev": "Santykių pusiausvyros stoka, abejonės, pasirinkimas prieš savo vertybes."
+  },
+  {
+   "name": "Vežimas",
+   "up": "Valios jėga, judėjimas pirmyn, pergalė per susitelkimą.",
+   "rev": "Krypties stoka, kontrolės praradimas, pasipriešinimas."
+  },
+  {
+   "name": "Stiprybė",
+   "up": "Vidinė stiprybė, kantrybė, švelnumas, kuris nugali.",
+   "rev": "Abejonė savimi, išsekimas, jausmai, paimantys viršų."
+  },
+  {
+   "name": "Atsiskyrėlis",
+   "up": "Apmąstymai, vienatvė, suteikianti įžvalgų.",
+   "rev": "Izoliacija, užsisklendimas, kitų atstūmimas."
+  },
+  {
+   "name": "Likimo ratas",
+   "up": "Lūžio taškas, ciklai, likimo posūkiai.",
+   "rev": "Nesėkmės, pasipriešinimas pokyčiams, seni modeliai."
+  },
+  {
+   "name": "Teisingumas",
+   "up": "Tiesa, pusiausvyra, pasirinkimų pasekmės.",
+   "rev": "Neteisybė, atsakomybės vengimas, šališkumas."
+  },
+  {
+   "name": "Pakabintasis",
+   "up": "Pauzė, naujas požiūris, paleidimas.",
+   "rev": "Atidėliojimas, sąstingis, auka be prasmės."
+  },
+  {
+   "name": "Mirtis",
+   "up": "Pabaiga ir virsmas, kažkas sena baigiasi.",
+   "rev": "Pasipriešinimas pokyčiams, kabinimasis į tai, kas jau baigta."
+  },
+  {
+   "name": "Nuosaikumas",
+   "up": "Pusiausvyra, kantrybė, aukso vidurys.",
+   "rev": "Pusiausvyros stoka, kraštutinumai, nekantrumas."
+  },
+  {
+   "name": "Velnias",
+   "up": "Pančiai, pagundos, priklausomybė.",
+   "rev": "Išsivadavimas, modelio laužymas, naujas aiškumas."
+  },
+  {
+   "name": "Bokštas",
+   "up": "Staigus perversmas, tiesa prasiveržia.",
+   "rev": "Baimė keistis, atidedama krizė."
+  },
+  {
+   "name": "Žvaigždė",
+   "up": "Viltis, atsinaujinimas, ramybė po audros.",
+   "rev": "Nusivylimas, prarastas tikėjimas, krypties praradimas."
+  },
+  {
+   "name": "Mėnulis",
+   "up": "Iliuzijos, netikrumas, sapnai ir baimė.",
+   "rev": "Aiškumas atsiranda, baimė atlėgsta."
+  },
+  {
+   "name": "Saulė",
+   "up": "Džiaugsmas, sėkmė, gyvybingumas ir aiškumas.",
+   "rev": "Laikinas nuosmukis, perdėtas optimizmas."
+  },
+  {
+   "name": "Nuosprendis",
+   "up": "Atbudimas, pašaukimas, padėties įvertinimas.",
+   "rev": "Savikritika, abejonės, pašaukimo ignoravimas."
+  },
+  {
+   "name": "Pasaulis",
+   "up": "Užbaigimas, vientisumas, ciklas pasibaigė.",
+   "rev": "Nebaigti reikalai, trūksta paskutinės detalės."
+  },
+  {
+   "name": "Skeptrų tūzas",
+   "up": "Naujas įkvėpimas, idėja, kupina jėgos.",
+   "rev": "Vėlavimai, varomosios jėgos stoka."
+  },
+  {
+   "name": "Skeptrų dvejetas",
+   "up": "Planavimas, žvilgsnis į priekį.",
+   "rev": "Baimė dėl nežinomybės, prastas planavimas."
+  },
+  {
+   "name": "Skeptrų trejetas",
+   "up": "Plėtra, pažanga, pirmieji rezultatai.",
+   "rev": "Kliūtys, nepasiteisinusios viltys."
+  },
+  {
+   "name": "Skeptrų ketvertas",
+   "up": "Šventė, namai, saugumas.",
+   "rev": "Nerimas namuose, bendrystės stoka."
+  },
+  {
+   "name": "Skeptrų penketas",
+   "up": "Konkurencija, nesutarimai, trintis.",
+   "rev": "Konfliktas vengiamas, vidinė kova."
+  },
+  {
+   "name": "Skeptrų šešetas",
+   "up": "Pripažinimas, pergalė, pasitikėjimas savimi.",
+   "rev": "Puikybė, einanti prieš nuopuolį, nepripažinimas."
+  },
+  {
+   "name": "Skeptrų septynetas",
+   "up": "Savo pozicijos gynimas, laikymasis savo nuomonės.",
+   "rev": "Priblokštumas, pasidavimas."
+  },
+  {
+   "name": "Skeptrų aštuonetas",
+   "up": "Greitis, naujienos, greitai besikeičiančios aplinkybės.",
+   "rev": "Vėlavimai, frustracija."
+  },
+  {
+   "name": "Skeptrų devynetas",
+   "up": "Ištvermė, paskutinės pastangos.",
+   "rev": "Perdegimas, nepasitikėjimas."
+  },
+  {
+   "name": "Skeptrų dešimtukas",
+   "up": "Sunki našta, per didelė atsakomybė.",
+   "rev": "Naštos sumažinimas, užduočių perdavimas kitiems."
+  },
+  {
+   "name": "Skeptrų pažas",
+   "up": "Entuziazmas, geros naujienos, smalsumas.",
+   "rev": "Nebrandus užsidegimas, atidėti planai."
+  },
+  {
+   "name": "Skeptrų riteris",
+   "up": "Nuotykiai, veiksmas, impulsyvumas.",
+   "rev": "Skubėjimas, pyktis, nenuspėjamumas."
+  },
+  {
+   "name": "Skeptrų karalienė",
+   "up": "Pasitikėjimas savimi, šiluma, nepriklausomybė.",
+   "rev": "Pavydas, egoizmas, netikrumas."
+  },
+  {
+   "name": "Skeptrų karalius",
+   "up": "Vizionieriška lyderystė, iniciatyva.",
+   "rev": "Arogancija, skubotai priimami sprendimai."
+  },
+  {
+   "name": "Taurių tūzas",
+   "up": "Nauja meilė, atsiveriantys jausmai.",
+   "rev": "Slopinami jausmai, tuštuma."
+  },
+  {
+   "name": "Taurių dvejetas",
+   "up": "Partnerystė, abipusė trauka.",
+   "rev": "Nesubalansuoti santykiai, ryšio nutrūkimas."
+  },
+  {
+   "name": "Taurių trejetas",
+   "up": "Draugystė, šventė, bendrystė.",
+   "rev": "Apkalbos, perdėtos linksmybės, atskirtis."
+  },
+  {
+   "name": "Taurių ketvertas",
+   "up": "Apatija, pasiūlymo nepastebėjimas.",
+   "rev": "Atgimstantis susidomėjimas, pasirengimas vėl sakyti „taip“."
+  },
+  {
+   "name": "Taurių penketas",
+   "up": "Liūdesys, netektis, dėmesys tam, kas nepavyko.",
+   "rev": "Susitaikymas, žingsnis pirmyn."
+  },
+  {
+   "name": "Taurių šešetas",
+   "up": "Prisiminimai, vaikystė, nekaltumas.",
+   "rev": "Įstrigimas praeityje."
+  },
+  {
+   "name": "Taurių septynetas",
+   "up": "Daug pasirinkimų, noras tikėti tuo, ko trokštama.",
+   "rev": "Aiškumas, realistiškas pasirinkimas."
+  },
+  {
+   "name": "Taurių aštuonetas",
+   "up": "Palikimas to, kas nebetenkina, gilesnės prasmės ieškojimas.",
+   "rev": "Baimė išeiti, klajojimas be tikslo."
+  },
+  {
+   "name": "Taurių devynetas",
+   "up": "Išsipildę norai, pasitenkinimas.",
+   "rev": "Godumas, paviršutiniška laimė."
+  },
+  {
+   "name": "Taurių dešimtukas",
+   "up": "Šeimos laimė, harmonija.",
+   "rev": "Nesutarimai šeimoje, sudužę idealai."
+  },
+  {
+   "name": "Taurių pažas",
+   "up": "Kūrybinė žinia, jautrumas.",
+   "rev": "Nebrandumas, emocinis nestabilumas."
+  },
+  {
+   "name": "Taurių riteris",
+   "up": "Romantika, pasiūlymas, žavesys.",
+   "rev": "Nuotaikų svyravimai, nerealūs pažadai."
+  },
+  {
+   "name": "Taurių karalienė",
+   "up": "Atjauta, intuicija, rūpestis.",
+   "rev": "Priklausomumas nuo kitų, emocinis chaosas."
+  },
+  {
+   "name": "Taurių karalius",
+   "up": "Emocinė pusiausvyra, diplomatija.",
+   "rev": "Manipuliavimas, emocinis šaltumas."
+  },
+  {
+   "name": "Kardų tūzas",
+   "up": "Aiškumas, proveržis, tiesa.",
+   "rev": "Painiava, klaidingas sprendimas."
+  },
+  {
+   "name": "Kardų dvejetas",
+   "up": "Sunkus pasirinkimas, užblokuota padėtis.",
+   "rev": "Išaiškėjanti informacija, neryžtingumas."
+  },
+  {
+   "name": "Kardų trejetas",
+   "up": "Širdies skausmas, skaudi tiesa.",
+   "rev": "Gijimas, atleidimas."
+  },
+  {
+   "name": "Kardų ketvertas",
+   "up": "Poilsis, atsigavimas, apmąstymai.",
+   "rev": "Neramumas, išsekimas."
+  },
+  {
+   "name": "Kardų penketas",
+   "up": "Konfliktas, pergalė, kuri brangiai kainuoja.",
+   "rev": "Susitaikymas, ginklų sudėjimas."
+  },
+  {
+   "name": "Kardų šešetas",
+   "up": "Perėjimas, sunkumų palikimas už nugaros.",
+   "rev": "Neišspręsti reikalai, nenoras keisti vietos."
+  },
+  {
+   "name": "Kardų septynetas",
+   "up": "Gudrybė, strategija, kažkas slepiama.",
+   "rev": "Sąžinė, tiesa išaiškėja."
+  },
+  {
+   "name": "Kardų aštuonetas",
+   "up": "Savo minčių įkalinimas, apribojimas.",
+   "rev": "Išsivadavimas, naujas požiūris."
+  },
+  {
+   "name": "Kardų devynetas",
+   "up": "Rūpestis, nemiga, nerimas.",
+   "rev": "Viltis, baimė slūgsta."
+  },
+  {
+   "name": "Kardų dešimtukas",
+   "up": "Skausminga pabaiga, dugnas pasiektas.",
+   "rev": "Atsigavimas, blogiausia jau praėjo."
+  },
+  {
+   "name": "Kardų pažas",
+   "up": "Smalsumas, budrumas, naujos idėjos.",
+   "rev": "Apkalbos, neapgalvoti žodžiai."
+  },
+  {
+   "name": "Kardų riteris",
+   "up": "Veiksmas, ambicija, tiesiai prie reikalo.",
+   "rev": "Skubėjimas, agresyvumas."
+  },
+  {
+   "name": "Kardų karalienė",
+   "up": "Aiškus matymas, nepriklausomybė, sąžiningumas.",
+   "rev": "Šaltumas, kartėlis, aštrūs žodžiai."
+  },
+  {
+   "name": "Kardų karalius",
+   "up": "Intelektinis autoritetas, teisingumas.",
+   "rev": "Piktnaudžiavimas galia, manipuliavimas."
+  },
+  {
+   "name": "Monetų tūzas",
+   "up": "Nauja galimybė, materiali pradžia.",
+   "rev": "Praleista galimybė, prastas planavimas."
+  },
+  {
+   "name": "Monetų dvejetas",
+   "up": "Pusiausvyra, prioritetų žongliravimas.",
+   "rev": "Perkrova, netvarka kasdieniuose reikaluose."
+  },
+  {
+   "name": "Monetų trejetas",
+   "up": "Bendradarbiavimas, amatas, mokymasis.",
+   "rev": "Prastas bendradarbiavimas, vidutiniškumas."
+  },
+  {
+   "name": "Monetų ketvertas",
+   "up": "Taupymas, saugumas, kontrolė.",
+   "rev": "Šykštumas, per stiprus įsikibimas į turimą."
+  },
+  {
+   "name": "Monetų penketas",
+   "up": "Stygius, sunkūs laikai.",
+   "rev": "Pagerėjimas, pagalba netoli."
+  },
+  {
+   "name": "Monetų šešetas",
+   "up": "Davimas ir ėmimas, dosnumas.",
+   "rev": "Nelygus pasidalijimas, skolos."
+  },
+  {
+   "name": "Monetų septynetas",
+   "up": "Kantrybė, ilgalaikė investicija.",
+   "rev": "Nekantrumas, menkas atlygis."
+  },
+  {
+   "name": "Monetų aštuonetas",
+   "up": "Stropumas, meistriškumas, praktika.",
+   "rev": "Perfekcionizmas, nuobodulys."
+  },
+  {
+   "name": "Monetų devynetas",
+   "up": "Savarankiškumas, gerovė, malonumas.",
+   "rev": "Išlaidavimas, priklausomumas nuo kitų."
+  },
+  {
+   "name": "Monetų dešimtukas",
+   "up": "Paveldas, šeimos turtas, ilgalaikis saugumas.",
+   "rev": "Materialiniai nuostoliai, šeimos konfliktas."
+  },
+  {
+   "name": "Monetų pažas",
+   "up": "Nauji mokymosi tikslai, praktiška ambicija.",
+   "rev": "Pažangos stoka, tingumas."
+  },
+  {
+   "name": "Monetų riteris",
+   "up": "Patikimumas, rutina, sunkus darbas.",
+   "rev": "Sąstingis, nuobodulys."
+  },
+  {
+   "name": "Monetų karalienė",
+   "up": "Praktiškas rūpestis, saugumas, žemiškumas.",
+   "rev": "Persidirbimas, rūpestis dėl išteklių."
+  },
+  {
+   "name": "Monetų karalius",
+   "up": "Gerovė, užtikrintumas, verslo nuovoka.",
+   "rev": "Godumas, materializmas."
+  }
+ ]
+}

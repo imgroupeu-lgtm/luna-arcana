@@ -1,0 +1,1063 @@
+{
+ "sections": {
+  "kristalai": "Kristalai ir akmenys",
+  "zoleles": "Žolelės ir augalai",
+  "zvakes": "Žvakių spalvos",
+  "smilkalai": "Smilkalai ir dūmai",
+  "irankiai": "Ritualų priemonės"
+ },
+ "items": [
+  {
+   "id": "rose-quartz",
+   "sec": "kristalai",
+   "name": "Rožinis kvarcas",
+   "alt": "Rose quartz",
+   "teaser": "Švelnus pieno rožinės spalvos akmuo, ezoterikoje siejamas su meile ir geranoriškumu sau.",
+   "about": [
+    "Rožinis kvarcas yra kvarco, t. y. silicio dioksido, atmaina. Jis dažniausiai būna šviesiai rožinis ir šiek tiek drumstas, retai – visiškai skaidrus. Randamas daugelyje pasaulio vietų, pavyzdžiui, Brazilijoje, Madagaskare ir Indijoje.",
+    "Šiuolaikinėje ezoterinėje praktikoje rožinis kvarcas laikomas meilės akmeniu: jis simbolizuoja švelnumą, atjautą ir gebėjimą priimti save. Dažnai jį pasirenka norėdami priminti sau būti švelnesniems sau ir kitiems."
+   ],
+   "keywords": [
+    "švelnumas",
+    "savimeilė",
+    "atjauta",
+    "draugystė"
+   ],
+   "intents": [
+    "love"
+   ],
+   "use": "Padėkite jį ant altoriaus šalia rožinės žvakės arba laikykite delne, kai savo dienoraštyje užsirašote ketinimą būti švelnesniems sau. Taip pat jį galima nešiotis mažame maišelyje kaip asmeninį priminimą.",
+   "care": "Kvarcas kietas, tad jį galima nuvalyti drėgna šluoste, tačiau ilgai laikomas tiesioginėje saulės šviesoje gali išblukti.",
+   "shop": "kristalai"
+  },
+  {
+   "id": "amethyst",
+   "sec": "kristalai",
+   "name": "Ametistas",
+   "alt": "Amethyst",
+   "teaser": "Violetinis kvarcas, kurį ezoterikoje sieja su ramybe, intuicija ir aiškiu protu.",
+   "about": [
+    "Ametistas – violetinė kvarco atmaina, kurios spalvą lemia geležies priemaišos ir natūralus spinduliuotė žemės gelmėse. Dažnai randamas geodose, t. y. tuščiavidurėse akmens ertmėse, išklotose kristalų. Žinomi telkiniai yra Brazilijoje, Urugvajuje, Zambijoje.",
+    "Šiuolaikinėje ezoterikoje ametistas siejamas su intuicija, ramybe ir dvasiniu susitelkimu. Taro skaitytojai kartais jį deda šalia kaladės kaip simbolinį priminimą klausytis vidinio balso."
+   ],
+   "keywords": [
+    "intuicija",
+    "ramybė",
+    "susitelkimas",
+    "vaizduotė"
+   ],
+   "intents": [
+    "intuition",
+    "protect"
+   ],
+   "use": "Padėkite ametistą šalia taro kaladės ar violetinės žvakės prieš sėsdami skaityti kortas. Tinka ir kaip akmuo vakarinei apmąstymų valandai prie dienoraščio.",
+   "care": "Ilgai laikomas tiesioginėje saulės šviesoje ametistas gali prarasti spalvą, todėl saugokite jį nuo ryškaus saulės spindulio.",
+   "shop": "kristalai"
+  },
+  {
+   "id": "quartz-crystal",
+   "sec": "kristalai",
+   "name": "Skaidrusis kvarcas",
+   "alt": "Kalnų krištolas, Rock crystal",
+   "teaser": "Visiškai skaidrus kvarcas, ezoterikoje laikomas aiškumo ir ketinimo stiprinimo simboliu.",
+   "about": [
+    "Kalnų krištolas yra bespalvis, skaidrus kvarcas – silicio dioksido kristalas, paprastai šešiakampių prizmių pavidalo. Tai vienas labiausiai paplitusių mineralų Žemės plutoje. Žodis „kristalas“ kilęs iš senovės graikų kalbos žodžio, reiškiančio ledą.",
+    "Šiuolaikinėje ezoterinėje praktikoje skaidrusis kvarcas laikomas universaliu akmeniu: jis simbolizuoja aiškumą, tyrumą ir ketinimo sutelkimą. Dėl neutralios išvaizdos jį lengva derinti su kitais akmenimis ir žvakėmis."
+   ],
+   "keywords": [
+    "aiškumas",
+    "tyrumas",
+    "ketinimas",
+    "pradžia"
+   ],
+   "intents": [
+    "begin",
+    "cleanse",
+    "intuition"
+   ],
+   "use": "Laikykite jį rankoje, kai formuluojate ketinimą, o paskui padėkite ant altoriaus šalia baltos žvakės. Tinka ir kaip centrinis akmuo, apie kurį išdėliojami kiti.",
+   "care": "Kvarcas kietas ir tvirtas, jį galima valyti drėgna šluoste; saugokite nuo smūgių, nes gali įskilti ar nuskilti kampai.",
+   "shop": "kristalai"
+  },
+  {
+   "id": "citrine",
+   "sec": "kristalai",
+   "name": "Citrinas",
+   "alt": "Citrine",
+   "teaser": "Geltonas kvarcas, kurį ezoterikoje sieja su džiaugsmu, optimizmu ir gausa.",
+   "about": [
+    "Citrinas – geltona ar gintaro spalvos kvarco atmaina. Natūralus citrinas gamtoje gana retas; didžioji dalis parduodamų akmenų gaunama kaitinant ametistą ar dūminį kvarcą, todėl verta tai žinoti renkantis.",
+    "Šiuolaikinėje ezoterikoje citrinas laikomas saulės, džiaugsmo ir gausos akmeniu. Jis simbolizuoja optimizmą ir ryžtą imtis naujų darbų, todėl jį dažnai pasirenka pradėdami naują projektą."
+   ],
+   "keywords": [
+    "džiaugsmas",
+    "gausa",
+    "optimizmas",
+    "saulė"
+   ],
+   "intents": [
+    "money",
+    "begin"
+   ],
+   "use": "Padėkite jį šalia geltonos ar žalios žvakės, kai užsirašote tikslus naujam laikotarpiui. Galite jį laikyti darbo stalo kampe kaip simbolinį priminimą apie planus.",
+   "care": "Kvarcas kietas, jį galima valyti drėgna šluoste; ilgai laikomas ryškioje saulės šviesoje gali išblukti.",
+   "shop": "kristalai"
+  },
+  {
+   "id": "black-tourmaline",
+   "sec": "kristalai",
+   "name": "Juodasis turmalinas",
+   "alt": "Šerlas, Schorl",
+   "teaser": "Juodas, vagotas kristalas, ezoterikoje siejamas su apsauga ir asmeninių ribų simboliu.",
+   "about": [
+    "Juodasis turmalinas, dar vadinamas šerlu, yra turmalino grupės borosilikatinis mineralas. Jo kristalai paprastai ilgi, prizminiai, išilgai vagoti, juodi ir blizgūs. Randamas daugelyje pasaulio vietų, tarp jų Brazilijoje, Afrikoje ir Europoje.",
+    "Šiuolaikinėje ezoterinėje praktikoje šerlas laikomas apsaugos akmeniu: jis simbolizuoja asmenines ribas ir saugumo jausmą. Dažnai jį deda prie durų ar ant altoriaus kaip priminimą išlaikyti savo erdvę ramią."
+   ],
+   "keywords": [
+    "apsauga",
+    "ribos",
+    "įžeminimas",
+    "saugumas"
+   ],
+   "intents": [
+    "protect",
+    "cleanse"
+   ],
+   "use": "Padėkite jį prie įėjimo į savo ritualų kampelį arba šalia juodos žvakės per apsaugos ritualą. Galite jį nešiotis kišenėje kaip asmeninį priminimą apie savo ribas.",
+   "care": "Turmalinas trapus, todėl nemėtykite jo ir saugokite nuo smūgių.",
+   "shop": "kristalai"
+  },
+  {
+   "id": "obsidian",
+   "sec": "kristalai",
+   "name": "Obsidianas",
+   "alt": "Obsidian, vulkaninis stiklas",
+   "teaser": "Juodas vulkaninis stiklas, ezoterikoje siejamas su sąžiningu žvilgsniu į save.",
+   "about": [
+    "Obsidianas nėra kristalas, o vulkaninis stiklas, susidaręs staiga atvėsus lavai, todėl neturi kristalinės struktūros. Dažniausiai jis juodas, blizgus, o skilimo vietose lieka labai aštrūs kraštai. Žmonės iš jo nuo seno gamino aštrius įrankius ir poliruotus veidrodėlius.",
+    "Šiuolaikinėje ezoterikoje obsidianas laikomas savistabos akmeniu: jo tamsus blizgantis paviršius primena veidrodį, todėl jis simbolizuoja sąžiningą žvilgsnį į save. Jis siejamas ir su apsauga."
+   ],
+   "keywords": [
+    "savistaba",
+    "veidrodis",
+    "apsauga",
+    "atvirumas sau"
+   ],
+   "intents": [
+    "protect",
+    "intuition"
+   ],
+   "use": "Padėkite jį šalia juodos ar violetinės žvakės, kai dienoraštyje bandote sąžiningai įvardyti, ko iš tiesų norite. Tinka ir kaip akmuo, į kurį žvelgiate ramiai susikaupdami.",
+   "care": "Suskilęs obsidianas turi labai aštrius kraštus, todėl elkitės atsargiai, o skeveldrų nelaikykite vaikams prieinamoje vietoje.",
+   "shop": "kristalai"
+  },
+  {
+   "id": "labradorite",
+   "sec": "kristalai",
+   "name": "Labradoritas",
+   "alt": "Labradorite",
+   "teaser": "Pilkas akmuo su mėlynais ir žalsvais atšvaitais, simbolizuojantis pokyčius ir paslaptį.",
+   "about": [
+    "Labradoritas – lauko špato grupės mineralas. Jo ypatybė – labradorescencija: pasukus akmenį atsiranda mėlynų, žalių ar auksinių atšvaitų, kuriuos sukelia šviesos sklaida vidinėje plokštelinėje struktūroje. Pavadinimas kilęs nuo Labradoro pusiasalio Kanadoje.",
+    "Šiuolaikinėje ezoterikoje labradoritas laikomas pokyčių ir paslapties akmeniu: kintantys atšvaitai primena, kad dalykai gali pasirodyti nauja puse. Jį dažnai pasirenka laukdami permainų ar kūrybinio posūkio."
+   ],
+   "keywords": [
+    "pokytis",
+    "paslaptis",
+    "vaizduotė",
+    "kūryba"
+   ],
+   "intents": [
+    "intuition",
+    "begin"
+   ],
+   "use": "Padėkite jį šalia mėlynos ar violetinės žvakės, kai mąstote apie pokytį savo gyvenime. Tinka ir šalia taro kaladės kaip simbolinis vaizduotės akmuo.",
+   "care": "Mineralas turi skilimo plokštumas, todėl saugokite jį nuo smūgių; valykite minkšta, šiek tiek drėgna šluoste.",
+   "shop": "kristalai"
+  },
+  {
+   "id": "moonstone",
+   "sec": "kristalai",
+   "name": "Mėnulio akmuo",
+   "alt": "Moonstone",
+   "teaser": "Pieniškai švytintis lauko špatas, nuo seno siejamas su Mėnuliu ir ciklais.",
+   "about": [
+    "Mėnulio akmuo yra lauko špato atmaina, garsėjanti švelniu pieniškai melsvu švytėjimu, vadinamu adularescencija. Ją sukelia šviesos sklaida plonuose mineralo sluoksniuose. Žinomi telkiniai yra Šri Lankoje ir Indijoje.",
+    "Šiuolaikinėje ezoterikoje mėnulio akmuo siejamas su Mėnuliu, ciklais ir intuicija. Jis simbolizuoja kaitą, naujas pradžias ir kantrų laukimą, todėl dažnai dedamas ant altoriaus per jauną ar pilną Mėnulį."
+   ],
+   "keywords": [
+    "Mėnulis",
+    "ciklai",
+    "intuicija",
+    "nauja pradžia"
+   ],
+   "intents": [
+    "intuition",
+    "begin"
+   ],
+   "use": "Padėkite jį šalia baltos ar mėlynos žvakės per Mėnulio ritualą arba laikykite rankoje, kai rašote Mėnulio dienoraštį. Tinka ir kaip akmuo vakariniam apmąstymui.",
+   "care": "Mineralas gana trapus, turi skilimo plokštumas, todėl saugokite nuo smūgių ir nemirkykite ilgam.",
+   "shop": "kristalai"
+  },
+  {
+   "id": "tigers-eye",
+   "sec": "kristalai",
+   "name": "Tigro akis",
+   "alt": "Tiger's eye",
+   "teaser": "Auksinės ir rudos spalvos juostuotas akmuo, simbolizuojantis drąsą ir ryžtą.",
+   "about": [
+    "Tigro akis – kvarco atmaina su plonais pluoštiniais intarpais; jie atsirado, kai kvarcas pakeitė ankstesnį pluoštinį mineralą. Dėl to akmuo spindi šilkiniu blizgesiu, o jį pasukus matyti judanti šviesos juosta. Spalva auksinė, ruda ar rausva. Daugiausia jo išgaunama Pietų Afrikoje ir Australijoje.",
+    "Šiuolaikinėje ezoterikoje tigro akis laikoma drąsos, pasitikėjimo ir ryžto akmeniu. Ji simbolizuoja gebėjimą blaiviai įvertinti padėtį ir imtis veiksmų."
+   ],
+   "keywords": [
+    "drąsa",
+    "ryžtas",
+    "pasitikėjimas",
+    "blaivus žvilgsnis"
+   ],
+   "intents": [
+    "money",
+    "protect"
+   ],
+   "use": "Padėkite ją šalia geltonos ar raudonos žvakės, kai nusprendžiate žengti sunkesnį žingsnį. Galite ją laikyti kišenėje kaip asmeninį priminimą apie ryžtą.",
+   "care": "Akmenį galima valyti drėgna šluoste; pjaunant ar šlifuojant kyla smulkios dulkės, todėl patys to nedarykite.",
+   "shop": "kristalai"
+  },
+  {
+   "id": "selenite",
+   "sec": "kristalai",
+   "name": "Selenitas",
+   "alt": "Selenite, gipsas",
+   "teaser": "Švelniai šviečiantis baltas gipsas, kurio vardas siejamas su Mėnuliu.",
+   "about": [
+    "Selenitas yra skaidri, pluoštinė ar plokštelinė gipso, t. y. vandeninio kalcio sulfato, atmaina. Jis labai minkštas: galima įbrėžti net nagu, be to, tirpsta vandenyje. Pavadinimas kilęs iš senovės graikų Mėnulio deivės Selenės vardo.",
+    "Šiuolaikinėje ezoterikoje selenitas laikomas tyrumo ir ramios šviesos akmeniu. Jis dažnai naudojamas kaip simbolinis „valymo“ akmuo: ant jo padedami kiti akmenys ar kaladė, kad vienas ritualas būtų simboliškai užbaigtas, o kitas pradėtas."
+   ],
+   "keywords": [
+    "tyrumas",
+    "šviesa",
+    "ramybė",
+    "Mėnulis"
+   ],
+   "intents": [
+    "cleanse",
+    "intuition"
+   ],
+   "use": "Padėkite selenito lazdelę ar plokštelę ant altoriaus, o ant jos – kitus akmenis arba taro kaladę po skaitymo. Tinka ir šalia baltos žvakės.",
+   "care": "Selenitas tirpsta vandenyje ir drėgmėje, todėl niekada jo nemirkykite ir nelaikykite drėgnoje vietoje; valykite sausa šluoste.",
+   "shop": "kristalai"
+  },
+  {
+   "id": "aventurine",
+   "sec": "kristalai",
+   "name": "Aventurinas",
+   "alt": "Aventurine",
+   "teaser": "Žalias, blizgančiais intarpais pasipuošęs kvarcas, siejamas su galimybėmis ir augimu.",
+   "about": [
+    "Aventurinas yra kvarcitas, t. y. smulkiagrūdė kvarcinė uoliena su smulkiais blizgančiais mineralų intarpais; žalią spalvą dažniausiai suteikia chromo turintis mineralas. Šį blizgesį vadina aventurescencija. Žaliojo aventurino išgaunama Indijoje, Brazilijoje ir kitur.",
+    "Šiuolaikinėje ezoterikoje žaliasis aventurinas laikomas galimybių ir augimo akmeniu. Jis simbolizuoja optimizmą ir atvirumą naujiems dalykams, todėl dažnai jį pasirenka pradėdami naują laikotarpį."
+   ],
+   "keywords": [
+    "galimybės",
+    "augimas",
+    "optimizmas",
+    "pradžia"
+   ],
+   "intents": [
+    "money",
+    "begin"
+   ],
+   "use": "Padėkite jį šalia žalios žvakės, kai užsirašote norimus tikslus. Tinka ir kaip akmuo darbo ar studijų kampelyje.",
+   "care": "Akmuo kietas, jį galima valyti drėgna šluoste ir džiovinti; saugokite nuo smūgių.",
+   "shop": "kristalai"
+  },
+  {
+   "id": "carnelian",
+   "sec": "kristalai",
+   "name": "Karneolis",
+   "alt": "Carnelian",
+   "teaser": "Oranžinės ir raudonos spalvos chalcedonas, simbolizuojantis energiją ir drąsą.",
+   "about": [
+    "Karneolis – chalcedono, mikrokristalinio kvarco, atmaina. Jo oranžinę ar rausvai rudą spalvą lemia geležies junginiai. Žmonės jį nuo senų laikų naudojo papuošalams ir antspaudams, nes jis gerai poliruojasi.",
+    "Šiuolaikinėje ezoterikoje karneolis siejamas su energija, drąsa ir kūrybiniu užsidegimu. Jis simbolizuoja pasiryžimą pradėti ir nepasiduoti, todėl dažnai pasirenkamas pradedant naują laikotarpį."
+   ],
+   "keywords": [
+    "energija",
+    "drąsa",
+    "kūryba",
+    "ryžtas"
+   ],
+   "intents": [
+    "begin",
+    "protect"
+   ],
+   "use": "Padėkite jį šalia raudonos ar oranžinės žvakės, kai pradedate naują darbą ar kūrybinį projektą. Galite jį laikyti ant rašomojo stalo.",
+   "care": "Akmuo kietas, jį galima valyti drėgna šluoste; saugokite nuo smūgių ir ilgos saulės šviesos, nes spalva gali blukti.",
+   "shop": "kristalai"
+  },
+  {
+   "id": "hematite",
+   "sec": "kristalai",
+   "name": "Hematitas",
+   "alt": "Hematite",
+   "teaser": "Metališkai pilkas, sunkus akmuo, simbolizuojantis įžeminimą ir susitelkimą.",
+   "about": [
+    "Hematitas – geležies oksidas, svarbi geležies rūda. Jis metališkai pilkas ir sunkus, tačiau pabraukus grublėtu paviršiumi palieka raudonai rudą brūkšnį. Poliruotas hematitas blizga kaip tamsus metalas.",
+    "Šiuolaikinėje ezoterikoje hematitas siejamas su įžeminimu, susitelkimu ir tvirtumu. Jis simbolizuoja gebėjimą išlikti ramiems ir tvirtai stovėti ant žemės, kai galvoje daug minčių."
+   ],
+   "keywords": [
+    "įžeminimas",
+    "susitelkimas",
+    "tvirtumas",
+    "ramybė"
+   ],
+   "intents": [
+    "protect"
+   ],
+   "use": "Laikykite jį rankoje prieš pradėdami ritualą ar taro skaitymą, kad geriau susikauptumėte. Padėkite šalia juodos ar baltos žvakės.",
+   "care": "Hematitas sunkus ir gana trapus, todėl nenumeskite; jo miltelinis paviršius gali dažyti, todėl valykite sausa šluoste ir saugokite nuo drėgmės.",
+   "shop": "kristalai"
+  },
+  {
+   "id": "amber",
+   "sec": "kristalai",
+   "name": "Gintaras",
+   "alt": "Amber, Baltijos gintaras",
+   "teaser": "Sukietėjusi medžių derva, Baltijos pakrantės simbolis ir ryšys su Lietuva.",
+   "about": [
+    "Gintaras nėra mineralas, o fosilinė medžių derva. Baltijos gintaras susidarė maždaug prieš keliasdešimt milijonų metų iš spygliuočių medžių dervos; jame kartais išlikę augalų dalių ar smulkių vabzdžių. Jis gana lengvas, minkštas, sūriame vandenyje plūduriuoja, o patrintas elektrėja. Jūra jį išplauna į Baltijos krantus, ypač po audrų, – Lietuvos pajūryje, taip pat Latvijoje ir Lenkijoje.",
+    "Lietuvoje gintaras laikomas vienu iš krašto simbolių, todėl ir simbolinėje praktikoje jis siejamas su šiluma, saule ir atmintimi. Šiuolaikinėje ezoterikoje jis dažnai pasirenkamas kaip šilumos, ryšio su savo šaknimis ir kantrybės simbolis."
+   ],
+   "keywords": [
+    "saulė",
+    "šiluma",
+    "atmintis",
+    "šaknys",
+    "kantrybė"
+   ],
+   "intents": [
+    "protect",
+    "begin"
+   ],
+   "use": "Padėkite gabalėlį ant altoriaus šalia geltonos ar baltos žvakės arba laikykite rankoje, kai prisimenate savo šeimą ir šaknis. Tinka ir kaip vietinis simbolis vietoje importuotų akmenų.",
+   "care": "Gintaras minkštas ir jautrus: saugokite jį nuo karščio, alkoholio, kvepalų ir tirpiklių, valykite tik minkšta, šiek tiek drėgna šluoste.",
+   "shop": "kristalai"
+  },
+  {
+   "id": "lavandula-angustifolia",
+   "sec": "zoleles",
+   "name": "Levanda",
+   "alt": "Lavandula angustifolia",
+   "teaser": "Kvapni violetinė žolė, kurią simbolinėje praktikoje sieja su ramybe ir tyrumu.",
+   "about": [
+    "Levanda – notrelinių šeimos pusiau krūmis siaurais pilkšvai žaliais lapais ir violetinėmis žiedų varpomis. Kilusi iš Viduržemio jūros regiono, bet gerai auga ir šaltesnio klimato sodybose. Džiovinti žiedai ilgai išlaiko stiprų kvapą.",
+    "Europos tradicijoje levanda dažnai siejama su tyrumu, švaros jausmu ir ramybe. Šiuolaikinėje ezoterikoje ji simbolizuoja nusiraminimą ir švelnų pasirengimą ritualui."
+   ],
+   "keywords": [
+    "ramybė",
+    "tyrumas",
+    "švara",
+    "poilsis"
+   ],
+   "intents": [
+    "cleanse",
+    "intuition"
+   ],
+   "use": "Įberkite džiovintų žiedų į mažą maišelį ir padėkite ant altoriaus šalia violetinės ar baltos žvakės. Tokį maišelį galima laikyti ir spintoje ar šalia dienoraščio.",
+   "care": "Tik simbolinei paskirčiai: nevartokite jos viduje, netepkite ant odos ir nenaudokite eterinio aliejaus; laikykite nuo vaikų ir augintinių, nes levanda gali jiems kenkti.",
+   "shop": "zoleles"
+  },
+  {
+   "id": "salvia-rosmarinus",
+   "sec": "zoleles",
+   "name": "Rozmarinas",
+   "alt": "Salvia rosmarinus (Rosmarinus officinalis)",
+   "teaser": "Visada žaliuojantis kvapnus krūmelis, Europos tradicijoje siejamas su atmintimi.",
+   "about": [
+    "Rozmarinas – notrelinių šeimos visžalis krūmas siaurais, adatiškais lapais ir stipriu dervingu kvapu. Kilęs iš Viduržemio jūros šalių. Lietuvoje dažniausiai auginamas vazone ir peržiemoja patalpoje.",
+    "Europos tradicijoje rozmarinas dažnai siejamas su atmintimi ir prisiminimu, o šiuolaikinėje ezoterikoje – su aiškumu, apsauga ir ryžtu pradėti iš naujo."
+   ],
+   "keywords": [
+    "atmintis",
+    "aiškumas",
+    "apsauga",
+    "ryžtas"
+   ],
+   "intents": [
+    "protect",
+    "cleanse",
+    "begin"
+   ],
+   "use": "Padėkite šakelę atokiau nuo baltos žvakės liepsnos arba sudėkite į maišelį su kitomis žolėmis. Rašydami dienoraštyje galite padėti ją šalia kaip priminimą apie tai, ką norite prisiminti.",
+   "care": "Naudokite tik kaip simbolinį daiktą: nevartokite viduje, laikykite nuo augintinių ir vaikų; sausos šakelės degios, laikykite atokiau nuo liepsnos.",
+   "shop": "zoleles"
+  },
+  {
+   "id": "salvia-officinalis",
+   "sec": "zoleles",
+   "name": "Šalavijas",
+   "alt": "Sodo šalavijas, Salvia officinalis",
+   "teaser": "Pilkšvai žali aksominiai lapai, tradiciškai siejami su išmintimi.",
+   "about": [
+    "Sodo šalavijas – notrelinių šeimos daugiametis pusiau krūmis su pilkšvai žaliais, aksominiais, kvapniais lapais ir melsvai violetiniais žiedais. Kilęs iš Viduržemio jūros šalių, bet auga ir Lietuvos soduose. Tai ne tas pats augalas kaip baltasis šalavijas (Salvia apiana).",
+    "Europos tradicijoje šalavijas siejamas su išmintimi, o šiuolaikinėje ezoterikoje – su apsivalymu ir naujos pradžios jausmu. Simbolinėje praktikoje jis dažnai pasirenkamas užbaigiant ar atnaujinant erdvę."
+   ],
+   "keywords": [
+    "išmintis",
+    "apsivalymas",
+    "atnaujinimas",
+    "apsauga"
+   ],
+   "intents": [
+    "cleanse",
+    "protect",
+    "intuition"
+   ],
+   "use": "Padėkite džiovintą šakelę ar lapus ant altoriaus atokiau nuo baltos žvakės liepsnos arba sudėkite į maišelį. Tai paprastas, lengvai prieinamas sodo augalas ritualų kampeliui.",
+   "care": "Tik simbolinei paskirčiai: nevartokite viduje, laikykite nuo vaikų ir augintinių; sausi lapai degūs, laikykite atokiau nuo liepsnos.",
+   "shop": "zoleles"
+  },
+  {
+   "id": "artemisia-absinthium",
+   "sec": "zoleles",
+   "name": "Pelynas",
+   "alt": "Artemisia absinthium",
+   "teaser": "Sidabriškai žalia kartaus kvapo žolė, simbolinėje praktikoje siejama su ribomis.",
+   "about": [
+    "Pelynas – astrinių šeimos daugiametis augalas, sidabriškai žaliais plaukuotais lapais ir stipriu kartaus kvapu. Auga Europoje, Lietuvoje dažnai matomas pakelėse ir apleistose vietose. Jis nevartotinas.",
+    "Europos tradicijoje pelynas dažnai siejamas su riba tarp pažįstamo ir nepažįstamo, o šiuolaikinėje ezoterikoje – su apsauga ir intuicija. Jo kartumas kartais pasitelkiamas kaip simbolis, kad tiesa būna nemaloni."
+   ],
+   "keywords": [
+    "riba",
+    "apsauga",
+    "tiesa",
+    "intuicija"
+   ],
+   "intents": [
+    "protect",
+    "intuition"
+   ],
+   "use": "Pritvirtinkite džiovintą šakelę prie altoriaus ar durų rėmo kaip simbolinį priminimą apie savo ribas. Galite ją sudėti į maišelį kartu su kitomis žolėmis.",
+   "care": "Pelyno niekada nevartokite viduje ir nelaikykite vaikams bei augintiniams prieinamoje vietoje; po sąlyčio nusiplaukite rankas.",
+   "shop": "zoleles"
+  },
+  {
+   "id": "matricaria-chamomilla",
+   "sec": "zoleles",
+   "name": "Ramunėlė",
+   "alt": "Matricaria chamomilla",
+   "teaser": "Balti žiedlapiai su geltona širdele, simbolizuojantys saulę ir ramų džiaugsmą.",
+   "about": [
+    "Ramunėlė – astrinių šeimos vienmetis augalas baltais žiedlapiais ir iškilia geltona širdele. Plačiai paplitusi Europoje, auga pievose ir pakelėse. Džiovinti žiedai išlaiko švelnų kvapą.",
+    "Šiuolaikinėje ezoterikoje ramunėlė simbolizuoja saulę, ramybę ir lengvą džiaugsmą. Ji dažnai pasirenkama taikos ir paprastų kasdienių malonumų ritualams, o kai kur siejama ir su sėkme bei gausa."
+   ],
+   "keywords": [
+    "saulė",
+    "ramybė",
+    "džiaugsmas",
+    "paprastumas"
+   ],
+   "intents": [
+    "cleanse",
+    "money"
+   ],
+   "use": "Sudėkite džiovintus žiedus į maišelį ar mažą dubenėlį ir padėkite šalia geltonos ar baltos žvakės. Tinka ritualams, kuriuose norite ramios, šviesios pradžios.",
+   "care": "Tik simbolinei paskirčiai: nevartokite viduje; alergiški astrinių šeimos augalams žmonės žiedų neturėtų laikyti šalia savęs. Laikykite nuo augintinių ir vaikų.",
+   "shop": "zoleles"
+  },
+  {
+   "id": "mentha",
+   "sec": "zoleles",
+   "name": "Mėta",
+   "alt": "Mentha",
+   "teaser": "Gaivaus kvapo žolė, simbolinėje praktikoje siejama su pradžia ir judėjimu.",
+   "about": [
+    "Mėta – notrelinių šeimos daugiametis augalas kvapniais, dantytais lapais. Yra daug rūšių ir hibridų, pavyzdžiui, pipirmėtė. Sodybose greitai plinta, o džiovinti lapai ilgai išlaiko kvapą.",
+    "Šiuolaikinėje ezoterikoje mėta simbolizuoja gaivų pradžios pojūtį, judėjimą ir gausą. Ją dažnai pasirenka ritualams, kuriais norima praskaidrinti nuotaiką ir paskatinti imtis naujų veiksmų."
+   ],
+   "keywords": [
+    "gaiva",
+    "pradžia",
+    "judėjimas",
+    "gausa"
+   ],
+   "intents": [
+    "begin",
+    "money",
+    "cleanse"
+   ],
+   "use": "Padėkite kelis džiovintus lapus šalia žalios žvakės (ne prie pat liepsnos) arba sudėkite į maišelį kartu su citrino ar aventurino akmeniu. Tinka ritualams prieš naują darbą.",
+   "care": "Tik simbolinei paskirčiai: nevartokite viduje ir nelaikykite jos augintiniams prieinamoje vietoje; kai kurios mėtų rūšys jiems gali kenkti.",
+   "shop": "zoleles"
+  },
+  {
+   "id": "hypericum-perforatum",
+   "sec": "zoleles",
+   "name": "Jonažolė",
+   "alt": "Hypericum perforatum",
+   "teaser": "Geltonai žydinti vasaros žolė, Lietuvoje siejama su Joninėmis ir saulės šviesa.",
+   "about": [
+    "Jonažolė – daugiametis augalas su geltonais penkialapiais žiedais, žydintis nuo birželio iki rugpjūčio. Jos lapai atrodo lyg subadyti, nes prieš šviesą matyti smulkūs permatomi taškeliai. Auga pievose, pakelėse ir miško pakraščiuose.",
+    "Lietuvoje jonažolė priskiriama prie vasaros žolių, kurias sieja su Joninėmis, trumpiausia metų naktimi ir saulės šventimu. Šiuolaikinėje ezoterikoje ji simbolizuoja šviesą, apsaugą ir vasaros džiaugsmą."
+   ],
+   "keywords": [
+    "Joninės",
+    "saulė",
+    "šviesa",
+    "vasara"
+   ],
+   "intents": [
+    "protect",
+    "begin"
+   ],
+   "use": "Džiovintus žiedus sudėkite į maišelį ar padėkite ant altoriaus atokiau nuo geltonos žvakės liepsnos per Jonines ar vasaros saulėgrįžos laiką.",
+   "care": "Tik simbolinei paskirčiai: nevartokite viduje ir netepkite ant odos, nes augalo sultys gali padidinti odos jautrumą saulės šviesai; laikykite nuo augintinių ir vaikų.",
+   "shop": "zoleles"
+  },
+  {
+   "id": "juniperus-communis",
+   "sec": "zoleles",
+   "name": "Kadagys",
+   "alt": "Juniperus communis",
+   "teaser": "Spygliuotis krūmas, Lietuvoje augantis natūraliai, simbolizuojantis apsaugą ir apsivalymą.",
+   "about": [
+    "Paprastasis kadagys – visžalis spygliuotis krūmas ar mažas medis aštriais spygliais ir mėlynai pilkomis, dervingai kvepiančiomis uogomis (botaniškai – mėsingais kankorėžiais). Auga Lietuvos pušynuose, kopose ir pievose.",
+    "Šiaurės Europoje kadagys vertinamas kaip vietinis, kvapnus augalas. Šiuolaikinėje ezoterikoje jis simbolizuoja apsaugą, apsivalymą ir stiprybę, o jo dervingas kvapas dažnai siejamas su švaria, atnaujinta erdve."
+   ],
+   "keywords": [
+    "apsauga",
+    "apsivalymas",
+    "stiprybė",
+    "šaknys"
+   ],
+   "intents": [
+    "protect",
+    "cleanse"
+   ],
+   "use": "Padėkite šakelę ar kelias džiovintas uogas ant altoriaus šalia baltos ar juodos žvakės arba sudėkite į maišelį. Vietinis jo kvapas gražiai tinka ritualams prie durų.",
+   "care": "Tik simbolinei paskirčiai: uogų nevalgykite, laikykite nuo vaikų ir augintinių; spygliai dygūs ir degūs.",
+   "shop": "zoleles"
+  },
+  {
+   "id": "laurus-nobilis",
+   "sec": "zoleles",
+   "name": "Lauro lapas",
+   "alt": "Laurus nobilis",
+   "teaser": "Kvapnus visžalis lapas, nuo antikos siejamas su pergale ir pripažinimu.",
+   "about": [
+    "Lauras – visžalis Viduržemio jūros regiono krūmas ar medis odiškais, tamsiai žaliais, kvapniais lapais. Džiovinti lapai išlaiko kvapą ir ilgai nesuyra. Lietuvoje lauras auginamas tik vazone, patalpoje.",
+    "Antikos Graikijoje ir Romoje laurų vainikais puošdavo nugalėtojus, todėl lauras iki šiol siejamas su pergale ir pasiekimais. Šiuolaikinėje ezoterikoje jis simbolizuoja siekius ir ryžtą jų siekti."
+   ],
+   "keywords": [
+    "pergalė",
+    "siekiai",
+    "tikslai",
+    "pripažinimas"
+   ],
+   "intents": [
+    "money",
+    "begin"
+   ],
+   "use": "Užrašykite ant lapo žodį ar trumpą ketinimą ir laikykite jį maišelyje ar tarp dienoraščio puslapių. Lapą taip pat galima padėti šalia žalios ar geltonos žvakės.",
+   "care": "Nevartokite lapų viduje ir laikykite juos nuo vaikų bei augintinių. Jei lapą degintumėte, darykite tai tik ugniai atspariame inde ir niekada nepalikite be priežiūros.",
+   "shop": "zoleles"
+  },
+  {
+   "id": "rosa",
+   "sec": "zoleles",
+   "name": "Rožės žiedlapiai",
+   "alt": "Rosa",
+   "teaser": "Švelnūs džiovinti žiedlapiai, tradiciškai siejami su meile ir grožiu.",
+   "about": [
+    "Rožė – erškėtrožinių šeimos krūmas, dažniausiai dygliuotas. Žiedlapiai būna įvairių spalvų ir lengvai džiovinami; išlaiko švelnų kvapą. Ritualams verta rinktis cheminėmis medžiagomis nepurkštas rožes iš savo sodo ar patikimo šaltinio.",
+    "Rožė Europos kultūroje seniai siejama su meile, grožiu ir jausmais. Šiuolaikinėje ezoterikoje jos žiedlapiai simbolizuoja švelnumą, savimeilę ir atvirą širdį."
+   ],
+   "keywords": [
+    "meilė",
+    "grožis",
+    "švelnumas",
+    "savimeilė"
+   ],
+   "intents": [
+    "love"
+   ],
+   "use": "Pabarstykite džiovintus žiedlapius ant altoriaus, atokiau nuo rožinės žvakės liepsnos, arba sudėkite į maišelį su rožiniu kvarcu. Tinka ritualams, skirtiems savimeilei.",
+   "care": "Naudokite tik nepurkštus žiedlapius ir nevartokite jų viduje; laikykite nuo vaikų ir augintinių. Džiovinti žiedlapiai degūs, todėl nedėkite jų prie žvakės liepsnos.",
+   "shop": "zoleles"
+  },
+  {
+   "id": "candela-alba",
+   "sec": "zvakes",
+   "name": "Balta žvakė",
+   "teaser": "Tyrumo, pradžios ir aiškumo spalva, tinkanti beveik bet kuriam ritualui.",
+   "about": [
+    "Žvakės spalva dažniausiai gaunama dažant vašką ar parafiną, kartais – tik paviršių. Balta žvakė yra dažniausia ir universaliausia.",
+    "Žvakių spalvų reikšmės nėra senovinė taisyklė – tai šiuolaikinė simbolinė sistema, kuria galite laisvai naudotis ar ją keisti. Balta spalva siejama su tyrumu, ramybe ir švaria pradžia. Ją dažnai renkasi, kai neaišku, kokios spalvos reikia, nes ji tinka bet kokiam ketinimui."
+   ],
+   "keywords": [
+    "tyrumas",
+    "pradžia",
+    "aiškumas",
+    "universalumas"
+   ],
+   "intents": [
+    "cleanse",
+    "begin",
+    "protect"
+   ],
+   "use": "Uždekite ją pradėdami ritualą ar taro skaitymą, o užgesinę užbaikite ramia mintimi. Tinka ir dienoraščio rašymui.",
+   "care": "Degdami žvakę visada naudokite stabilų, karščiui atsparų pagrindą, nepalikite jos be priežiūros ir laikykite atokiau nuo vaikų, augintinių, užuolaidų ir popieriaus.",
+   "shop": "zvakes"
+  },
+  {
+   "id": "candela-nigra",
+   "sec": "zvakes",
+   "name": "Juoda žvakė",
+   "teaser": "Apsaugos, ribų ir praeities užbaigimo spalva.",
+   "about": [
+    "Žvakės spalva dažniausiai gaunama dažant vašką ar parafiną, kartais – tik paviršių. Juoda žvakė atrodo sugeriančios šviesą, todėl dažnai laikoma paslaptinga.",
+    "Žvakių spalvų reikšmės nėra senovinė taisyklė – tai šiuolaikinė simbolinė sistema, kuria galite laisvai naudotis ar ją keisti. Juoda spalva siejama su apsauga, ribomis ir praeities užbaigimu. Ji nėra susijusi su žala ar bet kuo bloga; ši spalva simbolizuoja ramybę, kurią galima rasti ir tamsoje."
+   ],
+   "keywords": [
+    "apsauga",
+    "ribos",
+    "užbaigimas",
+    "gelmė"
+   ],
+   "intents": [
+    "protect",
+    "cleanse"
+   ],
+   "use": "Uždekite ją, kai ketinate užbaigti kažką, kas jums nebetinka, ar aiškiau apibrėžti savo ribas. Dažnai ją deda šalia šerlo ar obsidiano.",
+   "care": "Degdami žvakę visada naudokite stabilų, karščiui atsparų pagrindą, nepalikite jos be priežiūros ir laikykite atokiau nuo vaikų, augintinių, užuolaidų ir popieriaus.",
+   "shop": "zvakes"
+  },
+  {
+   "id": "candela-rubra",
+   "sec": "zvakes",
+   "name": "Raudona žvakė",
+   "teaser": "Aistros, drąsos ir veiksmo spalva.",
+   "about": [
+    "Žvakės spalva dažniausiai gaunama dažant vašką ar parafiną, kartais – tik paviršių. Raudona yra viena ryškiausių ir labiausiai matomų spalvų.",
+    "Žvakių spalvų reikšmės nėra senovinė taisyklė – tai šiuolaikinė simbolinė sistema, kuria galite laisvai naudotis ar ją keisti. Raudona siejama su energija, drąsa, aistra ir veiksmu. Šiuolaikinėje praktikoje ji simbolizuoja gyvybingumą ir užsidegimą."
+   ],
+   "keywords": [
+    "drąsa",
+    "energija",
+    "veiksmas",
+    "aistra"
+   ],
+   "intents": [
+    "love",
+    "begin",
+    "protect"
+   ],
+   "use": "Uždekite ją, kai norite sutelkti drąsą žengti žingsnį ar sustiprinti motyvaciją. Gerai tinka šalia karneolio.",
+   "care": "Degdami žvakę visada naudokite stabilų, karščiui atsparų pagrindą, nepalikite jos be priežiūros ir laikykite atokiau nuo vaikų, augintinių, užuolaidų ir popieriaus.",
+   "shop": "zvakes"
+  },
+  {
+   "id": "candela-rosea",
+   "sec": "zvakes",
+   "name": "Rožinė žvakė",
+   "teaser": "Švelnumo, draugystės ir savimeilės spalva.",
+   "about": [
+    "Žvakės spalva dažniausiai gaunama dažant vašką ar parafiną, kartais – tik paviršių. Rožinė žvakė dažniausiai būna pastelinė ir švelni.",
+    "Žvakių spalvų reikšmės nėra senovinė taisyklė – tai šiuolaikinė simbolinė sistema, kuria galite laisvai naudotis ar ją keisti. Rožinė spalva siejama su švelnumu, draugyste ir savimeile. Šiuolaikinėje praktikoje ji simbolizuoja malonumą ir atjautą, ypač sau."
+   ],
+   "keywords": [
+    "švelnumas",
+    "draugystė",
+    "savimeilė",
+    "atjauta"
+   ],
+   "intents": [
+    "love"
+   ],
+   "use": "Uždekite ją savo meilės sau ritualui ar prieš ramų pokalbį su artimu žmogumi. Gražiai dera su rožiniu kvarcu.",
+   "care": "Degdami žvakę visada naudokite stabilų, karščiui atsparų pagrindą, nepalikite jos be priežiūros ir laikykite atokiau nuo vaikų, augintinių, užuolaidų ir popieriaus.",
+   "shop": "zvakes"
+  },
+  {
+   "id": "candela-viridis",
+   "sec": "zvakes",
+   "name": "Žalia žvakė",
+   "teaser": "Augimo, gausos ir gamtos spalva.",
+   "about": [
+    "Žvakės spalva dažniausiai gaunama dažant vašką ar parafiną, kartais – tik paviršių. Žalia žvakė dažnai pasirenkama pavasarį ir vasarą.",
+    "Žvakių spalvų reikšmės nėra senovinė taisyklė – tai šiuolaikinė simbolinė sistema, kuria galite laisvai naudotis ar ją keisti. Žalia spalva siejama su augimu, gausa ir gamta. Šiuolaikinėje praktikoje ji simbolizuoja kantrią pažangą ir stabilumą, tad dažnai ją renkasi pradėdami naują darbą."
+   ],
+   "keywords": [
+    "augimas",
+    "gausa",
+    "gamta",
+    "stabilumas"
+   ],
+   "intents": [
+    "money",
+    "begin"
+   ],
+   "use": "Uždekite ją, kai užsirašote naujo laikotarpio tikslus. Dera su aventurinu; šalia galima padėti ir mėtos lapų.",
+   "care": "Degdami žvakę visada naudokite stabilų, karščiui atsparų pagrindą, nepalikite jos be priežiūros ir laikykite atokiau nuo vaikų, augintinių, užuolaidų ir popieriaus.",
+   "shop": "zvakes"
+  },
+  {
+   "id": "candela-flava",
+   "sec": "zvakes",
+   "name": "Geltona ar auksinė žvakė",
+   "teaser": "Saulės, džiaugsmo ir aiškaus proto spalva.",
+   "about": [
+    "Žvakės spalva dažniausiai gaunama dažant vašką ar parafiną, kartais – tik paviršių. Auksinės žvakės dažniausiai dažomos metalizuotu dažu.",
+    "Žvakių spalvų reikšmės nėra senovinė taisyklė – tai šiuolaikinė simbolinė sistema, kuria galite laisvai naudotis ar ją keisti. Geltona ir auksinė spalva siejamos su saule, džiaugsmu ir aiškia mintimi. Šiuolaikinėje praktikoje ji simbolizuoja optimizmą ir gausą."
+   ],
+   "keywords": [
+    "saulė",
+    "džiaugsmas",
+    "aiškus protas",
+    "gausa"
+   ],
+   "intents": [
+    "money",
+    "begin"
+   ],
+   "use": "Uždekite ją ryto ritualui ar kai norite pasverti sudėtingą sprendimą. Dera su citrinu ir gintaru.",
+   "care": "Degdami žvakę visada naudokite stabilų, karščiui atsparų pagrindą, nepalikite jos be priežiūros ir laikykite atokiau nuo vaikų, augintinių, užuolaidų ir popieriaus.",
+   "shop": "zvakes"
+  },
+  {
+   "id": "candela-caerulea",
+   "sec": "zvakes",
+   "name": "Mėlyna žvakė",
+   "teaser": "Ramybės, nuoširdaus pokalbio ir intuicijos spalva.",
+   "about": [
+    "Žvakės spalva dažniausiai gaunama dažant vašką ar parafiną, kartais – tik paviršių. Mėlyna žvakė dažnai pasirenkama vakarui.",
+    "Žvakių spalvų reikšmės nėra senovinė taisyklė – tai šiuolaikinė simbolinė sistema, kuria galite laisvai naudotis ar ją keisti. Mėlyna spalva siejama su ramybe, vandeniu, nuoširdumu ir intuicija. Šiuolaikinėje praktikoje ji simbolizuoja ramų protą ir atvirą žodį."
+   ],
+   "keywords": [
+    "ramybė",
+    "vanduo",
+    "nuoširdumas",
+    "intuicija"
+   ],
+   "intents": [
+    "intuition",
+    "cleanse"
+   ],
+   "use": "Uždekite ją vakare prieš taro skaitymą ar kai norite ramiai apmąstyti sunkų pokalbį. Dera su Mėnulio akmeniu.",
+   "care": "Degdami žvakę visada naudokite stabilų, karščiui atsparų pagrindą, nepalikite jos be priežiūros ir laikykite atokiau nuo vaikų, augintinių, užuolaidų ir popieriaus.",
+   "shop": "zvakes"
+  },
+  {
+   "id": "candela-violacea",
+   "sec": "zvakes",
+   "name": "Violetinė žvakė",
+   "teaser": "Intuicijos, vaizduotės ir dvasingumo spalva.",
+   "about": [
+    "Žvakės spalva dažniausiai gaunama dažant vašką ar parafiną, kartais – tik paviršių. Violetinė gaunama maišant raudonus ir mėlynus dažus.",
+    "Žvakių spalvų reikšmės nėra senovinė taisyklė – tai šiuolaikinė simbolinė sistema, kuria galite laisvai naudotis ar ją keisti. Violetinė spalva siejama su intuicija, vaizduote ir dvasingumu. Šiuolaikinėje praktikoje ji dažnai pasirenkama taro skaitymui ir meditacijai."
+   ],
+   "keywords": [
+    "intuicija",
+    "vaizduotė",
+    "dvasingumas",
+    "paslaptis"
+   ],
+   "intents": [
+    "intuition",
+    "protect"
+   ],
+   "use": "Uždekite ją prieš taro skaitymą ar dienoraščio rašymą. Dera su ametistu ir labradoritu.",
+   "care": "Degdami žvakę visada naudokite stabilų, karščiui atsparų pagrindą, nepalikite jos be priežiūros ir laikykite atokiau nuo vaikų, augintinių, užuolaidų ir popieriaus.",
+   "shop": "zvakes"
+  },
+  {
+   "id": "thus-bacillum",
+   "sec": "smilkalai",
+   "name": "Smilkalų lazdelės",
+   "alt": "Incense sticks",
+   "teaser": "Kvapnios lazdelės, kurias galima deginti ritualo pradžioje.",
+   "about": [
+    "Smilkalų lazdelės – kvapnios masės lazdelės, dažniausiai ant plonos bambuko šerdies, deginamos lėtai rusenant. Yra ir bešerdžių, pavyzdžiui, japoniškų. Kvapą lemia sudėtis, todėl rinkitės gamintoją, aiškiai nurodantį sudėtį.",
+    "Daugelyje kultūrų smilkalai naudojami ritualo pradžiai pažymėti. Šiuolaikinėje praktikoje lazdelės dažnai siejamos su apsivalymu ir susikaupimu – kvapas padeda pereiti iš kasdienybės į ramesnę nuotaiką."
+   ],
+   "keywords": [
+    "kvapas",
+    "ritualo pradžia",
+    "susikaupimas",
+    "apsivalymas"
+   ],
+   "intents": [
+    "cleanse",
+    "begin"
+   ],
+   "use": "Įstatykite lazdelę į stovą ar smėlio dubenėlį ant altoriaus ir uždekite prieš pradėdami ritualą ar taro skaitymą.",
+   "care": "Naudokite tik stabilų, ugniai atsparų indą ar dubenį su smėliu, nepalikite be priežiūros, laikykite atokiau nuo vaikų ir augintinių bei gerai vėdinkite patalpą; dūmai gali dirginti jautrius žmones.",
+   "shop": "smilkalai"
+  },
+  {
+   "id": "boswellia-sakai",
+   "sec": "smilkalai",
+   "name": "Sakai (olibanas)",
+   "alt": "Frankincensas, Boswellia",
+   "teaser": "Kvapnūs medžių sakai, tūkstantmečius deginami įvairiose kultūrose.",
+   "about": [
+    "Olibanas, dar vadinamas frankincensu, yra Boswellia genties medžių sakai. Medžiai auga Arabijos pusiasalyje ir Rytų Afrikoje, o sukietėję sakų gabalėliai deginami ant smilkymo anglies, kad pasklistų kvapnūs dūmai.",
+    "Olibanas daugelyje kultūrų ir religijų naudotas ritualuose, todėl šiuolaikinėje ezoterikoje jis siejamas su pagarba, susikaupimu ir apsauga. Šį kvapą dažnai renkasi iškilmingoms akimirkoms."
+   ],
+   "keywords": [
+    "pagarba",
+    "susikaupimas",
+    "apsauga",
+    "iškilmingumas"
+   ],
+   "intents": [
+    "cleanse",
+    "protect",
+    "intuition"
+   ],
+   "use": "Nedidelį gabalėlį uždėkite žnyplėmis ant įkaitusios smilkymo anglies, padėtos ugniai atspariame inde, ir smilkykite ritualo pradžioje.",
+   "care": "Anglis labai įkaista ir ilgai išlieka karšta, todėl dėkite ją ant ugniai atsparaus pagrindo su smėlio sluoksniu. Naudokite tik stabilų, ugniai atsparų indą ar dubenį su smėliu, nepalikite be priežiūros, laikykite atokiau nuo vaikų ir augintinių bei gerai vėdinkite patalpą; dūmai gali dirginti jautrius žmones.",
+   "shop": "smilkalai"
+  },
+  {
+   "id": "juniperus-smilkalai",
+   "sec": "smilkalai",
+   "name": "Kadagio šakelės",
+   "alt": "Kadagys smilkymui",
+   "teaser": "Vietinis kvapas: džiovintos kadagio šakelės ar uogos smilkymui.",
+   "about": [
+    "Išdžiovintos kadagio šakelės ir uogos rusena skleisdamos dervingus, kvapnius dūmus. Kadagys natūraliai auga Lietuvoje, todėl galite jį rinktis kaip vietinį kvapą vietoje importuotų smilkalų. Renkite tik nukritusias ar nupjautas šakeles ir tik ten, kur tai leidžiama.",
+    "Šiaurės Europoje kadagys tradiciškai naudotas ir smilkymui, o šiandien jo kvapas siejamas su apsauga, švara ir šaknimis. Šiuolaikinėje praktikoje jis simbolizuoja atnaujinimą ir stiprybę."
+   ],
+   "keywords": [
+    "apsauga",
+    "švara",
+    "šaknys",
+    "atnaujinimas"
+   ],
+   "intents": [
+    "cleanse",
+    "protect"
+   ],
+   "use": "Smilkykite nedidelę šakelę ugniai atspariame inde ritualo pradžioje ar pabaigoje, kai norite kvapu pažymėti pokytį.",
+   "care": "Naudokite tik stabilų, ugniai atsparų indą ar dubenį su smėliu, nepalikite be priežiūros, laikykite atokiau nuo vaikų ir augintinių bei gerai vėdinkite patalpą; dūmai gali dirginti jautrius žmones.",
+   "shop": "smilkalai"
+  },
+  {
+   "id": "pinus-sakai",
+   "sec": "smilkalai",
+   "name": "Eglės ir pušies sakai",
+   "alt": "Spruce and pine resin, sakai",
+   "teaser": "Dervingi sakų gabalėliai, dega su stipriu miško kvapu.",
+   "about": [
+    "Pušies ir eglės sakai – medžio išskiriama derva, sukietėjusi ant kamieno. Kvapas stiprus, spygliuotas, dervingas. Rinkite tik jau sukietėjusius, nukritusius gabalėlius ir nekrapštykite medžio žievės – tai kenkia medžiui.",
+    "Lietuvoje, kur gausu pušynų, sakų kvapas gerai pažįstamas, todėl šiuolaikinėje praktikoje jis dažnai siejamas su mišku, šaknimis ir apsauga. Kaip ir kiti smilkalai, jis žymi perėjimą į ritualo laiką."
+   ],
+   "keywords": [
+    "miškas",
+    "šaknys",
+    "apsauga",
+    "pradžia"
+   ],
+   "intents": [
+    "cleanse",
+    "protect",
+    "begin"
+   ],
+   "use": "Nedidelį sakų gabalėlį žnyplėmis padėkite ant įkaitusios smilkymo anglies ugniai atspariame inde. Tinka žiemos ir rudens ritualams.",
+   "care": "Sakai lipnūs ir degūs, jie dega, o nuo jų lengva užsiteršti drabužius. Naudokite tik stabilų, ugniai atsparų indą ar dubenį su smėliu, nepalikite be priežiūros, laikykite atokiau nuo vaikų ir augintinių bei gerai vėdinkite patalpą; dūmai gali dirginti jautrius žmones.",
+   "shop": "smilkalai"
+  },
+  {
+   "id": "salvia-rysulelis",
+   "sec": "smilkalai",
+   "name": "Šalavijų ryšulėlis",
+   "alt": "Smudge stick",
+   "teaser": "Susuktas džiovintų žolių ryšulėlis; verta rinktis vietines žoles.",
+   "about": [
+    "Tai džiovintų žolių ryšulėlis, surištas siūlu ir deginamas taip, kad rustų. Dažnai parduodamas kaip „baltojo šalavijo“ ryšulėlis.",
+    "Baltasis šalavijas (Salvia apiana) auga Šiaurės Amerikos vakaruose ir yra šventas kai kurioms čiabuvių tautoms, o jo komercinis rinkimas kelia tvarumo klausimų. Todėl verčiau rinktis vietines žoles – sodo šalaviją, kadagį, levandą ar rozmariną: taip pagarbiau ir artimiau savo aplinkai."
+   ],
+   "keywords": [
+    "vietinės žolės",
+    "pagarba",
+    "ryšulėlis",
+    "apsivalymas"
+   ],
+   "intents": [
+    "cleanse",
+    "protect"
+   ],
+   "use": "Susirinkite ir surišite nedidelį ryšulėlį iš savo žolių ir smilkykite ugniai atspariame inde. Tai paprasta ir sąmoninga ritualo pradžia.",
+   "care": "Naudokite tik stabilų, ugniai atsparų indą ar dubenį su smėliu, nepalikite be priežiūros, laikykite atokiau nuo vaikų ir augintinių bei gerai vėdinkite patalpą; dūmai gali dirginti jautrius žmones.",
+   "shop": "smilkalai"
+  },
+  {
+   "id": "pannus-altaris",
+   "sec": "irankiai",
+   "name": "Altoriaus audinys",
+   "alt": "Altar cloth",
+   "teaser": "Audinys, žymintis ritualų erdvę.",
+   "about": [
+    "Altoriaus audinys – paprastas medvilnės, lino ar kito audinio gabalas ar staltiesė, kuria apdengiamas paviršius. Jis apsaugo baldą nuo vaško ir apibrėžia vietą, kurioje vyksta jūsų ritualai.",
+    "Šiuolaikinėje praktikoje audinys žymi perėjimą į ypatingą laiką: kai jį išskleidžiate, kasdienis stalas virsta ritualų erdve. Spalva ir raštas gali atspindėti jūsų asmeninį skonį ar metų laiką."
+   ],
+   "keywords": [
+    "erdvė",
+    "riba",
+    "pradžia",
+    "namai"
+   ],
+   "intents": [
+    "begin",
+    "protect"
+   ],
+   "use": "Išskleiskite audinį prieš ritualą, išdėliokite ant jo žvakę, akmenis ir kaladę, o pabaigoje sulankstykite. Taip aiškiai atskirsite ritualo laiką.",
+   "care": "Audinys dega, o sintetinis dar ir lydosi, todėl žvakes bei smilkalus statykite ant atsparaus padėklo ar žvakidės, atokiau nuo audinio kraštų. Vaško dėmes šalinkite atsargiai.",
+   "shop": "irankiai"
+  },
+  {
+   "id": "tarot-kalade",
+   "sec": "irankiai",
+   "name": "Taro kaladė",
+   "alt": "Tarot deck",
+   "teaser": "78 kortų kaladė, naudojama apmąstymams ir savirefleksijai.",
+   "about": [
+    "Taro kaladę sudaro 78 kortos: 22 Didieji arkanai ir 56 Mažieji arkanai, suskirstyti į keturias mastis. Taro atsirado XV a. Italijoje kaip kortų žaidimas, o ezoterinis jų naudojimas išpopuliarėjo vėliau. Dažniausiai naudojama 1909 m. išleista Rider–Waite–Smith kaladė.",
+    "Šiuolaikinėje praktikoje taro laikomas simbolių kalba ir priemone apmąstymui, o ne ateities garantija. Kortų atvaizdai padeda įvardyti jausmus, klausimus ir galimus pasirinkimus."
+   ],
+   "keywords": [
+    "simboliai",
+    "apmąstymas",
+    "intuicija",
+    "pasirinkimas"
+   ],
+   "intents": [
+    "intuition",
+    "begin"
+   ],
+   "use": "Prieš skaitymą uždekite žvakę, ramiai pamaišykite kaladę ir užduokite atvirą klausimą. Po skaitymo užsirašykite pastebėjimus dienoraštyje.",
+   "care": "Laikykite kaladę sausoje vietoje, šilke ar dėžutėje; kortas vartykite švariomis rankomis ir saugokite nuo vaško lašų bei drėgmės.",
+   "shop": "irankiai"
+  },
+  {
+   "id": "pendulum",
+   "sec": "irankiai",
+   "name": "Švytuoklė",
+   "alt": "Pendulum",
+   "teaser": "Pakabintas svarelis, naudojamas kaip priemonė savirefleksijai.",
+   "about": [
+    "Švytuoklė – svarelis, kabantis ant grandinėlės ar siūlo; paprastai iš kristalo, metalo ar medžio. Jos judėjimas paaiškinamas mažais nesąmoningais rankos judesiais (ideomotoriniu efektu), o ne jokia išorine jėga.",
+    "Šiuolaikinėje praktikoje švytuoklė naudojama kaip savirefleksijos priemonė: atsakymas „taip“ ar „ne“ gali padėti suprasti, ką jaučiate dėl klausimo. Tai žaidimas su savo intuicija, o ne tikslus atsakymų šaltinis."
+   ],
+   "keywords": [
+    "intuicija",
+    "savirefleksija",
+    "taip ir ne",
+    "susitelkimas"
+   ],
+   "intents": [
+    "intuition"
+   ],
+   "use": "Laikykite švytuoklę nejudėdami ir užduokite paprastą klausimą apie save. Pastebėkite savo reakciją į atsakymą ir užsirašykite ją dienoraštyje.",
+   "care": "Nesiremkite jos atsakymais priimdami sveikatos, teisinius ar finansinius sprendimus; saugokite grandinėlę nuo susivėlimo.",
+   "shop": "irankiai"
+  },
+  {
+   "id": "sal",
+   "sec": "irankiai",
+   "name": "Druska",
+   "alt": "Ritualinė druska",
+   "teaser": "Paprasta druska, daugelyje kultūrų simbolizuojanti ribą ir apsivalymą.",
+   "about": [
+    "Druska – natrio chlorido kristalai: jūros, akmens ar kalnų druska. Nuo seno ji naudota maistui konservuoti, todėl daugelyje kultūrų tapo patvarumo ir švaros simboliu. Ritualams tinka paprasta, nespalvota druska.",
+    "Šiuolaikinėje praktikoje druska simbolizuoja ribą ir apsivalymą. Ja dažnai nubrėžiamas apskritimas ar linija ant altoriaus kaip simbolinis erdvės pažymėjimas."
+   ],
+   "keywords": [
+    "riba",
+    "apsivalymas",
+    "patvarumas",
+    "apsauga"
+   ],
+   "intents": [
+    "cleanse",
+    "protect"
+   ],
+   "use": "Pabarstykite nedidelį ratą ant lėkštutės, kad pažymėtumėte ritualo erdvę, o po ritualo išmeskite druską į šiukšlių dėžę.",
+   "care": "Ritualinės druskos nevalgykite ir nenaudokite kaip gėrimo; laikykite nuo augintinių, nelaistykite ja augalų ir neberkite lauke, nes ji kenkia dirvai.",
+   "shop": "irankiai"
+  },
+  {
+   "id": "tintinnabulum",
+   "sec": "irankiai",
+   "name": "Varpelis",
+   "alt": "Ritualinis varpelis, Bell",
+   "teaser": "Mažas varpelis, kurio garsas žymi ritualo pradžią ir pabaigą.",
+   "about": [
+    "Ritualiniai varpeliai paprastai daromi iš žalvario, bronzos ar kito metalo, o garsas priklauso nuo medžiagos ir formos. Mažas varpelis skamba aiškiu, ilgai aidinčiu tonu.",
+    "Garsas daugelyje kultūrų žymi pradžią ir pabaigą, tad šiuolaikinėje praktikoje varpelis simbolizuoja perėjimą į ritualo laiką ir išėjimą iš jo. Garsas daugeliui padeda lengviau susikaupti."
+   ],
+   "keywords": [
+    "garsas",
+    "pradžia",
+    "pabaiga",
+    "susikaupimas"
+   ],
+   "intents": [
+    "cleanse",
+    "begin"
+   ],
+   "use": "Vieną kartą paskambinkite ritualo pradžioje ir vieną – pabaigoje, klausydamiesi, kol garsas visai nutils.",
+   "care": "Laikykite jį už rankenėlės ar siūlo, kad skambėtų aiškiau; valykite minkšta šluoste ir saugokite nuo smūgių.",
+   "shop": "irankiai"
+  },
+  {
+   "id": "candelabrum",
+   "sec": "irankiai",
+   "name": "Žvakidė",
+   "alt": "Candle holder",
+   "teaser": "Stabilus, karščiui atsparus laikiklis ritualo žvakei.",
+   "about": [
+    "Žvakidė – laikiklis žvakei, daromas iš keramikos, metalo, stiklo ar akmens. Pasirinkite tokią, kuri tinka jūsų žvakės dydžiui, ir pakankamai sunkią, kad nenuvirstų.",
+    "Žvakidė šiuolaikinėje praktikoje yra ritualo centras: sąmoningai pastačius žvakę ant tinkamo pagrindo, ritualas tampa saugesnis ir kruopštesnis. Pasirinkta forma ir medžiaga gali atspindėti jūsų asmeninį skonį."
+   ],
+   "keywords": [
+    "saugumas",
+    "centras",
+    "stabilumas",
+    "šviesa"
+   ],
+   "intents": [
+    "begin",
+    "protect"
+   ],
+   "use": "Pastatykite žvakę į žvakidę ant altoriaus ir uždekite ją ritualo pradžioje; užgesinkite ją žvakių gesintuvu ar dangteliu.",
+   "care": "Statykite ją ant stabilaus, karščiui atsparaus paviršiaus, atokiau nuo užuolaidų ir popieriaus; nepalikite degančios žvakės be priežiūros, laikykite nuo vaikų ir augintinių.",
+   "shop": "irankiai"
+  },
+  {
+   "id": "libellus-diarium",
+   "sec": "irankiai",
+   "name": "Užrašų knyga ar dienoraštis",
+   "alt": "Journal",
+   "teaser": "Knyga, kurioje užsirašote ritualų ir taro skaitymų mintis.",
+   "about": [
+    "Užrašų knyga – paprasta knyga su tuščiais puslapiais; tinka bet kokios formos ir popieriaus. Svarbu, kad ja būtų patogu naudotis ir norėtųsi tai daryti nuolat.",
+    "Šiuolaikinėje praktikoje dienoraštis laikomas puikiu ritualų papildymu: užrašydami kortas, sapnus ir pastebėjimus, matote, kaip keičiatės laikui bėgant. Jame galite užsirašyti ir ketinimus."
+   ],
+   "keywords": [
+    "apmąstymai",
+    "užrašai",
+    "raida",
+    "ketinimas"
+   ],
+   "intents": [
+    "intuition",
+    "begin"
+   ],
+   "use": "Po kiekvieno taro skaitymo ar ritualo užsirašykite datą, išsitrauktas kortas ir pirmąsias mintis. Vėliau peržvelgę pamatysite, kas keitėsi.",
+   "care": "Laikykite jį atokiau nuo žvakių liepsnos ir nuo drėgmės; jei jame yra asmeninių minčių, pasirūpinkite jo privatumu.",
+   "shop": "irankiai"
+  }
+ ]
+}

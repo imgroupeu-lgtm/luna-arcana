@@ -1,0 +1,762 @@
+{
+ "ui": {
+  "langName": "Deutsch",
+  "aiLanguage": "German",
+  "eyebrow": "Prototyp · Tarot",
+  "lede": "Stelle eine Frage, wähle eine Legung und ziehe die Karten. Die gesamte Legung wird zusammen angezeigt, und jede Karte wird von ihrer Position aus gedeutet.",
+  "questionPlaceholder": "Deine Frage, z. B. „Was sollte ich jetzt über meine Arbeit wissen?“",
+  "questionLabel": "Deine Frage",
+  "reversedToggle": "Umgekehrte Karten",
+  "drawBtn": "Karten ziehen",
+  "flipAll": "Alle umdrehen",
+  "chooseSpread": "Legung wählen",
+  "meaningsTitle": "Bedeutungen",
+  "flipHint": "Tippe auf die Karten, um sie umzudrehen, oder wähle „Alle umdrehen“.",
+  "questionPrefix": "Frage",
+  "reversedWord": "umgekehrt",
+  "reversedTag": "Umgekehrt",
+  "flipCard": "Karte {n} umdrehen",
+  "suitHint": "Die Farbe {suit} steht für {theme}.",
+  "majorHint": "Große Arkana: ein wichtiges Lebensthema.",
+  "yes": "Antwort: Ja.",
+  "leanYes": "Antwort: eher Ja.",
+  "no": "Antwort: Nein.",
+  "leanNo": "Antwort: eher Nein.",
+  "aiNote": "Die KI-Funktionen unten funktionieren nur, wenn die Seite in Claude geöffnet ist.",
+  "premiumChip": "Premium · Prototyp",
+  "aiTitle": "Deutung der gesamten Legung",
+  "aiDesc": "Die KI liest die Karten gemeinsam im Licht deiner Frage: Hauptthema, Karte für Karte, wie sie zusammenhängen, und ein Rat.",
+  "aiBtn": "Legung deuten",
+  "stop": "Stopp",
+  "interpreting": "Karten werden gedeutet …",
+  "aiHeads": [
+   "Hauptthema",
+   "Karte für Karte",
+   "Wie die Karten zusammenhängen",
+   "Rat"
+  ],
+  "photoTitle": "Fotografiere deine eigene Legung",
+  "photoDesc": "Lade ein Foto deiner Karten hoch, direkt von oben aufgenommen. Wir erkennen die Karten, du prüfst die Liste, und dann erhältst du die Deutung. Das Rider-Waite-Deck wird am besten erkannt.",
+  "dropLabel": "Bild auswählen oder ablegen",
+  "spreadOnPhoto": "Welche Legung ist auf dem Bild",
+  "freeSpread": "Freie Legung (weiß nicht)",
+  "previewAlt": "Das hochgeladene Bild",
+  "recBtn": "Karten erkennen",
+  "photoInterp": "Diese Legung deuten",
+  "photoReady": "Das Bild ist bereit.",
+  "looking": "Bild wird betrachtet …",
+  "found": "{n} Karten gefunden. Prüfe die Liste vor der Deutung.",
+  "noneFound": "Auf dem Bild wurden keine Karten gefunden. Versuche ein schärferes Foto, direkt von oben aufgenommen.",
+  "otherDeck": "Das Deck sieht nicht nach Rider-Waite aus, prüfe daher besonders genau.",
+  "chooseCard": "– Karte wählen –",
+  "cardN": "Karte {n}",
+  "confHigh": "sicher",
+  "confMedium": "ziemlich sicher",
+  "confLow": "unsicher",
+  "notRecognized": "nicht erkannt",
+  "footer": "Tarot auf dieser Seite ist Kultur, Reflexion und Unterhaltung. Es ist keine medizinische, rechtliche oder finanzielle Beratung, und keine Ergebnisse sind garantiert. Die Karten werden zufällig gezogen; dieselbe Karte erscheint nie zweimal in einer Legung. Die Beispiellegung oben wurde beim Öffnen der Seite gezogen. Die KI-Deutung wurde von künstlicher Intelligenz erstellt, nicht von einem Menschen.",
+  "errors": {
+   "not_granted": "Du hast der Seite nicht erlaubt, Claude zu verwenden.",
+   "sampling_disabled": "KI ist für dieses Konto nicht verfügbar.",
+   "rate_limited": "Gerade zu viele Anfragen. Versuche es gleich noch einmal.",
+   "session_expired": "Du musst dich erneut anmelden.",
+   "image_rejected": "Das Bild konnte nicht gelesen werden. Versuche ein JPEG- oder PNG-Bild.",
+   "images_unavailable": "Das Hochladen von Bildern ist hier nicht verfügbar.",
+   "refused": "Diese Anfrage kann nicht beantwortet werden. Versuche eine andere Frage.",
+   "invalid_json": "Die Antwort konnte nicht gelesen werden. Versuche es erneut.",
+   "empty_completion": "Es kam keine Antwort. Versuche es erneut.",
+   "generic": "Etwas ist schiefgegangen. Versuche es erneut."
+  },
+  "navRead": "Karten legen",
+  "navDaily": "Tageskarte",
+  "navLearn": "Tarot lernen",
+  "navShop": "Shop",
+  "heroKicker": "Tarot nach dem Mond",
+  "heroTitle": "Lies die Karten im Mondlicht",
+  "heroLede": "Ziehe Karten, sieh die ganze Legung auf einen Blick und lass sie dir erklären. Oder fotografiere deine eigenen Karten und lass sie deuten.",
+  "ctaRead": "Karten legen",
+  "ctaPhoto": "Fotografiere deine Legung",
+  "moonTitle": "Der Mond heute",
+  "moonIllum": "{p} % beleuchtet",
+  "moonAge": "Tag {d} des Mondzyklus",
+  "moonNextFull": "Vollmond in ca. {d} Tagen",
+  "moonNextNew": "Neumond in ca. {d} Tagen",
+  "moonPhases": [
+   "Neumond",
+   "Zunehmende Sichel",
+   "Erstes Viertel",
+   "Zunehmender Mond",
+   "Vollmond",
+   "Abnehmender Mond",
+   "Letztes Viertel",
+   "Abnehmende Sichel"
+  ],
+  "moonAdvice": [
+   "In der Tarot-Tradition ist der Neumond die Zeit für neue Vorsätze. Ziehe eine Karte für das, was du beginnen willst.",
+   "Der junge Mond passt zu kleinen ersten Schritten. Frage die Karten, was dir beim Anfangen hilft.",
+   "Das erste Viertel ist die Zeit für Entscheidungen und Widerstand. Eine Legung mit drei Karten zeigt, was im Weg steht.",
+   "Der Mond wächst zum Vollmond. Frage, was du pflegen und dem du mehr Zeit geben solltest.",
+   "Der Vollmond erhellt, was verborgen ist. Zeit für die große Legung und ehrliche Einkehr.",
+   "Der Mond nimmt ab. Frage, womit du fertig bist und was du loslassen kannst.",
+   "Das letzte Viertel ist die Zeit zum Aufräumen. Was sollte enden, bevor ein neuer Zyklus beginnt?",
+   "Der alte Mond ist die Zeit für Ruhe und Stille. Ziehe eine Karte zur Besinnung."
+  ],
+  "moonCanvasLabel": "Zeichnung der heutigen Mondphase",
+  "moonDisclaimer": "Berechnet nach dem durchschnittlichen Mondzyklus; kann um einige Stunden abweichen.",
+  "dailyNote": "Heute für alle dieselbe Karte. Eine neue Karte um Mitternacht.",
+  "readTitle": "Karten legen",
+  "readLede": "Wähle eine Legung, stelle eine Frage und ziehe. Tippe auf eine Karte, um sie umzudrehen.",
+  "learnTitle": "Tarot lernen",
+  "learnLede": "Eine Bibliothek aller 78 Karten und der Legungen, in deiner Sprache geschrieben.",
+  "learnItems": [
+   [
+    "Große Arkana",
+    "22 Karten über die großen Themen des Lebens, vom Narren bis zur Welt."
+   ],
+   [
+    "Kleine Arkana",
+    "56 Karten in vier Farben: Stäbe, Kelche, Schwerter und Münzen."
+   ],
+   [
+    "So liest du eine Legung",
+    "Positionen, umgekehrte Karten und wie die Karten zusammen sprechen."
+   ]
+  ],
+  "comingSoon": "Demnächst",
+  "shopTitle": "Aus dem Shop",
+  "shopLede": "Kerzen, Räucherwerk, Kartendecks und Altartücher für deine eigene Praxis.",
+  "shopItems": [
+   "Kerzen",
+   "Räucherwerk und Kräuter",
+   "Kartendecks",
+   "Altartücher",
+   "Kristalle",
+   "Geschenkgutscheine"
+  ],
+  "deckNote": "Die Karten auf dieser Seite sind für Luna Arcana gezeichnet.",
+  "soundOn": "Stimmung",
+  "navNum": "Numerologie",
+  "numTitle": "Die Zahlen in deinem Geburtsdatum",
+  "numLede": "Die Numerologie liest dein Geburtsdatum als Zahlen. Hier findest du deine Lebenszahl, die Zahl des Jahres, in dem du dich befindest, und die Tarotkarte, die zu deinem Datum gehört.",
+  "numDateLabel": "Geburtsdatum",
+  "numBtn": "Berechnen",
+  "numPrivacy": "Das Datum wird in deinem Browser berechnet und weder gespeichert noch irgendwohin gesendet.",
+  "numLifePath": "Lebenszahl",
+  "numPersonalYear": "Persönliches Jahr {y}",
+  "numBirthCard": "Geburtskarte",
+  "numHow": "So wird gerechnet: Alle Ziffern des Datums werden zu einer einzigen Ziffer addiert. Die Meisterzahlen 11, 22 und 33 bleiben erhalten.",
+  "numCardHow": "Die Geburtskarte ergibt sich, indem man Tag, Monat und Jahr addiert und auf eine Zahl von 1 bis 22 reduziert; 22 wird zu Der Narr.",
+  "numInvalid": "Gib ein gültiges Datum ein.",
+  "numMeanings": {
+   "1": [
+    "Der Pionier",
+    "Selbstständigkeit, Mut und der Wille, etwas Neues zu beginnen. Die Herausforderung ist, anderen zuzuhören."
+   ],
+   "2": [
+    "Der Brückenbauer",
+    "Zusammenarbeit, Feinfühligkeit und die Fähigkeit, Ausgleich zu schaffen. Die Herausforderung ist, für die eigenen Bedürfnisse einzustehen."
+   ],
+   "3": [
+    "Der Schöpfer",
+    "Ausdruck, Freude und Kreativität. Die Herausforderung ist, fokussiert zu bleiben und Dinge zu vollenden."
+   ],
+   "4": [
+    "Der Baumeister",
+    "Ordnung, Ausdauer und ein sicheres Fundament. Die Herausforderung ist, Veränderung auszuhalten."
+   ],
+   "5": [
+    "Der Freigeist",
+    "Freiheit, Neugier und Wandel. Die Herausforderung ist, Ruhe und Verbindlichkeit zu finden."
+   ],
+   "6": [
+    "Der Fürsorgende",
+    "Verantwortung, Liebe und Fürsorge für Zuhause und Gemeinschaft. Die Herausforderung ist, nicht alles allein zu tragen."
+   ],
+   "7": [
+    "Der Suchende",
+    "Nachdenklichkeit, Einsicht und die Suche nach Sinn. Die Herausforderung ist, andere an sich heranzulassen."
+   ],
+   "8": [
+    "Der Anführer",
+    "Durchsetzungskraft, Ehrgeiz und der Umgang mit Ressourcen. Die Herausforderung ist das Gleichgewicht zwischen Macht und Herz."
+   ],
+   "9": [
+    "Der Weise",
+    "Mitgefühl, Abschlüsse und der Blick aufs Ganze. Die Herausforderung ist, loszulassen."
+   ],
+   "11": [
+    "Meisterzahl 11 · Der Lichtträger",
+    "Starke Intuition und Inspiration für andere. Erfordert Erdung und Ruhe."
+   ],
+   "22": [
+    "Meisterzahl 22 · Der Meisterbaumeister",
+    "Große Visionen, praktisch umgesetzt. Erfordert Geduld mit sich selbst."
+   ],
+   "33": [
+    "Meisterzahl 33 · Der Lehrer",
+    "Fürsorge und Weisheit, die geteilt werden. Erfordert Grenzen für die eigene Energie."
+   ]
+  },
+  "numYearMeanings": {
+   "1": "Ein Jahr für Neuanfänge und erste Schritte.",
+   "2": "Ein Jahr für Zusammenarbeit, Geduld und Beziehungen.",
+   "3": "Ein Jahr für Ausdruck, Freude und neue Kontakte.",
+   "4": "Ein Jahr für Arbeit, Struktur und Fundamente.",
+   "5": "Ein Jahr für Veränderung, Reisen und neue Erfahrungen.",
+   "6": "Ein Jahr für Zuhause, Familie und Verantwortung.",
+   "7": "Ein Jahr für Nachdenken, Lernen und innere Arbeit.",
+   "8": "Ein Jahr für Ergebnisse, Verantwortung und Finanzen.",
+   "9": "Ein Jahr für Abschlüsse und dafür, Platz für Neues zu schaffen."
+  },
+  "navRitual": "Ritualkalender",
+  "moonIn": "Mond im {sign}",
+  "signs": [
+   "Widder",
+   "Stier",
+   "Zwillinge",
+   "Krebs",
+   "Löwe",
+   "Jungfrau",
+   "Waage",
+   "Skorpion",
+   "Schütze",
+   "Steinbock",
+   "Wassermann",
+   "Fische"
+  ],
+  "planetDays": [
+   "Tag der Sonne",
+   "Tag des Mondes",
+   "Tag des Mars",
+   "Tag des Merkur",
+   "Tag des Jupiter",
+   "Tag der Venus",
+   "Tag des Saturn"
+  ],
+  "ritTitle": "Wenn Mond und Sterne günstig stehen",
+  "ritLede": "In der Volksmagie und der astrologischen Tradition wählt man den Zeitpunkt nach drei Dingen: der Mondphase, dem Sternzeichen, in dem der Mond steht, und dem Planeten, der den Wochentag lenkt. Wählen Sie eine Absicht, und wir finden die besten Tage der nächsten 30 Tage.",
+  "ritToday": "Heute",
+  "ritBest": "Beste Tage in nächster Zeit",
+  "ritScore": "{n} von 5",
+  "ritWhy": "Phase: {phase} · {moon} · {day}",
+  "ritMatchPhase": "passende Phase",
+  "ritMatchSign": "passendes Zeichen",
+  "ritMatchDay": "passender Wochentag",
+  "ritNoMatch": "keine Übereinstimmung",
+  "ritRules": "Die Tradition sagt",
+  "ritPremium": "Das vollständige Ritual mit Schritten, Materialien und Worten gibt es mit Premium.",
+  "ritDisclaimer": "Die Zeitpunkte folgen traditionellen Entsprechungen und sind als Inspiration und Anregung zum Nachdenken gedacht. Es werden keine Ergebnisse garantiert. Das Mondzeichen ist nur näherungsweise berechnet und kann nahe dem Zeichenwechsel abweichen.",
+  "intents": [
+   {
+    "key": "money",
+    "name": "Den Geldfluss öffnen",
+    "text": "Rituale für Fülle, Arbeit und neue Einnahmen.",
+    "rule": "Zunehmender Mond, Mond in einem Erdzeichen (Stier, Jungfrau, Steinbock) und Tag des Jupiter oder der Sonne."
+   },
+   {
+    "key": "love",
+    "name": "Liebe und Selbstliebe",
+    "text": "Rituale für Wärme, Anziehung und Freundlichkeit sich selbst gegenüber.",
+    "rule": "Zunehmender Mond, Mond im Stier, in der Waage oder im Krebs, und Tag der Venus."
+   },
+   {
+    "key": "protect",
+    "name": "Schutz für Zuhause und Sie selbst",
+    "text": "Rituale für Geborgenheit und Grenzen.",
+    "rule": "Vollmond oder abnehmender Mond, Mond im Steinbock, im Skorpion oder im Widder, und Tag des Saturn oder des Mars."
+   },
+   {
+    "key": "cleanse",
+    "name": "Reinigung und Loslassen",
+    "text": "Rituale zum Aufräumen, Abschließen und Loslassen dessen, was belastet.",
+    "rule": "Abnehmender Mond, Mond in der Jungfrau, im Skorpion oder in den Fischen, und Tag des Saturn."
+   },
+   {
+    "key": "begin",
+    "name": "Neuanfänge",
+    "text": "Rituale für Absichten und erste Schritte.",
+    "rule": "Neumond oder junger zunehmender Mond, Mond in einem Feuerzeichen (Widder, Löwe, Schütze) und Tag der Sonne oder des Mondes."
+   },
+   {
+    "key": "intuition",
+    "name": "Intuition und Träume",
+    "text": "Rituale für Einsicht, Träume und Tarot.",
+    "rule": "Neumond oder Vollmond, Mond in einem Wasserzeichen (Krebs, Skorpion, Fische) und Tag des Mondes."
+   }
+  ],
+  "navJournal": "Tagebuch",
+  "jTitle": "Dein Tarot-Tagebuch",
+  "jLede": "Speichere deine Legungen und sieh, welche Karten im Lauf der Zeit wiederkehren. Das Tagebuch wird nur in diesem Browser gespeichert und nirgendwohin gesendet.",
+  "jSave": "Im Tagebuch speichern",
+  "jSaved": "Im Tagebuch gespeichert.",
+  "jEmpty": "Das Tagebuch ist leer. Zieh Karten, dreh sie um und speichere die Legung.",
+  "jFrequent": "Wiederkehrende Karten",
+  "jTimes": "{n} Mal",
+  "jDelete": "Löschen",
+  "jEntries": "Gespeicherte Legungen",
+  "freeLeft": "Heute 1 kostenlose KI-Deutung.",
+  "freeUsed": "Die kostenlose KI-Deutung für heute ist verbraucht. Weitere Deutungen gibt es mit Premium."
+ },
+ "spreads": {
+  "dag": {
+   "label": "Tageskarte",
+   "desc": "Eine Karte als Thema des Tages.",
+   "pos": [
+    "Thema des Tages"
+   ]
+  },
+  "tre": {
+   "label": "Vergangenheit · Gegenwart · Zukunft",
+   "desc": "Drei Karten, die die Entwicklung der Angelegenheit zeigen.",
+   "pos": [
+    "Vergangenheit",
+    "Gegenwart",
+    "Zukunft"
+   ]
+  },
+  "situasjon": {
+   "label": "Situation (5)",
+   "desc": "Ursache, Kern, Herausforderung, Ausblick und Chance. Die Chancenkarte wird immer aufrecht gezogen.",
+   "pos": [
+    "Ursache",
+    "Die Situation",
+    "Herausforderung",
+    "Ausblick",
+    "Chance"
+   ]
+  },
+  "janei": {
+   "label": "Ja / Nein",
+   "desc": "Eine Karte. Aufrecht neigt sie zu Ja, umgekehrt zu Nein. Große Arkana geben eine deutlichere Antwort.",
+   "pos": [
+    "Antwort"
+   ]
+  },
+  "kors": {
+   "label": "Keltisches Kreuz (10)",
+   "desc": "Die klassische Legung für eine gründliche Betrachtung.",
+   "pos": [
+    "Gegenwart",
+    "Kreuzt",
+    "Grundlage",
+    "Vergangenheit",
+    "Ziel",
+    "Nahe Zukunft",
+    "Du selbst",
+    "Umfeld",
+    "Hoffnungen und Ängste",
+    "Ausgang"
+   ]
+  }
+ },
+ "suits": {
+  "staver": {
+   "name": "Stäbe",
+   "theme": "Handlung und Leidenschaft"
+  },
+  "begre": {
+   "name": "Kelche",
+   "theme": "Gefühle und Beziehungen"
+  },
+  "sverd": {
+   "name": "Schwerter",
+   "theme": "Gedanken und Konflikt"
+  },
+  "mynter": {
+   "name": "Münzen",
+   "theme": "Geld, Arbeit und Körper"
+  }
+ },
+ "cards": [
+  {
+   "name": "Der Narr",
+   "up": "Neuanfang, Spontaneität, Vertrauen in den Weg, der vor dir liegt.",
+   "rev": "Unachtsamkeit, Naivität, ein Sprung ohne Vorbereitung."
+  },
+  {
+   "name": "Der Magier",
+   "up": "Wille, Fähigkeiten und Mittel, um jetzt etwas zu erschaffen.",
+   "rev": "Manipulation, ungenutztes Talent, Pläne ohne Handlung."
+  },
+  {
+   "name": "Die Hohepriesterin",
+   "up": "Intuition, verborgenes Wissen, nach innen lauschen.",
+   "rev": "Geheimnisse, ignoriertes Bauchgefühl, Verwirrung."
+  },
+  {
+   "name": "Die Herrscherin",
+   "up": "Fülle, Fürsorge, Kreativität und Wachstum.",
+   "rev": "Abhängigkeit, Stillstand, sich selbst vergessen."
+  },
+  {
+   "name": "Der Herrscher",
+   "up": "Struktur, Verantwortung, Stabilität und Führung.",
+   "rev": "Kontrollbedürfnis, Starrheit, Machtmissbrauch."
+  },
+  {
+   "name": "Der Hohepriester",
+   "up": "Tradition, Lernen, Anleitung durch einen Mentor.",
+   "rev": "Auflehnung gegen Regeln, Dogmen, die nicht mehr passen."
+  },
+  {
+   "name": "Die Liebenden",
+   "up": "Liebe, Harmonie und eine wichtige Wertentscheidung.",
+   "rev": "Ungleichgewicht in Beziehungen, Zweifel, Entscheidungen gegen die eigenen Werte."
+  },
+  {
+   "name": "Der Wagen",
+   "up": "Willenskraft, Vorwärtsdrang, Sieg durch Fokus.",
+   "rev": "Richtungslosigkeit, Kontrollverlust, Widerstand."
+  },
+  {
+   "name": "Die Kraft",
+   "up": "Innere Stärke, Geduld, Sanftmut, die gewinnt.",
+   "rev": "Selbstzweifel, Erschöpfung, Gefühle, die überhandnehmen."
+  },
+  {
+   "name": "Der Eremit",
+   "up": "Besinnung, Einsamkeit, die Einsicht schenkt.",
+   "rev": "Isolation, Rückzug, andere ausschließen."
+  },
+  {
+   "name": "Das Rad des Schicksals",
+   "up": "Wendepunkt, Zyklen, das Schicksal kommt in Bewegung.",
+   "rev": "Rückschläge, Widerstand gegen Veränderung, alte Muster."
+  },
+  {
+   "name": "Die Gerechtigkeit",
+   "up": "Wahrheit, Ausgleich, Folgen von Entscheidungen.",
+   "rev": "Ungerechtigkeit, Verantwortung abweisen, Voreingenommenheit."
+  },
+  {
+   "name": "Der Gehängte",
+   "up": "Pause, neue Perspektive, Loslassen.",
+   "rev": "Aufschieben, Stillstand, Opfer ohne Sinn."
+  },
+  {
+   "name": "Der Tod",
+   "up": "Abschluss und Verwandlung, etwas Altes endet.",
+   "rev": "Widerstand gegen Veränderung, Festhalten an dem, was vorbei ist."
+  },
+  {
+   "name": "Mäßigkeit",
+   "up": "Ausgleich, Geduld, der goldene Mittelweg.",
+   "rev": "Ungleichgewicht, Übertreibung, Ungeduld."
+  },
+  {
+   "name": "Der Teufel",
+   "up": "Bindungen, Versuchungen, Abhängigkeit.",
+   "rev": "Befreiung, ein Muster durchbrechen, neue Klarheit."
+  },
+  {
+   "name": "Der Turm",
+   "up": "Plötzlicher Umbruch, die Wahrheit bricht hervor.",
+   "rev": "Angst vor Veränderung, eine Krise, die aufgeschoben wird."
+  },
+  {
+   "name": "Der Stern",
+   "up": "Hoffnung, Erneuerung, Ruhe nach dem Sturm.",
+   "rev": "Mutlosigkeit, verlorener Glaube, die Richtung verlieren."
+  },
+  {
+   "name": "Der Mond",
+   "up": "Illusionen, Unsicherheit, Träume und Ängste.",
+   "rev": "Klarheit kommt, die Angst lässt los."
+  },
+  {
+   "name": "Die Sonne",
+   "up": "Freude, Erfolg, Lebenskraft und Klarheit.",
+   "rev": "Vorübergehender Tiefpunkt, übertriebener Optimismus."
+  },
+  {
+   "name": "Das Gericht",
+   "up": "Erwachen, Berufung, Bilanz ziehen.",
+   "rev": "Selbstkritik, Zweifel, eine Berufung ignorieren."
+  },
+  {
+   "name": "Die Welt",
+   "up": "Vollendung, Ganzheit, ein Zyklus ist abgeschlossen.",
+   "rev": "Unerledigtes, es fehlt das letzte Puzzlestück."
+  },
+  {
+   "name": "Ass der Stäbe",
+   "up": "Neue Inspiration, eine Idee mit Kraft.",
+   "rev": "Verzögerungen, Mangel an Antrieb."
+  },
+  {
+   "name": "Zwei der Stäbe",
+   "up": "Planung, nach vorn schauen.",
+   "rev": "Angst vor dem Unbekannten, schlechte Planung."
+  },
+  {
+   "name": "Drei der Stäbe",
+   "up": "Erweiterung, Fortschritt, erste Ergebnisse.",
+   "rev": "Hindernisse, enttäuschte Erwartungen."
+  },
+  {
+   "name": "Vier der Stäbe",
+   "up": "Feier, Zuhause, Geborgenheit.",
+   "rev": "Unruhe zu Hause, Mangel an Gemeinschaft."
+  },
+  {
+   "name": "Fünf der Stäbe",
+   "up": "Wettstreit, Uneinigkeit, Reibung.",
+   "rev": "Konflikt wird vermieden, innerer Kampf."
+  },
+  {
+   "name": "Sechs der Stäbe",
+   "up": "Anerkennung, Sieg, Selbstvertrauen.",
+   "rev": "Hochmut vor dem Fall, fehlende Anerkennung."
+  },
+  {
+   "name": "Sieben der Stäbe",
+   "up": "Standhaft bleiben, die Position verteidigen.",
+   "rev": "Überwältigt, aufgeben."
+  },
+  {
+   "name": "Acht der Stäbe",
+   "up": "Tempo, Neuigkeiten, Dinge geschehen schnell.",
+   "rev": "Verzögerungen, Frustration."
+  },
+  {
+   "name": "Neun der Stäbe",
+   "up": "Ausdauer, letzte Anstrengung.",
+   "rev": "Erschöpfung, Misstrauen."
+  },
+  {
+   "name": "Zehn der Stäbe",
+   "up": "Schwere Last, zu viel Verantwortung.",
+   "rev": "Lasten ablegen, delegieren."
+  },
+  {
+   "name": "Bube der Stäbe",
+   "up": "Begeisterung, gute Nachrichten, Neugier.",
+   "rev": "Unreifer Eifer, aufgeschobene Pläne."
+  },
+  {
+   "name": "Ritter der Stäbe",
+   "up": "Abenteuer, Handeln, Impulsivität.",
+   "rev": "Hast, Zorn, Unberechenbarkeit."
+  },
+  {
+   "name": "Königin der Stäbe",
+   "up": "Selbstsicherheit, Wärme, Unabhängigkeit.",
+   "rev": "Eifersucht, Egoismus, Unsicherheit."
+  },
+  {
+   "name": "König der Stäbe",
+   "up": "Visionäre Führung, Initiative.",
+   "rev": "Arroganz, übereilte Entscheidungen."
+  },
+  {
+   "name": "Ass der Kelche",
+   "up": "Neue Liebe, Gefühle, die sich öffnen.",
+   "rev": "Unterdrückte Gefühle, Leere."
+  },
+  {
+   "name": "Zwei der Kelche",
+   "up": "Partnerschaft, gegenseitige Anziehung.",
+   "rev": "Ungleichgewicht, abgebrochener Kontakt."
+  },
+  {
+   "name": "Drei der Kelche",
+   "up": "Freundschaft, Feier, Gemeinschaft.",
+   "rev": "Klatsch, zu viel Feiern, Ausgrenzung."
+  },
+  {
+   "name": "Vier der Kelche",
+   "up": "Apathie, ein Angebot übersehen.",
+   "rev": "Neues Interesse, wieder Ja sagen."
+  },
+  {
+   "name": "Fünf der Kelche",
+   "up": "Trauer, Verlust, Fokus auf das, was schiefgelaufen ist.",
+   "rev": "Akzeptanz, weitergehen."
+  },
+  {
+   "name": "Sechs der Kelche",
+   "up": "Erinnerungen, Kindheit, Unschuld.",
+   "rev": "In der Vergangenheit festhängen."
+  },
+  {
+   "name": "Sieben der Kelche",
+   "up": "Viele Möglichkeiten, Wunschdenken.",
+   "rev": "Klarheit, realistisch wählen."
+  },
+  {
+   "name": "Acht der Kelche",
+   "up": "Etwas verlassen, tiefere Bedeutung suchen.",
+   "rev": "Angst zu gehen, ziellos treiben."
+  },
+  {
+   "name": "Neun der Kelche",
+   "up": "Erfüllte Wünsche, Zufriedenheit.",
+   "rev": "Gier, oberflächliches Glück."
+  },
+  {
+   "name": "Zehn der Kelche",
+   "up": "Familienglück, Harmonie.",
+   "rev": "Uneinigkeit in der Familie, zerbrochene Ideale."
+  },
+  {
+   "name": "Bube der Kelche",
+   "up": "Kreative Botschaft, Sensibilität.",
+   "rev": "Unreife, emotionales Ungleichgewicht."
+  },
+  {
+   "name": "Ritter der Kelche",
+   "up": "Romantik, Angebot, Charme.",
+   "rev": "Stimmungsschwankungen, unrealistische Versprechen."
+  },
+  {
+   "name": "Königin der Kelche",
+   "up": "Mitgefühl, Intuition, Fürsorge.",
+   "rev": "Abhängigkeit, emotionales Chaos."
+  },
+  {
+   "name": "König der Kelche",
+   "up": "Emotionales Gleichgewicht, Diplomatie.",
+   "rev": "Manipulation, kalte Gefühle."
+  },
+  {
+   "name": "Ass der Schwerter",
+   "up": "Klarheit, Durchbruch, Wahrheit.",
+   "rev": "Verwirrung, falsche Entscheidung."
+  },
+  {
+   "name": "Zwei der Schwerter",
+   "up": "Schwierige Wahl, blockierte Situation.",
+   "rev": "Informationen kommen ans Licht, Unentschlossenheit."
+  },
+  {
+   "name": "Drei der Schwerter",
+   "up": "Herzschmerz, Schmerz, Wahrheit, die wehtut.",
+   "rev": "Besserung, Vergebung."
+  },
+  {
+   "name": "Vier der Schwerter",
+   "up": "Ruhe, Erholung, Besinnung.",
+   "rev": "Rastlosigkeit, Erschöpfung."
+  },
+  {
+   "name": "Fünf der Schwerter",
+   "up": "Konflikt, Sieg mit einem Preis.",
+   "rev": "Versöhnung, die Waffen niederlegen."
+  },
+  {
+   "name": "Sechs der Schwerter",
+   "up": "Übergang, das Schwierige hinter sich lassen.",
+   "rev": "Ungelöste Dinge, Widerstand gegen den Aufbruch."
+  },
+  {
+   "name": "Sieben der Schwerter",
+   "up": "List, Strategie, etwas wird verborgen.",
+   "rev": "Gewissen, die Wahrheit kommt heraus."
+  },
+  {
+   "name": "Acht der Schwerter",
+   "up": "Gefangen in den eigenen Gedanken, Einschränkung.",
+   "rev": "Befreiung, neue Perspektive."
+  },
+  {
+   "name": "Neun der Schwerter",
+   "up": "Sorgen, Schlaflosigkeit, Angst.",
+   "rev": "Hoffnung, die Furcht lässt nach."
+  },
+  {
+   "name": "Zehn der Schwerter",
+   "up": "Schmerzhaftes Ende, der Tiefpunkt ist erreicht.",
+   "rev": "Wiederaufbau, das Schlimmste ist vorbei."
+  },
+  {
+   "name": "Bube der Schwerter",
+   "up": "Neugier, Wachsamkeit, neue Ideen.",
+   "rev": "Klatsch, gedankenlose Worte."
+  },
+  {
+   "name": "Ritter der Schwerter",
+   "up": "Handeln, Ehrgeiz, direkt zur Sache.",
+   "rev": "Hast, Aggressivität."
+  },
+  {
+   "name": "Königin der Schwerter",
+   "up": "Klarsicht, Unabhängigkeit, Ehrlichkeit.",
+   "rev": "Kälte, Bitterkeit, harte Worte."
+  },
+  {
+   "name": "König der Schwerter",
+   "up": "Intellektuelle Autorität, Gerechtigkeit.",
+   "rev": "Machtmissbrauch, Manipulation."
+  },
+  {
+   "name": "Ass der Münzen",
+   "up": "Neue Gelegenheit, finanzieller Anfang.",
+   "rev": "Verpasste Gelegenheit, schlechte Planung."
+  },
+  {
+   "name": "Zwei der Münzen",
+   "up": "Balance, Prioritäten jonglieren.",
+   "rev": "Überlastung, Durcheinander in den Finanzen."
+  },
+  {
+   "name": "Drei der Münzen",
+   "up": "Zusammenarbeit, Handwerk, Lernen.",
+   "rev": "Schlechte Zusammenarbeit, Mittelmäßigkeit."
+  },
+  {
+   "name": "Vier der Münzen",
+   "up": "Sparen, Sicherheit, Kontrolle.",
+   "rev": "Geiz, zu festes Festhalten."
+  },
+  {
+   "name": "Fünf der Münzen",
+   "up": "Mangel, schwere Zeiten.",
+   "rev": "Besserung, Hilfe ist nah."
+  },
+  {
+   "name": "Sechs der Münzen",
+   "up": "Geben und Nehmen, Großzügigkeit.",
+   "rev": "Ungleiche Verteilung, Schulden."
+  },
+  {
+   "name": "Sieben der Münzen",
+   "up": "Geduld, langfristige Investition.",
+   "rev": "Ungeduld, schlechter Ertrag."
+  },
+  {
+   "name": "Acht der Münzen",
+   "up": "Fleiß, Meisterschaft, Übung.",
+   "rev": "Perfektionismus, Langeweile."
+  },
+  {
+   "name": "Neun der Münzen",
+   "up": "Selbstständigkeit, Wohlstand, Genuss.",
+   "rev": "Überkonsum, Abhängigkeit von anderen."
+  },
+  {
+   "name": "Zehn der Münzen",
+   "up": "Erbe, Familienvermögen, dauerhafte Sicherheit.",
+   "rev": "Finanzieller Verlust, Familienkonflikt."
+  },
+  {
+   "name": "Bube der Münzen",
+   "up": "Neues Studium, praktischer Ehrgeiz.",
+   "rev": "Mangel an Fortschritt, Faulheit."
+  },
+  {
+   "name": "Ritter der Münzen",
+   "up": "Verlässlichkeit, Routine, harte Arbeit.",
+   "rev": "Stillstand, Langeweile."
+  },
+  {
+   "name": "Königin der Münzen",
+   "up": "Praktische Fürsorge, Geborgenheit, Bodenständigkeit.",
+   "rev": "Arbeitssucht, finanzielle Unruhe."
+  },
+  {
+   "name": "König der Münzen",
+   "up": "Wohlstand, Sicherheit, Geschäftssinn.",
+   "rev": "Gier, Materialismus."
+  }
+ ]
+}

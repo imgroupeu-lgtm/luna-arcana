@@ -1,0 +1,1655 @@
+{
+  "labels": {
+    "kwUp": "Nyckelord",
+    "kwRev": "Omvänd",
+    "about": "Om kortet",
+    "love": "Kärlek",
+    "work": "Arbete",
+    "advice": "Råd",
+    "element": "Element",
+    "astro": "Astrologi",
+    "number": "Tal",
+    "open": "Läs mer om kortet",
+    "close": "Stäng"
+  },
+  "cards": [
+    {
+      "kw_up": [
+        "nystart",
+        "spontanitet",
+        "tillit",
+        "öppenhet"
+      ],
+      "kw_rev": [
+        "oförsiktighet",
+        "naivitet",
+        "trevande",
+        "brådska"
+      ],
+      "about": "En ung vandrare står vid kanten av stupet med ett litet knyte över axeln, en hund vid hälarna och solen skinande bakom sig. Kortet handlar om det första steget och om att möta livet med öppna ögon och ett lätt hjärta.",
+      "love": "I kärlek kan Narren peka mot en ny och oförutsägbar början, eller mot lusten att möta någon utan förväntningar. Det kan också påminna om att se sig för lite på vägen.",
+      "work": "I arbetet kan det handla om att våga något nytt eller pröva en ovan väg. Det kan vara klokt att balansera glöden med en enkel plan.",
+      "advice": "Låt nyfikenheten leda dig, men ta med dig det du redan vet.",
+      "element": "Luft",
+      "astro": "Luft (Golden Dawn)",
+      "number": "Noll: potential, tomrummet innan allt börjar"
+    },
+    {
+      "kw_up": [
+        "vilja",
+        "handling",
+        "färdigheter",
+        "fokus"
+      ],
+      "kw_rev": [
+        "manipulation",
+        "splittrad energi",
+        "outnyttjad talang",
+        "planer utan handling"
+      ],
+      "about": "En gestalt står vid ett altare med en stav lyft mot himlen och en hand pekande mot jorden, med alla fyra symbolerna framför sig. Ovanför huvudet svävar oändlighetstecknet, en bild av hur tanke och handling hänger ihop.",
+      "love": "I relationer kan kortet tala om att visa sig tydligt och ta initiativ till ett ärligt samtal. Det påminner också om att vara uppriktig, utan maskspel.",
+      "work": "I arbetet tyder det på att du har de verktyg som behövs och att tiden kan vara inne att använda dem. Fokus är nyckeln.",
+      "advice": "Samla krafterna på ett ställe och börja.",
+      "element": "Luft",
+      "astro": "Merkurius",
+      "number": "Ett: vilja, begynnelse och medveten skaparkraft"
+    },
+    {
+      "kw_up": [
+        "intuition",
+        "stillhet",
+        "dold kunskap",
+        "inre lyssnande"
+      ],
+      "kw_rev": [
+        "hemligheter",
+        "ignorerad magkänsla",
+        "förvirring",
+        "tillbakadragenhet"
+      ],
+      "about": "En kvinna sitter mellan en ljus och en mörk pelare med en slöja bakom sig och en måne vid fötterna. Hon håller en rulle vars innehåll bara är halvt synligt, och kortet handlar om det som ligger under ytan.",
+      "love": "I kärlek kan kortet bjuda in till att lyssna på det som inte sägs, hos dig själv och hos den andre. Tålamod kan ge mer klarhet än snabba svar.",
+      "work": "I arbetet kan det vara dags att observera innan du bestämmer dig. Allt behöver inte förklaras på en gång.",
+      "advice": "Var stilla en stund och märk vad du egentligen vet.",
+      "element": "Vatten",
+      "astro": "Månen",
+      "number": "Två: dualitet, balans mellan det synliga och det dolda"
+    },
+    {
+      "kw_up": [
+        "omsorg",
+        "överflöd",
+        "skaparglädje",
+        "sinnlighet"
+      ],
+      "kw_rev": [
+        "beroende",
+        "kvävande omsorg",
+        "stagnation",
+        "att glömma sig själv"
+      ],
+      "about": "En krönt kvinna vilar i ett grönt landskap med sädesax och en porlande bäck, omgiven av natur i full blom. Kortet står för fruktbarhet, njutning och det som växer när det får näring.",
+      "love": "I kärlek handlar det om värme, ömhet och att ge och ta emot omsorg. Det kan också påminna om att ta hand om dig själv.",
+      "work": "I arbetet kan det peka mot kreativa projekt som får växa i sin egen takt. Kvalitet och omvårdnad ger ofta bättre frukt än brådska.",
+      "advice": "Ge näring åt det du vill ska växa, även dig själv.",
+      "element": "Vatten",
+      "astro": "Venus",
+      "number": "Tre: växt, skaparkraft och uttryck"
+    },
+    {
+      "kw_up": [
+        "struktur",
+        "stabilitet",
+        "auktoritet",
+        "ansvar"
+      ],
+      "kw_rev": [
+        "stelhet",
+        "kontrollbehov",
+        "oböjlighet",
+        "maktmissbruk"
+      ],
+      "about": "En krönt man sitter på en stentron prydd med vädurshuvuden, med spira och rikssymbol i händerna och en röd mantel över rustningen. Han står för ordning, gränser och förmågan att bygga något som består.",
+      "love": "I kärlek kan kortet tala om trygghet, lojalitet och tydliga ramar. Det kan också be dig se om kontrollbehov tar närhetens plats.",
+      "work": "I arbetet handlar det om ledarskap, planering och att ta ansvar. Goda ramar kan frigöra energi, så länge de inte blir en bur.",
+      "advice": "Skapa struktur som stöttar dig, inte en som stänger in dig.",
+      "element": "Eld",
+      "astro": "Väduren",
+      "number": "Fyra: grund, ordning och stabilitet"
+    },
+    {
+      "kw_up": [
+        "tradition",
+        "vägledning",
+        "gemenskap",
+        "lärande"
+      ],
+      "kw_rev": [
+        "brott med normer",
+        "dogmer",
+        "att följa andra blint",
+        "oberoende"
+      ],
+      "about": "En religiös gestalt sitter mellan två pelare och lyfter handen till välsignelse, med två lärjungar knäböjande framför sig och nycklar vid fötterna. Kortet handlar om ärvd visdom och de gemensamma värden vi lever efter.",
+      "love": "I kärlek kan det gälla förpliktelse, gemensamma värderingar och kanske ritualer som binder två människor samman. Det kan också fråga vad du själv tror på.",
+      "work": "I arbetet kan kortet peka mot mentorer, utbildning och fasta rutiner. Det kan vara nyttigt att lära av dem som gått vägen före.",
+      "advice": "Sök råd hos någon du litar på, men pröva det mot din egen förståelse.",
+      "element": "Jord",
+      "astro": "Oxen",
+      "number": "Fem: sökande efter mening, lärande och tradition"
+    },
+    {
+      "kw_up": [
+        "val",
+        "förening",
+        "värderingar",
+        "harmoni"
+      ],
+      "kw_rev": [
+        "obeslutsamhet",
+        "obalans",
+        "oenighet",
+        "oklara värderingar"
+      ],
+      "about": "Två nakna gestalter står under en ängel med ett träd bakom var och en, det ena med frukter och det andra med lågor. Kortet handlar om ett val som kommer från hjärtat och om vad som händer när två sidor möts.",
+      "love": "I kärlek handlar detta om djup samhörighet och om att medvetet välja varandra. Det kan också gälla ett val som kräver ärlighet.",
+      "work": "I arbetet pekar det mot ett vägval där dina värderingar bör väga tungt. Samarbete kan bli en styrka.",
+      "advice": "Välj det som stämmer med vem du faktiskt är.",
+      "element": "Luft",
+      "astro": "Tvillingarna",
+      "number": "Sex: harmoni, val och ömsesidighet"
+    },
+    {
+      "kw_up": [
+        "drivkraft",
+        "seger",
+        "självbehärskning",
+        "riktning"
+      ],
+      "kw_rev": [
+        "bristande riktning",
+        "aggression",
+        "förlorad kontroll",
+        "hinder"
+      ],
+      "about": "En ung krigare står i en vagn dragen av två sfinxer, en ljus och en mörk, under en stjärnbeströdd baldakin. Inga tyglar syns, eftersom viljan styr färden.",
+      "love": "I kärlek kan kortet visa på målmedveten insats och förmågan att hålla kursen under en krävande period. Det kan också påminna om att lyssna, inte bara driva på.",
+      "work": "I arbetet handlar det om framsteg, koncentration och att samla motstridiga krafter mot ett gemensamt mål.",
+      "advice": "Håll båda krafterna i handen och välj riktning.",
+      "element": "Vatten",
+      "astro": "Kräftan",
+      "number": "Sju: viljestyrka, framåtrörelse och mästerskap"
+    },
+    {
+      "kw_up": [
+        "mod",
+        "tålamod",
+        "mild kraft",
+        "självförtroende"
+      ],
+      "kw_rev": [
+        "självtvivel",
+        "rå kraft",
+        "otålighet",
+        "sårbarhet"
+      ],
+      "about": "En kvinna sluter försiktigt käftarna på ett lejon, medan oändlighetstecknet svävar över hennes huvud. Kortet visar att verklig styrka ofta är mjuk, lugn och uthållig.",
+      "love": "I kärlek handlar det om ömhet och tålamod, och om att möta sina egna och andras sårbara sidor med värme.",
+      "work": "I arbetet kan det tala om att hantera press med lugn och jämn kraft. Uthållighet slår ofta uppståndelse.",
+      "advice": "Möt det som skrämmer dig med mildhet och stadig hand.",
+      "element": "Eld",
+      "astro": "Lejonet",
+      "number": "Åtta: inre styrka, uthållighet och balans"
+    },
+    {
+      "kw_up": [
+        "insikt",
+        "ensamhet",
+        "sökande",
+        "vägledning"
+      ],
+      "kw_rev": [
+        "isolering",
+        "tillbakadragenhet",
+        "ensamhet",
+        "att undvika andra"
+      ],
+      "about": "En gammal man står på en snötäckt bergstopp med en lykta som lyser upp en liten stjärna och en stav i andra handen. Kortet visar det stilla sökandet efter den egna sanningen.",
+      "love": "I kärlek kan kortet betyda att du behöver tid ensam för att förstå vad du vill. Det kan också påminna om att närhet kräver att man känner sig själv.",
+      "work": "I arbetet kan det gälla fördjupning, studier eller en paus från bruset för att tänka klart.",
+      "advice": "Ta dig tid för stillhet och låt lyktan lysa för dig själv.",
+      "element": "Jord",
+      "astro": "Jungfrun",
+      "number": "Nio: fullbordan, reflektion och inre vägledning"
+    },
+    {
+      "kw_up": [
+        "cykel",
+        "förändring",
+        "ödets vändningar",
+        "framsteg"
+      ],
+      "kw_rev": [
+        "motgång",
+        "motstånd mot förändring",
+        "otur",
+        "upprepningar"
+      ],
+      "about": "Ett stort hjul med symboler och bokstäver svävar på himlen, omgivet av vingar, en sfinx, en orm och en varelse i varje hörn. Kortet påminner oss om att allt går i cykler och att inget består i samma form.",
+      "love": "I kärlek kan kortet markera en vändning, antingen en ny fas eller ett brutet gammalt mönster. Det uppmuntrar till att följa med i rörelsen.",
+      "work": "I arbetet pekar det mot förändring och möjligheter som öppnar sig, och på att anpassa sig till nya omständigheter.",
+      "advice": "Håll dig rörlig, för hjulet fortsätter att snurra.",
+      "element": "Eld",
+      "astro": "Jupiter",
+      "number": "Tio: en hel cykel, en ny nivå börjar"
+    },
+    {
+      "kw_up": [
+        "balans",
+        "sanning",
+        "ansvar",
+        "orsak och verkan"
+      ],
+      "kw_rev": [
+        "orättvisa",
+        "obalans",
+        "undvikande",
+        "ansvarsundandragande"
+      ],
+      "about": "En gestalt sitter på en tron med ett svärd i ena handen och en våg i den andra, mellan två pelare och med en slöja bakom sig. Kortet handlar om ärlighet och de konsekvenser våra val har.",
+      "love": "I kärlek handlar det om rättvisa, öppen kommunikation och ömsesidig respekt. Håll ditt ord och var tydlig.",
+      "work": "I arbetet kan det peka mot avtal, bedömningar och beslut som kräver saklighet och klara fakta.",
+      "advice": "Var ärlig, även mot dig själv, och väg det noga.",
+      "element": "Luft",
+      "astro": "Vågen",
+      "number": "Elva: balans, avvägning och ansvar"
+    },
+    {
+      "kw_up": [
+        "paus",
+        "nytt perspektiv",
+        "överlåtelse",
+        "tålamod"
+      ],
+      "kw_rev": [
+        "uppskjutande",
+        "stagnation",
+        "motstånd",
+        "onödigt offer"
+      ],
+      "about": "En man hänger upp och ner i ett träd med ena foten bunden, men ansiktet är lugnt och omgivet av ett sken. Kortet handlar om att släppa taget, vänta och se världen från en annan vinkel.",
+      "love": "I kärlek kan kortet tala om att låta saker mogna eller att se situationen från den andres sida. Press för sällan framåt.",
+      "work": "I arbetet kan det betyda en paus, en omväg eller nödvändigt tålamod inför nästa steg.",
+      "advice": "Släpp taget en stund och se vad som förändras.",
+      "element": "Vatten",
+      "astro": "Vatten",
+      "number": "Tolv: överlåtelse och förändrad syn"
+    },
+    {
+      "kw_up": [
+        "avslut",
+        "förvandling",
+        "att släppa taget",
+        "nytt kapitel"
+      ],
+      "kw_rev": [
+        "motstånd mot förändring",
+        "fastlåsthet",
+        "oavslutat",
+        "rädsla för slutet"
+      ],
+      "about": "En skelettryttare på en vit häst bär en svart banderoll med en vit ros, medan människor i olika livsfaser står framför honom. Kortet handlar sällan om bokstavlig död, utan om avslut som ger plats åt något nytt.",
+      "love": "I kärlek kan kortet markera att en fas är över och att det finns ett behov av att släppa taget. Det kan också öppna för djupare ärlighet.",
+      "work": "I arbetet kan det gälla ett projekt eller en roll som avslutas. Det frigör utrymme för något annat.",
+      "advice": "Låt det som är färdigt få vara färdigt.",
+      "element": "Vatten",
+      "astro": "Skorpionen",
+      "number": "Tretton: avslut och förvandling"
+    },
+    {
+      "kw_up": [
+        "balans",
+        "måttfullhet",
+        "tålamod",
+        "harmoni"
+      ],
+      "kw_rev": [
+        "obalans",
+        "extremer",
+        "brådska",
+        "bristande sammanhang"
+      ],
+      "about": "En ängel står med ena foten i vatten och den andra på land och häller vätska fram och tillbaka mellan två bägare. Kortet handlar om blandning, rytm och att hitta den gyllene medelvägen.",
+      "love": "I kärlek handlar detta om att finna en jämn rytm och blanda olika behov varsamt.",
+      "work": "I arbetet kan det peka mot ett balanserat tempo och samarbete där olika styrkor kompletterar varandra.",
+      "advice": "Hitta din mitt och låt saker blandas i lugn takt.",
+      "element": "Eld",
+      "astro": "Skytten",
+      "number": "Fjorton: anpassning, blandning och balans"
+    },
+    {
+      "kw_up": [
+        "bundenhet",
+        "frestelse",
+        "skugga",
+        "materialism"
+      ],
+      "kw_rev": [
+        "befrielse",
+        "att bryta vanor",
+        "återvunnen kraft",
+        "insikt"
+      ],
+      "about": "En behornad gestalt sitter på en sockel, och två nakna gestalter är fjättrade vid den med lösa kedjor. Kortet visar de vanor och bindningar vi själva har skapat, ofta utan att se dem.",
+      "love": "I kärlek kan kortet peka på dragningskraft, beroende eller mönster som håller oss fast. Det bjuder in till att se dem tydligt.",
+      "work": "I arbetet kan det gälla vanor eller ambitioner som tar mer än de ger, och frågan om vad som egentligen styr dig.",
+      "advice": "Se vad som binder dig, för kedjorna sitter ofta lösare än de ser ut.",
+      "element": "Jord",
+      "astro": "Stenbocken",
+      "number": "Femton: skugga, begär och bundenhet"
+    },
+    {
+      "kw_up": [
+        "omvälvning",
+        "avslöjande",
+        "chock",
+        "uppvaknande"
+      ],
+      "kw_rev": [
+        "att undvika katastrof",
+        "rädsla för förändring",
+        "försenat sammanbrott",
+        "gradvis förändring"
+      ],
+      "about": "Ett torn på en klippa träffas av blixten, med lågor och en fallande krona, medan två gestalter kastar sig ut. Kortet visar att falska strukturer kan rasa för att något sannare ska kunna byggas.",
+      "love": "I kärlek kan kortet markera en hastig insikt eller en förändring som rubbar det trygga. Det kan lämna utrymme för ärligare relationer.",
+      "work": "I arbetet kan det peka mot plötsliga förändringar eller att något ohållbart blir tydligt, och ett behov av att bygga på nytt.",
+      "advice": "Se det som faller som en öppning, och bygg på fast grund.",
+      "element": "Eld",
+      "astro": "Mars",
+      "number": "Sexton: omvälvning och genombrott"
+    },
+    {
+      "kw_up": [
+        "hopp",
+        "förnyelse",
+        "inspiration",
+        "ro"
+      ],
+      "kw_rev": [
+        "modlöshet",
+        "bristande tro",
+        "utmattning",
+        "avkoppling"
+      ],
+      "about": "En naken kvinna häller vatten ur två krukor, den ena i en damm och den andra på marken, under en stor stjärna omgiven av mindre. Kortet står för stilla hopp, helande vila och tillit till att ljuset återvänder.",
+      "love": "I kärlek handlar det om öppenhet, tillit och att dela det du bär på. Det är ett kort för försonande ro.",
+      "work": "I arbetet pekar det mot en väg framåt efter en tung period, och idéer som kommer av sig själva när du andas lugnt.",
+      "advice": "Håll fast vid hoppet och låt det vara lite stilla.",
+      "element": "Luft",
+      "astro": "Vattumannen",
+      "number": "Sjutton: hopp, inspiration och klarhet"
+    },
+    {
+      "kw_up": [
+        "drömmar",
+        "intuition",
+        "illusion",
+        "det undermedvetna"
+      ],
+      "kw_rev": [
+        "förvirring som lättar",
+        "rädsla",
+        "klarhet",
+        "sanningen kommer fram"
+      ],
+      "about": "Månen lyser över en stig mellan två torn, medan en hund och en varg ylar och en kräfta kryper upp ur en damm. Kortet handlar om halvljus, drömmar och de känslor vi inte riktigt förstår.",
+      "love": "I kärlek kan kortet visa på osäkerhet och starka känslor som inte låter sig förklaras på en gång. Ge det tid och ställ ärliga frågor.",
+      "work": "I arbetet kan saker vara oklara, och det kan vara klokt att vänta med stora beslut tills bilden är tydligare.",
+      "advice": "Gå långsamt fram och lita på det du känner, men kontrollera det mot dagsljus.",
+      "element": "Vatten",
+      "astro": "Fiskarna",
+      "number": "Arton: det undermedvetna, drömmar och illusion"
+    },
+    {
+      "kw_up": [
+        "glädje",
+        "vitalitet",
+        "klarhet",
+        "framgång"
+      ],
+      "kw_rev": [
+        "tillfällig skugga",
+        "överdriven optimism",
+        "försenad glädje",
+        "utbrändhet"
+      ],
+      "about": "Ett naket barn rider på en vit häst under en stor sol, med solrosor bakom en mur och en röd banderoll i handen. Kortet står för värme, klarhet och den enkla glädjen i att vara till.",
+      "love": "I kärlek handlar det om öppenhet, lekfullhet och att glädjas åt varandra. Ärlighet ger ljus.",
+      "work": "I arbetet kan det tala om framsteg och energi, och om att vara synlig på ett naturligt sätt.",
+      "advice": "Ladda upp i det som ger dig glädje, och låt det synas.",
+      "element": "Eld",
+      "astro": "Solen",
+      "number": "Nitton: vitalitet, glädje och tydlighet"
+    },
+    {
+      "kw_up": [
+        "uppvaknande",
+        "kallelse",
+        "förnyelse",
+        "reflektion"
+      ],
+      "kw_rev": [
+        "självkritik",
+        "att ignorera kallelsen",
+        "tvivel",
+        "olösta frågor"
+      ],
+      "about": "En ängel blåser i en trumpet över ett hav, och människor reser sig ur sina gravar med utsträckta armar. Kortet handlar om att vakna, göra bokslut och svara på en inre kallelse.",
+      "love": "I kärlek kan kortet markera en ny förståelse och förlåtelse, både av dig själv och av andra.",
+      "work": "I arbetet pekar det mot en bedömning av vägen hittills och ett möjligt skifte som känns rätt.",
+      "advice": "Lyssna till kallelsen och gör bokslut med mildhet.",
+      "element": "Eld",
+      "astro": "Eld",
+      "number": "Tjugo: uppvaknande och förnyelse"
+    },
+    {
+      "kw_up": [
+        "fullbordan",
+        "helhet",
+        "uppnådda mål",
+        "integration"
+      ],
+      "kw_rev": [
+        "ofullbordat",
+        "sista steget saknas",
+        "uppskjutande",
+        "stagnation"
+      ],
+      "about": "En dansare svävar i en lövkrans, omgiven av gestalterna från de fyra hörnen: en ängel, en örn, en oxe och ett lejon. Kortet markerar en cirkel som sluts och en ny som kan öppnas.",
+      "love": "I kärlek handlar det om helhet och tillfredsställelse, och om att två livsvägar kan finna sin takt.",
+      "work": "I arbetet markerar kortet att en väg fullbordas och att det som uppnåtts erkänns, innan nästa kapitel.",
+      "advice": "Ta dig tid att fira det du har fullbordat.",
+      "element": "Jord",
+      "astro": "Saturnus",
+      "number": "Tjugoett: fullbordan och helhet"
+    },
+    {
+      "kw_up": [
+        "ny inspiration",
+        "gnista",
+        "drivkraft",
+        "möjlighet"
+      ],
+      "kw_rev": [
+        "fördröjning",
+        "bristande drivkraft",
+        "förlorad gnista",
+        "uppskjuten start"
+      ],
+      "about": "En hand sträcker fram en grönskande stav ur ett moln över ett landskap med berg och flod. Kortet är en gnista av ren energi, fröet till en idé som väntar på att tändas.",
+      "love": "I kärlek kan det vara en ny passion, en gnista eller lust att ta initiativ.",
+      "work": "I arbetet kan det betyda en ny idé eller ett projekt med kraft i sig.",
+      "advice": "Grip gnistan medan den är varm.",
+      "element": "Eld",
+      "astro": "Roten till Eld: elementets rena kraft",
+      "number": "Ett: frö och begynnelse"
+    },
+    {
+      "kw_up": [
+        "planering",
+        "val",
+        "överblick",
+        "mod"
+      ],
+      "kw_rev": [
+        "rädsla för det okända",
+        "dålig planering",
+        "tvekan",
+        "att stanna kvar i det välbekanta"
+      ],
+      "about": "En man står på en borgmur med en glaskula i handen och en stav bredvid sig och blickar ut över havet. Kortet handlar om att välja nästa mål och sikta längre än idag.",
+      "love": "I kärlek kan kortet fråga vad du önskar dig framöver och bjuda in till att dela dina planer.",
+      "work": "I arbetet handlar det om att planera, väga alternativ och våga sikta längre.",
+      "advice": "Se framåt och välj riktning.",
+      "element": "Eld",
+      "astro": "Mars i Väduren",
+      "number": "Två: val och dualitet"
+    },
+    {
+      "kw_up": [
+        "utvidgning",
+        "framsteg",
+        "utsikt",
+        "första resultat"
+      ],
+      "kw_rev": [
+        "hinder",
+        "förseningar",
+        "grusade förväntningar",
+        "tålamod krävs"
+      ],
+      "about": "En man står på en klippa med ryggen vänd och blickar ut över ett hav där fartyg seglar iväg, stödd på en stav med ytterligare två stavar planterade bredvid sig. Kortet visar att tidigare ansträngningar börjar bära de första frukterna.",
+      "love": "I kärlek kan det betyda att se framåt mot något större tillsammans, eller att vänta på att en samhörighet ska växa.",
+      "work": "I arbetet pekar det mot expansion, samarbete över gränser eller att tidigare insatser börjar ge resultat.",
+      "advice": "Håll utkik och lita på det du har sått.",
+      "element": "Eld",
+      "astro": "Solen i Väduren",
+      "number": "Tre: växt och uttryck"
+    },
+    {
+      "kw_up": [
+        "firande",
+        "hem",
+        "trygghet",
+        "gemenskap"
+      ],
+      "kw_rev": [
+        "oro hemma",
+        "brist på gemenskap",
+        "upplösning",
+        "ovisshet"
+      ],
+      "about": "Fyra stavar bildar en blommande båge med en krans ovanför, och människor firar i förgrunden framför ett slott. Kortet handlar om en trygg hamn och glädjen i att nå en första ankarplats.",
+      "love": "I kärlek handlar det om trygghet, firande och hemmahörighet.",
+      "work": "I arbetet kan det peka mot en milstolpe eller ett gott samarbetsklimat.",
+      "advice": "Stanna upp och fira det som byggts.",
+      "element": "Eld",
+      "astro": "Venus i Väduren",
+      "number": "Fyra: stabilitet och grundmur"
+    },
+    {
+      "kw_up": [
+        "konkurrens",
+        "oenighet",
+        "oordning",
+        "prövning"
+      ],
+      "kw_rev": [
+        "konfliktundvikande",
+        "enighet",
+        "avslutad strid",
+        "inre spänning"
+      ],
+      "about": "Fem unga män svingar stavar mot varandra i ett kaotiskt och energiskt spel. Kortet handlar om friktion, kapplöpning och olika åsikter som stöter ihop.",
+      "love": "I kärlek kan det visa på meningsskiljaktigheter eller olika behov. Konstruktiv dialog kan göra skillnaden.",
+      "work": "I arbetet kan det gälla konkurrens eller olika idéer som behöver hanteras.",
+      "advice": "Låt olikheterna utmana dig, inte splittra dig.",
+      "element": "Eld",
+      "astro": "Saturnus i Lejonet",
+      "number": "Fem: utmaning och instabilitet"
+    },
+    {
+      "kw_up": [
+        "seger",
+        "erkännande",
+        "självförtroende",
+        "framsteg"
+      ],
+      "kw_rev": [
+        "självtvivel",
+        "uteblivet erkännande",
+        "fall",
+        "förödmjukelse"
+      ],
+      "about": "En ryttare på vit häst bär en lagerkrans på sin stav medan folk jublar runt honom. Kortet visar stolthet efter att ha lyckats och glädjen i att bli sedd.",
+      "love": "I kärlek kan det gälla självförtroende och erkännande, och att dela glädjen över det som uppnåtts.",
+      "work": "I arbetet kan det peka mot en framgång eller ett gott resultat som uppmärksammas.",
+      "advice": "Ta emot erkännandet, men håll fötterna på jorden.",
+      "element": "Eld",
+      "astro": "Jupiter i Lejonet",
+      "number": "Sex: harmoni och erkännande"
+    },
+    {
+      "kw_up": [
+        "försvar",
+        "uthållighet",
+        "ståndpunkt",
+        "mod"
+      ],
+      "kw_rev": [
+        "överväldigande",
+        "att ge upp",
+        "tillbakadragenhet",
+        "utmattning"
+      ],
+      "about": "En man står på en kulle och försvarar sig med en stav mot sex andra som kommer nerifrån. Kortet handlar om att stå fast vid det man tror på.",
+      "love": "I kärlek handlar det om att stå upp för sina egna gränser och värderingar.",
+      "work": "I arbetet kan det visa på press utifrån och behovet av att hålla fast vid sin position.",
+      "advice": "Stå för det du anser, utan att lägga all kraft på striden.",
+      "element": "Eld",
+      "astro": "Mars i Lejonet",
+      "number": "Sju: prövning och ståndaktighet"
+    },
+    {
+      "kw_up": [
+        "fart",
+        "framåtrörelse",
+        "snabb handling",
+        "nyheter"
+      ],
+      "kw_rev": [
+        "förseningar",
+        "brådska",
+        "frustration",
+        "stopp"
+      ],
+      "about": "Åtta stavar flyger genom luften över ett landskap utan människor. Kortet handlar om fart, rörelse och saker som sker snabbt.",
+      "love": "I kärlek kan det betyda snabb kontakt eller en utveckling som tar fart, och ett behov av att kontrollera att känslorna hänger med.",
+      "work": "I arbetet kan det tala om nyheter, resor eller projekt som plötsligt tar fart.",
+      "advice": "Utnyttja farten, men håll överblicken.",
+      "element": "Eld",
+      "astro": "Merkurius i Skytten",
+      "number": "Åtta: rörelse och framåtrörelse"
+    },
+    {
+      "kw_up": [
+        "uthållighet",
+        "motståndskraft",
+        "vaksamhet",
+        "sista insats"
+      ],
+      "kw_rev": [
+        "utmattning",
+        "paranoia",
+        "att ge upp",
+        "sårbarhet"
+      ],
+      "about": "En bandagerad man lutar sig mot en stav framför åtta andra som står som en mur bakom honom. Kortet handlar om att stå emot efter lång strid och samla de sista krafterna.",
+      "love": "I kärlek kan det visa på försiktighet efter tidigare sår och tålmodig tillit.",
+      "work": "I arbetet handlar det om uthållighet och att slutföra även när du är trött.",
+      "advice": "Håll ut lite till, och kom ihåg att vila.",
+      "element": "Eld",
+      "astro": "Månen i Skytten",
+      "number": "Nio: nästan fullbordat, uthållighet"
+    },
+    {
+      "kw_up": [
+        "börda",
+        "ansvar",
+        "slit",
+        "fullbordan"
+      ],
+      "kw_rev": [
+        "att lägga ner bördan",
+        "delegering",
+        "sammanbrott",
+        "överbelastning"
+      ],
+      "about": "En man bär tio stavar i famnen mot en stad i fjärran, böjd under tyngden. Kortet handlar om ansvar som vuxit sig tungt och om vad vi tar på oss.",
+      "love": "I kärlek kan det visa att du bär för mycket ensam och att delande skulle lätta bördan.",
+      "work": "I arbetet handlar det om arbetsbelastning och behovet av att prioritera eller be om hjälp.",
+      "advice": "Se vad du kan lägga ner eller dela.",
+      "element": "Eld",
+      "astro": "Saturnus i Skytten",
+      "number": "Tio: överbelastning och fullbordan"
+    },
+    {
+      "kw_up": [
+        "nyfikenhet",
+        "entusiasm",
+        "nyheter",
+        "utforskande"
+      ],
+      "kw_rev": [
+        "otålighet",
+        "splittring",
+        "uteblivna nyheter",
+        "brådska"
+      ],
+      "about": "En ung budbärare står i en öken med en blommande stav och betraktar den. Kortet står för ung gnista, lekfullhet och nyfikenhet.",
+      "love": "I kärlek kan det vara entusiasm, flört eller nya möjligheter.",
+      "work": "I arbetet kan det gälla en ny idé eller ett lärande som ger energi.",
+      "advice": "Gör något lekfullt och var öppen för det nya.",
+      "element": "Eld",
+      "astro": "Jord i Eld (elementtradition)",
+      "number": "Page: budbärare och nybörjare"
+    },
+    {
+      "kw_up": [
+        "äventyrslust",
+        "handlingskraft",
+        "karisma",
+        "fart"
+      ],
+      "kw_rev": [
+        "hetlevrad",
+        "rastlöshet",
+        "otålighet",
+        "nyckfullhet"
+      ],
+      "about": "En riddare på en stegrande häst bär en stav i en ökenlik scen. Kortet står för djärv energi, resglädje och iver att erövra nya mål.",
+      "love": "I kärlek kan det vara passion och spänning, men också ett behov av att hålla kursen.",
+      "work": "I arbetet handlar det om företagsamhet och fart, ofta med behov av uthållighet.",
+      "advice": "Kanalisera din iver åt ett håll.",
+      "element": "Eld",
+      "astro": "Eld i Eld (elementtradition)",
+      "number": "Riddare: rörelse och handling"
+    },
+    {
+      "kw_up": [
+        "självförtroende",
+        "värme",
+        "karisma",
+        "oberoende"
+      ],
+      "kw_rev": [
+        "svartsjuka",
+        "krävande",
+        "oberäknelighet",
+        "osäkerhet"
+      ],
+      "about": "En krönt kvinna sitter på en tron med en solros och en svart katt vid fötterna och håller en stav. Kortet står för varm självsäkerhet och skapande kraft.",
+      "love": "I kärlek kan kortet gälla generös värme och en önskan att bli sedd som den du är.",
+      "work": "I arbetet handlar det om karisma, ledarskap och att inspirera andra.",
+      "advice": "Var dig själv med värme och låt andra se det.",
+      "element": "Eld",
+      "astro": "Vatten i Eld (elementtradition)",
+      "number": "Drottning: mognad och inre kraft"
+    },
+    {
+      "kw_up": [
+        "vision",
+        "ledarskap",
+        "mod",
+        "inspiration"
+      ],
+      "kw_rev": [
+        "dominans",
+        "hetlevrad",
+        "orealistiskt",
+        "självcentrering"
+      ],
+      "about": "En krönt man sitter på en tron dekorerad med lejon och salamandrar, med en blommande stav i handen. Kortet står för en ledare med eldsjäl och långsiktiga visioner.",
+      "love": "I kärlek kan det betyda en trygg och varm partner, eller att du själv tar ledarrollen.",
+      "work": "I arbetet handlar det om att se de stora linjerna och inspirera andra.",
+      "advice": "Led med vision och låt andra växa.",
+      "element": "Eld",
+      "astro": "Luft i Eld (elementtradition)",
+      "number": "Kung: mästerskap och ansvar"
+    },
+    {
+      "kw_up": [
+        "ny kärlek",
+        "känslor",
+        "medkänsla",
+        "öppenhet"
+      ],
+      "kw_rev": [
+        "känslomässig blockering",
+        "förträngda känslor",
+        "tomhet",
+        "slutenhet"
+      ],
+      "about": "En hand sträcker fram en överfull bägare ur ett moln, medan en duva släpper ner en oblat och vatten strömmar till en damm med liljor. Kortet handlar om ett flöde av känslor och att ge dem plats.",
+      "love": "I kärlek kan det vara en ny början, djupare hjärtekontakt eller en ny förståelse.",
+      "work": "I arbetet kan det handla om arbete som ger mening och känslomässigt engagemang.",
+      "advice": "Öppna hjärtat och låt det flöda.",
+      "element": "Vatten",
+      "astro": "Roten till Vatten: elementets rena kraft",
+      "number": "Ett: frö och begynnelse"
+    },
+    {
+      "kw_up": [
+        "förening",
+        "ömsesidighet",
+        "dragningskraft",
+        "partnerskap"
+      ],
+      "kw_rev": [
+        "brytning",
+        "obalans",
+        "oenighet",
+        "missförstånd"
+      ],
+      "about": "Ett par byter bägare, med ett bevingat lejon ovanför och en orm kring en stav bakom. Kortet handlar om ömsesidig respekt och kärlek mellan två.",
+      "love": "I kärlek är det ett av korten för ömsesidighet och ett möte på lika villkor.",
+      "work": "I arbetet kan det visa på gott samarbete eller en överenskommelse mellan jämlikar.",
+      "advice": "Möt den andre med öppenhet och respekt.",
+      "element": "Vatten",
+      "astro": "Venus i Kräftan",
+      "number": "Två: förening och partnerskap"
+    },
+    {
+      "kw_up": [
+        "vänskap",
+        "firande",
+        "glädje",
+        "gemenskap"
+      ],
+      "kw_rev": [
+        "överdrift",
+        "skvaller",
+        "isolering",
+        "utanförskap"
+      ],
+      "about": "Tre kvinnor lyfter sina bägare i en dans, med frukter vid fötterna. Kortet handlar om glädje och delat firande.",
+      "love": "I kärlek handlar det om vänskap, lek och samvaro.",
+      "work": "I arbetet kan det visa på gott lagarbete och stämning.",
+      "advice": "Dela glädjen med dem du älskar.",
+      "element": "Vatten",
+      "astro": "Merkurius i Kräftan",
+      "number": "Tre: växt och uttryck"
+    },
+    {
+      "kw_up": [
+        "apati",
+        "eftertanke",
+        "missnöje",
+        "paus"
+      ],
+      "kw_rev": [
+        "nya möjligheter",
+        "motivation",
+        "uppvaknande",
+        "att se erbjudandet"
+      ],
+      "about": "En man sitter under ett träd med armarna i kors och betraktar tre bägare, medan en hand ur ett moln erbjuder en fjärde. Kortet handlar om att förbise det som erbjuds därför att man grubblar.",
+      "love": "I kärlek kan det visa på leda eller obesvarad längtan, och ett behov av att se över vad du faktiskt vill.",
+      "work": "I arbetet kan det gälla bristande drivkraft och tid att överväga.",
+      "advice": "Lyft blicken och se vad som faktiskt erbjuds.",
+      "element": "Vatten",
+      "astro": "Månen i Kräftan",
+      "number": "Fyra: stillastående och begrundan"
+    },
+    {
+      "kw_up": [
+        "sorg",
+        "förlust",
+        "ånger",
+        "känslomässigt uppgörande"
+      ],
+      "kw_rev": [
+        "förlåtelse",
+        "att gå vidare",
+        "acceptans",
+        "läkning"
+      ],
+      "about": "En mantelklädd gestalt ser ner på tre vältade bägare, medan två står upprätta bakom. Kortet handlar om sorg och om att inte glömma det som fortfarande står kvar.",
+      "love": "I kärlek kan det visa på sorg eller besvikelse, och att se vad som fortfarande finns kvar.",
+      "work": "I arbetet handlar det om att hantera motgångar och hitta en ny väg.",
+      "advice": "Ge sorgen utrymme, och se också det som står kvar.",
+      "element": "Vatten",
+      "astro": "Mars i Skorpionen",
+      "number": "Fem: förlust och utmaning"
+    },
+    {
+      "kw_up": [
+        "nostalgi",
+        "barndom",
+        "vänlighet",
+        "återförening"
+      ],
+      "kw_rev": [
+        "att fastna i det förflutna",
+        "orealistiska minnen",
+        "mognad",
+        "att gå vidare"
+      ],
+      "about": "Två barn delar blommor på en gammal gårdsplan fylld av bägare. Kortet handlar om minnen och oskuldsfull vänlighet.",
+      "love": "I kärlek kan det vara en återförening, ömhet eller gamla band som väcks.",
+      "work": "I arbetet kan det gälla samarbete med bekanta eller att återvända till något välbekant.",
+      "advice": "Hämta värme ur minnena, men lev i nuet.",
+      "element": "Vatten",
+      "astro": "Solen i Skorpionen",
+      "number": "Sex: harmoni och ömsesidig gåva"
+    },
+    {
+      "kw_up": [
+        "fantasi",
+        "val",
+        "drömmar",
+        "illusioner"
+      ],
+      "kw_rev": [
+        "klarhet",
+        "beslut",
+        "realism",
+        "att välja"
+      ],
+      "about": "En gestalt betraktar sju bägare fyllda med olika symboler som svävar i moln. Kortet handlar om fantasi och många möjligheter som behöver sorteras.",
+      "love": "I kärlek kan det gälla dagdrömmar eller många alternativ och ett behov av att bli tydlig med vad du vill.",
+      "work": "I arbetet handlar det om att välja bland flera möjligheter och skilja dröm från plan.",
+      "advice": "Skilj dröm från plan och välj ett.",
+      "element": "Vatten",
+      "astro": "Venus i Skorpionen",
+      "number": "Sju: valmöjligheter och fantasi"
+    },
+    {
+      "kw_up": [
+        "avsked",
+        "att gå vidare",
+        "sökande",
+        "djupare mening"
+      ],
+      "kw_rev": [
+        "att stanna kvar",
+        "rädsla för att gå",
+        "att fortsätta i det välbekanta",
+        "beroende"
+      ],
+      "about": "En gestalt går bort från åtta uppställda bägare mot bergen under månen. Kortet handlar om att lämna något gott nog bakom sig och söka djupare.",
+      "love": "I kärlek kan det vara en insikt om att något inte längre ger näring.",
+      "work": "I arbetet handlar det om att byta riktning för att hitta mer mening.",
+      "advice": "Våga gå mot det som ger mer mening.",
+      "element": "Vatten",
+      "astro": "Saturnus i Fiskarna",
+      "number": "Åtta: förändring och sökande"
+    },
+    {
+      "kw_up": [
+        "tillfredsställelse",
+        "njutning",
+        "tacksamhet",
+        "uppfyllelse"
+      ],
+      "kw_rev": [
+        "girighet",
+        "självbelåtenhet",
+        "ytlighet",
+        "ouppfylld"
+      ],
+      "about": "En man sitter nöjd med armarna i kors framför nio bägare på en hylla. Kortet är känt som önskekortet och handlar om att glädjas åt det man har.",
+      "love": "I kärlek handlar det om tillfredsställelse och glädje i det som är.",
+      "work": "I arbetet kan det visa på goda resultat och nöjdhet med insatsen.",
+      "advice": "Njut av det du har och var tacksam.",
+      "element": "Vatten",
+      "astro": "Jupiter i Fiskarna",
+      "number": "Nio: uppfyllelse och njutning"
+    },
+    {
+      "kw_up": [
+        "familjeglädje",
+        "harmoni",
+        "tillhörighet",
+        "fullbordan"
+      ],
+      "kw_rev": [
+        "oro i familjen",
+        "brutna relationer",
+        "oenighet",
+        "orealistiska ideal"
+      ],
+      "about": "Ett par står med armarna lyfta mot en regnbåge av tio bägare, medan barn leker framför ett hem. Kortet handlar om lycka i gemenskap och tillhörighet.",
+      "love": "I kärlek handlar det om harmoni, trygghet och gemensamma värderingar.",
+      "work": "I arbetet kan det visa på en god arbetsmiljö och gemensamma mål.",
+      "advice": "Värdesätt gemenskapen du är en del av.",
+      "element": "Vatten",
+      "astro": "Mars i Fiskarna",
+      "number": "Tio: fullbordan och harmoni"
+    },
+    {
+      "kw_up": [
+        "känslighet",
+        "kreativitet",
+        "öppenhet",
+        "drömmar"
+      ],
+      "kw_rev": [
+        "omognad",
+        "känslomässig instabilitet",
+        "verklighetsflykt",
+        "sårbarhet"
+      ],
+      "about": "En ung person står vid havet och betraktar en fisk som sticker upp huvudet ur en bägare. Kortet står för ett ömt sinne och kreativa impulser.",
+      "love": "I kärlek kan det vara en ny känsla, ett romantiskt meddelande eller varsam öppenhet.",
+      "work": "I arbetet kan det gälla kreativa idéer eller intuitiva infall.",
+      "advice": "Ta emot en ny känsla med nyfikenhet.",
+      "element": "Vatten",
+      "astro": "Jord i Vatten (elementtradition)",
+      "number": "Page: budbärare och nybörjare"
+    },
+    {
+      "kw_up": [
+        "romantik",
+        "charm",
+        "erbjudanden",
+        "ideal"
+      ],
+      "kw_rev": [
+        "humörsvängningar",
+        "orealistiska förväntningar",
+        "svek",
+        "ytlighet"
+      ],
+      "about": "En riddare på en lugn vit häst bär en bägare genom ett fridfullt landskap. Kortet står för en romantisk själ som följer hjärtat.",
+      "love": "I kärlek handlar det om att vara öppen och komma med förslag, och att följa upp ord med handling.",
+      "work": "I arbetet kan det gälla ett erbjudande, en inbjudan eller ett idealistiskt projekt.",
+      "advice": "Följ hjärtat, men se till att det kommer fram till något.",
+      "element": "Vatten",
+      "astro": "Eld i Vatten (elementtradition)",
+      "number": "Riddare: rörelse och handling"
+    },
+    {
+      "kw_up": [
+        "empati",
+        "intuition",
+        "omsorg",
+        "djup"
+      ],
+      "kw_rev": [
+        "känslomässig översvämning",
+        "beroende",
+        "tillbakadragenhet",
+        "osäkerhet"
+      ],
+      "about": "En krönt kvinna sitter vid havet och betraktar en utsmyckad bägare. Kortet står för känslomässigt djup och förståelse.",
+      "love": "I kärlek handlar det om omsorg, intuition och att lyssna på känslor.",
+      "work": "I arbetet kan det gälla lyhördhet för kollegor, mentorskap eller omsorgsyrken.",
+      "advice": "Lyssna på dina känslor utan att drunkna i dem.",
+      "element": "Vatten",
+      "astro": "Vatten i Vatten (elementtradition)",
+      "number": "Drottning: mognad och inre kraft"
+    },
+    {
+      "kw_up": [
+        "känslomässig balans",
+        "medkänsla",
+        "visdom",
+        "diplomati"
+      ],
+      "kw_rev": [
+        "humörsvängningar",
+        "kyla",
+        "manipulation",
+        "förtryck"
+      ],
+      "about": "En krönt man sitter på en tron mitt i ett oroligt hav och håller en bägare. Kortet står för en ledare som håller känslorna lugna.",
+      "love": "I kärlek handlar det om mognad, stöd och känslomässig trygghet.",
+      "work": "I arbetet kan det gälla rådgivning, empatiskt ledarskap och diplomati.",
+      "advice": "Behåll lugnet mitt bland vågorna.",
+      "element": "Vatten",
+      "astro": "Luft i Vatten (elementtradition)",
+      "number": "Kung: mästerskap och ansvar"
+    },
+    {
+      "kw_up": [
+        "klarhet",
+        "sanning",
+        "genombrott",
+        "ny insikt"
+      ],
+      "kw_rev": [
+        "förvirring",
+        "oklarhet",
+        "hårdhet",
+        "mental blockering"
+      ],
+      "about": "En hand sträcker fram ett svärd ur ett moln, krönt med en krans, över branta berg. Kortet handlar om tankens kraft och klarhet som skär genom dimman.",
+      "love": "I kärlek kan det betyda ett ärligt samtal och en ny insikt i en relation.",
+      "work": "I arbetet kan det vara en banbrytande idé eller en tydlig ståndpunkt.",
+      "advice": "Låt sanningen komma fram på ett vänligt sätt.",
+      "element": "Luft",
+      "astro": "Roten till Luft: elementets rena kraft",
+      "number": "Ett: frö och begynnelse"
+    },
+    {
+      "kw_up": [
+        "dilemma",
+        "paus",
+        "balans",
+        "beslutsvägran"
+      ],
+      "kw_rev": [
+        "förvirring",
+        "information avslöjas",
+        "obeslutsamhet",
+        "spänning"
+      ],
+      "about": "En kvinna med förbundna ögon sitter med två svärd i kors framför ett lugnt hav. Kortet handlar om ett svårt avgörande och en ovilja att se.",
+      "love": "I kärlek kan det visa på en baklås där känslor och tankar står i konflikt.",
+      "work": "I arbetet handlar det om ett val som kräver mer information eller mod.",
+      "advice": "Ta av ögonbindeln när du är redo.",
+      "element": "Luft",
+      "astro": "Månen i Vågen",
+      "number": "Två: val och dualitet"
+    },
+    {
+      "kw_up": [
+        "sorg",
+        "hjärtesorg",
+        "smärta",
+        "sanning"
+      ],
+      "kw_rev": [
+        "läkning",
+        "förlåtelse",
+        "att släppa smärtan",
+        "gradvis förbättring"
+      ],
+      "about": "Tre svärd genomborrar ett rött hjärta under regn och moln. Kortet handlar om smärtsam sanning och förlusten som följer med den.",
+      "love": "I kärlek kan det visa på sorg och brytning, och att det är tillåtet att känna efter.",
+      "work": "I arbetet handlar det om besvikelser och hård återkoppling som kan lära dig något.",
+      "advice": "Tillåt dig att känna det som gör ont.",
+      "element": "Luft",
+      "astro": "Saturnus i Vågen",
+      "number": "Tre: växt och uttryck, här genom smärta"
+    },
+    {
+      "kw_up": [
+        "vila",
+        "ro",
+        "återhämtning",
+        "eftertanke"
+      ],
+      "kw_rev": [
+        "oro",
+        "utmattning",
+        "återgång till aktivitet",
+        "rastlöshet"
+      ],
+      "about": "En riddare vilar på en grav med tre svärd på väggen och ett under sig. Kortet handlar om paus och påfyllning efter en krävande tid.",
+      "love": "I kärlek kan det visa på ett behov av stillhet och avstånd för att samla sig.",
+      "work": "I arbetet handlar det om att vila för att kunna tänka klart.",
+      "advice": "Ge dig själv lov att vila.",
+      "element": "Luft",
+      "astro": "Jupiter i Vågen",
+      "number": "Fyra: stabilitet och vila"
+    },
+    {
+      "kw_up": [
+        "konflikt",
+        "nederlag",
+        "seger med pris",
+        "egoism"
+      ],
+      "kw_rev": [
+        "försoning",
+        "ånger",
+        "gammal konflikt",
+        "att släppa taget"
+      ],
+      "about": "En man samlar ihop svärd medan två andra går bort i skam. Kortet handlar om konflikt där segern kan kosta mer än den smakar.",
+      "love": "I kärlek kan det visa på en konflikt där båda sidor kan förlora, och frågan är vad som egentligen är värt striden.",
+      "work": "I arbetet kan det handla om oenighet och vem som vinner, till vilket pris.",
+      "advice": "Välj dina strider med omsorg.",
+      "element": "Luft",
+      "astro": "Venus i Vattumannen",
+      "number": "Fem: utmaning och oro"
+    },
+    {
+      "kw_up": [
+        "övergång",
+        "att gå vidare",
+        "ro efter stormen",
+        "resa"
+      ],
+      "kw_rev": [
+        "stagnation",
+        "motstånd mot att gå",
+        "olösta saker",
+        "återvändo"
+      ],
+      "about": "En kvinna och ett barn korsar vattnet i en båt med sex svärd, mot lugnt vatten. Kortet handlar om att lämna svåra vatten bakom sig.",
+      "love": "I kärlek kan det vara en övergång till något lugnare, med något att bära med sig.",
+      "work": "I arbetet handlar det om skifte, flytt eller att ta sig vidare från en krävande fas.",
+      "advice": "Rör dig mot lugnare vatten i din egen takt.",
+      "element": "Luft",
+      "astro": "Merkurius i Vattumannen",
+      "number": "Sex: harmoni och övergång"
+    },
+    {
+      "kw_up": [
+        "list",
+        "strategi",
+        "hemlighet",
+        "undvikande"
+      ],
+      "kw_rev": [
+        "att bli upptäckt",
+        "ärlighet",
+        "samvete",
+        "att erkänna"
+      ],
+      "about": "En man smyger från ett läger med fem svärd medan två blir kvar. Kortet handlar om att gå försiktigt fram, och om vad vi undviker att säga.",
+      "love": "I kärlek kan kortet påminna om ärlighet, och om att se efter om det finns hemligheter.",
+      "work": "I arbetet kan det gälla taktik eller att gå sin egen väg, och frågan om vad som är rätt.",
+      "advice": "Var öppen med det du gör.",
+      "element": "Luft",
+      "astro": "Månen i Vattumannen",
+      "number": "Sju: bedömning och list"
+    },
+    {
+      "kw_up": [
+        "begränsning",
+        "fastlåsthet",
+        "rädsla",
+        "självpåtagna gränser"
+      ],
+      "kw_rev": [
+        "befrielse",
+        "nya perspektiv",
+        "att se vägen ut",
+        "mod"
+      ],
+      "about": "En kvinna står bunden och med förbundna ögon omgiven av åtta svärd i vatten. Kortet handlar om att känna sig fången, fastän vägen ut ofta är öppnare än den ser ut.",
+      "love": "I kärlek kan det visa på begränsande tankar om dig själv eller relationen.",
+      "work": "I arbetet handlar det om att se möjligheter även när du känner dig låst.",
+      "advice": "Se om gränserna är lika fasta som de verkar.",
+      "element": "Luft",
+      "astro": "Jupiter i Tvillingarna",
+      "number": "Åtta: begränsning och rörelse"
+    },
+    {
+      "kw_up": [
+        "oro",
+        "ångest",
+        "sömnlöshet",
+        "grubblande"
+      ],
+      "kw_rev": [
+        "lättnad",
+        "att dela bördan",
+        "hopp",
+        "att söka hjälp"
+      ],
+      "about": "En person sitter upp i sängen med händerna för ansiktet och nio svärd på väggen bakom. Kortet handlar om tunga tankar mitt i natten.",
+      "love": "I kärlek kan det vara bekymmer som växer i tystnad, och ett behov av att prata om dem.",
+      "work": "I arbetet handlar det om stress och tankar som snurrar, och att be om stöd.",
+      "advice": "Dela oron med någon du litar på.",
+      "element": "Luft",
+      "astro": "Mars i Tvillingarna",
+      "number": "Nio: oro och intensitet"
+    },
+    {
+      "kw_up": [
+        "botten",
+        "avslut",
+        "slut",
+        "nytt ljus"
+      ],
+      "kw_rev": [
+        "att resa sig",
+        "återhämtning",
+        "motstånd mot att avsluta",
+        "dramatik"
+      ],
+      "about": "En gestalt ligger med tio svärd i ryggen medan soluppgången lyser över havet. Kortet handlar om ett smärtsamt avslut och morgonen som ändå kommer.",
+      "love": "I kärlek kan det vara ett avslut som skapar utrymme för något nytt.",
+      "work": "I arbetet kan det visa på slutet av en tung period.",
+      "advice": "Det värsta ligger bakom dig, och ljuset återvänder.",
+      "element": "Luft",
+      "astro": "Solen i Tvillingarna",
+      "number": "Tio: fullbordan och botten"
+    },
+    {
+      "kw_up": [
+        "nyfikenhet",
+        "observation",
+        "idéer",
+        "lärande"
+      ],
+      "kw_rev": [
+        "skvaller",
+        "vass tunga",
+        "ytlighet",
+        "impulsivitet"
+      ],
+      "about": "En ung person står med ett lyft svärd i vind och under moln. Kortet står för skarpa frågor och iver att lära.",
+      "love": "I kärlek kan det vara samtal och nyfikenhet på varandra.",
+      "work": "I arbetet kan det gälla lärande, information och nya perspektiv.",
+      "advice": "Ställ frågor och lyssna.",
+      "element": "Luft",
+      "astro": "Jord i Luft (elementtradition)",
+      "number": "Page: budbärare och nybörjare"
+    },
+    {
+      "kw_up": [
+        "fart",
+        "mod",
+        "handlingskraft",
+        "ambition"
+      ],
+      "kw_rev": [
+        "brådska",
+        "kritik",
+        "otålighet",
+        "oförsiktighet"
+      ],
+      "about": "En riddare galopperar mot vinden med lyft svärd. Kortet står för snabb tanke och handlingskraft.",
+      "love": "I kärlek kan det vara direkt kommunikation och ett behov av att förstå båda sidor.",
+      "work": "I arbetet handlar det om ambition och effektivitet.",
+      "advice": "Tänk efter innan du slår till.",
+      "element": "Luft",
+      "astro": "Eld i Luft (elementtradition)",
+      "number": "Riddare: rörelse och handling"
+    },
+    {
+      "kw_up": [
+        "klarhet",
+        "oberoende",
+        "ärlighet",
+        "erfarenhet"
+      ],
+      "kw_rev": [
+        "kall kritik",
+        "bitterhet",
+        "isolering",
+        "hårdhet"
+      ],
+      "about": "En krönt kvinna sitter ensam på en tron med ett svärd och en utsträckt hand. Kortet står för klarsyn och tydlig kommunikation.",
+      "love": "I kärlek handlar det om ärlighet och tydliga gränser.",
+      "work": "I arbetet kan det gälla analytiskt omdöme och tydligt tal.",
+      "advice": "Var klar och ärlig, men med värme.",
+      "element": "Luft",
+      "astro": "Vatten i Luft (elementtradition)",
+      "number": "Drottning: mognad och inre kraft"
+    },
+    {
+      "kw_up": [
+        "intellekt",
+        "rättvisa",
+        "auktoritet",
+        "klart tänkande"
+      ],
+      "kw_rev": [
+        "kall makt",
+        "manipulation",
+        "hårdhet",
+        "orättvisa"
+      ],
+      "about": "En krönt man sitter på en tron med ett lyft svärd, under en himmel med moln och vindar. Kortet står för tanke, lag och rättvisa.",
+      "love": "I kärlek handlar det om tydlig kommunikation och rättvis behandling.",
+      "work": "I arbetet kan det gälla fackmässig tyngd och bedömningar.",
+      "advice": "Använd tanken för att skapa rättvisa.",
+      "element": "Luft",
+      "astro": "Luft i Luft (elementtradition)",
+      "number": "Kung: mästerskap och ansvar"
+    },
+    {
+      "kw_up": [
+        "ny möjlighet",
+        "trygghet",
+        "frö",
+        "materiell början"
+      ],
+      "kw_rev": [
+        "förlorad möjlighet",
+        "dålig planering",
+        "osäkerhet",
+        "uppskjutet"
+      ],
+      "about": "En hand sträcker fram ett guldmynt ur ett moln över en trädgård med en blombåge. Kortet handlar om ett konkret frö till något som kan växa.",
+      "love": "I kärlek kan det vara en ny, jordnära början, något som känns tryggt.",
+      "work": "I arbetet kan det vara ett nytt jobb, en idé eller en konkret möjlighet som kan slå rot.",
+      "advice": "Plantera fröet och ta hand om det.",
+      "element": "Jord",
+      "astro": "Roten till Jord: elementets rena kraft",
+      "number": "Ett: frö och begynnelse"
+    },
+    {
+      "kw_up": [
+        "balans",
+        "anpassning",
+        "flexibilitet",
+        "prioritering"
+      ],
+      "kw_rev": [
+        "obalans",
+        "överbelastning",
+        "oorganiserat",
+        "förlorad överblick"
+      ],
+      "about": "En man jonglerar två mynt förbundna av ett oändlighetstecken medan skepp guppar på vågorna bakom. Kortet handlar om att hålla flera saker i rörelse.",
+      "love": "I kärlek handlar det om att balansera tid och energi.",
+      "work": "I arbetet handlar det om flexibilitet och prioritering.",
+      "advice": "Hitta rytmen och prioritera.",
+      "element": "Jord",
+      "astro": "Jupiter i Stenbocken",
+      "number": "Två: balans och dualitet"
+    },
+    {
+      "kw_up": [
+        "samarbete",
+        "hantverk",
+        "lärande",
+        "lagarbete"
+      ],
+      "kw_rev": [
+        "oenighet",
+        "dåligt samarbete",
+        "ofullbordat",
+        "slarv"
+      ],
+      "about": "En hantverkare arbetar i en kyrka medan två andra betraktar ritningen. Kortet handlar om samarbete och kvalitet.",
+      "love": "I kärlek kan det visa på att bygga något tillsammans steg för steg.",
+      "work": "I arbetet handlar det om skicklighet, samarbete och återkoppling.",
+      "advice": "Bygg tillsammans och lyssna på dem som kan mer.",
+      "element": "Jord",
+      "astro": "Mars i Stenbocken",
+      "number": "Tre: växt och uttryck"
+    },
+    {
+      "kw_up": [
+        "trygghet",
+        "sparsamhet",
+        "kontroll",
+        "stabilitet"
+      ],
+      "kw_rev": [
+        "girighet",
+        "hamstring",
+        "att släppa taget",
+        "befrielse"
+      ],
+      "about": "En man sitter med mynt under fötterna och ett mynt på huvudet och håller ett mynt mot bröstet. Kortet handlar om trygghet och kontroll.",
+      "love": "I kärlek kan det visa på ett behov av kontroll och trygghet, och att öppna sig.",
+      "work": "I arbetet handlar det om stabilitet och sparsamhet.",
+      "advice": "Håll fast vid det som ger trygghet, utan att stänga in dig.",
+      "element": "Jord",
+      "astro": "Solen i Stenbocken",
+      "number": "Fyra: grund och stabilitet"
+    },
+    {
+      "kw_up": [
+        "motgång",
+        "utanförskap",
+        "oro",
+        "behov"
+      ],
+      "kw_rev": [
+        "förbättring",
+        "hjälp",
+        "en väg ut",
+        "stöd"
+      ],
+      "about": "Två gestalter går i snön förbi ett upplyst kyrkfönster. Kortet handlar om en kall period där hjälp kan vara närmare än man tror.",
+      "love": "I kärlek kan det visa på ensamhet eller en känsla av utanförskap, och att det är tillåtet att be om stöd.",
+      "work": "I arbetet handlar det om en svår period och ett behov av stöd.",
+      "advice": "Be om hjälp, den kan vara nära.",
+      "element": "Jord",
+      "astro": "Merkurius i Oxen",
+      "number": "Fem: utmaning och brist"
+    },
+    {
+      "kw_up": [
+        "generositet",
+        "delande",
+        "rättvisa",
+        "stöd"
+      ],
+      "kw_rev": [
+        "skuld",
+        "ojämlikhet",
+        "egoism",
+        "obalans"
+      ],
+      "about": "En köpman delar ut mynt medan han håller en våg, och två ber om hjälp. Kortet handlar om att ge och ta emot i balans.",
+      "love": "I kärlek handlar det om ömsesidighet i det som ges och tas.",
+      "work": "I arbetet handlar det om lön, rättvis fördelning och stöd.",
+      "advice": "Ge och ta emot med lika stora händer.",
+      "element": "Jord",
+      "astro": "Månen i Oxen",
+      "number": "Sex: harmoni och utbyte"
+    },
+    {
+      "kw_up": [
+        "tålamod",
+        "bedömning",
+        "långsiktighet",
+        "skörd"
+      ],
+      "kw_rev": [
+        "otålighet",
+        "dålig investering",
+        "uteblivet lön",
+        "frustration"
+      ],
+      "about": "En man lutar sig på en hacka och betraktar en buske med sju mynt. Kortet handlar om att vänta och bedöma frukten av arbetet.",
+      "love": "I kärlek handlar det om att låta något växa och inte pressa på.",
+      "work": "I arbetet handlar det om långsiktig insats och att bedöma resultat.",
+      "advice": "Ge det tid, och se vad du har sått.",
+      "element": "Jord",
+      "astro": "Saturnus i Oxen",
+      "number": "Sju: bedömning och tålamod"
+    },
+    {
+      "kw_up": [
+        "hantverk",
+        "övning",
+        "fokus",
+        "skicklighet"
+      ],
+      "kw_rev": [
+        "perfektionism",
+        "klumpighet",
+        "upprepning",
+        "bristande fokus"
+      ],
+      "about": "En hantverkare slår ett mynt på en stav och har sju färdiga mynt bredvid sig. Kortet handlar om flit och övning.",
+      "love": "I kärlek handlar det om insats och omsorg i det lilla.",
+      "work": "I arbetet handlar det om att utveckla färdigheter och fördjupa sig.",
+      "advice": "Öva, och låt kvaliteten växa.",
+      "element": "Jord",
+      "astro": "Solen i Jungfrun",
+      "number": "Åtta: mästerskap och utveckling"
+    },
+    {
+      "kw_up": [
+        "självständighet",
+        "överflöd",
+        "förfining",
+        "trygghet"
+      ],
+      "kw_rev": [
+        "beroende",
+        "överdriven kontroll",
+        "ensamhet",
+        "förlorad trygghet"
+      ],
+      "about": "En kvinna står i en vingård med en falk på handen och mynt omkring sig. Kortet handlar om självständighet och frukten av egen insats.",
+      "love": "I kärlek handlar det om självständighet och trygghet i sig själv.",
+      "work": "I arbetet kan det visa på en trygg position och erkänd insats.",
+      "advice": "Njut av frukten av ditt eget arbete.",
+      "element": "Jord",
+      "astro": "Venus i Jungfrun",
+      "number": "Nio: nästan fullbordat och självständighet"
+    },
+    {
+      "kw_up": [
+        "arv",
+        "familj",
+        "långsiktig trygghet",
+        "gemenskap"
+      ],
+      "kw_rev": [
+        "familjekonflikt",
+        "instabilitet",
+        "förlorade rötter",
+        "arvstvist"
+      ],
+      "about": "En gammal man sitter med en hund, och ett par och ett barn står under en port med tio mynt. Kortet handlar om släkt, hem och det som går i arv.",
+      "love": "I kärlek handlar det om långvarig trygghet och ett gemensamt liv.",
+      "work": "I arbetet handlar det om stabilitet, tradition och långsiktigt byggande.",
+      "advice": "Bygg för dem som kommer efter dig.",
+      "element": "Jord",
+      "astro": "Merkurius i Jungfrun",
+      "number": "Tio: fullbordan och arv"
+    },
+    {
+      "kw_up": [
+        "studier",
+        "jordnärhet",
+        "nyfikenhet",
+        "potential"
+      ],
+      "kw_rev": [
+        "ouppmärksamhet",
+        "förhalning",
+        "oklara mål",
+        "brist på ambition"
+      ],
+      "about": "En ung person står på en grön äng och studerar ett mynt i sina händer. Kortet står för lärlust och ett jordnära frö.",
+      "love": "I kärlek kan det vara en lugn och uppriktig början.",
+      "work": "I arbetet handlar det om lärande och praktiska steg.",
+      "advice": "Ta ett praktiskt steg i taget.",
+      "element": "Jord",
+      "astro": "Jord i Jord (elementtradition)",
+      "number": "Page: budbärare och nybörjare"
+    },
+    {
+      "kw_up": [
+        "pålitlighet",
+        "flit",
+        "tålamod",
+        "rutin"
+      ],
+      "kw_rev": [
+        "leda",
+        "envishet",
+        "tröghet",
+        "perfektionism"
+      ],
+      "about": "En riddare håller ett mynt medan han sitter på en lugn svart häst på en plöjd åker. Kortet står för stadig och grundlig insats.",
+      "love": "I kärlek handlar det om lojalitet och jämn omsorg.",
+      "work": "I arbetet handlar det om grundlighet och pålitlighet.",
+      "advice": "Håll jämn fart och gör det grundligt.",
+      "element": "Jord",
+      "astro": "Eld i Jord (elementtradition)",
+      "number": "Riddare: rörelse och handling"
+    },
+    {
+      "kw_up": [
+        "omsorg",
+        "praktisk sinnelag",
+        "generositet",
+        "trygghet"
+      ],
+      "kw_rev": [
+        "oro",
+        "materialism",
+        "överarbete",
+        "självförsummelse"
+      ],
+      "about": "En krönt kvinna sitter i en blommande trädgård med ett mynt i knät och en hare i närheten. Kortet står för praktisk omsorg och värme.",
+      "love": "I kärlek handlar det om omsorg och att skapa hemtrevnad.",
+      "work": "I arbetet handlar det om att ta hand om resurser och människor.",
+      "advice": "Ta hand om dig själv och dem runt omkring dig.",
+      "element": "Jord",
+      "astro": "Vatten i Jord (elementtradition)",
+      "number": "Drottning: mognad och inre kraft"
+    },
+    {
+      "kw_up": [
+        "stabilitet",
+        "resurser",
+        "erfarenhet",
+        "pålitligt ledarskap"
+      ],
+      "kw_rev": [
+        "envishet",
+        "snålhet",
+        "materialism",
+        "stelhet"
+      ],
+      "about": "En krönt man sitter på en tron dekorerad med tjurar, med ett mynt och en spira, i en trädgård full av druvor. Kortet står för välutvecklad trygghet och stabilt ledarskap.",
+      "love": "I kärlek handlar det om trygghet, pålitlighet och praktiskt stöd.",
+      "work": "I arbetet handlar det om stabilitet, erfarenhet och förmågan att bygga.",
+      "advice": "Bygg solitt och dela överskottet.",
+      "element": "Jord",
+      "astro": "Luft i Jord (elementtradition)",
+      "number": "Kung: mästerskap och ansvar"
+    }
+  ]
+}

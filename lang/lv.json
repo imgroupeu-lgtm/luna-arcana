@@ -1,0 +1,762 @@
+{
+ "ui": {
+  "langName": "Latviešu",
+  "aiLanguage": "Latvian",
+  "eyebrow": "Prototips · Taro",
+  "lede": "Uzdodiet jautājumu, izvēlieties izkārtojumu un velciet kārtis. Viss izkārtojums tiek parādīts kopā, un katra karte tiek skaidrota pēc savas vietas.",
+  "questionPlaceholder": "Jūsu jautājums, piemēram, „Ko man tagad vērts zināt par savu darbu?“",
+  "questionLabel": "Jūsu jautājums",
+  "reversedToggle": "Apgrieztās kārtis",
+  "drawBtn": "Vilkt kārtis",
+  "flipAll": "Apgriezt visas",
+  "chooseSpread": "Izvēlieties izkārtojumu",
+  "meaningsTitle": "Nozīmes",
+  "flipHint": "Pieskarieties kārtīm, lai tās apgrieztu, vai izvēlieties „Apgriezt visas“.",
+  "questionPrefix": "Jautājums",
+  "reversedWord": "apgriezta",
+  "reversedTag": "Apgriezta",
+  "flipCard": "Apgriezt kārti {n}",
+  "suitHint": "Masts {suit} ir saistīts ar tēmu: {theme}.",
+  "majorHint": "Lielie arkāni: svarīga dzīves tēma.",
+  "yes": "Atbilde: jā.",
+  "leanYes": "Atbilde: drīzāk jā.",
+  "no": "Atbilde: nē.",
+  "leanNo": "Atbilde: drīzāk nē.",
+  "aiNote": "Tālāk redzamās mākslīgā intelekta funkcijas darbojas tikai tad, ja lapa ir atvērta Claude vidē.",
+  "premiumChip": "Premium · prototips",
+  "aiTitle": "Visa izkārtojuma skaidrojums",
+  "aiDesc": "Mākslīgais intelekts lasa kārtis kopā pēc jūsu jautājuma: galvenā tēma, karte pa kartei, kā tās saistītas, un padoms.",
+  "aiBtn": "Skaidrot izkārtojumu",
+  "stop": "Apturēt",
+  "interpreting": "Kārtis tiek skaidrotas …",
+  "aiHeads": [
+   "Galvenā tēma",
+   "Karte pa kartei",
+   "Kā kārtis ir saistītas",
+   "Padoms"
+  ],
+  "photoTitle": "Nofotografējiet savu izkārtojumu",
+  "photoDesc": "Augšupielādējiet savu kāršu fotogrāfiju, uzņemtu tieši no augšas. Mēs atpazīstam kārtis, jūs pārbaudāt sarakstu, un tad saņemat skaidrojumu. Vislabāk tiek atpazīta Rider–Waite kāršu kava.",
+  "dropLabel": "Izvēlieties vai ievelciet attēlu",
+  "spreadOnPhoto": "Kāds izkārtojums ir attēlā",
+  "freeSpread": "Brīvs izkārtojums (nezinu)",
+  "previewAlt": "Jūsu augšupielādētais attēls",
+  "recBtn": "Atpazīt kārtis",
+  "photoInterp": "Skaidrot šo izkārtojumu",
+  "photoReady": "Attēls ir gatavs.",
+  "looking": "Aplūko attēlu …",
+  "found": "Atrastas kārtis: {n}. Pirms skaidrošanas pārbaudiet sarakstu.",
+  "noneFound": "Attēlā kārtis netika atrastas. Mēģiniet izmantot asāku attēlu, kas uzņemts tieši no augšas.",
+  "otherDeck": "Kāršu kava neizskatās pēc Rider–Waite, tāpēc pārbaudiet īpaši rūpīgi.",
+  "chooseCard": "– izvēlieties kārti –",
+  "cardN": "Karte {n}",
+  "confHigh": "droši",
+  "confMedium": "diezgan droši",
+  "confLow": "nedroši",
+  "notRecognized": "neatpazīta",
+  "footer": "Taro šajā lapā ir kultūra, pārdomas un izklaide. Tie nav medicīniski, juridiski vai finanšu padomi, un nekādi rezultāti netiek garantēti. Kārtis tiek vilktas nejauši; viena un tā pati karte vienā izkārtojumā nekad neatkārtojas. Iepriekš redzamais piemēra izkārtojums tika izvilkts, atverot lapu. Mākslīgā intelekta skaidrojumu veidojis mākslīgais intelekts, nevis cilvēks.",
+  "errors": {
+   "not_granted": "Jūs neesat devis lapai atļauju izmantot Claude.",
+   "sampling_disabled": "Mākslīgais intelekts šim kontam nav pieejams.",
+   "rate_limited": "Pašlaik ir pārāk daudz pieprasījumu. Mēģiniet vēlreiz pēc brīža.",
+   "session_expired": "Jums jāpiesakās vēlreiz.",
+   "image_rejected": "Attēlu nevarēja nolasīt. Mēģiniet JPEG vai PNG attēlu.",
+   "images_unavailable": "Attēlu augšupielāde šeit nav pieejama.",
+   "refused": "Uz šo pieprasījumu nevar atbildēt. Mēģiniet citu jautājumu.",
+   "invalid_json": "Atbildi nevarēja nolasīt. Mēģiniet vēlreiz.",
+   "empty_completion": "Atbilde netika saņemta. Mēģiniet vēlreiz.",
+   "generic": "Kaut kas nogāja greizi. Mēģiniet vēlreiz."
+  },
+  "navRead": "Izklāt kārtis",
+  "navDaily": "Dienas karte",
+  "navLearn": "Mācīties taro",
+  "navShop": "Veikals",
+  "heroKicker": "Taro pēc Mēness",
+  "heroTitle": "Lasi kārtis Mēness gaismā",
+  "heroLede": "Velc kārtis, redzi visu izklājumu kopā un saņem skaidrojumu. Vai nofotografē savas kārtis un ļauj tās izlasīt.",
+  "ctaRead": "Izklāt kārtis",
+  "ctaPhoto": "Nofotografē savu izklājumu",
+  "moonTitle": "Mēness šodien",
+  "moonIllum": "{p} % apgaismots",
+  "moonAge": "Mēness cikla {d}. diena",
+  "moonNextFull": "Pilnmēness pēc ~{d} d.",
+  "moonNextNew": "Jauns Mēness pēc ~{d} d.",
+  "moonPhases": [
+   "Jauns Mēness",
+   "Augošs sirpis",
+   "Pirmais ceturksnis",
+   "Augošs Mēness",
+   "Pilnmēness",
+   "Dilstošs Mēness",
+   "Pēdējais ceturksnis",
+   "Dilstošs sirpis"
+  ],
+  "moonAdvice": [
+   "Taro tradīcijā jauns Mēness ir laiks jauniem nodomiem. Velc vienu kārti tam, ko vēlies sākt.",
+   "Jaunais Mēness der maziem pirmajiem soļiem. Vaicā kārtīm, kas palīdzēs sākt.",
+   "Pirmais ceturksnis ir izvēļu un pretestības laiks. Trīs kāršu izklājums parāda, kas stāv ceļā.",
+   "Mēness aug uz pilnmēnesi. Vaicā, ko vērts kopt un kam veltīt vairāk laika.",
+   "Pilnmēness apgaismo apslēpto. Laiks lielajam izklājumam un godīgai pārdomai.",
+   "Mēness dilst. Vaicā, ar ko esi pabeidzis un ko vari atlaist.",
+   "Pēdējais ceturksnis ir sakopšanas laiks. Kas jāpabeidz pirms jauna cikla?",
+   "Vecais Mēness ir atpūtas un klusuma laiks. Velc vienu kārti pārdomām."
+  ],
+  "moonCanvasLabel": "Šodienas Mēness fāzes zīmējums",
+  "moonDisclaimer": "Aprēķināts pēc vidējā Mēness cikla; var atšķirties par dažām stundām.",
+  "dailyNote": "Šodien visiem viena un tā pati karte. Jauna karte pusnaktī.",
+  "readTitle": "Izklāt kārtis",
+  "readLede": "Izvēlies izklājumu, uzdod jautājumu un velc. Piespied kārti, lai to apgrieztu.",
+  "learnTitle": "Mācīties taro",
+  "learnLede": "Visu 78 kāršu un izklājumu bibliotēka tavā valodā.",
+  "learnItems": [
+   [
+    "Lielās arkanas",
+    "22 kārtis par dzīves lielajām tēmām – no Muļķa līdz Pasaulei."
+   ],
+   [
+    "Mazās arkanas",
+    "56 kārtis četrās kāršu mastīs: Nūjas, Kausi, Zobeni un Monētas."
+   ],
+   [
+    "Kā lasīt izklājumu",
+    "Pozīcijas, apgrieztās kārtis un tas, kā kārtis runā savā starpā."
+   ]
+  ],
+  "comingSoon": "Drīzumā",
+  "shopTitle": "No veikala",
+  "shopLede": "Sveces, vīraks, kāršu komplekti un altāra segas tavai praksei.",
+  "shopItems": [
+   "Sveces",
+   "Vīraks un zāles",
+   "Kāršu komplekti",
+   "Altāra segas",
+   "Kristāli",
+   "Dāvanu kartes"
+  ],
+  "deckNote": "Kārtis šajā lapā ir zīmētas Luna Arcana vajadzībām.",
+  "soundOn": "Noskaņa",
+  "navNum": "Numeroloģija",
+  "numTitle": "Skaitļi jūsu dzimšanas datumā",
+  "numLede": "Numeroloģija lasa jūsu dzimšanas datumu kā skaitļus. Šeit atradīsiet savu dzīves ceļa skaitli, pašreizējā gada skaitli un tarota karti, kas atbilst jūsu datumam.",
+  "numDateLabel": "Dzimšanas datums",
+  "numBtn": "Aprēķināt",
+  "numPrivacy": "Datums tiek aprēķināts jūsu pārlūkprogrammā, un tas netiek ne saglabāts, ne nosūtīts nekur citur.",
+  "numLifePath": "Dzīves ceļa skaitlis",
+  "numPersonalYear": "Personīgais gads {y}",
+  "numBirthCard": "Dzimšanas karte",
+  "numHow": "Kā tas tiek aprēķināts: visi datuma cipari tiek saskaitīti līdz vienam ciparam. Meistarskaitļi 11, 22 un 33 tiek saglabāti.",
+  "numCardHow": "Dzimšanas karti atrod, saskaitot dienu, mēnesi un gadu un sasummējot līdz skaitlim no 1 līdz 22; 22 ir Muļķis.",
+  "numInvalid": "Ievadiet derīgu datumu.",
+  "numMeanings": {
+   "1": [
+    "Pionieris",
+    "Patstāvība, drosme un griba sākt ko jaunu. Izaicinājums ir uzklausīt citus."
+   ],
+   "2": [
+    "Tiltu būvētājs",
+    "Sadarbība, jūtīgums un spēja radīt līdzsvaru. Izaicinājums ir aizstāvēt savas vajadzības."
+   ],
+   "3": [
+    "Radītājs",
+    "Izpausme, prieks un radošums. Izaicinājums ir saglabāt fokusu un pabeigt iesākto."
+   ],
+   "4": [
+    "Būvētājs",
+    "Kārtība, neatlaidība un drošs pamats. Izaicinājums ir izturēt pārmaiņas."
+   ],
+   "5": [
+    "Brīvais",
+    "Brīvība, zinātkāre un pārmaiņas. Izaicinājums ir rast mieru un apņemšanos."
+   ],
+   "6": [
+    "Gādīgais",
+    "Atbildība, mīlestība un rūpes par mājām un kopienu. Izaicinājums ir nenest visu vienam."
+   ],
+   "7": [
+    "Meklētājs",
+    "Pārdomas, ieskats un jēgas meklējumi. Izaicinājums ir ielaist citus."
+   ],
+   "8": [
+    "Vadītājs",
+    "Īstenošanas spēks, ambīcijas un resursu pārvaldība. Izaicinājums ir līdzsvars starp varu un sirdi."
+   ],
+   "9": [
+    "Gudrais",
+    "Līdzjūtība, noslēgumi un kopaina. Izaicinājums ir atlaist."
+   ],
+   "11": [
+    "Meistarskaitlis 11 · Gaismas nesējs",
+    "Spēcīga intuīcija un iedvesma citiem. Nepieciešama zemējums un miers."
+   ],
+   "22": [
+    "Meistarskaitlis 22 · Meistarbūvētājs",
+    "Lielas vīzijas, kas kļuvušas praktiskas. Nepieciešama pacietība pret sevi."
+   ],
+   "33": [
+    "Meistarskaitlis 33 · Skolotājs",
+    "Rūpes un gudrība, ar ko dalās. Nepieciešamas robežas savai enerģijai."
+   ]
+  },
+  "numYearMeanings": {
+   "1": "Jaunu sākumu un pirmo soļu gads.",
+   "2": "Sadarbības, pacietības un attiecību gads.",
+   "3": "Izpausmes, prieka un jaunu kontaktu gads.",
+   "4": "Darba, struktūras un pamatu gads.",
+   "5": "Pārmaiņu, ceļojumu un jaunas pieredzes gads.",
+   "6": "Mājas, ģimenes un atbildības gads.",
+   "7": "Pārdomu, mācīšanās un iekšēja darba gads.",
+   "8": "Rezultātu, atbildības un finanšu gads.",
+   "9": "Noslēgumu un vietas atbrīvošanas jaunajam gads."
+  },
+  "navRitual": "Rituālu kalendārs",
+  "moonIn": "Mēness zīmē: {sign}",
+  "signs": [
+   "Auns",
+   "Vēris",
+   "Dvīņi",
+   "Vēzis",
+   "Lauva",
+   "Jaunava",
+   "Svari",
+   "Skorpions",
+   "Strēlnieks",
+   "Mežāzis",
+   "Ūdensvīrs",
+   "Zivis"
+  ],
+  "planetDays": [
+   "Saules diena",
+   "Mēness diena",
+   "Marsa diena",
+   "Merkura diena",
+   "Jupitera diena",
+   "Venēras diena",
+   "Saturna diena"
+  ],
+  "ritTitle": "Kad Mēness un zvaigznes sakrīt",
+  "ritLede": "Tautas maģijas un astroloģijas tradīcijā laiku izvēlas pēc trim lietām: Mēness fāzes, zodiaka zīmes, kurā atrodas Mēness, un nedēļas dienas planētas. Izvēlieties nodomu, un mēs atradīsim labākās dienas nākamajās 30 diennaktīs.",
+  "ritToday": "Šodien",
+  "ritBest": "Labākās dienas nākotnē",
+  "ritScore": "{n} no 5",
+  "ritWhy": "Fāze: {phase} · {moon} · {day}",
+  "ritMatchPhase": "piemērota fāze",
+  "ritMatchSign": "piemērota zīme",
+  "ritMatchDay": "piemērota nedēļas diena",
+  "ritNoMatch": "nesakrīt",
+  "ritRules": "Tradīcija saka",
+  "ritPremium": "Pilns rituāls ar soļiem, materiāliem un vārdiem ir Premium plānā.",
+  "ritDisclaimer": "Laiki atbilst tradicionālajām atbilstībām un ir domāti kā iedvesma un pārdomas. Rezultāti netiek garantēti. Mēness zīme aprēķināta aptuveni un zīmes maiņas tuvumā var atšķirties.",
+  "intents": [
+   {
+    "key": "money",
+    "name": "Atveriet naudas plūsmu",
+    "text": "Rituāli pārpilnībai, darbam un jauniem ienākumiem.",
+    "rule": "Augošs Mēness, Mēness zemes zīmē (Vēris, Jaunava, Mežāzis) un Jupitera vai Saules diena."
+   },
+   {
+    "key": "love",
+    "name": "Mīlestība un mīlestība pret sevi",
+    "text": "Rituāli siltumam, pievilkšanai un laipnībai pret sevi.",
+    "rule": "Augošs Mēness, Mēness zīmē: Vēris, Svari vai Vēzis, un Venēras diena."
+   },
+   {
+    "key": "protect",
+    "name": "Mājas un sevis aizsardzība",
+    "text": "Rituāli drošībai un robežām.",
+    "rule": "Pilnmēness vai dilstošs Mēness, Mēness zīmē: Mežāzis, Skorpions vai Auns, un Saturna vai Marsa diena."
+   },
+   {
+    "key": "cleanse",
+    "name": "Šķīstīšanās un atlaišana",
+    "text": "Rituāli sakārtošanai, noslēgšanai un smagumu atlaišanai.",
+    "rule": "Dilstošs Mēness, Mēness zīmē: Jaunava, Skorpions vai Zivis, un Saturna diena."
+   },
+   {
+    "key": "begin",
+    "name": "Jauni sākumi",
+    "text": "Rituāli nodomiem un pirmajiem soļiem.",
+    "rule": "Jauns Mēness vai jauns augošs Mēness, Mēness uguns zīmē (Auns, Lauva, Strēlnieks) un Saules vai Mēness diena."
+   },
+   {
+    "key": "intuition",
+    "name": "Intuīcija un sapņi",
+    "text": "Rituāli ieskatiem, sapņiem un tarot.",
+    "rule": "Jauns Mēness vai pilnmēness, Mēness ūdens zīmē (Vēzis, Skorpions, Zivis) un Mēness diena."
+   }
+  ],
+  "navJournal": "Dienasgrāmata",
+  "jTitle": "Jūsu tarot dienasgrāmata",
+  "jLede": "Saglabājiet savus skaidrojumus un redziet, kuras kārtis laika gaitā atkārtojas. Dienasgrāmata tiek glabāta tikai šajā pārlūkprogrammā un nekur nesūtīta.",
+  "jSave": "Saglabāt dienasgrāmatā",
+  "jSaved": "Saglabāts dienasgrāmatā.",
+  "jEmpty": "Dienasgrāmata ir tukša. Velciet kārtis, apgrieziet tās un saglabājiet skaidrojumu.",
+  "jFrequent": "Atkārtotās kārtis",
+  "jTimes": "{n} reizes",
+  "jDelete": "Dzēst",
+  "jEntries": "Saglabātie skaidrojumi",
+  "freeLeft": "Šodien 1 bezmaksas MI interpretācija.",
+  "freeUsed": "Šodienas bezmaksas MI interpretācija ir izmantota. Vairāk interpretāciju būs pieejams ar Premium."
+ },
+ "spreads": {
+  "dag": {
+   "label": "Dienas karte",
+   "desc": "Viena karte kā dienas tēma.",
+   "pos": [
+    "Dienas tēma"
+   ]
+  },
+  "tre": {
+   "label": "Pagātne · Tagadne · Nākotne",
+   "desc": "Trīs kārtis, kas parāda situācijas attīstību.",
+   "pos": [
+    "Pagātne",
+    "Tagadne",
+    "Nākotne"
+   ]
+  },
+  "situasjon": {
+   "label": "Situācija (5)",
+   "desc": "Cēlonis, būtība, izaicinājums, perspektīva un iespēja. Iespējas karte vienmēr tiek vilkta taisnā stāvoklī.",
+   "pos": [
+    "Cēlonis",
+    "Situācija",
+    "Izaicinājums",
+    "Perspektīva",
+    "Iespēja"
+   ]
+  },
+  "janei": {
+   "label": "Jā / Nē",
+   "desc": "Viena karte. Taisnā stāvoklī tā virza uz „jā“, apgrieztā – uz „nē“. Lielie arkāni dod skaidrāku atbildi.",
+   "pos": [
+    "Atbilde"
+   ]
+  },
+  "kors": {
+   "label": "Ķeltu krusts (10)",
+   "desc": "Klasiskais izkārtojums rūpīgai izpētei.",
+   "pos": [
+    "Tagad",
+    "Krusto",
+    "Pamats",
+    "Pagātne",
+    "Mērķis",
+    "Tuvākā nākotne",
+    "Jūs pats",
+    "Apkārtne",
+    "Cerības un bailes",
+    "Iznākums"
+   ]
+  }
+ },
+ "suits": {
+  "staver": {
+   "name": "Nūjas",
+   "theme": "rīcība un kaisle"
+  },
+  "begre": {
+   "name": "Kausi",
+   "theme": "jūtas un attiecības"
+  },
+  "sverd": {
+   "name": "Zobeni",
+   "theme": "domas un konflikti"
+  },
+  "mynter": {
+   "name": "Monētas",
+   "theme": "nauda, darbs un ķermenis"
+  }
+ },
+ "cards": [
+  {
+   "name": "Muļķis",
+   "up": "Jauns sākums, spontanitāte, uzticēšanās turpmākajam ceļam.",
+   "rev": "Neapdomība, naivums, lēciens bez sagatavošanās."
+  },
+  {
+   "name": "Burvis",
+   "up": "Griba, prasmes un resursi, lai kaut ko radītu tagad.",
+   "rev": "Manipulācijas, neizmantots talants, plāni bez rīcības."
+  },
+  {
+   "name": "Augstā priesteriene",
+   "up": "Intuīcija, apslēptas zināšanas, ieklausīšanās sevī.",
+   "rev": "Noslēpumi, ignorēta nojauta, apjukums."
+  },
+  {
+   "name": "Ķeizariene",
+   "up": "Pārpilnība, gādība, radošums un izaugsme.",
+   "rev": "Atkarība, stagnācija, sevis aizmiršana."
+  },
+  {
+   "name": "Ķeizars",
+   "up": "Struktūra, atbildība, stabilitāte un vadība.",
+   "rev": "Kontroles vajadzība, stingrība, varas ļaunprātīga izmantošana."
+  },
+  {
+   "name": "Augstais priesteris",
+   "up": "Tradīcijas, mācīšanās, mentora vadība.",
+   "rev": "Dumpis pret noteikumiem, dogmas, kas vairs neder."
+  },
+  {
+   "name": "Mīlnieki",
+   "up": "Mīlestība, harmonija un svarīga vērtību izvēle.",
+   "rev": "Nelīdzsvarotas attiecības, šaubas, izvēle pretēji savām vērtībām."
+  },
+  {
+   "name": "Rati",
+   "up": "Gribasspēks, virzība uz priekšu, uzvara ar koncentrēšanos.",
+   "rev": "Virziena trūkums, kontroles zaudēšana, pretestība."
+  },
+  {
+   "name": "Spēks",
+   "up": "Iekšējs spēks, pacietība, maigums, kas uzvar.",
+   "rev": "Šaubas par sevi, izsīkums, emocijas, kas gūst virsroku."
+  },
+  {
+   "name": "Vientuļnieks",
+   "up": "Pārdomas, vientulība, kas dod izpratni.",
+   "rev": "Izolācija, atkāpšanās, citu izslēgšana."
+  },
+  {
+   "name": "Likteņa rats",
+   "up": "Pagrieziena punkts, cikli, liktenis kustas.",
+   "rev": "Neveiksmes, pretošanās pārmaiņām, vecie modeļi."
+  },
+  {
+   "name": "Taisnīgums",
+   "up": "Patiesība, līdzsvars, izvēļu sekas.",
+   "rev": "Netaisnība, atbildības noraidīšana, neobjektivitāte."
+  },
+  {
+   "name": "Pakārtais",
+   "up": "Pauze, jauns skatpunkts, atlaišana.",
+   "rev": "Atlikšana, stagnācija, upuris bez jēgas."
+  },
+  {
+   "name": "Nāve",
+   "up": "Noslēgums un pārvērtības, kaut kas vecais beidzas.",
+   "rev": "Pretošanās pārmaiņām, turēšanās pie tā, kas jau beidzies."
+  },
+  {
+   "name": "Mērenība",
+   "up": "Līdzsvars, pacietība, zelta vidusceļš.",
+   "rev": "Nelīdzsvarotība, pārmērība, nepacietība."
+  },
+  {
+   "name": "Velns",
+   "up": "Važas, kārdinājumi, atkarība.",
+   "rev": "Atbrīvošanās, modeļa lauzšana, jauna skaidrība."
+  },
+  {
+   "name": "Tornis",
+   "up": "Pēkšņs apvērsums, patiesība izlaužas.",
+   "rev": "Bailes no pārmaiņām, krīze, ko atliek."
+  },
+  {
+   "name": "Zvaigzne",
+   "up": "Cerība, atjaunošanās, miers pēc vētras.",
+   "rev": "Mazdūšība, zaudēta ticība, virziena zaudēšana."
+  },
+  {
+   "name": "Mēness",
+   "up": "Ilūzijas, nenoteiktība, sapņi un bailes.",
+   "rev": "Skaidrība nāk, bailes atlaiž tvērienu."
+  },
+  {
+   "name": "Saule",
+   "up": "Prieks, panākumi, dzīvības spēks un skaidrība.",
+   "rev": "Īslaicīgs kritums, pārmērīgs optimisms."
+  },
+  {
+   "name": "Tiesa",
+   "up": "Atmoda, aicinājums, bilances izdarīšana.",
+   "rev": "Paškritika, šaubas, aicinājuma ignorēšana."
+  },
+  {
+   "name": "Pasaule",
+   "up": "Piepildījums, veselums, cikls ir noslēdzies.",
+   "rev": "Nepabeigtas lietas, trūkst pēdējā gabaliņa."
+  },
+  {
+   "name": "Nūju dūzis",
+   "up": "Jauna iedvesma, ideja ar spēku.",
+   "rev": "Kavēšanās, dzinējspēka trūkums."
+  },
+  {
+   "name": "Nūju divnieks",
+   "up": "Plānošana, skatīšanās uz priekšu.",
+   "rev": "Bailes no nezināmā, slikta plānošana."
+  },
+  {
+   "name": "Nūju trijnieks",
+   "up": "Paplašināšanās, progress, pirmie rezultāti.",
+   "rev": "Šķēršļi, neattaisnotas cerības."
+  },
+  {
+   "name": "Nūju četrnieks",
+   "up": "Svinības, mājas, drošība.",
+   "rev": "Nemiers mājās, kopības trūkums."
+  },
+  {
+   "name": "Nūju piecnieks",
+   "up": "Sacensība, nesaskaņas, berze.",
+   "rev": "Izvairīšanās no konflikta, iekšēja cīņa."
+  },
+  {
+   "name": "Nūju sešnieks",
+   "up": "Atzinība, uzvara, pašpārliecinātība.",
+   "rev": "Lepnums pirms krišanas, trūkstoša atzinība."
+  },
+  {
+   "name": "Nūju septiņnieks",
+   "up": "Palikt pie sava, aizstāvēt pozīciju.",
+   "rev": "Pārņemtība, padošanās."
+  },
+  {
+   "name": "Nūju astoņnieks",
+   "up": "Ātrums, jaunumi, viss notiek ātri.",
+   "rev": "Kavēšanās, vilšanās."
+  },
+  {
+   "name": "Nūju deviņnieks",
+   "up": "Izturība, pēdējie centieni.",
+   "rev": "Izdegšana, neuzticēšanās."
+  },
+  {
+   "name": "Nūju desmitnieks",
+   "up": "Smaga nasta, pārāk liela atbildība.",
+   "rev": "Nastas nolikšana, deleģēšana."
+  },
+  {
+   "name": "Nūju pāžs",
+   "up": "Entuziasms, labas ziņas, ziņkāre.",
+   "rev": "Nenobriedusi degsme, atlikti plāni."
+  },
+  {
+   "name": "Nūju bruņinieks",
+   "up": "Piedzīvojumi, rīcība, impulsivitāte.",
+   "rev": "Steiga, dusmas, neprognozējamība."
+  },
+  {
+   "name": "Nūju karaliene",
+   "up": "Pašpārliecinātība, siltums, neatkarība.",
+   "rev": "Greizsirdība, egoisms, nedrošība."
+  },
+  {
+   "name": "Nūju karalis",
+   "up": "Vizionāra vadība, iniciatīva.",
+   "rev": "Augstprātība, pārsteidzīgi lēmumi."
+  },
+  {
+   "name": "Kausu dūzis",
+   "up": "Jauna mīlestība, atveroties jūtām.",
+   "rev": "Apspiestas jūtas, tukšums."
+  },
+  {
+   "name": "Kausu divnieks",
+   "up": "Partnerība, savstarpēja pievilcība.",
+   "rev": "Nelīdzsvars, kontakta pārtrūkums."
+  },
+  {
+   "name": "Kausu trijnieks",
+   "up": "Draudzība, svinības, kopiena.",
+   "rev": "Tenkas, pārmērīga uzdzīve, atstumtība."
+  },
+  {
+   "name": "Kausu četrnieks",
+   "up": "Apātija, piedāvājuma nepamanīšana.",
+   "rev": "Jauna interese, atkal teikt „jā“."
+  },
+  {
+   "name": "Kausu piecnieks",
+   "up": "Skumjas, zaudējums, uzmanība tam, kas nogāja greizi.",
+   "rev": "Pieņemšana, virzīšanās tālāk."
+  },
+  {
+   "name": "Kausu sešnieks",
+   "up": "Atmiņas, bērnība, nevainība.",
+   "rev": "Iestrēgšana pagātnē."
+  },
+  {
+   "name": "Kausu septiņnieks",
+   "up": "Daudz izvēļu, vēlmju uzskatīšana par īstenību.",
+   "rev": "Skaidrība, reālistiska izvēle."
+  },
+  {
+   "name": "Kausu astoņnieks",
+   "up": "Kaut kā atstāšana, dziļākas jēgas meklēšana.",
+   "rev": "Bailes aiziet, dreifēšana bez mērķa."
+  },
+  {
+   "name": "Kausu deviņnieks",
+   "up": "Piepildītas vēlmes, apmierinātība.",
+   "rev": "Alkatība, virspusēja laime."
+  },
+  {
+   "name": "Kausu desmitnieks",
+   "up": "Ģimenes laime, harmonija.",
+   "rev": "Nesaskaņas ģimenē, sagrauti ideāli."
+  },
+  {
+   "name": "Kausu pāžs",
+   "up": "Radoša ziņa, jutīgums.",
+   "rev": "Nenobriedums, emocionāls nelīdzsvars."
+  },
+  {
+   "name": "Kausu bruņinieks",
+   "up": "Romantika, piedāvājums, šarms.",
+   "rev": "Garastāvokļa svārstības, nereāli solījumi."
+  },
+  {
+   "name": "Kausu karaliene",
+   "up": "Līdzjūtība, intuīcija, gādība.",
+   "rev": "Atkarība, emocionāls haoss."
+  },
+  {
+   "name": "Kausu karalis",
+   "up": "Emocionāls līdzsvars, diplomātija.",
+   "rev": "Manipulācijas, aukstas jūtas."
+  },
+  {
+   "name": "Zobenu dūzis",
+   "up": "Skaidrība, izrāviens, patiesība.",
+   "rev": "Apjukums, nepareizs lēmums."
+  },
+  {
+   "name": "Zobenu divnieks",
+   "up": "Grūta izvēle, bloķēta situācija.",
+   "rev": "Informācija nāk gaismā, neizlēmība."
+  },
+  {
+   "name": "Zobenu trijnieks",
+   "up": "Sirdssāpes, sāpes, patiesība, kas sāpina.",
+   "rev": "Dzīšana, piedošana."
+  },
+  {
+   "name": "Zobenu četrnieks",
+   "up": "Atpūta, atjaunošanās, pārdomas.",
+   "rev": "Nemiers, izsīkums."
+  },
+  {
+   "name": "Zobenu piecnieks",
+   "up": "Konflikts, uzvara ar cenu.",
+   "rev": "Samierināšanās, ieroču nolikšana."
+  },
+  {
+   "name": "Zobenu sešnieks",
+   "up": "Pāreja, grūtā atstāšana.",
+   "rev": "Neatrisinātas lietas, pretestība pārcelties."
+  },
+  {
+   "name": "Zobenu septiņnieks",
+   "up": "Viltība, stratēģija, kaut kas tiek slēpts.",
+   "rev": "Sirdsapziņa, patiesība nāk gaismā."
+  },
+  {
+   "name": "Zobenu astoņnieks",
+   "up": "Paša domu gūstā, ierobežojums.",
+   "rev": "Atbrīvošanās, jauns skatpunkts."
+  },
+  {
+   "name": "Zobenu deviņnieks",
+   "up": "Raizes, bezmiegs, trauksme.",
+   "rev": "Cerība, bailes mazinās."
+  },
+  {
+   "name": "Zobenu desmitnieks",
+   "up": "Sāpīgs noslēgums, dibens sasniegts.",
+   "rev": "Atjaunošana, sliktākais ir garām."
+  },
+  {
+   "name": "Zobenu pāžs",
+   "up": "Ziņkāre, modrība, jaunas idejas.",
+   "rev": "Tenkas, neapdomāti vārdi."
+  },
+  {
+   "name": "Zobenu bruņinieks",
+   "up": "Rīcība, ambīcijas, tieši pie lietas.",
+   "rev": "Steiga, agresivitāte."
+  },
+  {
+   "name": "Zobenu karaliene",
+   "up": "Skaidrredzība, neatkarība, godīgums.",
+   "rev": "Aukstums, rūgtums, skarbi vārdi."
+  },
+  {
+   "name": "Zobenu karalis",
+   "up": "Intelektuāla autoritāte, taisnīgums.",
+   "rev": "Varas ļaunprātīga izmantošana, manipulācijas."
+  },
+  {
+   "name": "Monētu dūzis",
+   "up": "Jauna iespēja, finansiāls sākums.",
+   "rev": "Palaista garām iespēja, slikta plānošana."
+  },
+  {
+   "name": "Monētu divnieks",
+   "up": "Līdzsvars, prioritāšu žonglēšana.",
+   "rev": "Pārslodze, juceklis finansēs."
+  },
+  {
+   "name": "Monētu trijnieks",
+   "up": "Sadarbība, amatniecība, mācīšanās.",
+   "rev": "Vāja sadarbība, viduvējība."
+  },
+  {
+   "name": "Monētu četrnieks",
+   "up": "Taupīšana, drošība, kontrole.",
+   "rev": "Skopums, pārlieku cieša turēšanās."
+  },
+  {
+   "name": "Monētu piecnieks",
+   "up": "Trūkums, grūti laiki.",
+   "rev": "Uzlabošanās, palīdzība ir tuvu."
+  },
+  {
+   "name": "Monētu sešnieks",
+   "up": "Došana un ņemšana, devība.",
+   "rev": "Nevienlīdzīgs sadalījums, parādi."
+  },
+  {
+   "name": "Monētu septiņnieks",
+   "up": "Pacietība, ilgtermiņa ieguldījums.",
+   "rev": "Nepacietība, vāja atdeve."
+  },
+  {
+   "name": "Monētu astoņnieks",
+   "up": "Čaklums, meistarība, vingrināšanās.",
+   "rev": "Perfekcionisms, garlaicība."
+  },
+  {
+   "name": "Monētu deviņnieks",
+   "up": "Patstāvība, labklājība, bauda.",
+   "rev": "Pārmērīgi tēriņi, atkarība no citiem."
+  },
+  {
+   "name": "Monētu desmitnieks",
+   "up": "Mantojums, ģimenes bagātība, ilgstoša drošība.",
+   "rev": "Finansiāls zaudējums, ģimenes konflikts."
+  },
+  {
+   "name": "Monētu pāžs",
+   "up": "Jaunas studijas, praktiska ambīcija.",
+   "rev": "Progresa trūkums, slinkums."
+  },
+  {
+   "name": "Monētu bruņinieks",
+   "up": "Uzticamība, rutīna, smags darbs.",
+   "rev": "Stagnācija, garlaicība."
+  },
+  {
+   "name": "Monētu karaliene",
+   "up": "Praktiska gādība, drošība, piezemētība.",
+   "rev": "Darbaholisms, finansiāls nemiers."
+  },
+  {
+   "name": "Monētu karalis",
+   "up": "Labklājība, drošība, uzņēmējdarbības izjūta.",
+   "rev": "Alkatība, materiālisms."
+  }
+ ]
+}

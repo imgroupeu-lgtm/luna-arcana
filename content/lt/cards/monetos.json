@@ -1,0 +1,918 @@
+{
+ "cards": [
+  {
+   "id": 64,
+   "symbols": [
+    {
+     "s": "Iš debesies besitiesianti ranka su didele auksine moneta",
+     "m": "dovana, galimybė, kuri ateina iš aukščiau, bet kurią reikia priimti"
+    },
+    {
+     "s": "Sodas su gėlėmis ir žalia gyvatvorės arka",
+     "m": "auginama aplinka, kurioje sėkla gali įsišaknyti"
+    },
+    {
+     "s": "Baltos lelijos sode",
+     "m": "tyras ketinimas, aiškus pradžios pagrindas"
+    },
+    {
+     "s": "Takas, vedantis pro arką į kalnus",
+     "m": "kelias nuo pirmo žingsnio iki tolimo tikslo"
+    }
+   ],
+   "story": [
+    "Tūzai kiekvienoje Mažųjų arkanų kortų eilėje reiškia gryną elemento sėklą, o Monetų tūzas – žemės sėklą: kažką apčiuopiamo, ką galima paliesti, pasverti ir pasodinti. Nuo kitų tūzų jis skiriasi tuo, kad dovana čia ne idėja, jausmas ar kova, o konkretus pradžios taškas – darbo pasiūlymas, vieta, įgūdis, pirmoji atsarga, pirmas realus žingsnis. Ranka iš debesies primena, kad pradžia dažnai ateina ne iš mūsų pastangų, o iš aplinkybių, tačiau moneta nieko nedaro pati.",
+    "Monetų istorijoje tūzas yra pirmas skyrius: dar nėra nei darbo, nei derliaus, yra tik pažadas. Sodas ir takas rodo, kad šiai sėklai reikia vietos ir laiko, o ne skubėjimo. Daugelis skaitytojų šią kortą vertina kaip kvietimą užduoti paprastą klausimą: ką aš galiu padaryti šią savaitę, kad ši galimybė taptų realia? Korta nežada rezultato, ji tik parodo, kad durys atidarytos."
+   ],
+   "reversed": "Apversta korta dažniausiai kalba ne apie tai, kad galimybės nėra, o apie sunkumą ją priimti ar paversti realybe. Gali būti, kad sėkla pasodinta į netinkamą dirvą, planas per miglotas arba baimė klysti neleidžia ištiesti rankos. Kartais tai tiesiog netinkamas laikas. Verta paklausti, ar trūksta pasiruošimo, ar drąsos.",
+   "positions": {
+    "past": "Anksčiau jums buvo atsivėręs praktinis pradžios taškas, kuris iki šiol veikia kaip pamatas. Galbūt tada nepastebėjote, kiek jis svarbus.",
+    "present": "Dabar šalia yra reali, apčiuopiama galimybė. Ji reikalauja sprendimo, o ne ilgo svarstymo.",
+    "future": "Netrukus gali atsirasti konkreti pradžia, kurią bus galima paversti nuolatiniu darbu ar projektu.",
+    "obstacle": "Kliūtis gali būti per didelis laukimas, kad moneta pati išaugs į medį. Be pirmo žingsnio ji lieka tik moneta.",
+    "advice": "Pasirinkite vieną mažą, bet realų veiksmą ir atlikite jį šią savaitę. Pasirūpinkite dirva, ne tik sėkla.",
+    "outcome": "Jei sėkla bus prižiūrima, ji gali tapti stabiliu, žemišku pagrindu, ant kurio statysite toliau."
+   },
+   "feelings": "Šis žmogus greičiausiai mato jumyse realią galimybę ir norėtų ją išbandyti praktiškai, o ne tik žodžiais. Tai gali būti nuoširdi, rami pradžia, kurioje svarbūs veiksmai, o ne dideli pažadai. Jei abejojate, galite tiesiai paklausti jo, ko jis nori ir ką ketina daryti.",
+   "money": "Tema čia yra pirmasis konkretus žingsnis materialiame gyvenime: nauja galimybė, pradžia ar pirma sėkla. Korta kalba apie santykį su ištekliais, o ne apie prognozę, kiek jų bus.",
+   "friendship": "Draugystėje korta gali žymėti naują pažintį, kuri nuo pat pradžių atrodo patikima ir praktiška. Ji taip pat skatina pasiūlyti ką nors konkretaus, pavyzdžiui, bendrą užsiėmimą ar pagalbą.",
+   "spiritual": "Dvasine prasme tai kvietimas įžeminti idėjas: paversti ketinimą kasdiene praktika, nors ir labai maža. Sėkla čia yra įprotis, o ne vizija.",
+   "combos": [
+    {
+     "with": 0,
+     "text": "Su Kvailiu pradžia tampa dvigubai drąsesnė: šuolis į nežinomybę turi bent vieną apčiuopiamą atramą. Svarbu neleisti jai tapti nerūpestingumu."
+    },
+    {
+     "with": 19,
+     "text": "Su Saule sėkla patenka į šviesią dirvą, o pradžia gali būti džiugi ir atvira. Tradiciškai šis derinys siejamas su šviesia pradžia."
+    },
+    {
+     "with": 9,
+     "text": "Su Atsiskyrėliu galimybė reikalauja tylaus apmąstymo, prieš ją pasodinant. Skubėti nereikia."
+    },
+    {
+     "with": 22,
+     "text": "Su Skeptrų tūzu praktinė galimybė susitinka su ugningu užsidegimu. Pasirūpinkite, kad energija turėtų, į ką įsišaknyti."
+    },
+    {
+     "with": 73,
+     "text": "Su Monetų dešimtuku matoma visa kelionė nuo sėklos iki paveldo, o tai primena, kad šiandienos maži žingsniai gali tarnauti ilgai."
+    }
+   ],
+   "questions": [
+    "Kokią konkrečią galimybę šiuo metu turiu rankose ir kas trukdo ją priimti?",
+    "Koks pats mažiausias praktinis žingsnis, kurį galiu žengti jau šią savaitę?",
+    "Kokią dirvą turiu paruošti, kad ši sėkla neišdžiūtų?"
+   ]
+  },
+  {
+   "id": 65,
+   "symbols": [
+    {
+     "s": "Jaunas vyras, šokantis ir žongliruojantis dviem monetomis",
+     "m": "gebėjimas išlaikyti judėjimą ir lankstumą kasdienybėje"
+    },
+    {
+     "s": "Monetas jungianti begalybės ženklo (gulinčio aštuoneto) juosta",
+     "m": "nuolatinis srautas, tęstinė kaita ir ritmas"
+    },
+    {
+     "s": "Bangose siūbuojantys laivai fone",
+     "m": "aplinkybių supimas, nenuspėjami pokyčiai"
+    },
+    {
+     "s": "Aukšta raudona kepurė",
+     "m": "žaismingumas ir praktinė išmonė"
+    }
+   ],
+   "story": [
+    "Dvejetas Mažuosiuose arkanuose dažnai kalba apie pasirinkimą ar dvilypumą. Monetų dvejete tas dvilypumas yra kasdienis: du reikalai, du įsipareigojimai, du išlaidų ar laiko šaltiniai, kuriuos reikia išlaikyti ore. Šokantis vyras neatrodo prislėgtas, jis dirba su ritmu, o ne prieš jį. Begalybės ženklas rodo, kad čia nėra vieno kartą nustatytos pusiausvyros, o ji nuolat atnaujinama.",
+    "Po Monetų tūzo sėkla jau pasodinta, ir dabar gyvenimas pareikalauja koordinacijos. Fone siūbuojantys laivai primena, kad aplinka gali būti nestabili, o vyras nežiūri į jas, jis žiūri į savo rankas. Daugelis skaitytojų korta mato kaip pamoką: prioritetai keičiasi, todėl svarbu išmokti prisitaikyti, užuot ieškoję tobulos tvarkos. Ji taip pat klausia, kiek ilgai galima žongliruoti nepavargus."
+   ],
+   "reversed": "Apversta korta rodo, kad monetos pradeda kristi: per daug reikalų, išsibarsčiusi tvarka, praleisti terminai. Gali būti, kad bandote suderinti tai, ko neįmanoma suderinti, ir laikas paleisti vieną iš monetų. Kartais ji sako ir priešingai: žongliravimas nebėra žaismingas, o tapo kovos forma.",
+   "positions": {
+    "past": "Anksčiau jūs mokėtės derinti kelis reikalus ir ši patirtis dabar jums padeda. Galbūt tuomet viskas atrodė sudėtingiau, nei yra.",
+    "present": "Dabar jūsų gyvenime yra daugiau nei vienas aktyvus reikalas, ir svarbiausia – nuolatinis ritmas, o ne tobula tvarka.",
+    "future": "Netrukus gali tekti vėl keisti prioritetus. Lankstumas bus naudingesnis už griežtą planą.",
+    "obstacle": "Kliūtis – bandymas viską išlaikyti vienodai gerai. Kartais reikia sąmoningai paleisti vieną monetą.",
+    "advice": "Susirašykite prioritetus ir pripažinkite savo ribas. Ritmas svarbesnis už tobulumą.",
+    "outcome": "Jei rasite savo ritmą, galite išmokti judėti kartu su kaita ir neprarasti ramybės."
+   },
+   "feelings": "Šis žmogus tikriausiai jaučia, kad jo dėmesys išsidalijęs tarp kelių dalykų, ir tai nebūtinai reiškia abejingumą jums. Jums gali tekti suprasti, kad jo laikas ir jėgos šiuo metu ribotos. Aiškus, nuoširdus pokalbis apie galimybes padės geriau nei spėliojimai.",
+   "money": "Tema čia yra išlaidų, pajamų ir įsipareigojimų derinimas bei lankstumas. Korta apibūdina kasdienį balansavimą, o ne konkretų rezultatą.",
+   "friendship": "Draugystėje korta gali rodyti sunkumą rasti laiko visiems, kurie jums svarbūs. Padeda atvirumas dėl savo užimtumo ir nedideli, bet nuoseklūs susitikimai.",
+   "spiritual": "Dvasine prasme tai kvietimas rasti vidinį ritmą tarp darbo ir poilsio, tarp pareigų ir tylos. Net trumpa kasdienė praktika gali tapti tvirtesne atrama nei retos, bet ilgos.",
+   "combos": [
+    {
+     "with": 1,
+     "text": "Su Magu gebėjimas valdyti kelias gijas tampa meistriškumu: jūs turite priemonių viskam, bet turite jas ir nukreipti."
+    },
+    {
+     "with": 14,
+     "text": "Su Nuosaikumu pusiausvyra tampa sąmoninga praktika. Šis derinys kalba apie saiką ir ritmą."
+    },
+    {
+     "with": 10,
+     "text": "Su Likimo ratu kaita nustoja būti grėsme ir tampa gyvenimo ritmu. Prisitaikymas čia svarbesnis už kontrolę."
+    },
+    {
+     "with": 51,
+     "text": "Su Kardų dvejetu sprendimai ir žongliravimas susipina: gali būti, kad vengiate pasirinkti. Pamąstykite, ar tikrai norite viską išlaikyti ore."
+    },
+    {
+     "with": 71,
+     "text": "Su Monetų aštuonetu ritmas virsta meistriškumu: kasdienis balansas pamažu tampa įgūdžiu."
+    }
+   ],
+   "questions": [
+    "Kuris iš mano reikalų šiuo metu reikalauja daugiausia jėgų, ir ar jis to vertas?",
+    "Kokį ritmą galėčiau pasirinkti, kad nereikėtų nuolat gesinti gaisrų?",
+    "Ką galėčiau paleisti, kad likusiems dalykams užtektų dėmesio?"
+   ]
+  },
+  {
+   "id": 66,
+   "symbols": [
+    {
+     "s": "Jaunas amatininkas, stovintis ant suolo ir drožiantis akmenį",
+     "m": "įgūdis, kuris pasirodo darbe, o ne žodžiuose"
+    },
+    {
+     "s": "Dvi figūros su brėžiniu: vienuolis ir kilmingas asmuo",
+     "m": "užsakovas ir patarėjas, kuriuos reikia išgirsti"
+    },
+    {
+     "s": "Gotikinė bažnyčios arka su trimis monetų ornamentais",
+     "m": "darbas, kurio rezultatas įrašytas pačioje struktūroje"
+    },
+    {
+     "s": "Plano ar brėžinio lapas",
+     "m": "bendras supratimas, kaip turi atrodyti galutinis rezultatas"
+    }
+   ],
+   "story": [
+    "Trejetas Mažuosiuose arkanuose dažniausiai reiškia pirmąjį rezultatą, kai dvejeto įtampa pereina į bendrą kūrimą. Monetų trejete žemė sustoja ir tampa statyba: kas nors yra kuriama, kas nors jau stovi. Svarbiausia, kad amatininkas dirba ne vienas: šalia stovi žmonės, kurie žino, ko tikisi, ir gali įvertinti darbą. Iš čia kyla tema apie mokymąsi, grįžtamąjį ryšį ir kokybę.",
+    "Kortoje nėra dramos, tik darbas ir pasitikėjimas procesu. Ji primena, kad meistriškumas gimsta ne vienatvėje, o kartu su kitais, nors kiekvienas atlieka savo dalį. Vienuolis ir kilmingas žmogus čia simbolizuoja skirtingas perspektyvas: dvasines ir pasaulietines, teorines ir praktines. Galite paklausti savęs, ar atvirai priimate kritiką ir ar patys aiškiai išsakote, ko tikitės iš kitų."
+   ],
+   "reversed": "Apversta korta gali kalbėti apie nesuderintus lūkesčius, susiskaldžiusią komandą ar paviršutiniškai atliktą darbą. Kartais tai ženklas, kad nenorite klausytis patarimų arba niekas neklauso jūsų. Kitą kartą ji rodo, kad projektas stringa dėl nesusikalbėjimo, o ne dėl gebėjimų stokos.",
+   "positions": {
+    "past": "Anksčiau jūs turėjote gerą bendro darbo ar mokymosi patirtį, kuri suformavo jūsų požiūrį į kokybę.",
+    "present": "Dabar svarbus bendradarbiavimas: jūsų dalis svarbi, bet ją reikia derinti su kitais.",
+    "future": "Netrukus gali atsirasti galimybė dirbti kartu su žmonėmis, kurie papildo jūsų įgūdžius.",
+    "obstacle": "Kliūtis gali būti nenoras klausyti kitų arba nepakankamai aiškus bendras planas.",
+    "advice": "Pasitikslinkite lūkesčius su visais dalyviais ir priimkite grįžtamąjį ryšį be gynybos.",
+    "outcome": "Rezultatas gali būti tvirtas bendras darbas, kuris atlaiko laiko patikrą."
+   },
+   "feelings": "Šis žmogus greičiausiai jus vertina kaip partnerį, su kuriuo galima kurti ką nors realaus. Jam gali būti svarbu bendri tikslai ir aiški veiksmų eiga, o ne tik emocijos. Paklauskite, ką jis norėtų pastatyti kartu.",
+   "money": "Tema čia yra bendras darbas, atlygis už įgūdžius ir kokybė. Korta kalba apie tai, kaip bendradarbiavimas formuoja materialų rezultatą, o ne apie konkrečią sumą.",
+   "friendship": "Draugystėje korta rodo ryšius, kurie stiprėja per bendrą veiklą ar mokymąsi. Verta pasiūlyti ką nors kartu padaryti, o ne tik susitikti pasikalbėti.",
+   "spiritual": "Dvasine prasme korta primena, kad praktika dažnai tampa gilesnė su mokytoju ar bendruomene. Ji klausia, ko galite išmokti iš kitų ir ką galite duoti jiems.",
+   "combos": [
+    {
+     "with": 5,
+     "text": "Su Šventiku mokymasis ir tradicija susijungia: šalia atsiranda žmogus ar bendruomenė, kuri gali perduoti patirtį."
+    },
+    {
+     "with": 7,
+     "text": "Su Vežimu bendras darbas gauna aiškią kryptį. Svarbu, kad visi traukia ta pačia linkme."
+    },
+    {
+     "with": 21,
+     "text": "Su Pasauliu bendras kūrinys gali būti užbaigtas ir pripažintas. Tai tradiciškai laikoma darbo pabaigos ženklu."
+    },
+    {
+     "with": 64,
+     "text": "Su Monetų tūzu sėkla virsta pirmąja struktūra: idėja jau turi savo pirmus pamatus."
+    },
+    {
+     "with": 71,
+     "text": "Su Monetų aštuonetu bendro darbo patirtis tampa asmeniniu meistriškumu."
+    }
+   ],
+   "questions": [
+    "Su kuo galėčiau dirbti taip, kad abu išmoktume daugiau?",
+    "Kaip priimu kritiką ir ką iš jos galėčiau pasiimti?",
+    "Ar visiems aišku, kaip turi atrodyti galutinis rezultatas?"
+   ]
+  },
+  {
+   "id": 67,
+   "symbols": [
+    {
+     "s": "Karūnuotas vyras, sėdintis ant suolo ar akmens",
+     "m": "valdžia ir apsauga, bet taip pat nejudrumas"
+    },
+    {
+     "s": "Moneta ant galvos",
+     "m": "mąstymas, kuriame dominuoja turto saugojimas"
+    },
+    {
+     "s": "Moneta, tvirtai laikoma prie krūtinės",
+     "m": "emocinis prisirišimas prie to, kas turima"
+    },
+    {
+     "s": "Dvi monetos po kojomis ir miestas fone",
+     "m": "tvirtas pagrindas, bet kartu ir atsiribojimas nuo žmonių"
+    }
+   ],
+   "story": [
+    "Ketvertas Mažuosiuose arkanuose paprastai yra stabilumas, struktūra ir ribos. Monetų ketverte šis stabilumas tampa labai konkretus: vyras laiko savo turtą, apglėbęs jį savo kūnu. Korta nėra vien neigiama, nes saugumas yra tikras poreikis. Ji klausia kitko: kiek kainuoja laikymasis? Vyras sėdi nuošalyje nuo miesto, jis saugo monetas ir atrodo nebesikalbantis su niekuo.",
+    "Šios kortos pamoka daugeliui skaitytojų yra rasti ribą tarp apdairumo ir užsiblokavimo. Pamatas reikalingas, bet ne tam, kad ant jo sėdėtume, o tam, kad ką nors statytume. Korta gali kalbėti apie saugumo poreikį ir tvarkos jausmą ar plačiau – apie savo ribas, laiką ir jausmus. Ji taip pat gali užduoti klausimą: ar ranka, kuri laiko, dar gali atsiverti?"
+   ],
+   "reversed": "Apversta korta gali reikšti per stiprų įsikibimą, kuris jau žaloja santykius, arba priešingai – netikėtą paleidimą. Kartais tai kontrolės praradimas ir ieškojimas, ką galima paleisti. Ji klausia, ar baimė tapo svarbesnė už pačią vertybę, kurią saugote.",
+   "positions": {
+    "past": "Anksčiau jūs mokėtės kurti saugumą, ir tai davė pamatą, tačiau galėjo ir užverti dalį gyvenimo.",
+    "present": "Dabar akcentuojamas saugumas, tvarka ir kontrolė. Verta paklausti, ar jie jums tarnauja, ar jūs jiems.",
+    "future": "Netrukus gali atsirasti poreikis sustiprinti pamatus ir saugumo jausmą, kad galėtumėte judėti toliau.",
+    "obstacle": "Kliūtis gali būti įsikibimas į turimą ir baimė jį prarasti.",
+    "advice": "Saugokite tai, kas svarbu, bet palikite vietos dalytis ir naujovėms.",
+    "outcome": "Jei rasite saiką, gausite stabilų pagrindą, nuo kurio galima eiti toliau."
+   },
+   "feelings": "Šis žmogus gali jausti poreikį saugoti save ir tai, kas jam brangu, todėl iš pradžių gali atrodyti santūrus ar kontroliuojantis. Tai ne visada reiškia nepalankumą, dažnai tai baimė būti sužeistam. Kantrus, aiškus buvimas šalia gali padėti jam atsipalaiduoti.",
+   "money": "Tema čia yra taupumas, saugumo jausmas ir santykis su turimu. Korta kviečia pažvelgti į tai, ar jūsų saugumas teikia ramybę, ar spaudimą.",
+   "friendship": "Draugystėje korta gali rodyti uždarumą ar sunkumą dalytis. Maži, nuoširdūs atsivėrimo žingsniai dažnai pakanka, kad santykis atgytų.",
+   "spiritual": "Dvasine prasme tai pamoka apie saikingumą ir paleidimą: ką verta išsaugoti, o ką – perduoti toliau. Ramybė dažnai ateina ne iš kontrolės, o iš pasitikėjimo.",
+   "combos": [
+    {
+     "with": 4,
+     "text": "Su Imperatoriumi struktūra ir kontrolė stiprėja: tai gali būti tvirtas pagrindas arba pernelyg griežta tvarka."
+    },
+    {
+     "with": 15,
+     "text": "Su Velniu įsikibimas į turimą gali tapti prisirišimu. Verta paklausti, kas iš tikrųjų jus laiko."
+    },
+    {
+     "with": 9,
+     "text": "Su Atsiskyrėliu saugumo poreikis susijungia su vienatve. Tai gali būti ir sąmoningas atsitraukimas, ir užsisklendimas."
+    },
+    {
+     "with": 69,
+     "text": "Su Monetų šešetu laikymasis pereina į dalijimąsi. Tai pusiausvyros ženklas tarp taupymo ir dosnumo."
+    },
+    {
+     "with": 77,
+     "text": "Su Monetų karaliumi saugumas virsta brandžia, atsakinga valdžia, kuri gali dalytis."
+    }
+   ],
+   "questions": [
+    "Ką aš saugau ir kodėl tai man tiek svarbu?",
+    "Kaip jaustųsi, jei paleisčiau šiek tiek kontrolės?",
+    "Su kuo galėčiau pasidalyti tuo, ką turiu, ir kaip tai galėtume daryti saugiai?"
+   ]
+  },
+  {
+   "id": 68,
+   "symbols": [
+    {
+     "s": "Du sušalę žmonės, einantys per sniegą",
+     "m": "sunkus laikotarpis, išgyvenamas kartu ar greta"
+    },
+    {
+     "s": "Vienas iš jų ant ramentų",
+     "m": "fizinis ar emocinis pažeidžiamumas"
+    },
+    {
+     "s": "Apšviestas vitražo langas su penkiomis monetomis",
+     "m": "pagalba ir prieglobstis, kurio nematome, nes žiūrime žemyn"
+    },
+    {
+     "s": "Skudurais apvynioti drabužiai",
+     "m": "stoka, skurdas, nepriteklius"
+    }
+   ],
+   "story": [
+    "Penketas Mažuosiuose arkanuose paprastai žymi krizę ar sunkumą, kuris išjudina nusistovėjusią tvarką. Monetų penketas šią krizę perkelia į materialų lauką: šaltis, stoka, nesaugumas. Dvi figūros eina kartu, tačiau neatrodo, kad kalbasi: kiekvienas paskendęs savo sunkume. Tuo tarpu šiltas bažnyčios langas yra visai šalia, bet jie jo nemato.",
+    "Tai viena iš kortų, kurių pagrindinė mintis tradiciškai – ne vien liūdesys, bet ir nepastebėta pagalba. Ji nekalba apie tai, kad nuostolis neišvengiamas, o parodo, kaip skaudu jaustis atskirtam. Kai kuriems skaitytojams korta primena, kad prašyti pagalbos nėra silpnumas, o kitiems – kad galima pamatyti, kas jau yra šalia. Kryptis svarbi: laikotarpis sunkus, bet ne amžinas."
+   ],
+   "reversed": "Apversta korta dažnai laikoma pagerėjimo ženklu: pagalba pasirodo, durys atsiveria, šaltis atsitraukia. Tačiau ji gali ir rodyti, kad sunkumas buvo ilgas ir gyjate lėtai, arba kad vis dar vengiate prašyti paramos. Atidžiai pažiūrėkite, ar nenorite pasislėpti nuo to, kas jau ištiesta.",
+   "positions": {
+    "past": "Anksčiau patyrėte stokos ar atskirties laikotarpį, kuris vis dar gali atsiliepti jūsų požiūriui į saugumą.",
+    "present": "Dabar jaučiatės šalto ar sunkaus laikotarpio viduryje. Galbūt pagalba yra arčiau, nei atrodo.",
+    "future": "Netrukus gali tekti susidurti su sunkumu, tačiau prieglobstis taip pat bus šalia.",
+    "obstacle": "Kliūtis – užsidarymas ir gėda prašyti pagalbos.",
+    "advice": "Atsukite žvilgsnį nuo žemės ir pažiūrėkite, kas šalia. Paprašykite konkrečios paramos.",
+    "outcome": "Sunkumas pamažu gali pasibaigti, ypač jei leisite kitiems prisidėti."
+   },
+   "feelings": "Šis žmogus gali jausti nepriteklių ar vienišumą ir nelengvai kalba apie tai. Jo elgesys gali atrodyti atsitraukęs, nors iš tiesų jam reikia paramos. Švelnus, ne primygtinis kvietimas pasikalbėti gali būti svarbesnis nei patarimai.",
+   "money": "Tema čia yra stygiaus jausmas ir ryšys su parama. Korta kalba apie patirtį, o ne apie tai, kad kas nors tikrai atsitiks su jūsų finansais.",
+   "friendship": "Draugystėje korta primena, kad sunkiu metu svarbu neatsitraukti. Kartais pirmas žingsnis – paprasta žinutė, kad jums reikia pokalbio.",
+   "spiritual": "Dvasine prasme tai tamsiosios nakties tema: šaltas laikotarpis, kuriame ieškoma prasmės. Korta kviečia pastebėti šviesos langą ir leisti sau įeiti.",
+   "combos": [
+    {
+     "with": 16,
+     "text": "Su Bokštu staigus smūgis palieka šaltį ir stoką. Šis derinys primena, kad paramos paieška yra svarbiausias žingsnis."
+    },
+    {
+     "with": 17,
+     "text": "Su Žvaigžde viltis ateina po sunkumų. Tai tradiciškai raminantis derinys, kalbantis apie atsigavimą."
+    },
+    {
+     "with": 9,
+     "text": "Su Atsiskyrėliu vienatvė gali sustiprėti. Verta atskirti ramybę nuo atskirties."
+    },
+    {
+     "with": 69,
+     "text": "Su Monetų šešetu pagalba ne tik pasirodo, bet ir tampa praktiška. Tai gali būti ir davimas, ir priėmimas."
+    },
+    {
+     "with": 58,
+     "text": "Su Kardų devynetu nerimas ir stoka sustiprina vienas kitą. Svarbu nepasilikti vienam su mintimis."
+    }
+   ],
+   "questions": [
+    "Kokios pagalbos man dabar tikrai reikia ir ko vengiu paprašyti?",
+    "Kas šalia manęs galėtų būti tas apšviestas langas?",
+    "Ką šis sunkus laikotarpis man parodė apie mano poreikius?"
+   ]
+  },
+  {
+   "id": 69,
+   "symbols": [
+    {
+     "s": "Turtingas pirklys, laikantis svarstykles",
+     "m": "teisingumo ir saiko siekis dalijantis"
+    },
+    {
+     "s": "Dvi ant kelių klūpančios figūros",
+     "m": "priklausomybė nuo kitų pagalbos ir kartu dėkingumas"
+    },
+    {
+     "s": "Pirklio ranka, dalijanti monetas",
+     "m": "davimas, kuris yra sąmoningas pasirinkimas"
+    },
+    {
+     "s": "Šešios monetos, matomos virš ir šalia figūrų",
+     "m": "ištekliai, kurie juda tarp žmonių"
+    }
+   ],
+   "story": [
+    "Šešetas Mažuosiuose arkanuose dažnai reiškia pereinamąjį palengvėjimą po sunkumo, tam tikrą harmoniją ar mainus. Monetų šešete harmonija išreiškiama per davimą ir gavimą: vienas turi daugiau, kiti – mažiau, ir tarp jų juda ištekliai. Šioje kortoje svarbus svarstyklių vaizdas: pirklys nežiūri į monetas, jis matuoja. Tai klausimas apie tai, ar dalijimasis yra teisingas, ar jis kyla iš nuoširdumo, ar iš galios.",
+    "Po penketo, kur pagalba buvo nematoma, šešetas ją atveda į vaizdą. Tačiau korta nėra vien malonė, ji parodo ir galios santykį: davėjas stovi, ėmėjai klūpo. Todėl daugelis skaitytojų joje mato ir dosnumą, ir klausimą apie savigarbą. Tikrasis balansas – kad abi pusės galėtų duoti ir priimti, nepaversdami vienas kito skolininkais."
+   ],
+   "reversed": "Apversta korta gali žymėti nelygų mainų pobūdį: dovana su sąlygomis, nepasitenkinimas, kad atiduodate daugiau nei gaunate, arba nepatogumas priimant. Ji gali kalbėti ir apie skolą, ne tik piniginę, bet ir emocinę. Verta paklausti, ar mainai vis dar sąžiningi abiem pusėms.",
+   "positions": {
+    "past": "Anksčiau jūs gavote arba davėte paramą, kuri paliko pėdsaką jūsų požiūryje į dalijimąsi.",
+    "present": "Dabar svarbi abipusiškumo tema: kas ką duoda, kas ką gauna, ir ar tai jus tenkina.",
+    "future": "Netrukus gali atsirasti galimybė duoti ar priimti pagalbą, kuri pakeis dalykų pusiausvyrą.",
+    "obstacle": "Kliūtis gali būti nelygus pasidalijimas arba jausmas, kad esate skolingi.",
+    "advice": "Pasitikrinkite, ar jūsų davimas kyla iš laisvo noro, ir leiskite sau priimti be gėdos.",
+    "outcome": "Jei išlaikysite sąžiningus mainus, santykiai ir išteklių srautas gali tapti stabilesni."
+   },
+   "feelings": "Šis žmogus gali jausti poreikį atsilyginti ar išlaikyti lygybę, todėl jam svarbu, kad santykis būtų abipusis. Jis gali būti dosnus, bet kartu pastebėti, kas ką duoda. Atviras pokalbis apie lūkesčius padeda išvengti nusivylimų.",
+   "money": "Tema čia yra dalijimasis, atlygis ir sąžiningi mainai. Korta kalba apie santykį tarp davimo ir ėmimo, o ne apie tai, kiek ko bus.",
+   "friendship": "Draugystėje korta rodo abipusę pagalbą ir dėmesį, kai kiekvienas prisideda pagal galimybes. Ji taip pat primena, kad verta pastebėti, jei vienas visada duoda, o kitas tik gauna.",
+   "spiritual": "Dvasine prasme korta kviečia praktikuoti dosnumą be vertinimo ir mokytis priimti be pažeminimo. Abu judesiai yra vienas kito tęsinys.",
+   "combos": [
+    {
+     "with": 8,
+     "text": "Su Stiprybe davimas kyla iš vidinės jėgos ir švelnumo, o ne iš spaudimo."
+    },
+    {
+     "with": 11,
+     "text": "Su Teisingumu mainų sąžiningumas tampa pagrindine tema. Verta pažiūrėti, ar sutarimai aiškūs."
+    },
+    {
+     "with": 6,
+     "text": "Su Mylimaisiais pasirinkimas dalytis tampa sąmoningu ir abipusiu."
+    },
+    {
+     "with": 67,
+     "text": "Su Monetų ketvertu matote dvi pusiausvyros puses: saugojimą ir dalijimąsi. Svarbu rasti saiką."
+    },
+    {
+     "with": 68,
+     "text": "Su Monetų penketu pagalba pagaliau pasiekia tuos, kuriems jos reikėjo."
+    }
+   ],
+   "questions": [
+    "Ar mano davimas ir ėmimas šiuo metu yra subalansuoti?",
+    "Kada man sunku priimti pagalbą ir kodėl?",
+    "Ar duodu todėl, kad noriu, ar todėl, kad jaučiu pareigą?"
+   ]
+  },
+  {
+   "id": 70,
+   "symbols": [
+    {
+     "s": "Jaunas ūkininkas, atsirėmęs į kauptuką",
+     "m": "pertrauka po darbo, kai verta stabtelėti ir pažvelgti"
+    },
+    {
+     "s": "Krūmas su septyniomis monetomis",
+     "m": "darbo vaisiai, kurie dar auga arba dar nesubrendo"
+    },
+    {
+     "s": "Žalia lapija ir sodo aplinka",
+     "m": "gyvybė, kuri vystosi savu tempu"
+    },
+    {
+     "s": "Susimąstęs vyro žvilgsnis",
+     "m": "vertinimas, abejonė ar kantrus laukimas"
+    }
+   ],
+   "story": [
+    "Septynetas Mažuosiuose arkanuose dažnai reiškia išbandymą ar pertrauką, kai pirmasis impulsas jau praėjo. Monetų septynete tai išreikšta ūkininko vaizdu: darbas atliktas, bet derlius dar nesurinktas. Jis neskuba skinti ir neišeina, jis tik žiūri. Šioje kortoje svarbus ne rezultatas, o santykis su laukimu: kantrybė, abejonė, pasitikėjimas procesu.",
+    "Daugelis skaitytojų šią kortą laiko klausimu: ar mano pastangos dera su tuo, ko noriu? Kartais atsakymas yra „taip, tiesiog reikia laiko“, kartais – „laikas keisti požiūrį“. Korta nesako, kad derlius garantuotas, ji tik primena, kad augimas turi savo tempą. Šiek tiek atsitraukti ir įvertinti galima be savęs kaltinimo ar skubėjimo."
+   ],
+   "reversed": "Apversta korta dažnai rodo nekantrumą: norisi greito rezultato, o jo nėra. Ji gali kalbėti apie nusivylimą dėl įdėtų pastangų ar dėl pastangų, kurios neatsipirko taip, kaip tikėjotės. Kartais tai kvietimas pakeisti kryptį, o ne tiesiog dirbti daugiau.",
+   "positions": {
+    "past": "Anksčiau jūs pasėjote tai, kas dabar pamažu auga. Galbūt tuomet nežinojote, kiek laiko tai užtruks.",
+    "present": "Dabar esate pertraukoje: darbas atliktas, bet rezultatas dar nematomas. Tai gera proga įvertinti.",
+    "future": "Netrukus galite pamatyti, ką jūsų pastangos davė, nors rezultatas gali skirtis nuo to, ko tikėjotės.",
+    "obstacle": "Kliūtis – nekantrumas arba abejonė, ar viskas buvo verta.",
+    "advice": "Duokite laiko ir padarykite sąžiningą apžvalgą: kas veikia, o ką reikėtų pakeisti.",
+    "outcome": "Derlius gali būti brandus, jei neskubinsite proceso, bet liksite atidūs krypčiai."
+   },
+   "feelings": "Šis žmogus gali būti susimąstęs apie jus ir yra laukimo etape. Jis nenori skubėti ir pats vertina, ar santykį verta puoselėti. Atvirumas ir kantrybė iš jūsų pusės gali padėti jam jaustis ramiau.",
+   "money": "Tema čia yra ilgalaikės pastangos ir laukimas, kol jos duos vaisių. Korta kalba apie požiūrį į kantrybę, o ne apie tai, ar kas nors pasiteisins.",
+   "friendship": "Draugystėje korta rodo ryšį, kuris auga lėtai ir kuriam reikia laiko. Neverta reikalauti greitų rezultatų, užtenka reguliaraus dėmesio.",
+   "spiritual": "Dvasine prasme korta primena, kad vidinis darbas dažnai duoda vaisių ne iš karto. Tinka sustoti, atsikvėpti ir pasitikėti sėjos ritmu.",
+   "combos": [
+    {
+     "with": 10,
+     "text": "Su Likimo ratu derlius priklauso ir nuo laiko, ir nuo aplinkybių. Kantrybė čia padeda priimti ciklų kaitą."
+    },
+    {
+     "with": 17,
+     "text": "Su Žvaigžde laukimas pripildomas vilties. Tai ramus tikėjimo, kad pastangos nepraeis veltui, derinys."
+    },
+    {
+     "with": 9,
+     "text": "Su Atsiskyrėliu vertinimas tampa vidiniu pasitikrinimu. Tai gera proga ramiai peržvelgti savo kelią."
+    },
+    {
+     "with": 64,
+     "text": "Su Monetų tūzu matote visą ciklą: sėklą ir laiką, kurio jai reikia."
+    },
+    {
+     "with": 71,
+     "text": "Su Monetų aštuonetu po laukimo seka veiksmas. Tai kvietimas grįžti prie darbo su nauja perspektyva."
+    }
+   ],
+   "questions": [
+    "Ką aš sėju ir kiek laiko tam iš tikrųjų reikia?",
+    "Kas man padeda, kai laukimas tampa nekantrumu?",
+    "Ar mano pastangos vis dar atitinka tai, ko noriu?"
+   ]
+  },
+  {
+   "id": 71,
+   "symbols": [
+    {
+     "s": "Amatininkas, sėdintis prie darbastalio ir kalantis monetą",
+     "m": "susitelkimas ir pagarba darbui"
+    },
+    {
+     "s": "Jau pagamintos monetos, išdėstytos ant stulpo ar ant žemės",
+     "m": "kaupiasi patirtis, kiekvienas darbas tampa pagrindu kitam"
+    },
+    {
+     "s": "Plaktukas ir kaltas rankose",
+     "m": "įgūdžiai, išugdyti praktika"
+    },
+    {
+     "s": "Miestas tolumoje",
+     "m": "pasaulis, kuris laukia, bet kuriam dabar nėra dėmesio"
+    }
+   ],
+   "story": [
+    "Aštuonetas Mažuosiuose arkanuose paprastai reiškia judėjimą, ritmą ar darbą po pirmųjų sunkumų. Monetų aštuonete šis judėjimas tampa amatu: viena moneta po kitos, kruopščiai ir be dėmesio blaškymosi. Tai ne korta apie greitą sėkmę, o apie meistriškumą, kuris kyla iš pakartojimų. Atkreipkite dėmesį, kad amatininkas dirba vienas, ir miestas jam netrukdo.",
+    "Daugelis skaitytojų šią kortą mato kaip pagarbą procesui: darbą verta daryti dėl paties darbo, o ne vien dėl rezultato. Ji taip pat primena, kad tobulėjimas yra kasdienė praktika, o ne vienkartinis įvykis. Kita pusė – rizika nepaisyti aplinkos ir užsisklęsti. Todėl korta klausia: ar mano nuolatinis darbas teikia man prasmę, ar jau tapo tik įpročiu?"
+   ],
+   "reversed": "Apversta korta gali žymėti perfekcionizmą, kai darbas niekada neatrodo pakankamai geras, arba priešingai – paviršutiniškumą ir kartojimą be dėmesio. Kartais ji rodo pervargimą nuo to paties darbo. Verta paklausti, ar dar jaučiate ryšį su tuo, ką darote.",
+   "positions": {
+    "past": "Anksčiau jūs įdėjote nemažai pastangų ugdydami įgūdį, kuris dabar yra jūsų stiprybė.",
+    "present": "Dabar tinkamas metas susitelkti ir nuosekliai dirbti. Rezultatas kyla iš kasdienės praktikos.",
+    "future": "Netrukus jūsų įgūdžiai gali būti pastebėti arba panaudoti naujoje srityje.",
+    "obstacle": "Kliūtis – perfekcionizmas arba pernelyg didelis užsisklendimas darbe.",
+    "advice": "Pasirinkite vieną įgūdį ir praktikuokite jį reguliariai. Leiskite sau pradėti nuo pradžių.",
+    "outcome": "Nuoseklus darbas gali duoti stabilią, gerą kokybę, kuria galėsite didžiuotis."
+   },
+   "feelings": "Šis žmogus gali rodyti jausmus per veiksmus ir rūpestį smulkmenomis, o ne per žodžius. Jis gali būti nuoširdus, bet užsiėmęs savo darbu. Pastebėkite, ką jis daro dėl jūsų, ir apie tai pasikalbėkite.",
+   "money": "Tema čia yra darbas, įgūdžiai ir atlygis už kokybę. Korta kalba apie požiūrį į amatą, o ne apie konkrečias pajamas.",
+   "friendship": "Draugystėje korta rodo ryšį, kuris stiprėja per bendrą veiklą ar abipusį mokymąsi. Reguliarumas čia svarbesnis už didelius gestus.",
+   "spiritual": "Dvasine prasme tai praktikos kelias: kasdienis, kantrus, be skubėjimo. Net paprastas pasikartojantis veiksmas gali tapti meditacija.",
+   "combos": [
+    {
+     "with": 1,
+     "text": "Su Magu įgūdis susijungia su ketinimu. Tai tradiciškai stiprus meistriškumo derinys."
+    },
+    {
+     "with": 5,
+     "text": "Su Šventiku amatas perduodamas per mokymą ir tradiciją."
+    },
+    {
+     "with": 9,
+     "text": "Su Atsiskyrėliu darbas tampa tyliu, gilinančiu keliu. Verta saugoti vidinę ramybę."
+    },
+    {
+     "with": 66,
+     "text": "Su Monetų trejetu bendro darbo patirtis tampa asmeniniu meistriškumu."
+    },
+    {
+     "with": 72,
+     "text": "Su Monetų devynetu kruopštus darbas išauga į savarankiškumą ir gerovę."
+    }
+   ],
+   "questions": [
+    "Kokį įgūdį noriu ugdyti kantriai ir be skubėjimo?",
+    "Ar mano perfekcionizmas man padeda, ar trukdo?",
+    "Kada paskutinį kartą dariau ką nors dėl paties darbo malonumo?"
+   ]
+  },
+  {
+   "id": 72,
+   "symbols": [
+    {
+     "s": "Moteris vynuogyne, apsirengusi puošnia gėlėta suknele",
+     "m": "gerovė, užsitarnauta pastangomis, ir pasitenkinimas savimi"
+    },
+    {
+     "s": "Sakalas ant jos pirštinės, galva uždengta gaubtu",
+     "m": "drausmingas instinktas, ugdoma savitvarda"
+    },
+    {
+     "s": "Vynuogių kekės ir lapija",
+     "m": "sodrus derlius ir žemės dosnumas"
+    },
+    {
+     "s": "Sraigė apatiniame kampe",
+     "m": "lėtas, bet užtikrintas ėjimas"
+    },
+    {
+     "s": "Namas ar rūmai tolumoje",
+     "m": "saugus pamatas, ties kuriuo galima sustoti"
+    }
+   ],
+   "story": [
+    "Devynetas Mažuosiuose arkanuose dažnai yra beveik užbaigimas: kelias pasiektas, bet dar ne visiškai. Monetų devynete tai atrodo kaip asmeninė gerovė, kuri užsitarnauta pačios, savarankiškai. Moteris neturi nei partnerio, nei bendruomenės šalia, tačiau neatrodo vieniša: ji ramiai mėgaujasi sodu, kurį pati sukūrė. Sakalas ant jos rankos dažnai aiškinamas kaip ugdoma savikontrolė ir gebėjimas valdyti savo troškimus.",
+    "Korta pagarbiai kalba apie savarankiškumą, bet kartu nepamiršta klausimo: ar gerovė gali būti dalijamasi? Sraigė primena, kad lėtas kelias turi savo vertę. Skaitytojai dažnai šią kortą supranta kaip leidimą pasimėgauti: pripažinti, ką jau pasiekėte, ir nesistengti tuoj pat viską gerinti. Ji taip pat gali paklausti, kiek jūsų saugumas priklauso nuo vienatvės."
+   ],
+   "reversed": "Apversta korta gali žymėti priklausomybę nuo kitų paramos, nesaugumo jausmą ar išlaidavimą, kuriuo bandoma užpildyti tuštumą. Kartais ji rodo, kad pasiektas komfortas yra paviršutiniškas. Verta paklausti, kas iš tiesų jums teikia saugumo ir pasitenkinimo.",
+   "positions": {
+    "past": "Anksčiau jūs išmokote pasikliauti savimi ir sukūrėte savarankiško saugumo jausmą.",
+    "present": "Dabar galite mėgautis tuo, ką pasiekėte, ir pripažinti savo indėlį.",
+    "future": "Netrukus gali ateiti laikotarpis, kai jausitės stabiliau ir laisviau savo sprendimuose.",
+    "obstacle": "Kliūtis – pernelyg didelis užsisklendimas arba nesaugumas, kuris slepiasi už išorinės gerovės.",
+    "advice": "Pasimėgaukite savo vaisiais be kaltės, bet nepamirškite palikti vietos kitiems.",
+    "outcome": "Gali formuotis brandus, savarankiškas saugumas, paremtas jūsų pačių pastangomis."
+   },
+   "feelings": "Šis žmogus greičiausiai vertina savo nepriklausomybę ir gali elgtis santūriai, nors jumis domisi. Jam svarbi laisvė ir pagarba. Pagarba jo erdvei gali padėti santykiui stiprėti natūraliai.",
+   "money": "Tema čia yra savarankiškumas ir pasitenkinimas tuo, ką užsitarnavote. Korta kalba apie santykį su gerove, o ne apie jos garantiją.",
+   "friendship": "Draugystėje korta rodo žmogų, kuris moka gerai jaustis vienas ir todėl gali būti tvirta atrama. Nepamirškite pakviesti jį į savo gyvenimą ir pasidalyti džiaugsmu.",
+   "spiritual": "Dvasine prasme korta kviečia pripažinti vidinę brandą ir mėgautis kasdienybe be nuolatinio savęs tobulinimo. Dėkingumas čia yra viena iš tiesiausių praktikų.",
+   "combos": [
+    {
+     "with": 3,
+     "text": "Su Imperatore gausa ir vaisingumas dera: žemiškas malonumas ir kūryba stiprina vienas kitą."
+    },
+    {
+     "with": 2,
+     "text": "Su Žyne intuicija ir savarankiškumas kuria vidinį pasitikėjimą. Tai kviečia klausytis savęs."
+    },
+    {
+     "with": 19,
+     "text": "Su Saule gerovė sklinda šiluma ir džiaugsmu. Tradiciškai tai šviesus derinys."
+    },
+    {
+     "with": 71,
+     "text": "Su Monetų aštuonetu ilgas darbas pasiekia pirmuosius brandžius vaisius."
+    },
+    {
+     "with": 73,
+     "text": "Su Monetų dešimtuku savarankiška gerovė gali virsti bendra, šeimos ar bendruomenės."
+    }
+   ],
+   "questions": [
+    "Ką jau pasiekiau savo jėgomis ir kaip tai pripažįstu?",
+    "Kas man teikia tikrą saugumą, o kas tik jo regimybę?",
+    "Su kuo norėčiau pasidalyti savo gerove ir džiaugsmu?"
+   ]
+  },
+  {
+   "id": 73,
+   "symbols": [
+    {
+     "s": "Dešimt monetų, išdėstytų pagal Gyvybės medžio schemą",
+     "m": "visuma, sujungianti kartas ir išteklių srautus"
+    },
+    {
+     "s": "Senas vyras su ilgu raštuotu apsiaustu ir šunys šalia",
+     "m": "patirtis, ištikimybė ir šeimos židinys"
+    },
+    {
+     "s": "Pora ir vaikas po arkos",
+     "m": "tęstinumas, kartos, kurios kartu gyvena"
+    },
+    {
+     "s": "Pilis ar miestas už arkos",
+     "m": "šeimos vieta, bendruomenės šaknys"
+    }
+   ],
+   "story": [
+    "Dešimtukai Mažuosiuose arkanuose žymi ciklo pabaigą, kai visa seka pasiekia pilnatvę. Monetų dešimtuke ši pilnatvė yra giminė, namai ir tai, kas perduodama toliau: ne tik daiktai, bet ir įpročiai, vertybės, istorijos. Senas vyras, pora ir vaikas apima tris kartas, o šunys šalia primena apie ištikimybę ir kasdienį artumą. Čia nėra pavienio laimėtojo, yra bendras gyvenimas.",
+    "Korta daugeliui skaitytojų kelia mintį apie šaknis: ką aš paveldėjau ir ką paliksiu? Ji gali kalbėti apie ilgalaikį saugumą, bet taip pat apie šeimos įtampas, nes paveldas ne visada lengvas. Dešimtukas dar nėra tobulas, jis rodo, kad vertingiausia – ryšiai, kurie išlieka laikui bėgant. Kortos klausimas toks: ką aš kuriu, kad galėtų tarnauti ir kitiems?"
+   ],
+   "reversed": "Apversta korta gali žymėti šeimos įtampas, paveldėjimo nesutarimus ar šaknų praradimo jausmą. Kartais ji rodo, kad tradicijos spaudžia, o ne palaiko. Verta paklausti, kas iš to, ką gavote, jums tarnauja, o ką galite palikti.",
+   "positions": {
+    "past": "Anksčiau šeima ar bendruomenė suteikė jums pamatą, kuris vis dar veikia jūsų pasirinkimus.",
+    "present": "Dabar svarbios šeimos, namų ir ilgalaikio saugumo temos. Verta pažvelgti į tai, kas jus laiko.",
+    "future": "Netrukus gali atsirasti galimybė sustiprinti bendrą pamatą, namus ar bendrą projektą.",
+    "obstacle": "Kliūtis – nesutarimai dėl paveldo ar neišsakyti šeimos lūkesčiai.",
+    "advice": "Kalbėkite atvirai su artimaisiais apie tai, ką norite išsaugoti ir ką perduoti.",
+    "outcome": "Ilgalaikis rezultatas gali būti tvirtas bendras pagrindas, kuris tarnaus ir ateinančioms kartoms."
+   },
+   "feelings": "Šis žmogus gali jus matyti kaip dalį savo ilgalaikio gyvenimo vaizdo, o ne tik trumpalaikio ryšio. Jam gali būti svarbūs šeima, stabilumas ir bendras kelias. Paklauskite, kaip jis įsivaizduoja bendrą ateitį, ir pasidalykite savo vizija.",
+   "money": "Tema čia yra ilgalaikis saugumas, šeimos ištekliai ir tai, kas perduodama. Korta kalba apie požiūrį į paveldą, o ne apie konkrečius skaičius.",
+   "friendship": "Draugystėje korta rodo ryšius, kurie tęsiasi dešimtmečius ar apima šeimas. Verta puoselėti tradicijas, nors ir mažas: kasmetinį susitikimą ar bendrą šventę.",
+   "spiritual": "Dvasine prasme korta kviečia susipažinti su šaknimis: protėvių istorijomis, šeimos vertybėmis. Galima paklausti, ką norėtumėte perduoti kitiems.",
+   "combos": [
+    {
+     "with": 19,
+     "text": "Su Saule šeimos šiluma ir džiaugsmas sustiprėja. Šis derinys tradiciškai siejamas su namų šiluma ir bendru gyvenimu."
+    },
+    {
+     "with": 21,
+     "text": "Su Pasauliu ciklas pasiekia pilnatvę: darbas, šeima ir vertybės susijungia."
+    },
+    {
+     "with": 20,
+     "text": "Su Nuosprendžiu šeimos istorija iškyla į paviršių ir kviečia ją permąstyti. Tai gali būti atleidimo ir naujos pradžios ženklas."
+    },
+    {
+     "with": 64,
+     "text": "Su Monetų tūzu matote visą kelią: sėklą ir paveldą, kuriuo ji gali tapti."
+    },
+    {
+     "with": 77,
+     "text": "Su Monetų karaliumi atsakomybė už šeimą ar bendrą turtą tampa brandi ir apgalvota."
+    }
+   ],
+   "questions": [
+    "Ką iš savo šeimos ar šaknų noriu išsaugoti?",
+    "Ką norėčiau perduoti kitiems ir kaip tai darau?",
+    "Kokius neišsakytus lūkesčius reikėtų pasakyti garsiai?"
+   ]
+  },
+  {
+   "id": 74,
+   "symbols": [
+    {
+     "s": "Jaunas žmogus, laikantis monetą aukštai rankose",
+     "m": "tyrinėjimas, susižavėjimas ir dėmesys vienam objektui"
+    },
+    {
+     "s": "Suartas laukas ir žalia pieva",
+     "m": "žemė, paruošta mokymuisi ir augimui"
+    },
+    {
+     "s": "Medžiai ir kalvos tolumoje",
+     "m": "ilgas kelias, kurio dar nematome"
+    }
+   ],
+   "story": [
+    "Pažas Mažuosiuose arkanuose yra pasiuntinys ir mokinys: jaunas, smalsus ir dar nevisiškai įsitraukęs į savo vaidmenį. Monetų pažas stovi lauke ir žiūri į monetą taip, tarsi jos vertę tik pradėtų suprasti. Jis nesiveržia veikti, jis stebi, mokosi ir planuoja. Kaip asmenybės tipas, tai žmogus, kuris žemiškus dalykus vertina rimtai: studentas, pradedantysis, vaikas ar suaugęs, išmokstantis naujo amato.",
+    "Šis tipas yra kruopštus, kantrus, kartais per daug atsargus. Jis nori išmokti dalykus iš pagrindų ir nepasitiki greitais pažadais. Jo stiprybė – smalsumas ir praktiškumas, silpnybė – sąstingis ar pernelyg didelis planavimas. Korta gali reikšti naują žinią apie darbą, mokslus ar išteklius, taip pat vidinę pradedančiojo dalį, kuri nori išmokti ką nors konkretaus."
+   ],
+   "reversed": "Apversta korta gali žymėti atidėliojimą, neaiškius tikslus ar abejingumą mokymuisi. Pažas čia nustoja žiūrėti į monetą ir pasiklysta svajonėse. Taip pat ji gali rodyti nerealistiškus lūkesčius, kai norima rezultatų be pastangų. Verta pasirinkti vieną aiškų mažą tikslą.",
+   "positions": {
+    "past": "Anksčiau jūs buvote pradedantysis kokioje nors srityje, o ta patirtis vis dar formuoja jūsų požiūrį.",
+    "present": "Dabar jūsų smalsumas nukreiptas į konkretų, praktišką dalyką. Mokymasis yra jūsų pagrindinis kelias.",
+    "future": "Netrukus gali atsirasti žinia ar galimybė pradėti mokytis arba kurti ką nors realaus.",
+    "obstacle": "Kliūtis – atidėliojimas arba pernelyg didelis planavimas vietoj veiksmo.",
+    "advice": "Pasirinkite vieną mažą, bet konkretų žingsnį ir žengkite jį. Mokymasis vyksta darant.",
+    "outcome": "Jei išliksite nuoseklūs, pradžia gali išaugti į tvirtą įgūdį ar pasiekimą."
+   },
+   "feelings": "Šis žmogus gali jus vertinti rimtai ir su smalsumu, bet jaustis dar nepasiruošęs didelėms deklaracijoms. Jo jausmai gali vystytis lėtai, per veiksmus ir mažus rūpesčio ženklus. Duokite jam laiko ir būkite aiškūs savo lūkesčiuose.",
+   "money": "Tema čia yra mokymasis ir pirmieji žingsniai tvarkant išteklius. Korta kalba apie požiūrį ir smalsumą, o ne apie konkretų rezultatą.",
+   "friendship": "Draugystėje korta gali žymėti naują pažintį, grįstą bendru domėjimusi ar mokymusi. Taip pat primena, kad geras draugas gali būti ir mokinys, ir mokytojas.",
+   "spiritual": "Dvasine prasme tai pradedančiojo dvasia: nuolankus, bet atviras. Korta kviečia pradėti nuo konkretaus, įžeminto veiksmo, o ne nuo didelių idėjų.",
+   "combos": [
+    {
+     "with": 0,
+     "text": "Su Kvailiu pradedančiojo dvasia sustiprėja: žygis į naują sritį su smalsumu ir atvirumu."
+    },
+    {
+     "with": 1,
+     "text": "Su Magu mokymasis virsta praktika. Turite visas priemones, belieka jas išbandyti."
+    },
+    {
+     "with": 5,
+     "text": "Su Šventiku mokymasis įgauna struktūrą: mokytojas, tradicija ar disciplina padeda žengti pirmus žingsnius."
+    },
+    {
+     "with": 64,
+     "text": "Su Monetų tūzu mokymosi galimybė pasirodo aiškiai. Svarbu ja pasinaudoti."
+    },
+    {
+     "with": 75,
+     "text": "Su Monetų riteriu mokymasis virsta nuosekliu darbu. Pradedantysis ima judėti pastoviu tempu."
+    }
+   ],
+   "questions": [
+    "Ko noriu išmokti iš pagrindų ir kodėl?",
+    "Kas mane stabdo žengti pirmą žingsnį?",
+    "Koks būtų mažiausias žingsnis, kurį galėčiau žengti šiandien?"
+   ]
+  },
+  {
+   "id": 75,
+   "symbols": [
+    {
+     "s": "Riteris su šarvais, laikantis monetą ištiestoje rankoje",
+     "m": "dėmesys vienam tikslui ir atsakomybė už tai, ką neša"
+    },
+    {
+     "s": "Tamsus, stovintis ir ramus žirgas",
+     "m": "patikimumas, atsargus tempas, ištvermė"
+    },
+    {
+     "s": "Suartas ruda žeme laukas",
+     "m": "kasdienis darbas, paruošta dirva"
+    },
+    {
+     "s": "Ąžuolo lapų vainikas ant šalmo ir žirgo galvos",
+     "m": "stiprybė, kantrybė ir ilgaamžiškumas"
+    }
+   ],
+   "story": [
+    "Riteris Mažuosiuose arkanuose yra judėjimas, tačiau kiekvienos kortų eilės riteris juda savaip. Monetų riteris juda lėčiausiai: jo žirgas stovi, jis žiūri į monetą ir svarsto. Tai patikimas, atsakingas, nuoseklus žmogus, kuris nedaro nieko skubotai. Jam svarbu pabaigti, ką pradėjo, ir pabaigti gerai. Jis retai nustebins, bet beveik niekada nenuvils.",
+    "Šio tipo stiprybė – ištikimybė ir kantrybė, silpnybė – užsispyrimas, nenoras keistis ir nuobodulys. Jis mėgsta rutiną ir aiškias taisykles, todėl spontaniškumas jam sunkiai duodasi. Kortoje tai gali reikšti kruopštų darbą, ilgą kelią su aiškiu tikslu arba žmogų, kuris savo rūpestį rodo per veiksmus. Ji kviečia pagerbti tolygų tempą, tačiau prisiminti apie lankstumą."
+   ],
+   "reversed": "Apversta korta dažnai žymi sąstingį, nuobodulį ar užsispyrimą. Riteris stovi vietoje, nes bijo klysti arba nenori keistis. Taip pat gali rodyti pernelyg kruopštų ir lėtą darbą, kuris sustabdo viską aplink. Verta paklausti, ar rutina vis dar tarnauja, ar jau tapo spąstais.",
+   "positions": {
+    "past": "Anksčiau jūs dirbote nuosekliai ir kantriai, ir tai davė tvirtą pagrindą dabartiniam gyvenimui.",
+    "present": "Dabar svarbiausias nuoseklus, patikimas darbas. Judėjimas gali atrodyti lėtas, bet jis kryptingas.",
+    "future": "Netrukus ilgalaikės pastangos gali pradėti duoti pastebimų rezultatų, nors jie ateis ne staiga.",
+    "obstacle": "Kliūtis – užsispyrimas, rutina ar nenoras pakeisti pasirinktą kelią.",
+    "advice": "Išlaikykite tolygų tempą, bet leiskite sau kartais peržvelgti kryptį.",
+    "outcome": "Nuoseklus darbas gali duoti patikimą, ilgai tarnaujantį rezultatą."
+   },
+   "feelings": "Šis žmogus jaučia ištikimybę ir pareigą, bet gali mažai kalbėti apie jausmus. Jo rūpestis išreiškiamas veiksmais: laiku atvykimu, pagalba, laikytais pažadais. Pastebėkite šiuos ženklus ir, jei trūksta žodžių, švelniai paprašykite.",
+   "money": "Tema čia yra nuoseklus darbas ir kantri, nuolatinė pastanga. Korta kalba apie požiūrį į rutiną, o ne apie konkrečią naudą.",
+   "friendship": "Draugystėje korta rodo patikimą žmogų, kuriuo galima pasikliauti sunkiu metu. Tai ryšys, išbandytas laiko, nors gali trūkti spontaniškumo.",
+   "spiritual": "Dvasine prasme korta kviečia kasdienę, kantrią praktiką. Svarbu ne intensyvumas, o tęstinumas, ir pasitikėjimas lėtu tempu.",
+   "combos": [
+    {
+     "with": 7,
+     "text": "Su Vežimu nuoseklumas gauna aiškią kryptį. Šis derinys kalba apie ištvermę ir disciplinuotą judėjimą."
+    },
+    {
+     "with": 8,
+     "text": "Su Stiprybe kantrybė tampa vidine jėga. Tai švelnaus, bet tvirto ėjimo derinys."
+    },
+    {
+     "with": 10,
+     "text": "Su Likimo ratu rutina susiduria su kaita. Kortos kviečia išlikti stabiliems, bet atvirems pokyčiams."
+    },
+    {
+     "with": 71,
+     "text": "Su Monetų aštuonetu kruopštus darbas ir meistriškumas sustiprina vienas kitą."
+    },
+    {
+     "with": 70,
+     "text": "Su Monetų septynetu kantrybė laukiant derliaus. Verta pasitikėti tempu."
+    }
+   ],
+   "questions": [
+    "Kur mano nuoseklumas man tarnauja, o kur jau stabdo?",
+    "Kokiam pokyčiui galėčiau leisti vykti lėtai ir saugiai?",
+    "Ar aš rodau savo rūpestį žodžiais, ar tik darbais?"
+   ]
+  },
+  {
+   "id": 76,
+   "symbols": [
+    {
+     "s": "Karūnuota moteris, sėdinti soste žydinčiame sode",
+     "m": "brandi valdžia, grįsta rūpesčiu ir šiluma"
+    },
+    {
+     "s": "Moneta, laikoma ant jos kelių",
+     "m": "išteklių globa, kuri vertinama ir saugoma"
+    },
+    {
+     "s": "Nedidelis triušis apatiniame kampe",
+     "m": "vaisingumas, švelnumas ir gyvybė"
+    },
+    {
+     "s": "Rožės ir gėlių lanko pavėsis virš sosto",
+     "m": "žemės gausa ir maitinantis aplinkos grožis"
+    },
+    {
+     "s": "Kalnai tolumoje",
+     "m": "tvirtumas ir ramus matymas į toli"
+    }
+   ],
+   "story": [
+    "Karalienė Mažuosiuose arkanuose yra brandi, įvaldžiusi elemento vidinę pusę. Monetų karalienė – žemiškos globos įsikūnijimas: ji kuria jaukią, gyvą aplinką ir rūpinasi, kad aplinkiniai turėtų, ko jiems reikia. Karalienė sėdi sode, kuris žydi, nes juo rūpinamasi. Tai praktiška, šilta ir dosni asmenybė, kuri sugeba derinti materialų saugumą su jautrumu.",
+    "Kaip tipas, tai žmogus, kuris pasirūpina namais, stalu, savijauta ir kasdienėmis smulkmenomis. Jos stiprybė – patikimumas ir dosnumas, silpnybė – savęs apleidimas rūpinantis kitais ir polinkis viską nešti ant savo pečių. Kortoje tai gali būti tiek išorinė figūra, tiek jūsų pačių globėjiška pusė. Ji klausia: ar sodas, kuriuo rūpinatės, apima ir jus?"
+   ],
+   "reversed": "Apversta korta gali žymėti persidirbimą, savęs apleidimą ar nerimą dėl išteklių. Kartais globa tampa kontrole arba rūpestis virsta materializmu, o namų jaukumas – našta. Verta paklausti, kas pasirūpina rūpintoju ir ar nesiekiate įrodyti savo vertės darbu.",
+   "positions": {
+    "past": "Anksčiau jūs patyrėte rūpestį arba patys buvote globėjas, ir tai suformavo jūsų požiūrį į saugumą.",
+    "present": "Dabar svarbios globos, namų ir praktinio rūpesčio temos. Tinkamas metas sukurti šilumą aplink save.",
+    "future": "Netrukus gali atsirasti galimybė sukurti jaukesnę, saugesnę aplinką sau ar artimiesiems.",
+    "obstacle": "Kliūtis – savęs apleidimas arba pernelyg didelis noras viską kontroliuoti.",
+    "advice": "Pasirūpinkite savimi taip pat, kaip rūpinatės kitais. Dalinkitės užduotimis.",
+    "outcome": "Gali susiformuoti šilta, gyvybinga aplinka, kurioje gera visiems, įskaitant jus."
+   },
+   "feelings": "Šis žmogus greičiausiai jaučia šilumą ir norą jumis pasirūpinti, dažnai per konkrečius veiksmus: maistą, pagalbą, buvimą šalia. Jis gali sunkiai prašyti, kai jam pačiam ko nors reikia. Atsilyginkite rūpesčiu ir paklauskite, kaip jis jaučiasi.",
+   "money": "Tema čia yra išteklių globa, namų ūkis ir dosnumas su saiku. Korta kalba apie požiūrį į rūpestį, o ne apie finansinį rezultatą.",
+   "friendship": "Draugystėje korta rodo žmogų, kuris sukuria saugią erdvę ir primena apie rūpestį. Svarbu leisti jam ir priimti, ne tik duoti.",
+   "spiritual": "Dvasine prasme korta kviečia susitikti su žeme per sodą, maistą, kūną ir kasdienius ritualus. Rūpestis savimi čia yra dvasinės praktikos dalis.",
+   "combos": [
+    {
+     "with": 3,
+     "text": "Su Imperatore gausa ir globa dera: tai derinys apie kūrybą, namus ir gyvybingumą."
+    },
+    {
+     "with": 2,
+     "text": "Su Žyne praktiškas rūpestis dera su intuicija. Verta paklausyti vidinio balso."
+    },
+    {
+     "with": 17,
+     "text": "Su Žvaigžde globa atneša ramybę ir viltį. Tradiciškai tai raminantis derinys."
+    },
+    {
+     "with": 72,
+     "text": "Su Monetų devynetu rūpestis ir savarankiškumas užtikrina gerovę, kuria galima dalytis."
+    },
+    {
+     "with": 69,
+     "text": "Su Monetų šešetu rūpestis virsta dosnumu: globa, kuria dalijamasi sąžiningai."
+    }
+   ],
+   "questions": [
+    "Kaip aš rūpinuosi kitais ir kaip savimi?",
+    "Kas man teikia namų šilumą ir kaip galėčiau jos padidinti?",
+    "Ar prašau pagalbos tada, kai jos reikia?"
+   ]
+  },
+  {
+   "id": 77,
+   "symbols": [
+    {
+     "s": "Karūnuotas vyras, sėdintis soste su jaučių raižiniais",
+     "m": "jėga, pastovumas ir žemės vaisingumas"
+    },
+    {
+     "s": "Moneta ant kelio ir skeptras kitoje rankoje",
+     "m": "turtas ir valdžia, kuriais naudojamasi atsakingai"
+    },
+    {
+     "s": "Apsiaustas su vynuogių kekėmis",
+     "m": "derlius, pasiektas per daugelį metų"
+    },
+    {
+     "s": "Pilis tolumoje ir sodas aplink sostą",
+     "m": "kuriama ir saugoma teritorija, bendruomenės pamatas"
+    }
+   ],
+   "story": [
+    "Karalius Mažuosiuose arkanuose yra elemento vaisių įvaldymas. Monetų karalius sėdi ten, kur kiti tik siekia: jis pastatė savo namus, užsitikrino išteklių ir dabar moka jais naudotis. Jaučių raižiniai ant sosto sieja jį su jėga ir žeme, o vynuogės – su ilgai brandintu derliumi. Tai ramus, patikimas lyderis, kuris nesiskubina įrodinėti, nes jo darbas kalba pats.",
+    "Kaip asmenybės tipas, tai žmogus, kuris vertina stabilumą, patirtį ir praktiškumą. Jo stiprybė – gebėjimas sukurti saugumą aplinkiniams, silpnybė – užsispyrimas ir šykštumas, kai valdžia tampa vertybe savaime. Kortoje tai gali būti tiek išorinė figūra, tiek jūsų pačių atsakingoji pusė. Jis klausia: kam naudoju savo turimus išteklius ir ar mano stabilumas palieka vietos kitiems?"
+   ],
+   "reversed": "Apversta korta gali žymėti godumą, šykštumą ar nelanksčią nuostatą. Valdžia čia virsta kontrole, o saugumas – užsisklendimu. Ji taip pat gali rodyti sunkumus su savo nuosavybe ar atsakomybėmis. Verta paklausti, ar jūsų stabilumas tarnauja ir kitiems, ar tik jums.",
+   "positions": {
+    "past": "Anksčiau jūs sukūrėte stabilų pagrindą, ir tai dabar yra jūsų jėga. Patirtis, įgyta tada, tebėra vertinga.",
+    "present": "Dabar svarbios atsakomybė, stabilumas ir brandus požiūris į išteklius. Esate padėtyje, kurioje galite kurti.",
+    "future": "Netrukus gali atsirasti galimybė perimti daugiau atsakomybės arba sustiprinti savo padėtį.",
+    "obstacle": "Kliūtis – užsispyrimas, kontrolė ar nenoras dalytis savo patirtimi ir ištekliais.",
+    "advice": "Veikite ramiai ir atsakingai, dalykitės tuo, ką žinote. Saugokite, bet nesuakmenėkite.",
+    "outcome": "Gali susiformuoti ilgalaikė gerovė ir pagarba, grįsta darbu ir sąžiningumu."
+   },
+   "feelings": "Šis žmogus tikriausiai jaučia pagarbą ir norą jus apsaugoti, tačiau gali sunkiai kalbėti apie jausmus. Jis rodo ryšį per patikimumą ir konkrečią pagalbą. Rodykite jam, kad vertinate ne tik jo darbus, bet ir jį patį.",
+   "money": "Tema čia yra brandus, atsakingas požiūris į išteklius ir jų valdymą. Korta kalba apie santykį su turimu, o ne apie tai, kiek jo bus.",
+   "friendship": "Draugystėje korta rodo žmogų, kuris yra tvirta atrama ir patikimas patarėjas. Tarpusavio dalijimasis jausmais ir silpnybėmis gali dar labiau sustiprinti draugystę.",
+   "spiritual": "Dvasine prasme korta kviečia suvokti savo atsakomybę už žemę, bendruomenę ir savo vidinį sodą. Brandi dvasia moka ne tik kaupti, bet ir dalytis.",
+   "combos": [
+    {
+     "with": 4,
+     "text": "Su Imperatoriumi struktūra ir valdžia stiprėja. Pasirūpinkite, kad tvarka neužgniaužtų gyvybės."
+    },
+    {
+     "with": 11,
+     "text": "Su Teisingumu sprendimai remiasi sąžiningumu ir atsakomybe. Šis derinys tradiciškai siejamas su tvirtumu."
+    },
+    {
+     "with": 19,
+     "text": "Su Saule stabilumas sklinda šiluma ir džiaugsmu. Valdžia čia tampa dosnumo šaltiniu."
+    },
+    {
+     "with": 67,
+     "text": "Su Monetų ketvertu matote valdžios dvi puses: saugumą ir pavojų užsiverti."
+    },
+    {
+     "with": 73,
+     "text": "Su Monetų dešimtuku brandus lyderis kuria pamatą ateinančioms kartoms."
+    }
+   ],
+   "questions": [
+    "Kokią stabilią vietą jau sukūriau ir kam ji tarnauja?",
+    "Kur mano tvirtumas virsta užsispyrimu?",
+    "Ką galėčiau perduoti kitiems iš savo patirties?"
+   ]
+  }
+ ]
+}

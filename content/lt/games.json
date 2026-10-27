@@ -1,0 +1,419 @@
+{
+ "persona": {
+  "title": "Kokia jūsų taro korta?",
+  "lede": "Atsakykite į aštuonis klausimus pirmojo impulso vedami – ir pamatysite, kuri Didžiojo arkano korta šiandien jums artimiausia.",
+  "note": "Tai žaismingas savistabos testas, o ne psichologinis tyrimas: rezultatas niekaip nenusako, kas jūs esate, ir neturi mokslinio pagrindo. Naudokite jį kaip pokalbio su savimi pradžią.",
+  "questions": [
+   {
+    "q": "Jums pasitaikė laisvas vakaras. Kaip jį praleistumėte?",
+    "answers": [
+     {
+      "t": "Išbandyčiau ką nors nauja – receptą, įgūdį ar idėją, kurią seniai norėjau pradėti.",
+      "p": {
+       "1": 2,
+       "7": 1
+      }
+     },
+     {
+      "t": "Pabūčiau ramybėje su knyga ar savo mintimis – tyla – mano geriausias poilsis.",
+      "p": {
+       "9": 2,
+       "2": 1
+      }
+     },
+     {
+      "t": "Pakviesčiau draugus, padengčiau stalą ir pasirūpinčiau, kad visiems būtų gera.",
+      "p": {
+       "3": 2,
+       "19": 1
+      }
+     },
+     {
+      "t": "Sutvarkyčiau namų reikalus ir savaitės planus – tada galiu ramiai atsipūsti.",
+      "p": {
+       "4": 2,
+       "17": 1
+      }
+     }
+    ]
+   },
+   {
+    "q": "Kai reikia priimti sunkų sprendimą, dažniausiai jūs...",
+    "answers": [
+     {
+      "t": "įsiklausau į vidinį balsą ir leidžiu atsakymui subręsti.",
+      "p": {
+       "2": 2,
+       "9": 1
+      }
+     },
+     {
+      "t": "pasikalbu su kuo nors lengvai ir šmaikščiai – sprendimas dažnai atsiranda pats.",
+      "p": {
+       "19": 2,
+       "1": 1
+      }
+     },
+     {
+      "t": "giliai įkvepiu ir pasitikiu, kad viskas susidėlios į savo vietas.",
+      "p": {
+       "17": 2,
+       "3": 1
+      }
+     },
+     {
+      "t": "išsikeliu aiškų tikslą ir nuosekliai jo siekiu.",
+      "p": {
+       "7": 2,
+       "4": 1
+      }
+     }
+    ]
+   },
+   {
+    "q": "Draugai greičiausiai pasakytų, kad geriausiai jums sekasi...",
+    "answers": [
+     {
+      "t": "kurti jaukumą ir rūpintis kitais.",
+      "p": {
+       "3": 2,
+       "19": 1
+      }
+     },
+     {
+      "t": "nepasiduoti ir pasiekti tai, ką užsibrėžiate.",
+      "p": {
+       "7": 2,
+       "4": 1
+      }
+     },
+     {
+      "t": "rasti sumanų sprendimą ten, kur kiti mato aklavietę.",
+      "p": {
+       "1": 2,
+       "9": 1
+      }
+     },
+     {
+      "t": "pajusti, kas iš tikrųjų vyksta po žodžiais.",
+      "p": {
+       "2": 2,
+       "17": 1
+      }
+     }
+    ]
+   },
+   {
+    "q": "Kas jums svarbiausia ilgoje gyvenimo kelionėje?",
+    "answers": [
+     {
+      "t": "Viltis ir pasitikėjimas – kad ir kas nutiktų, išlikti atviram gėriui.",
+      "p": {
+       "17": 2,
+       "3": 1
+      }
+     },
+     {
+      "t": "Suprasti save iki gelmių, net jei tam tenka kurį laiką pabūti nuošalyje.",
+      "p": {
+       "9": 2,
+       "2": 1
+      }
+     },
+     {
+      "t": "Tvirtas pagrindas: aiškios taisyklės, atsakomybė, užbaigti darbai.",
+      "p": {
+       "4": 2,
+       "7": 1
+      }
+     },
+     {
+      "t": "Džiaugsmas ir smalsumas – kad kiekviena diena turėtų kuo nors sudominti.",
+      "p": {
+       "19": 2,
+       "1": 1
+      }
+     }
+    ]
+   },
+   {
+    "q": "Kaip elgiatės, kai planai staiga sugriūva?",
+    "answers": [
+     {
+      "t": "Greitai sugalvoju kitą būdą ir net pasidžiaugiu proga išbandyti ką nors nauja.",
+      "p": {
+       "1": 2,
+       "19": 1
+      }
+     },
+     {
+      "t": "Trumpam sustoju, pajaučiu, ko man iš tikrųjų reikia, ir pasirūpinu savimi.",
+      "p": {
+       "2": 2,
+       "3": 1
+      }
+     },
+     {
+      "t": "Perkuriu planą, paskirstau darbus ir vedu reikalą toliau.",
+      "p": {
+       "4": 2,
+       "7": 1
+      }
+     },
+     {
+      "t": "Pasitelkiu kantrybę ir tikiu, kad po audros ateis giedresnis laikas.",
+      "p": {
+       "17": 2,
+       "9": 1
+      }
+     }
+    ]
+   },
+   {
+    "q": "Kokia aplinka jums suteikia daugiausia jėgų?",
+    "answers": [
+     {
+      "t": "Judri, kupina užduočių – man patinka justi pažangą.",
+      "p": {
+       "7": 2,
+       "1": 1
+      }
+     },
+     {
+      "t": "Nuošali ir rami, kurioje galiu likti su savo mintimis.",
+      "p": {
+       "9": 2,
+       "2": 1
+      }
+     },
+     {
+      "t": "Saulėta ir atvira, kur daug šviesos ir šypsenų.",
+      "p": {
+       "19": 2,
+       "17": 1
+      }
+     },
+     {
+      "t": "Jauki ir tvarkinga: gėlės, švelnios medžiagos, geras maistas.",
+      "p": {
+       "3": 2,
+       "4": 1
+      }
+     }
+    ]
+   },
+   {
+    "q": "Kaip paprastai pradedate naują bendrą reikalą?",
+    "answers": [
+     {
+      "t": "Viską apgalvoju iš tolo ir žengiu tik tada, kai žinau kryptį.",
+      "p": {
+       "9": 2,
+       "7": 1
+      }
+     },
+     {
+      "t": "Pradedu su pasitikėjimu ir geromis nuotaikomis – sėkmė dažnai ateina su atvirumu.",
+      "p": {
+       "17": 2,
+       "19": 1
+      }
+     },
+     {
+      "t": "Greitai imuosi veikti ir parodau, kaip tai galima padaryti sumaniai.",
+      "p": {
+       "1": 2,
+       "4": 1
+      }
+     },
+     {
+      "t": "Pirmiausia pasirūpinu, kad žmonės jaustųsi laukiami ir patogiai.",
+      "p": {
+       "3": 2,
+       "2": 1
+      }
+     }
+    ]
+   },
+   {
+    "q": "Kuris sakinys jums artimiausias?",
+    "answers": [
+     {
+      "t": "Gyvenimas per trumpas, kad nesidžiaugtum.",
+      "p": {
+       "19": 2,
+       "1": 1
+      }
+     },
+     {
+      "t": "Tyliai matau daugiau, nei sakau.",
+      "p": {
+       "2": 2,
+       "17": 1
+      }
+     },
+     {
+      "t": "Kelias eina pirmyn, o aš – prie jo vairo.",
+      "p": {
+       "7": 2,
+       "3": 1
+      }
+     },
+     {
+      "t": "Tvarka ir atsakomybė – mano atrama.",
+      "p": {
+       "4": 2,
+       "9": 1
+      }
+     }
+    ]
+   }
+  ],
+  "results": {
+   "1": {
+    "title": "Magas",
+    "text": "Jūsų korta – Magas, išradingumo ir valios simbolis. Rider–Waite–Smith kaladėje jis viena ranka pakelia lazdelę, o ant stalo prieš jį gulinčiuose daiktuose atpažįstami keturių Mažųjų arkanų ženklai: viskas, ko reikia, jau po ranka. Panašiai ir jūs mėgstate imtis iniciatyvos, ieškoti sumanių kelių ir idėją paversti veiksmu.",
+    "strength": "Sugebate greitai pradėti ir rasti išeitį ten, kur kitiems atrodo aklavietė.",
+    "tip": "Prieš lėkdami į naują darbą, paklauskite savęs, ar jis tikrai jūsų, ir tik tada pakelkite lazdelę."
+   },
+   "2": {
+    "title": "Žynė",
+    "text": "Jūsų korta – Žynė, tylos ir vidinio balso simbolis. Rider–Waite–Smith kaladėje ji sėdi tarp dviejų kolonų, o prie jos kojų matyti pusmėnulis. Jūs, panašiai kaip ji, linkę stebėti, įsiklausyti ir pastebėti tai, kas lieka nepasakyta. Nuojauta ir ramus budrumas jums dažnai pasako daugiau nei garsūs argumentai.",
+    "strength": "Jūsų stiprybė – jautrus įžvalgumas ir gebėjimas išlaukti.",
+    "tip": "Kartais tai, ką jaučiate, pasakykite garsiai – ne visi moka skaityti tylą taip gerai kaip jūs."
+   },
+   "3": {
+    "title": "Imperatorė",
+    "text": "Jūsų korta – Imperatorė, kūrybos, jaukumo ir gausos simbolis. Rider–Waite–Smith kaladėje ji sėdi gamtos apsuptyje, šalia bręsta javų laukas, o galvą puošia dvylikos žvaigždžių vainikas. Panašiai ir jūs mėgstate puoselėti – žmones, namus, grožį ar idėjas – ir sugebate sukurti vietą, kurioje kiti jaučiasi gerai. Jums svarbūs jausmai, skonis ir paprasti gyvenimo malonumai.",
+    "strength": "Turite dovaną sukurti šilumą ir leisti viskam augti.",
+    "tip": "Nepamirškite pasirūpinti ir savimi – puoselėtojui irgi reikia poilsio (ir antros porcijos desertui)."
+   },
+   "4": {
+    "title": "Imperatorius",
+    "text": "Jūsų korta – Imperatorius, struktūros, atsakomybės ir tvirtos valios simbolis. Rider–Waite–Smith kaladėje jis sėdi soste, papuoštame avinų galvomis, o už jo kyla uolėtas kalnas. Jums artimi aiškumas, planai ir pastovumas, o kitiems dažnai suteikiate saugumo jausmą. Svarbu laikytis duoto žodžio ir užbaigti pradėtus darbus.",
+    "strength": "Esate patikimas žmogus, gebantis kurti tvarką ir imtis atsakomybės.",
+    "tip": "Palikite vietos ir spontaniškumui – ne viskas gyvenime privalo tilpti į planą (nors planas, žinoma, gražus)."
+   },
+   "7": {
+    "title": "Vežimas",
+    "text": "Jūsų korta – Vežimas, siekio ir ryžto simbolis. Rider–Waite–Smith kaladėje šarvuotas vežėjas stovi vežime, kurį traukia du sfinksai. Panašiai ir jūs, pasirinkę kryptį, ryžtingai judate pirmyn ir nelinkę pasiduoti. Jums svarbūs tikslai, pergalės ir jausmas, kad vairas – jūsų rankose.",
+    "strength": "Jūsų stiprybė – ryžtas ir gebėjimas sutelkti jėgas.",
+    "tip": "Retkarčiais sustokite pasidairyti – kelionė verta dėmesio ne mažiau nei tikslas."
+   },
+   "9": {
+    "title": "Atsiskyrėlis",
+    "text": "Jūsų korta – Atsiskyrėlis, savistabos ir gelmės simbolis. Rider–Waite–Smith kaladėje jis stovi kalno viršūnėje su žibintu ir lazda. Jums, panašiai kaip jam, brangi tyla, apmąstymai ir gilus, ne paviršutiniškas ryšys su savimi. Turite savo vidinę šviesą, kuria pasitikite, ir mielai ja dalijatės su tais, kas nori.",
+    "strength": "Mąstote giliai ir nebijote pabūti vieni su savimi.",
+    "tip": "Kartais pakvieskite ir kitą prie savo žibinto – dalijama šviesa nesumažėja."
+   },
+   "17": {
+    "title": "Žvaigždė",
+    "text": "Jūsų korta – Žvaigždė, vilties ir ramaus atsinaujinimo simbolis. Rider–Waite–Smith kaladėje klūpanti moteris pila vandenį iš dviejų ąsočių po didele žvaigžde. Panašiai ir jūs net sunkesniu metu išlaikote atvirumą ir tikėjimą, kad bus geriau. Jūsų ramybė dažnai padeda aplinkiniams atsikvėpti.",
+    "strength": "Jūsų stiprybė – viltis, atvirumas ir ramus pasitikėjimas.",
+    "tip": "Viltį verta sutvirtinti mažais, konkrečiais žingsniais."
+   },
+   "19": {
+    "title": "Saulė",
+    "text": "Jūsų korta – Saulė, džiaugsmo, gyvybingumo ir atvirumo simbolis. Rider–Waite–Smith kaladėje po didele saule ant balto žirgo sėdi vaikas, o už jo žydi saulėgrąžos. Panašiai ir jūs paprastai skleidžiate šilumą, mėgstate bendrauti ir greitai pastebite gerus dalykus. Šalia jūsų kiti dažnai jaučiasi lengviau.",
+    "strength": "Gebate pradžiuginti ir užkrėsti optimizmu.",
+    "tip": "Leiskite sau ir ramesnes dienas – džiaugsmui nebūtinas nuolatinis blizgesys."
+   }
+  }
+ },
+ "compat": {
+  "lede": "Pasirinkite du ženklus ir pažiūrėkite, ką apie jų derinį sako astrologijos tradicija – pagal stichijas ir modalumus (kardinalinį, fiksuotą ir kintamą).",
+  "note": "Astrologinis suderinamumas – tradicija ir simbolinė kalba, o ne prognozė. Tikri santykiai priklauso nuo žmonių: nuo pagarbos, kalbėjimo, noro mokytis ir pasirinkimų, kuriuos darote kasdien.",
+  "elements": {
+   "ugnis-ugnis": "Dvi ugnys tradiciškai laikomos energingu, kibirkščiuojančiu deriniu: abu mėgsta veiksmą, entuziazmą ir atvirumą. Svarbu dalytis dėmesio centru ir kartais leisti ugniai atslūgti, kad ji neišdegintų pati savęs.",
+   "ugnis-zeme": "Ugnis suteikia žemei įkvėpimo ir drąsos, o žemė ugniai – pastovumo bei praktiškumo, nors tempas dažnai skiriasi: ugnis skuba, žemė brandina. Kai abu gerbia vienas kito ritmą, ugnis gauna židinį, o žemė – šilumą.",
+   "ugnis-oras": "Tradiciškai tai viena palankiausių porų: oras pakursto ugnį, o ugnis suteikia orui kryptį ir judesį. Idėjos ir entuziazmas čia keičiasi lengvai, tik verta nepamiršti ir ramesnių, kasdienių reikalų.",
+   "ugnis-vanduo": "Ugnis ir vanduo – skirtingos stichijos: viena veržli ir atvira, kita jautri ir uždaresnė. Tradicija čia mato ir įtampą, ir galimybę – kai vienas išmoksta švelnumo, o kitas drąsos, jie gali išmokyti vienas kitą to, ko trūksta.",
+   "zeme-zeme": "Dvi žemės dažnai randa bendrą kalbą per kasdienį patikimumą, ištvermę ir panašų požiūrį į saugumą. Joms verta saugotis rutinos – pridėti spontaniškumo ir leisti sau žaisti.",
+   "zeme-oras": "Žemė ir oras mąsto skirtingai: žemė mėgsta konkretumą, oras – idėjas ir pokalbius. Tradiciškai tai laikoma sudėtingesniu deriniu, bet jis gali būti vaisingas, jei idėjos pasiekia dirvą, o dirva gauna naujų sėklų.",
+   "zeme-vanduo": "Vanduo drėkina žemę, o žemė suteikia vandeniui krantus – tradiciškai tai viena nuoširdžiausių, auginančių stichijų porų. Čia dažnai ieškoma saugumo, jaukumo ir ištikimybės, o svarbiausia – nepamiršti apie jausmus kalbėti garsiai.",
+   "oras-oras": "Du oro ženklai paprastai lengvai bendrauja, dalijasi idėjomis ir smalsumu. Jiems verta atsiminti, kad jausmus reikia ne tik aptarti, bet ir išgyventi kartu.",
+   "oras-vanduo": "Oras mąsto, vanduo jaučia, todėl iš pradžių gali atrodyti, kad jie kalba skirtingomis kalbomis. Tradiciškai sakoma, kad kantrybė ir klausymasis gali šį derinį paversti gražia protų ir jausmų sąjunga.",
+   "vanduo-vanduo": "Du vandens ženklai tradiciškai laikomi giliai jaučiančia pora, kuri lengvai supranta nuotaiką be žodžių. Svarbu išsaugoti ir savo ribas, kad kartu neįsisiūbuotų nerimas ar užsisklendimas."
+  },
+  "pairs": {
+   "0-0": "Abu gimę po Avino ženklu, todėl abu į ryšį atneša tą patį: drąsą pradėti. Bendra ugnies stichija ir kardinalinis modalumas tradiciškai reiškia, kad vienas kitą supranta be žodžių, bet ir vienas kito silpnybes mato lyg veidrodyje. Praktiškai verta pasidalyti vaidmenimis ir prisiminti, kad panašumas dar nereiškia vienodų poreikių.",
+   "0-1": "Avinas į porą įneša drąsą pradėti, o Jautis – pastovumą ir kantrybę. Tai zodiako kaimynai: stichijos (ugnis ir žemė) skiriasi, o Avinas – kardinalinis ženklas, Jautis – fiksuotas ženklas. Skirtumai gali tapti pokalbių tema, jei jais domimasi, o ne vertinama.",
+   "0-2": "Šioje poroje Avinas dovanoja drąsą pradėti, Dvyniai – smalsumą ir lengvumą. Zodiake šie ženklai sudaro sekstilį, tradiciškai laikomą palankiu kampu; ugnis ir oras papildo viena kitą (oras kursto ugnį, o ugnis suteikia orui judesio), o Avinas – kardinalinis ženklas, Dvyniai – kintamas ženklas. Jei abu mielai mokosi vienas iš kito, ši galimybė gali tapti tvirtu ryšio pagrindu.",
+   "0-3": "Su Avinu tradiciškai siejama drąsa pradėti, su Vėžiu – rūpestis ir jautrumas. Tai ugnies ir vandens derinys, o abu – kardinaliniai ženklai; tradicija tokią padėtį vadina kvadratu ir sieja su trintimi, bet trintis dažnai skatina augti. Aiškios ribos ir nuoširdus kalbėjimas padeda įtampai nesusikaupti.",
+   "0-4": "Jei Avinas primena drąsą pradėti, tai Liūtas – šilumą ir dosnumą. Šie ženklai sudaro trigoną – tradiciškai palankų kampą; juos jungia bendra ugnies stichija, o Avinas – kardinalinis ženklas, Liūtas – fiksuotas ženklas. Nepamirškite pasakyti vienas kitam padėkos: tai, kas lengva, dažnai lieka nepastebėta.",
+   "0-5": "Avinas atneša drąsą pradėti, o Mergelė – dėmesį detalėms. Kvinkunksas tradicijoje siejamas su prisitaikymu: ugnis ir žemė stichijos skiriasi, be to, Avinas – kardinalinis ženklas, Mergelė – kintamas ženklas. Jei abu mielai derinasi, skirtumai gali tapti pranašumu – kiekvienas mato tai, ko kitas nepastebi.",
+   "0-6": "Avinas į porą įneša drąsą pradėti, o Svarstyklės – pusiausvyros jausmą ir derinimo meną. Tai priešingi zodiako ženklai, tačiau ugnis ir oras tradiciškai laikomos viena kitą papildančiomis stichijomis (oras kursto ugnį, o ugnis suteikia orui judesio); abu – kardinaliniai ženklai. Pusiausvyra čia ne kompromisas, o abiejų stiprybių sudėjimas.",
+   "0-7": "Šioje poroje Avinas dovanoja drąsą pradėti, Skorpionas – gilumą ir ištikimybę. Zodiake šie ženklai sudaro kvinkunksą – kampą, kurį tradicija laiko ne tiek lengvu, kiek reikalaujančiu derinimosi; stichijos čia ugnis ir vanduo, o Avinas – kardinalinis ženklas, Skorpionas – fiksuotas ženklas. Tradicija šią padėtį sieja su prisitaikymu: galima pritaikyti savo ritmą kito poreikiams, likdamas savimi.",
+   "0-8": "Su Avinu tradiciškai siejama drąsa pradėti, su Šauliu – optimizmas ir laisvės dvasia. Bendra ugnies stichija ir trigonas, tradiciškai laikomas lengvu kampu, suteikia natūralų artumo pojūtį; Avinas – kardinalinis ženklas, Šaulys – kintamas ženklas. Lengvumas – dovana, bet augti padeda ir tai, kas šiek tiek išmuša iš įpročio.",
+   "0-9": "Jei Avinas primena drąsą pradėti, tai Ožiaragis – pareigingumą ir ištvermę. Tai ugnies ir žemės derinys, o abu – kardinaliniai ženklai; tradicija tokią padėtį vadina kvadratu ir sieja su trintimi, bet trintis dažnai skatina augti. Verta turėti savo erdvės ir bendrą ritualą, pavyzdžiui, ramų pasivaikščiojimą po sunkesnio pokalbio.",
+   "0-10": "Avinas atneša drąsą pradėti, o Vandenis – originalumą ir nepriklausomumą. Tradicinėje astrologijoje ugnis ir oras laikomos palankiu, papildančiu deriniu (oras kursto ugnį, o ugnis suteikia orui judesio), o Avinas – kardinalinis ženklas, Vandenis – fiksuotas ženklas. Pradžioje verta daugiau klausti ir mažiau spėlioti – papildomumas atsiskleidžia pokalbyje.",
+   "0-11": "Avinas į porą įneša drąsą pradėti, o Žuvys – empatiją ir vaizduotę. Nors Avinas ir Žuvys zodiake gretimi, jų stichijos – ugnis ir vanduo – nesutampa, o Avinas – kardinalinis ženklas, Žuvys – kintamas ženklas. Skirtumai gali tapti pokalbių tema, jei jais domimasi, o ne vertinama.",
+   "1-1": "Abiejų ženklas tas pats – Jautis, o su juo tradiciškai siejama pastovumas ir kantrybė. Abiejų ženklų žemės stichija ir fiksuotas modalumas tradiciškai siejami su panašiu temperamentu – su visais privalumais ir tomis pačiomis aklosiomis dėmėmis. Praktiškai verta pasidalyti vaidmenimis ir prisiminti, kad panašumas dar nereiškia vienodų poreikių.",
+   "1-2": "Jautis atneša pastovumą ir kantrybę, o Dvyniai – smalsumą ir lengvumą. Zodiake šie ženklai stovi greta, bet jų stichijos – žemė ir oras – skirtingos, be to, Jautis – fiksuotas ženklas, Dvyniai – kintamas ženklas. Skirtumai gali tapti pokalbių tema, jei jais domimasi, o ne vertinama.",
+   "1-3": "Jautis į porą įneša pastovumą ir kantrybę, o Vėžys – rūpestį ir jautrumą. Tradicinėje astrologijoje žemė ir vanduo laikomos palankiu, papildančiu deriniu (vanduo drėkina žemę, o žemė suteikia vandeniui krantus), o Jautis – fiksuotas ženklas, Vėžys – kardinalinis ženklas. Jei abu mielai mokosi vienas iš kito, ši galimybė gali tapti tvirtu ryšio pagrindu.",
+   "1-4": "Šioje poroje Jautis dovanoja pastovumą ir kantrybę, Liūtas – šilumą ir dosnumą. Kvadratas tradiciškai laikomas įtemptu, bet judinančiu kampu; žemė ir ugnis stichijos čia nesutampa, o abu – fiksuoti ženklai. Aiškios ribos ir nuoširdus kalbėjimas padeda įtampai nesusikaupti.",
+   "1-5": "Su Jaučiu tradiciškai siejama pastovumas ir kantrybė, su Mergele – dėmesys detalėms. Tai dviejų žemės ženklų derinys, tradicinėje astrologijoje vadinamas trigonu ir laikomas harmoningu: bendra stichija duoda panašų temperamentą, o Jautis – fiksuotas ženklas, Mergelė – kintamas ženklas. Nepamirškite pasakyti vienas kitam padėkos: tai, kas lengva, dažnai lieka nepastebėta.",
+   "1-6": "Jei Jautis primena pastovumą ir kantrybę, tai Svarstyklės – pusiausvyros jausmą ir derinimo meną. Zodiake šie ženklai sudaro kvinkunksą – kampą, kurį tradicija laiko ne tiek lengvu, kiek reikalaujančiu derinimosi; stichijos čia žemė ir oras, o Jautis – fiksuotas ženklas, Svarstyklės – kardinalinis ženklas. Jei abu mielai derinasi, skirtumai gali tapti pranašumu – kiekvienas mato tai, ko kitas nepastebi.",
+   "1-7": "Jautis atneša pastovumą ir kantrybę, o Skorpionas – gilumą ir ištikimybę. Zodiako rate Jautis ir Skorpionas stovi vienas priešais kitą; jų stichijos – žemė ir vanduo – tradiciškai papildo viena kitą (vanduo drėkina žemę, o žemė suteikia vandeniui krantus), o abu – fiksuoti ženklai. Pusiausvyra čia ne kompromisas, o abiejų stiprybių sudėjimas.",
+   "1-8": "Jautis į porą įneša pastovumą ir kantrybę, o Šaulys – optimizmą ir laisvės dvasią. Šie ženklai nesudaro klasikinio kampo (astrologai šią padėtį vadina kvinkunksu): stichijos – žemė ir ugnis – skirtingos, Jautis – fiksuotas ženklas, Šaulys – kintamas ženklas, todėl bendrą ritmą dažnai tenka derinti sąmoningai. Tradicija šią padėtį sieja su prisitaikymu: galima pritaikyti savo ritmą kito poreikiams, likdamas savimi.",
+   "1-9": "Šioje poroje Jautis dovanoja pastovumą ir kantrybę, Ožiaragis – pareigingumą ir ištvermę. Šie ženklai sudaro trigoną – tradiciškai palankų kampą; juos jungia bendra žemės stichija, o Jautis – fiksuotas ženklas, Ožiaragis – kardinalinis ženklas. Lengvumas – dovana, bet augti padeda ir tai, kas šiek tiek išmuša iš įpročio.",
+   "1-10": "Su Jaučiu tradiciškai siejama pastovumas ir kantrybė, su Vandeniu – originalumas ir nepriklausomumas. Kvadratas tradiciškai laikomas įtemptu, bet judinančiu kampu; žemė ir oras stichijos čia nesutampa, o abu – fiksuoti ženklai. Verta turėti savo erdvės ir bendrą ritualą, pavyzdžiui, ramų pasivaikščiojimą po sunkesnio pokalbio.",
+   "1-11": "Jei Jautis primena pastovumą ir kantrybę, tai Žuvys – empatiją ir vaizduotę. Tai žemės ir vandens derinys: tradiciškai šios stichijos laikomos viena kitą papildančiomis (vanduo drėkina žemę, o žemė suteikia vandeniui krantus); Jautis – fiksuotas ženklas, Žuvys – kintamas ženklas. Pradžioje verta daugiau klausti ir mažiau spėlioti – papildomumas atsiskleidžia pokalbyje.",
+   "2-2": "Čia susitinka du to paties ženklo – Dvynių – atstovai, kuriuos tradiciškai sieja smalsumas ir lengvumas. Stichija ir modalumas čia sutampa (oras, kintamas), todėl abu dažnai reaguoja panašiai – tai teikia artumo, bet kartais ir verčia pamatyti save iš šalies. Praktiškai verta pasidalyti vaidmenimis ir prisiminti, kad panašumas dar nereiškia vienodų poreikių.",
+   "2-3": "Jei Dvyniai primena smalsumą ir lengvumą, tai Vėžys – rūpestį ir jautrumą. Nors Dvyniai ir Vėžys zodiake gretimi, jų stichijos – oras ir vanduo – nesutampa, o Dvyniai – kintamas ženklas, Vėžys – kardinalinis ženklas. Skirtumai gali tapti pokalbių tema, jei jais domimasi, o ne vertinama.",
+   "2-4": "Dvyniai atneša smalsumą ir lengvumą, o Liūtas – šilumą ir dosnumą. Tai oro ir ugnies derinys: tradiciškai šios stichijos laikomos viena kitą papildančiomis (oras kursto ugnį, o ugnis suteikia orui judesio); Dvyniai – kintamas ženklas, Liūtas – fiksuotas ženklas. Jei abu mielai mokosi vienas iš kito, ši galimybė gali tapti tvirtu ryšio pagrindu.",
+   "2-5": "Dvyniai į porą įneša smalsumą ir lengvumą, o Mergelė – dėmesį detalėms. Šie ženklai sudaro kvadratą, kurį tradicija sieja su trintimi ir judesiu: stichijos – oras ir žemė, o abu – kintami ženklai. Aiškios ribos ir nuoširdus kalbėjimas padeda įtampai nesusikaupti.",
+   "2-6": "Šioje poroje Dvyniai dovanoja smalsumą ir lengvumą, Svarstyklės – pusiausvyros jausmą ir derinimo meną. Bendra oro stichija ir trigonas, tradiciškai laikomas lengvu kampu, suteikia natūralų artumo pojūtį; Dvyniai – kintamas ženklas, Svarstyklės – kardinalinis ženklas. Nepamirškite pasakyti vienas kitam padėkos: tai, kas lengva, dažnai lieka nepastebėta.",
+   "2-7": "Su Dvyniais tradiciškai siejama smalsumas ir lengvumas, su Skorpionu – gilumas ir ištikimybė. Šie ženklai nesudaro klasikinio kampo (astrologai šią padėtį vadina kvinkunksu): stichijos – oras ir vanduo – skirtingos, Dvyniai – kintamas ženklas, Skorpionas – fiksuotas ženklas, todėl bendrą ritmą dažnai tenka derinti sąmoningai. Jei abu mielai derinasi, skirtumai gali tapti pranašumu – kiekvienas mato tai, ko kitas nepastebi.",
+   "2-8": "Jei Dvyniai primena smalsumą ir lengvumą, tai Šaulys – optimizmą ir laisvės dvasią. Opozicijos padėtyje ženklai tradiciškai laikomi vienas kito veidrodžiu: oras ir ugnis papildo viena kitą (oras kursto ugnį, o ugnis suteikia orui judesio), o abu – kintami ženklai. Pusiausvyra čia ne kompromisas, o abiejų stiprybių sudėjimas.",
+   "2-9": "Dvyniai atneša smalsumą ir lengvumą, o Ožiaragis – pareigingumą ir ištvermę. Kvinkunksas tradicijoje siejamas su prisitaikymu: oras ir žemė stichijos skiriasi, be to, Dvyniai – kintamas ženklas, Ožiaragis – kardinalinis ženklas. Tradicija šią padėtį sieja su prisitaikymu: galima pritaikyti savo ritmą kito poreikiams, likdamas savimi.",
+   "2-10": "Dvyniai į porą įneša smalsumą ir lengvumą, o Vandenis – originalumą ir nepriklausomumą. Tai dviejų oro ženklų derinys, tradicinėje astrologijoje vadinamas trigonu ir laikomas harmoningu: bendra stichija duoda panašų temperamentą, o Dvyniai – kintamas ženklas, Vandenis – fiksuotas ženklas. Lengvumas – dovana, bet augti padeda ir tai, kas šiek tiek išmuša iš įpročio.",
+   "2-11": "Šioje poroje Dvyniai dovanoja smalsumą ir lengvumą, Žuvys – empatiją ir vaizduotę. Šie ženklai sudaro kvadratą, kurį tradicija sieja su trintimi ir judesiu: stichijos – oras ir vanduo, o abu – kintami ženklai. Verta turėti savo erdvės ir bendrą ritualą, pavyzdžiui, ramų pasivaikščiojimą po sunkesnio pokalbio.",
+   "3-3": "Vėžys – ženklas, tradiciškai siejamas su rūpesčiu ir jautrumu; šioje poroje to dvigubai daugiau. Bendra vandens stichija ir kardinalinis modalumas tradiciškai reiškia, kad vienas kitą supranta be žodžių, bet ir vienas kito silpnybes mato lyg veidrodyje. Praktiškai verta pasidalyti vaidmenimis ir prisiminti, kad panašumas dar nereiškia vienodų poreikių.",
+   "3-4": "Su Vėžiu tradiciškai siejama rūpestis ir jautrumas, su Liūtu – šiluma ir dosnumas. Tai zodiako kaimynai: stichijos (vanduo ir ugnis) skiriasi, o Vėžys – kardinalinis ženklas, Liūtas – fiksuotas ženklas. Skirtumai gali tapti pokalbių tema, jei jais domimasi, o ne vertinama.",
+   "3-5": "Jei Vėžys primena rūpestį ir jautrumą, tai Mergelė – dėmesį detalėms. Zodiake šie ženklai sudaro sekstilį, tradiciškai laikomą palankiu kampu; vanduo ir žemė papildo viena kitą (vanduo drėkina žemę, o žemė suteikia vandeniui krantus), o Vėžys – kardinalinis ženklas, Mergelė – kintamas ženklas. Jei abu mielai mokosi vienas iš kito, ši galimybė gali tapti tvirtu ryšio pagrindu.",
+   "3-6": "Vėžys atneša rūpestį ir jautrumą, o Svarstyklės – pusiausvyros jausmą ir derinimo meną. Tai vandens ir oro derinys, o abu – kardinaliniai ženklai; tradicija tokią padėtį vadina kvadratu ir sieja su trintimi, bet trintis dažnai skatina augti. Aiškios ribos ir nuoširdus kalbėjimas padeda įtampai nesusikaupti.",
+   "3-7": "Vėžys į porą įneša rūpestį ir jautrumą, o Skorpionas – gilumą ir ištikimybę. Šie ženklai sudaro trigoną – tradiciškai palankų kampą; juos jungia bendra vandens stichija, o Vėžys – kardinalinis ženklas, Skorpionas – fiksuotas ženklas. Nepamirškite pasakyti vienas kitam padėkos: tai, kas lengva, dažnai lieka nepastebėta.",
+   "3-8": "Šioje poroje Vėžys dovanoja rūpestį ir jautrumą, Šaulys – optimizmą ir laisvės dvasią. Kvinkunksas tradicijoje siejamas su prisitaikymu: vanduo ir ugnis stichijos skiriasi, be to, Vėžys – kardinalinis ženklas, Šaulys – kintamas ženklas. Jei abu mielai derinasi, skirtumai gali tapti pranašumu – kiekvienas mato tai, ko kitas nepastebi.",
+   "3-9": "Su Vėžiu tradiciškai siejama rūpestis ir jautrumas, su Ožiaragiu – pareigingumas ir ištvermė. Tai priešingi zodiako ženklai, tačiau vanduo ir žemė tradiciškai laikomos viena kitą papildančiomis stichijomis (vanduo drėkina žemę, o žemė suteikia vandeniui krantus); abu – kardinaliniai ženklai. Pusiausvyra čia ne kompromisas, o abiejų stiprybių sudėjimas.",
+   "3-10": "Jei Vėžys primena rūpestį ir jautrumą, tai Vandenis – originalumą ir nepriklausomumą. Zodiake šie ženklai sudaro kvinkunksą – kampą, kurį tradicija laiko ne tiek lengvu, kiek reikalaujančiu derinimosi; stichijos čia vanduo ir oras, o Vėžys – kardinalinis ženklas, Vandenis – fiksuotas ženklas. Tradicija šią padėtį sieja su prisitaikymu: galima pritaikyti savo ritmą kito poreikiams, likdamas savimi.",
+   "3-11": "Vėžys atneša rūpestį ir jautrumą, o Žuvys – empatiją ir vaizduotę. Bendra vandens stichija ir trigonas, tradiciškai laikomas lengvu kampu, suteikia natūralų artumo pojūtį; Vėžys – kardinalinis ženklas, Žuvys – kintamas ženklas. Lengvumas – dovana, bet augti padeda ir tai, kas šiek tiek išmuša iš įpročio.",
+   "4-4": "Abu gimę po Liūto ženklu, todėl abu į ryšį atneša tą patį: šilumą ir dosnumą. Abiejų ženklų ugnies stichija ir fiksuotas modalumas tradiciškai siejami su panašiu temperamentu – su visais privalumais ir tomis pačiomis aklosiomis dėmėmis. Praktiškai verta pasidalyti vaidmenimis ir prisiminti, kad panašumas dar nereiškia vienodų poreikių.",
+   "4-5": "Šioje poroje Liūtas dovanoja šilumą ir dosnumą, Mergelė – dėmesį detalėms. Zodiake šie ženklai stovi greta, bet jų stichijos – ugnis ir žemė – skirtingos, be to, Liūtas – fiksuotas ženklas, Mergelė – kintamas ženklas. Skirtumai gali tapti pokalbių tema, jei jais domimasi, o ne vertinama.",
+   "4-6": "Su Liūtu tradiciškai siejama šiluma ir dosnumas, su Svarstyklėmis – pusiausvyros jausmas ir derinimo menas. Tradicinėje astrologijoje ugnis ir oras laikomos palankiu, papildančiu deriniu (oras kursto ugnį, o ugnis suteikia orui judesio), o Liūtas – fiksuotas ženklas, Svarstyklės – kardinalinis ženklas. Jei abu mielai mokosi vienas iš kito, ši galimybė gali tapti tvirtu ryšio pagrindu.",
+   "4-7": "Jei Liūtas primena šilumą ir dosnumą, tai Skorpionas – gilumą ir ištikimybę. Kvadratas tradiciškai laikomas įtemptu, bet judinančiu kampu; ugnis ir vanduo stichijos čia nesutampa, o abu – fiksuoti ženklai. Aiškios ribos ir nuoširdus kalbėjimas padeda įtampai nesusikaupti.",
+   "4-8": "Liūtas atneša šilumą ir dosnumą, o Šaulys – optimizmą ir laisvės dvasią. Tai dviejų ugnies ženklų derinys, tradicinėje astrologijoje vadinamas trigonu ir laikomas harmoningu: bendra stichija duoda panašų temperamentą, o Liūtas – fiksuotas ženklas, Šaulys – kintamas ženklas. Nepamirškite pasakyti vienas kitam padėkos: tai, kas lengva, dažnai lieka nepastebėta.",
+   "4-9": "Liūtas į porą įneša šilumą ir dosnumą, o Ožiaragis – pareigingumą ir ištvermę. Zodiake šie ženklai sudaro kvinkunksą – kampą, kurį tradicija laiko ne tiek lengvu, kiek reikalaujančiu derinimosi; stichijos čia ugnis ir žemė, o Liūtas – fiksuotas ženklas, Ožiaragis – kardinalinis ženklas. Jei abu mielai derinasi, skirtumai gali tapti pranašumu – kiekvienas mato tai, ko kitas nepastebi.",
+   "4-10": "Šioje poroje Liūtas dovanoja šilumą ir dosnumą, Vandenis – originalumą ir nepriklausomumą. Zodiako rate Liūtas ir Vandenis stovi vienas priešais kitą; jų stichijos – ugnis ir oras – tradiciškai papildo viena kitą (oras kursto ugnį, o ugnis suteikia orui judesio), o abu – fiksuoti ženklai. Pusiausvyra čia ne kompromisas, o abiejų stiprybių sudėjimas.",
+   "4-11": "Su Liūtu tradiciškai siejama šiluma ir dosnumas, su Žuvimis – empatija ir vaizduotė. Šie ženklai nesudaro klasikinio kampo (astrologai šią padėtį vadina kvinkunksu): stichijos – ugnis ir vanduo – skirtingos, Liūtas – fiksuotas ženklas, Žuvys – kintamas ženklas, todėl bendrą ritmą dažnai tenka derinti sąmoningai. Tradicija šią padėtį sieja su prisitaikymu: galima pritaikyti savo ritmą kito poreikiams, likdamas savimi.",
+   "5-5": "Abiejų ženklas tas pats – Mergelė, o su juo tradiciškai siejama dėmesys detalėms. Stichija ir modalumas čia sutampa (žemė, kintamas), todėl abu dažnai reaguoja panašiai – tai teikia artumo, bet kartais ir verčia pamatyti save iš šalies. Praktiškai verta pasidalyti vaidmenimis ir prisiminti, kad panašumas dar nereiškia vienodų poreikių.",
+   "5-6": "Mergelė į porą įneša dėmesį detalėms, o Svarstyklės – pusiausvyros jausmą ir derinimo meną. Nors Mergelė ir Svarstyklės zodiake gretimi, jų stichijos – žemė ir oras – nesutampa, o Mergelė – kintamas ženklas, Svarstyklės – kardinalinis ženklas. Skirtumai gali tapti pokalbių tema, jei jais domimasi, o ne vertinama.",
+   "5-7": "Šioje poroje Mergelė dovanoja dėmesį detalėms, Skorpionas – gilumą ir ištikimybę. Tai žemės ir vandens derinys: tradiciškai šios stichijos laikomos viena kitą papildančiomis (vanduo drėkina žemę, o žemė suteikia vandeniui krantus); Mergelė – kintamas ženklas, Skorpionas – fiksuotas ženklas. Jei abu mielai mokosi vienas iš kito, ši galimybė gali tapti tvirtu ryšio pagrindu.",
+   "5-8": "Su Mergele tradiciškai siejama dėmesys detalėms, su Šauliu – optimizmas ir laisvės dvasia. Šie ženklai sudaro kvadratą, kurį tradicija sieja su trintimi ir judesiu: stichijos – žemė ir ugnis, o abu – kintami ženklai. Aiškios ribos ir nuoširdus kalbėjimas padeda įtampai nesusikaupti.",
+   "5-9": "Jei Mergelė primena dėmesį detalėms, tai Ožiaragis – pareigingumą ir ištvermę. Bendra žemės stichija ir trigonas, tradiciškai laikomas lengvu kampu, suteikia natūralų artumo pojūtį; Mergelė – kintamas ženklas, Ožiaragis – kardinalinis ženklas. Nepamirškite pasakyti vienas kitam padėkos: tai, kas lengva, dažnai lieka nepastebėta.",
+   "5-10": "Mergelė atneša dėmesį detalėms, o Vandenis – originalumą ir nepriklausomumą. Šie ženklai nesudaro klasikinio kampo (astrologai šią padėtį vadina kvinkunksu): stichijos – žemė ir oras – skirtingos, Mergelė – kintamas ženklas, Vandenis – fiksuotas ženklas, todėl bendrą ritmą dažnai tenka derinti sąmoningai. Jei abu mielai derinasi, skirtumai gali tapti pranašumu – kiekvienas mato tai, ko kitas nepastebi.",
+   "5-11": "Mergelė į porą įneša dėmesį detalėms, o Žuvys – empatiją ir vaizduotę. Opozicijos padėtyje ženklai tradiciškai laikomi vienas kito veidrodžiu: žemė ir vanduo papildo viena kitą (vanduo drėkina žemę, o žemė suteikia vandeniui krantus), o abu – kintami ženklai. Pusiausvyra čia ne kompromisas, o abiejų stiprybių sudėjimas.",
+   "6-6": "Čia susitinka du to paties ženklo – Svarstyklių – atstovai, kuriuos tradiciškai sieja pusiausvyros jausmas ir derinimo menas. Bendra oro stichija ir kardinalinis modalumas tradiciškai reiškia, kad vienas kitą supranta be žodžių, bet ir vienas kito silpnybes mato lyg veidrodyje. Praktiškai verta pasidalyti vaidmenimis ir prisiminti, kad panašumas dar nereiškia vienodų poreikių.",
+   "6-7": "Svarstyklės atneša pusiausvyros jausmą ir derinimo meną, o Skorpionas – gilumą ir ištikimybę. Tai zodiako kaimynai: stichijos (oras ir vanduo) skiriasi, o Svarstyklės – kardinalinis ženklas, Skorpionas – fiksuotas ženklas. Skirtumai gali tapti pokalbių tema, jei jais domimasi, o ne vertinama.",
+   "6-8": "Svarstyklės į porą įneša pusiausvyros jausmą ir derinimo meną, o Šaulys – optimizmą ir laisvės dvasią. Zodiake šie ženklai sudaro sekstilį, tradiciškai laikomą palankiu kampu; oras ir ugnis papildo viena kitą (oras kursto ugnį, o ugnis suteikia orui judesio), o Svarstyklės – kardinalinis ženklas, Šaulys – kintamas ženklas. Jei abu mielai mokosi vienas iš kito, ši galimybė gali tapti tvirtu ryšio pagrindu.",
+   "6-9": "Šioje poroje Svarstyklės dovanoja pusiausvyros jausmą ir derinimo meną, Ožiaragis – pareigingumą ir ištvermę. Tai oro ir žemės derinys, o abu – kardinaliniai ženklai; tradicija tokią padėtį vadina kvadratu ir sieja su trintimi, bet trintis dažnai skatina augti. Aiškios ribos ir nuoširdus kalbėjimas padeda įtampai nesusikaupti.",
+   "6-10": "Su Svarstyklėmis tradiciškai siejama pusiausvyros jausmas ir derinimo menas, su Vandeniu – originalumas ir nepriklausomumas. Šie ženklai sudaro trigoną – tradiciškai palankų kampą; juos jungia bendra oro stichija, o Svarstyklės – kardinalinis ženklas, Vandenis – fiksuotas ženklas. Nepamirškite pasakyti vienas kitam padėkos: tai, kas lengva, dažnai lieka nepastebėta.",
+   "6-11": "Jei Svarstyklės primena pusiausvyros jausmą ir derinimo meną, tai Žuvys – empatiją ir vaizduotę. Kvinkunksas tradicijoje siejamas su prisitaikymu: oras ir vanduo stichijos skiriasi, be to, Svarstyklės – kardinalinis ženklas, Žuvys – kintamas ženklas. Jei abu mielai derinasi, skirtumai gali tapti pranašumu – kiekvienas mato tai, ko kitas nepastebi.",
+   "7-7": "Skorpionas – ženklas, tradiciškai siejamas su gilumu ir ištikimybe; šioje poroje to dvigubai daugiau. Abiejų ženklų vandens stichija ir fiksuotas modalumas tradiciškai siejami su panašiu temperamentu – su visais privalumais ir tomis pačiomis aklosiomis dėmėmis. Praktiškai verta pasidalyti vaidmenimis ir prisiminti, kad panašumas dar nereiškia vienodų poreikių.",
+   "7-8": "Jei Skorpionas primena gilumą ir ištikimybę, tai Šaulys – optimizmą ir laisvės dvasią. Zodiake šie ženklai stovi greta, bet jų stichijos – vanduo ir ugnis – skirtingos, be to, Skorpionas – fiksuotas ženklas, Šaulys – kintamas ženklas. Skirtumai gali tapti pokalbių tema, jei jais domimasi, o ne vertinama.",
+   "7-9": "Skorpionas atneša gilumą ir ištikimybę, o Ožiaragis – pareigingumą ir ištvermę. Tradicinėje astrologijoje vanduo ir žemė laikomos palankiu, papildančiu deriniu (vanduo drėkina žemę, o žemė suteikia vandeniui krantus), o Skorpionas – fiksuotas ženklas, Ožiaragis – kardinalinis ženklas. Jei abu mielai mokosi vienas iš kito, ši galimybė gali tapti tvirtu ryšio pagrindu.",
+   "7-10": "Skorpionas į porą įneša gilumą ir ištikimybę, o Vandenis – originalumą ir nepriklausomumą. Kvadratas tradiciškai laikomas įtemptu, bet judinančiu kampu; vanduo ir oras stichijos čia nesutampa, o abu – fiksuoti ženklai. Aiškios ribos ir nuoširdus kalbėjimas padeda įtampai nesusikaupti.",
+   "7-11": "Šioje poroje Skorpionas dovanoja gilumą ir ištikimybę, Žuvys – empatiją ir vaizduotę. Tai dviejų vandens ženklų derinys, tradicinėje astrologijoje vadinamas trigonu ir laikomas harmoningu: bendra stichija duoda panašų temperamentą, o Skorpionas – fiksuotas ženklas, Žuvys – kintamas ženklas. Nepamirškite pasakyti vienas kitam padėkos: tai, kas lengva, dažnai lieka nepastebėta.",
+   "8-8": "Abu gimę po Šaulio ženklu, todėl abu į ryšį atneša tą patį: optimizmą ir laisvės dvasią. Stichija ir modalumas čia sutampa (ugnis, kintamas), todėl abu dažnai reaguoja panašiai – tai teikia artumo, bet kartais ir verčia pamatyti save iš šalies. Praktiškai verta pasidalyti vaidmenimis ir prisiminti, kad panašumas dar nereiškia vienodų poreikių.",
+   "8-9": "Su Šauliu tradiciškai siejama optimizmas ir laisvės dvasia, su Ožiaragiu – pareigingumas ir ištvermė. Nors Šaulys ir Ožiaragis zodiake gretimi, jų stichijos – ugnis ir žemė – nesutampa, o Šaulys – kintamas ženklas, Ožiaragis – kardinalinis ženklas. Skirtumai gali tapti pokalbių tema, jei jais domimasi, o ne vertinama.",
+   "8-10": "Jei Šaulys primena optimizmą ir laisvės dvasią, tai Vandenis – originalumą ir nepriklausomumą. Tai ugnies ir oro derinys: tradiciškai šios stichijos laikomos viena kitą papildančiomis (oras kursto ugnį, o ugnis suteikia orui judesio); Šaulys – kintamas ženklas, Vandenis – fiksuotas ženklas. Jei abu mielai mokosi vienas iš kito, ši galimybė gali tapti tvirtu ryšio pagrindu.",
+   "8-11": "Šaulys atneša optimizmą ir laisvės dvasią, o Žuvys – empatiją ir vaizduotę. Šie ženklai sudaro kvadratą, kurį tradicija sieja su trintimi ir judesiu: stichijos – ugnis ir vanduo, o abu – kintami ženklai. Aiškios ribos ir nuoširdus kalbėjimas padeda įtampai nesusikaupti.",
+   "9-9": "Abiejų ženklas tas pats – Ožiaragis, o su juo tradiciškai siejama pareigingumas ir ištvermė. Bendra žemės stichija ir kardinalinis modalumas tradiciškai reiškia, kad vienas kitą supranta be žodžių, bet ir vienas kito silpnybes mato lyg veidrodyje. Praktiškai verta pasidalyti vaidmenimis ir prisiminti, kad panašumas dar nereiškia vienodų poreikių.",
+   "9-10": "Šioje poroje Ožiaragis dovanoja pareigingumą ir ištvermę, Vandenis – originalumą ir nepriklausomumą. Tai zodiako kaimynai: stichijos (žemė ir oras) skiriasi, o Ožiaragis – kardinalinis ženklas, Vandenis – fiksuotas ženklas. Skirtumai gali tapti pokalbių tema, jei jais domimasi, o ne vertinama.",
+   "9-11": "Su Ožiaragiu tradiciškai siejama pareigingumas ir ištvermė, su Žuvimis – empatija ir vaizduotė. Zodiake šie ženklai sudaro sekstilį, tradiciškai laikomą palankiu kampu; žemė ir vanduo papildo viena kitą (vanduo drėkina žemę, o žemė suteikia vandeniui krantus), o Ožiaragis – kardinalinis ženklas, Žuvys – kintamas ženklas. Jei abu mielai mokosi vienas iš kito, ši galimybė gali tapti tvirtu ryšio pagrindu.",
+   "10-10": "Čia susitinka du to paties ženklo – Vandenio – atstovai, kuriuos tradiciškai sieja originalumas ir nepriklausomumas. Abiejų ženklų oro stichija ir fiksuotas modalumas tradiciškai siejami su panašiu temperamentu – su visais privalumais ir tomis pačiomis aklosiomis dėmėmis. Praktiškai verta pasidalyti vaidmenimis ir prisiminti, kad panašumas dar nereiškia vienodų poreikių.",
+   "10-11": "Vandenis į porą įneša originalumą ir nepriklausomumą, o Žuvys – empatiją ir vaizduotę. Zodiake šie ženklai stovi greta, bet jų stichijos – oras ir vanduo – skirtingos, be to, Vandenis – fiksuotas ženklas, Žuvys – kintamas ženklas. Skirtumai gali tapti pokalbių tema, jei jais domimasi, o ne vertinama.",
+   "11-11": "Žuvys – ženklas, tradiciškai siejamas su empatija ir vaizduote; šioje poroje to dvigubai daugiau. Stichija ir modalumas čia sutampa (vanduo, kintamas), todėl abu dažnai reaguoja panašiai – tai teikia artumo, bet kartais ir verčia pamatyti save iš šalies. Praktiškai verta pasidalyti vaidmenimis ir prisiminti, kad panašumas dar nereiškia vienodų poreikių."
+  }
+ }
+}
